@@ -14,7 +14,7 @@
  "pathoplexus": {
   "BDBV": {
    "instance": "ebola-bdbv",
-   "url": "http<local-path>",
+   "url": "https://lapis.pathoplexus.org/ebola-bdbv/sample/aminoAcidMutations?limit=5000",
    "data_version": "1790096663",
    "n_vp24_variant_rows": 1,
    "max_vp24_coverage": 849,
@@ -33,7 +33,7 @@
   },
   "EBOV": {
    "instance": "ebola-zaire",
-   "url": "http<local-path>",
+   "url": "https://lapis.pathoplexus.org/ebola-zaire/sample/aminoAcidMutations?limit=5000",
    "data_version": "1790096708",
    "n_vp24_variant_rows": 5,
    "max_vp24_coverage": 11561,
@@ -88,7 +88,7 @@
   },
   "SUDV": {
    "instance": "ebola-sudan",
-   "url": "http<local-path>",
+   "url": "https://lapis.pathoplexus.org/ebola-sudan/sample/aminoAcidMutations?limit=5000",
    "data_version": "1790096655",
    "n_vp24_variant_rows": 1,
    "max_vp24_coverage": 579,
@@ -146,7 +146,7 @@
  },
  "uniprot": {
   "BDBV": {
-   "url": "http<local-path>",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A565995",
    "n_entries": 1,
    "n_with_all_four_bdbv_type": 1,
    "calls": [
@@ -165,7 +165,7 @@
    ]
   },
   "EBOV": {
-   "url": "http<local-path>",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186538",
    "n_entries": 27,
    "n_with_all_four_bdbv_type": 0,
    "calls": [
@@ -496,7 +496,7 @@
    ]
   },
   "SUDV": {
-   "url": "http<local-path>",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186540",
    "n_entries": 4,
    "n_with_all_four_bdbv_type": 0,
    "calls": [
@@ -551,7 +551,7 @@
    ]
   },
   "RESTV": {
-   "url": "http<local-path>",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186539",
    "n_entries": 5,
    "n_with_all_four_bdbv_type": 0,
    "calls": [
@@ -618,7 +618,7 @@
    ]
   },
   "TAFV": {
-   "url": "http<local-path>",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186541",
    "n_entries": 1,
    "n_with_all_four_bdbv_type": 0,
    "calls": [
@@ -637,7 +637,7 @@
    ]
   },
   "BOMV": {
-   "url": "http<local-path>",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A2010960",
    "n_entries": 2,
    "n_with_all_four_bdbv_type": 0,
    "calls": [
@@ -671,7 +671,7 @@
  "finished": "2026-09-26T01:21:07",
  "bvbrc": {
   "BDBV": {
-   "url": "http<local-path>",
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,565995)&limit(50000)&http_accept=application/json",
    "n_features_total": 1337,
    "n_vp24_features": 113,
    "n_distinct_accessions": 32,
@@ -704,7 +704,7 @@
    ]
   },
   "EBOV": {
-   "url": "http<local-path>",
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186538)&limit(50000)&http_accept=application/json",
    "n_features_total": 25000,
    "n_vp24_features": 3629,
    "n_distinct_accessions": 2057,
@@ -840,7 +840,7 @@
    "bvbrc_md5_matching_a_bdbv_type_variant": []
   },
   "SUDV": {
-   "url": "http<local-path>",
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186540)&limit(50000)&http_accept=application/json",
    "n_features_total": 5421,
    "n_vp24_features": 388,
    "n_distinct_accessions": 140,
@@ -878,7 +878,7 @@
    "bvbrc_md5_matching_a_bdbv_type_variant": []
   },
   "RESTV": {
-   "url": "http<local-path>",
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186539)&limit(50000)&http_accept=application/json",
    "n_features_total": 907,
    "n_vp24_features": 80,
    "n_distinct_accessions": 19,
@@ -919,7 +919,7 @@
    "bvbrc_md5_matching_a_bdbv_type_variant": []
   },
   "TAFV": {
-   "url": "http<local-path>",
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186541)&limit(50000)&http_accept=application/json",
    "n_features_total": 335,
    "n_vp24_features": 33,
    "n_distinct_accessions": 4,
@@ -942,7 +942,7 @@
    "bvbrc_md5_matching_a_bdbv_type_variant": []
   },
   "BOMV": {
-   "url": "http<local-path>",
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,2010960)&limit(50000)&http_accept=application/json",
    "n_features_total": 451,
    "n_vp24_features": 40,
    "n_distinct_accessions": 7,

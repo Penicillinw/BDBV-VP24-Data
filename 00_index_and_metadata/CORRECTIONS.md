@@ -76,14 +76,16 @@ group's recomputation had to be honestly bounded:
 
 | previously excluded | now | why |
 |---|---|---|
-| pilot-MD minimised coordinates (~11.8 MB, 50 files) | deposited under `03_primary_structure_and_interface/md_pilot/` | the interface-contact integers reported in `openmm_results.json` are reproducible from these coordinates digit for digit; without them those eight integers cannot be recomputed |
+| pilot-MD minimised coordinates (**49 PDB files, 12.1 MB**; nine of them are empty chain-D placeholders of a few bytes) | deposited under `03_primary_structure_and_interface/md_pilot/` | the interface-contact integers reported in `openmm_results.json` are reproducible from these coordinates digit for digit; without them those eight integers cannot be recomputed |
 | `protein_layer_scan` derived tables | deposited under `04_host_reference_and_atlas/hpa_v25_1/`; its 84 MB of raw downloads stay `link_only` | these tables back the mRNA–protein layer comparison reported in Methods |
 | Fig. 1a denominator provenance | deposited under `02_primary_sequence_data/` | the caption's denominator chain previously had no deposited table |
 | round-X recomputations and the adjudication document | deposited under `06_analysis_data/`, `03_…/`, `02_…/` and `01_source_data_by_figure/_shared/` | the evidence for corrections 1–5 |
 
-**Honest limit**: 41 quantities reported in `openmm_results.json` (local RMSD, native-contact
-fraction, minimised energy, void volume) **cannot be recomputed** from this deposit, because the
-workspace holds only minimised coordinates and no trajectories. They are marked
+**Honest limit**: 41 quantities reported by the stability pilot (`pilot_run.json`,
+`pilot_bench.json`: local RMSD, native-contact fraction, minimised energy, void volume) **cannot be
+recomputed** from this deposit, because **this pilot's own 1 ns trajectories were not retained in
+the workspace** — only its minimised coordinates are. (Other, unrelated GROMACS campaigns in the
+project do have trajectories; they are not the runs behind these numbers.) They are marked
 `not_recomputable` in `03_primary_structure_and_interface/md_pilot/…x4-md-recomputed-metrics…tsv`
 rather than being approximated. The manuscript reports the pilot qualitatively and draws no
 number from it, so no reported value depends on them. Any future claim that needs these numbers

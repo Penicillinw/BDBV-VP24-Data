@@ -29,9 +29,8 @@ left out and why**.
    `_stage_*` and render scratch directories.
 5. **Process and QA files** — alignment/collision audit JSON, verification logs, round bookkeeping
    and agent working notes. Regenerable and not data.
-6. **Pending** — pilot molecular-dynamics coordinate sets. The manuscript reports the pilot as
-   uninformative and states that it supports no claim; only the summary JSON is included
-   (`03_primary_structure_and_interface/`). The coordinates remain available on request.
+6. **Superseded in this release** — the pilot molecular-dynamics minimised coordinates are **now
+   deposited** (see `CORRECTIONS.md` §6); they are no longer excluded.
 
 ## Reinstating an entry
 

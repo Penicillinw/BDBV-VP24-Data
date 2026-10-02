@@ -29,7 +29,7 @@
     }
   },
   "g2": {
-    "file": "<local-path>",
+    "file": "G:\\本迪布焦研究\\analysis\\protein_layer_scan_20260926\\raw\\ccle\\protein_quant_current_normalized.csv.gz",
     "bytes": 30916232,
     "sha256_16": "b72a9ff39b123c80",
     "header[:6]": [
@@ -42,6 +42,6 @@
     ],
     "n_data_rows": 12755,
     "gene_col_index": 1,
-    "url": "http<local-path>"
+    "url": "https://gygi.hms.harvard.edu/data/ccle/protein_quant_current_normalized.csv.gz"
   }
 }

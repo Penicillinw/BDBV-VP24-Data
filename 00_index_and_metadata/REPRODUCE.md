@@ -79,7 +79,7 @@ To run them from this repository:
   part of the data package) and the DOCX/PDF assembly of the manuscript. Neither affects any number
   reported in the paper.
 
-## 5. Known issues carried in the record
+## 5. Discrepancies found while assembling this package (all resolved in v15)
 
 Five discrepancies between figure captions and the underlying tables were found while assembling
 this package, and were **recomputed and resolved** in manuscript v15. The full assembly report is
@@ -103,8 +103,9 @@ redrawn and the caption updated accordingly.
 
 ### Quantities that cannot be recomputed
 
-41 values reported in the pilot-MD `openmm_results.json` (local RMSD, native-contact fraction,
-minimised energy, void volume) cannot be recomputed from this deposit, because the workspace holds
-only minimised coordinates and no trajectories. They are marked `not_recomputable` in
+41 values reported by the stability pilot (`pilot_run.json`, `pilot_bench.json`: local RMSD,
+native-contact fraction, minimised energy, void volume) cannot be recomputed from this deposit,
+because this pilot's own 1 ns trajectories were not retained in the workspace — only its minimised
+coordinates were. They are marked `not_recomputable` in
 `03_primary_structure_and_interface/md_pilot/…x4-md-recomputed-metrics…tsv`. The manuscript reports
 the pilot qualitatively and draws no number from it, so no published value depends on them.

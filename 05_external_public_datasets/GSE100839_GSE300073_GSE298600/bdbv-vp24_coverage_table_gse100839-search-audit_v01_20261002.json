@@ -280,7 +280,7 @@
    "200153261",
    "200065575"
   ],
-  "gd<local-path>"ARPE-19\" AND (interferon OR IFN)": [
+  "gds:\"ARPE-19\" AND (interferon OR IFN)": [
    "200252276",
    "200165112",
    "200100839",

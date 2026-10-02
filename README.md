@@ -11,7 +11,7 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 - **Author**: Wenhao Huang, Nanning No.3 High School, Nanning, Guangxi, China
 - **Repository version**: 1.1.0 (2026-10-02)
 - **Aligned to**: manuscript **v15**
-- **Contents**: 505 data files, ~49 MB
+- **Contents**: 506 standardised data files (519 files in the repository), ~49 MB
 
 ## What this repository contains
 

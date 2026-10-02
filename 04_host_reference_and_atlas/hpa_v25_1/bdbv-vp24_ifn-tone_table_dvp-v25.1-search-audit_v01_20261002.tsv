@@ -14,41 +14,41 @@ proteome atlas human cell types Tabula	Europe PMC REST	2026-09-26	168	cached	cro
 IFNAR1 AND (CODEX OR "PhenoCycler" OR "imaging mass cytometry")	Europe PMC REST	2026-09-26	39	http_200	does any antibody imaging panel carry the type I receptor?
 IFNLR1 AND ("multiplexed ion beam" OR "cyclic immunofluorescence" OR "antibody panel")	Europe PMC REST	2026-09-26	7	http_200	type III receptor in antibody panels
 IFNAR2 AND ("protein abundance" OR proteomics) AND ("cell type" OR cell-type)	Europe PMC REST	2026-09-26	607	http_200	gene-specific hunt inside cell-type-resolved protein resources
-http<local-path>	HTTP probe	2026-09-26	502	0 bytes	paxdb downloads page
-http<local-path>	HTTP probe	2026-09-26	404	162 bytes	paxdb sample pattern (expected 404)
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	proteomicsdb home
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	proteomicsdb api root
-http<local-path>	HTTP probe	2026-09-26	404	3537 bytes	proteomicsdb legacy rest root
-htt<local-path>	HTTP probe	2026-09-26	200	10893 bytes	human proteome map home
-http<local-path>	HTTP probe	2026-09-26	ERROR	0 bytes	hpm downloads | ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
-http<local-path>	HTTP probe	2026-09-26	200	923 bytes	opencell home
-http<local-path>	HTTP probe	2026-09-26	200	25154 bytes	proteomehd home
-http<local-path>	HTTP probe	2026-09-26	200	25154 bytes	proteomehd home (no www)
-http<local-path>	HTTP probe	2026-09-26	ERROR	0 bytes	procan home | SSLError: HTTPSConnectionPool(host='procan.org.au', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerific
-http<local-path>	HTTP probe	2026-09-26	ERROR	0 bytes	procan data page | SSLError: HTTPSConnectionPool(host='www.procan.org.au', port=443): Max retries exceeded with url: /data (Caused by SSLError(SSLCer
-http<local-path>	HTTP probe	2026-09-26	200	5179 bytes	depmap all data
-http<local-path>	HTTP probe	2026-09-26	200	5175 bytes	depmap download api
-http<local-path>	HTTP probe	2026-09-26	200	23031 bytes	Nusinow 2020 CCLE deposit (Gygi lab)
-http<local-path>	HTTP probe	2026-09-26	200	303517 bytes	MassIVE datasets (Nusinow search entry)
-http<local-path>	HTTP probe	2026-09-26	200	56105 bytes	CPTAC proteomic data commons
-http<local-path>	HTTP probe	2026-09-26	200	1384 bytes	europepmc sample query
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	26383 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	32357 bytes	
-htt<local-path>	HTTP probe	2026-09-26	200	30105 bytes	
-http<local-path>	HTTP probe	2026-09-26	200	545664 bytes	
-http<local-path>	HTTP probe	2026-09-26	502	0 bytes	
-htt<local-path>	HTTP probe	2026-09-26	502	0 bytes	
-http<local-path>	HTTP download	2026-09-26	200	193191 bytes	heart_multiomic_2025
-http<local-path>	HTTP download	2026-09-26	200	269226 bytes	NicheProt_2026
-http<local-path>	HTTP download	2026-09-26	200	143023 bytes	gel_3D_singlecell_2026
-http<local-path>	HTTP download	2026-09-26	200	166251 bytes	ascites_HGSOC_2026
-http<local-path>	HTTP download	2026-09-26	200	106288 bytes	skin_tumour_scp_2026
-http<local-path>	HTTP download	2026-09-26	200	111722 bytes	brain_EV_celltype_2026
-http<local-path>	HTTP download	2026-09-26	500	153 bytes	celltype_proteomic_atlas_body_2026
+https://pax-db.org/downloads	HTTP probe	2026-09-26	502	0 bytes	paxdb downloads page
+https://pax-db.org/downloads/1_human_whole_organism...	HTTP probe	2026-09-26	404	162 bytes	paxdb sample pattern (expected 404)
+https://www.proteomicsdb.org/	HTTP probe	2026-09-26	200	1036 bytes	proteomicsdb home
+https://www.proteomicsdb.org/api/	HTTP probe	2026-09-26	200	1036 bytes	proteomicsdb api root
+https://www.proteomicsdb.org/proteomicsdb/rest/	HTTP probe	2026-09-26	404	3537 bytes	proteomicsdb legacy rest root
+http://www.humanproteomemap.org/	HTTP probe	2026-09-26	200	10893 bytes	human proteome map home
+https://www.humanproteomemap.org/download.html	HTTP probe	2026-09-26	ERROR	0 bytes	hpm downloads | ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+https://opencell.czbiohub.org/	HTTP probe	2026-09-26	200	923 bytes	opencell home
+https://www.proteomehd.net/	HTTP probe	2026-09-26	200	25154 bytes	proteomehd home
+https://proteomehd.net/	HTTP probe	2026-09-26	200	25154 bytes	proteomehd home (no www)
+https://procan.org.au/	HTTP probe	2026-09-26	ERROR	0 bytes	procan home | SSLError: HTTPSConnectionPool(host='procan.org.au', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerific
+https://www.procan.org.au/data	HTTP probe	2026-09-26	ERROR	0 bytes	procan data page | SSLError: HTTPSConnectionPool(host='www.procan.org.au', port=443): Max retries exceeded with url: /data (Caused by SSLError(SSLCer
+https://depmap.org/portal/data_page/?tab=allData	HTTP probe	2026-09-26	200	5179 bytes	depmap all data
+https://depmap.org/portal/api/download/files	HTTP probe	2026-09-26	200	5175 bytes	depmap download api
+https://gygi.hms.harvard.edu/publications/ccle.html	HTTP probe	2026-09-26	200	23031 bytes	Nusinow 2020 CCLE deposit (Gygi lab)
+https://massive.ucsd.edu/ProteoSAFe/datasets.jsp	HTTP probe	2026-09-26	200	303517 bytes	MassIVE datasets (Nusinow search entry)
+https://proteomic.datacommons.cancer.gov/	HTTP probe	2026-09-26	200	56105 bytes	CPTAC proteomic data commons
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=paired%20proteome%20transcriptome%20atlas%20human&format=json&pageSize=1	HTTP probe	2026-09-26	200	1384 bytes	europepmc sample query
+https://www.proteomicsdb.org/apiv2	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomicsdb.org/apiv2/	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomicsdb.org/apiv2/proteins	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomicsdb.org/apiv2/human/proteins	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomicsdb.org/apiv2/tissues	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomicsdb.org/apiv2/download	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomicsdb.org/download	HTTP probe	2026-09-26	200	1036 bytes	
+https://www.proteomehd.net/data	HTTP probe	2026-09-26	200	26383 bytes	
+https://czb-opencell.s3.amazonaws.com/index.html	HTTP probe	2026-09-26	200	32357 bytes	
+http://www.humanproteomemap.org/download.php	HTTP probe	2026-09-26	200	30105 bytes	
+https://www.ebi.ac.uk/pride/ws/archive/v2/search/projects?keyword=human%20proteome%20map	HTTP probe	2026-09-26	200	545664 bytes	
+https://pax-db.org/downloads	HTTP probe	2026-09-26	502	0 bytes	
+http://archive.org/wayback/available?url=pax-db.org/downloads	HTTP probe	2026-09-26	502	0 bytes	
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12139502/fullTextXML	HTTP download	2026-09-26	200	193191 bytes	heart_multiomic_2025
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13371888/fullTextXML	HTTP download	2026-09-26	200	269226 bytes	NicheProt_2026
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13346896/fullTextXML	HTTP download	2026-09-26	200	143023 bytes	gel_3D_singlecell_2026
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13483348/fullTextXML	HTTP download	2026-09-26	200	166251 bytes	ascites_HGSOC_2026
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13315484/fullTextXML	HTTP download	2026-09-26	200	106288 bytes	skin_tumour_scp_2026
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13214607/fullTextXML	HTTP download	2026-09-26	200	111722 bytes	brain_EV_celltype_2026
+https://www.ebi.ac.uk/europepmc/webservices/rest/PPRPPR1242524/fullTextXML	HTTP download	2026-09-26	500	153 bytes	celltype_proteomic_atlas_body_2026
