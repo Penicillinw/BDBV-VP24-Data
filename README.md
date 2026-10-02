@@ -10,7 +10,6 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 - **Manuscript**: *Bundibugyo virus carries a genus-exclusive four-position VP24 configuration that orders cell-type interferon restriction*
 - **Author**: Wenhao Huang, Nanning No.3 High School, Nanning, Guangxi, China
 - **Repository version**: 1.1.0 (2026-10-02)
-- **Aligned to**: manuscript **v16** (the v15→v16 change is figure-citation formatting only; no data changed)
 - **Contents**: 506 standardised data files (523 files in the repository), ~49 MB
 
 ## What this repository contains
@@ -27,11 +26,6 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 | 07 | `07_analysis_code_and_environment/` | the analysis scripts that generate the tables, and the environment/seed record |
 | 08 | `08_out_of_scope_and_superseded/` | ledger of everything deliberately **not** included, with the reason |
 
-> **Corrections.** Building this deposit surfaced five caption-versus-data disagreements and one
-> figure cell contradicted by its own voucher. All were recomputed from source and fixed in the
-> manuscript (v15) and in the tables here. Every change, with its evidence file, is listed in
-> `00_index_and_metadata/CORRECTIONS.md` — including the one quantity that could not be recomputed
-> and is therefore marked as such rather than estimated.
 
 
 ## Figure → source data
