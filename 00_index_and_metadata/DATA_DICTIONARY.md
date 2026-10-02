@@ -26,7 +26,7 @@
 | `package_path` | path inside this repository |
 | `original_path` | path in the author's project tree, before standardisation |
 | `category_l1` / `category_l2` | one of the nine top-level categories / its subfolder |
-| `role` | the file's layer: `table` (242), `code` (146), `doc` (24), `calls` (6), `meta` (1) |
+| `role` | the file's layer: `table`, `code`, `doc`, `calls` or `meta` (counts are in the manifest; filter the column for the current totals) |
 | `topic` | manuscript topic the file belongs to (`vp24-config`, `ifn-tone`, `importin-axis`, `cross-atlas`, `proxy-test`, `filovirus-anchor`, `tissue-extension`, `epithelium-panel`, `spleen`, `coverage`, `md-pilot`, `metadata`) |
 | `unit` | the dataset, figure panel or entity the file is about |
 | `size_bytes` | file size |
