@@ -29,12 +29,12 @@
   "oligomeric_state": "homo-dimer",
   "oligomer_prediction": "0.626",
   "major_issues": null,
-  "source_report": "G:\\本迪布焦研究\\data\\同源建模\\swissmodel\\VP24\\models\\01\\report.json",
-  "source_model": "G:\\本迪布焦研究\\data\\同源建模\\swissmodel\\VP24\\models\\01\\model.pdb",
+  "source_report": "<local-path>",
+  "source_model": "<local-path>",
   "verdict": "pass_domain_only",
   "accession": "B8XCN4",
   "label": "VP24_full",
   "note": "全链模型，模板 4m0q，QMEAN4 0.708，QMEAN4 z=-1.91，可用于 KPNA 界面映射。",
-  "target_sequence_file": "G:\\本迪布焦研究\\data\\同源建模\\curated\\VP24\\target_sequence.fasta",
-  "curated_model_file": "G:\\本迪布焦研究\\data\\同源建模\\curated\\VP24\\model.pdb"
+  "target_sequence_file": "<local-path>",
+  "curated_model_file": "<local-path>"
 }

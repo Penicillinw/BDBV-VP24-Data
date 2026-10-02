@@ -29,7 +29,7 @@
     }
   },
   "g2": {
-    "file": "G:\\本迪布焦研究\\analysis\\protein_layer_scan_20260926\\raw\\ccle\\protein_quant_current_normalized.csv.gz",
+    "file": "<local-path>",
     "bytes": 30916232,
     "sha256_16": "b72a9ff39b123c80",
     "header[:6]": [

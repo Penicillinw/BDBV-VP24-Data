@@ -1,7 +1,7 @@
 {
   "recorded_utc": "2026-09-19T08:27:02+00:00",
   "python": "3.14.6",
-  "python_executable": "E:\\Miniconda\\python.exe",
+  "python_executable": "<local-path>",
   "platform": "Windows-10-10.0.19045-SP0",
   "packages": {
     "numpy": "2.5.2",
@@ -18,6 +18,6 @@
     "requests": "2.34.2"
   },
   "pymol": "3.1.1",
-  "libreoffice": "LibreOffice 26.8 (F:\\program\\soffice.exe) used for DOCX to PDF",
+  "libreoffice": "LibreOffice 26.8 (<local-path> used for DOCX to PDF",
   "bootstrap_seed": 20260919
 }
