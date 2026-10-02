@@ -1,0 +1,10 @@
+dataset_id	files_in_package	bytes_in_package	link_only_raw_files	description
+GSE100839_GSE300073_GSE298600	10	56359	0	GEO; ARPE-19 cells (GSE100839) and human iPSC-derived intestinal organoids (GSE300073, GSE298600)
+GSE107549	3	18779	0	GEO; clinical IFN trial, pre-treatment IFN-stimulated expression vs later control
+GSE114905	4	16312	0	GEO; five-filovirus infection series in Huh7 cells, viral mRNA counts
+GSE21158	6	85228	21	GEO; 10 human cancer cell lines, control vs IFN-alpha-2a, 24 h, triplicate
+GSE309699	19	91707	0	GEO; normal human keratinocytes, IFN pre-treatment then EBOV-deltaVP30 or rVSV/EBOV-GP
+GSE327707_GSE306664	10	19513163	38	GEO; GSE327707 (6 donors x 5 sorted populations, +/- IFN-alpha, 48 h) and GSE306664 (5 donors x 4 populations, four IFN classes, 21 h, single cell)
+GSE342661	17	230280	2	GEO; primary human nasal epithelial ALI cultures, IFN-beta1 and IFN-lambda1-4, 6/24/72 h
+GSE46599	2	27293	0	GEO; 9 immortalised lines + primary macrophages + primary CD4 T cells, +/- type-I IFN, 24 h
+nhp_multiorgan	24	2321954	0	Cell Genomics 2023; rhesus macaque natural-history series, 21 animals across 17 tissues

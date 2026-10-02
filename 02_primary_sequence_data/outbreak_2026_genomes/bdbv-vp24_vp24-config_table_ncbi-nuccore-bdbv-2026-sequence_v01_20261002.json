@@ -1,0 +1,109 @@
+{
+  "query": "Bundibugyo virus[Organism] AND 2026[PDAT]",
+  "records_fetched": 36,
+  "records_analysed": 38,
+  "vp24_located": 38,
+  "reference_accession": "NC_014373.1",
+  "reference_vp24_length": 251,
+  "reference_gp_length": 676,
+  "vp24_interface_sites": {
+    "120": {
+      "reference": "S",
+      "observed": {
+        "S": 37,
+        "X": 1
+      },
+      "all_match_reference": false
+    },
+    "122": {
+      "reference": "V",
+      "observed": {
+        "V": 37,
+        "X": 1
+      },
+      "all_match_reference": false
+    },
+    "135": {
+      "reference": "Q",
+      "observed": {
+        "Q": 38
+      },
+      "all_match_reference": true
+    },
+    "140": {
+      "reference": "H",
+      "observed": {
+        "H": 38
+      },
+      "all_match_reference": true
+    },
+    "141": {
+      "reference": "A",
+      "observed": {
+        "A": 38
+      },
+      "all_match_reference": true
+    },
+    "184": {
+      "reference": "R",
+      "observed": {
+        "R": 38
+      },
+      "all_match_reference": true
+    },
+    "217": {
+      "reference": "V",
+      "observed": {
+        "V": 37,
+        "X": 1
+      },
+      "all_match_reference": false
+    }
+  },
+  "gp1_interface_sites": {
+    "81": {
+      "reference": "T",
+      "observed": {
+        "T": 38
+      },
+      "all_match_reference": true
+    },
+    "112": {
+      "reference": "D",
+      "observed": {
+        "D": 37,
+        "X": 1
+      },
+      "all_match_reference": false
+    },
+    "116": {
+      "reference": "A",
+      "observed": {
+        "A": 37,
+        "X": 1
+      },
+      "all_match_reference": false
+    },
+    "148": {
+      "reference": "P",
+      "observed": {
+        "P": 37,
+        "X": 1
+      },
+      "all_match_reference": false
+    }
+  },
+  "vp24_qc_pass_records": 35,
+  "vp24_qc_pass_positions_with_substitutions": {
+    "24": 34
+  },
+  "vp24_qc_pass_substitution_table": {
+    "S24N": 34,
+    "": 1
+  },
+  "collection_years": [
+    "2007",
+    "2012",
+    "2026"
+  ]
+}

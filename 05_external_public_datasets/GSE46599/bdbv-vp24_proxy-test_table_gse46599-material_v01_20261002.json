@@ -1,0 +1,131 @@
+{
+ "dataset": "GSE46599",
+ "design": "9 immortalized lines and 2 primary human cell types, untreated vs type-I IFN treated, matched within experiment (Illumina HT-12 v4)",
+ "rows": [
+  {
+   "cell": "PMA-U937",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 9.52,
+   "ifn": 12.301,
+   "induction": 2.781
+  },
+  {
+   "cell": "U937",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 8.341,
+   "ifn": 11.495,
+   "induction": 3.153
+  },
+  {
+   "cell": "primary-CD4+-T-cells",
+   "kind": "primary",
+   "n_base": 3,
+   "n_ifn": 3,
+   "baseline": 8.779,
+   "ifn": 12.081,
+   "induction": 3.302
+  },
+  {
+   "cell": "CEM-SS",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.376,
+   "ifn": 10.699,
+   "induction": 3.323
+  },
+  {
+   "cell": "primary-macrophages",
+   "kind": "primary",
+   "n_base": 3,
+   "n_ifn": 3,
+   "baseline": 9.723,
+   "ifn": 13.123,
+   "induction": 3.4
+  },
+  {
+   "cell": "HT1080",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.496,
+   "ifn": 11.074,
+   "induction": 3.577
+  },
+  {
+   "cell": "CEM",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.535,
+   "ifn": 11.17,
+   "induction": 3.634
+  },
+  {
+   "cell": "Jurkat",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.83,
+   "ifn": 11.845,
+   "induction": 4.015
+  },
+  {
+   "cell": "U87-MG",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.358,
+   "ifn": 11.408,
+   "induction": 4.05
+  },
+  {
+   "cell": "PMA-THP-1",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 8.926,
+   "ifn": 12.99,
+   "induction": 4.064
+  },
+  {
+   "cell": "THP-1",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.941,
+   "ifn": 12.143,
+   "induction": 4.202
+  }
+ ],
+ "primary_inductions": [
+  3.302,
+  3.4
+ ],
+ "immortalized_inductions": [
+  2.781,
+  3.153,
+  3.323,
+  3.577,
+  3.634,
+  4.015,
+  4.05,
+  4.064,
+  4.202
+ ],
+ "immortalized_non_responders_lt_0.5": [],
+ "n_immortalized_non_responders": 0,
+ "primary_all_respond": true,
+ "induction_range": [
+  2.781,
+  4.202
+ ],
+ "induction_spread": 1.421,
+ "is_bimodal": false,
+ "spearman_baseline_vs_induction_all11": -0.309,
+ "spearman_baseline_vs_induction_immortalized_only": -0.15
+}

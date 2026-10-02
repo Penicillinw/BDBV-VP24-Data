@@ -1,0 +1,251 @@
+{
+ "n_cell_lines": 10,
+ "platform_completeness": {
+  "genes_requested": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6",
+   "IFNAR1",
+   "IFNAR2",
+   "IFNLR1",
+   "IL10RB",
+   "ACTB",
+   "GAPDH",
+   "TBP",
+   "RPL13A",
+   "PPIA",
+   "HPRT1"
+  ],
+  "genes_resolved": {
+   "ISG15": [
+    "4590398"
+   ],
+   "MX1": [
+    "1410301"
+   ],
+   "MX2": [
+    "6510097"
+   ],
+   "OAS1": [
+    "2100048",
+    "3450114",
+    "2100154"
+   ],
+   "IFIT1": [
+    "6020129"
+   ],
+   "IFIT2": [
+    "1090408"
+   ],
+   "BST2": [
+    "6290082"
+   ],
+   "USP18": [
+    "70022"
+   ],
+   "STAT1": [
+    "4120546",
+    "7000128",
+    "3290692"
+   ],
+   "IRF7": [
+    "7040541"
+   ],
+   "IFI27": [
+    "610136"
+   ],
+   "IFNAR1": [
+    "6760722"
+   ],
+   "IFNAR2": [
+    "5390403"
+   ],
+   "IFNLR1": [
+    "6520180"
+   ],
+   "IL10RB": [
+    "670377"
+   ],
+   "ACTB": [
+    "110022",
+    "430039"
+   ],
+   "GAPDH": [
+    "1940184",
+    "1850181"
+   ],
+   "TBP": [
+    "6350301"
+   ],
+   "RPL13A": [
+    "4920541"
+   ],
+   "PPIA": [
+    "2690706",
+    "3610148"
+   ],
+   "HPRT1": [
+    "1450528"
+   ]
+  },
+  "genes_absent_from_array": [
+   "IFIT3",
+   "RSAD2",
+   "IFI6"
+  ],
+  "ISG_module_used": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "IFIT1",
+   "IFIT2",
+   "BST2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27"
+  ],
+  "receptor_module_used": [
+   "IFNAR1",
+   "IFNAR2",
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "housekeeping_module_used": [
+   "ACTB",
+   "GAPDH",
+   "TBP",
+   "RPL13A",
+   "PPIA",
+   "HPRT1"
+  ],
+  "note": "GPL6098 is an old array and three requested genes are reachable only through a legacy name: ISG15 (probe 4590398, symbol G1P2, Synonym UCRP;IFI15;ISG15) and IFNLR1 (probe 6520180, symbol IL28RA, Synonym IFNLR;LICR2;IFNLR1;CRF2/12) resolve through the Synonym column, and GAPDH (probes 1940184, 1850181, symbol GAPD, Synonym empty) resolves only through the LEGACY_ALIASES table. Genes that remain unmatched (IFIT3, RSAD2, IFI6) have no probe on this array and are reported as absent rather than as a number."
+ },
+ "manuscript_components_as_measurable_here": {
+  "two_gene_priming_term": "ISG15 (probe 4590398, symbol G1P2) + MX1",
+  "type_I_term": "IFNAR1 + IFNAR2 (both present)",
+  "type_III_term": "IFNLR1 (probe 6520180, symbol IL28RA, Synonym IFNLR;LICR2;IFNLR1;CRF2/12) + IL10RB - both present",
+  "composite": "mean of the three terms above, i.e. six genes in total"
+ },
+ "stratified": {
+  "rule": "responder = ISG module induction >= 0.3 log units at 24 h; the threshold is fixed on the response axis only, never on baseline",
+  "pooled_spearman_baseline_vs_induction": -0.685,
+  "responders": {
+   "n": 5,
+   "lines": [
+    "d10",
+    "hct116",
+    "aspc1",
+    "me15",
+    "miapaca"
+   ],
+   "mean_baseline": 7.861,
+   "mean_induction": 1.277,
+   "spearman_baseline_vs_induction": 0.4,
+   "spearman_2gene_priming_vs_own_induction": -0.9,
+   "spearman_typeI_vs_ISG_induction": 0.6,
+   "spearman_delta_like_vs_induction": -0.1
+  },
+  "non_responders": {
+   "n": 5,
+   "lines": [
+    "panc1",
+    "calu6",
+    "a549",
+    "ls174-t",
+    "juso"
+   ],
+   "mean_baseline": 8.452,
+   "mean_induction": 0.027,
+   "spearman_baseline_vs_induction": -0.8
+  }
+ },
+ "baseline_reliability_ICC": 0.997,
+ "spearman_baseline_vs_induction24": -0.685,
+ "disattenuated_spearman": -0.686,
+ "spearman_baseline_vs_induction4h": -0.673,
+ "spearman_receptor_vs_induction24": -0.248,
+ "spearman_housekeeping_vs_induction24": 0.321,
+ "manuscript_component_tests": {
+  "baseline_ISG15_MX1_vs_own_induction": -0.709,
+  "baseline_IFNAR1_IFNAR2_vs_ISG_induction": 0.539,
+  "baseline_IFNLR1_IL10RB_vs_ISG_induction": -0.236,
+  "delta_like_baseline_vs_ISG_induction": -0.564
+ },
+ "delta_like_values": [
+  8.439,
+  8.495,
+  8.746,
+  8.028,
+  8.482,
+  7.926,
+  8.889,
+  7.635,
+  8.058,
+  8.59
+ ],
+ "per_gene_spearman_baseline_vs_own_induction": {
+  "ISG15": -0.794,
+  "MX1": -0.6,
+  "MX2": -0.127,
+  "OAS1": -0.43,
+  "IFIT1": -0.612,
+  "IFIT2": -0.709,
+  "IFIT3": "not on array",
+  "BST2": -0.176,
+  "RSAD2": "not on array",
+  "USP18": -0.442,
+  "STAT1": -0.588,
+  "IRF7": -0.285,
+  "IFI27": -0.248,
+  "IFI6": "not on array"
+ },
+ "cell_lines": [
+  "a549",
+  "aspc1",
+  "calu6",
+  "d10",
+  "hct116",
+  "juso",
+  "ls174-t",
+  "me15",
+  "miapaca",
+  "panc1"
+ ],
+ "baseline_values": [
+  8.379,
+  7.969,
+  8.805,
+  7.773,
+  7.931,
+  7.785,
+  8.605,
+  7.629,
+  8.003,
+  8.685
+ ],
+ "induction24_values": [
+  0.024,
+  1.21,
+  0.022,
+  0.891,
+  1.201,
+  0.041,
+  0.026,
+  1.53,
+  1.556,
+  0.021
+ ]
+}

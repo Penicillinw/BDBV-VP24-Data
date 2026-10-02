@@ -1,0 +1,474 @@
+{
+ "self_check_axis_rebuild": {
+  "n_cell_types": 154,
+  "max_abs_diff_delta_vs_frozen": 8.881784197001252e-16,
+  "max_abs_diff_kpna_axis_vs_frozen": 3.3306690738754696e-16,
+  "spearman_delta_vs_frozen": 1.0,
+  "spearman_kpna_vs_frozen": 1.0
+ },
+ "partA_functional_panel_GSE46599": {
+  "first": {
+   "probe_rule": "first",
+   "cells": [
+    "CEM",
+    "CEM-SS",
+    "HT1080",
+    "Jurkat",
+    "PMA-THP-1",
+    "PMA-U937",
+    "primary-macrophages",
+    "primary-CD4+-T-cells",
+    "THP-1",
+    "U87-MG",
+    "U937"
+   ],
+   "n_cells": 11,
+   "phenotype": {
+    "CEM": 0.0,
+    "CEM-SS": 0.0,
+    "HT1080": 0.5,
+    "Jurkat": 0.0,
+    "PMA-THP-1": 1.0,
+    "PMA-U937": 0.5,
+    "primary-macrophages": 1.0,
+    "primary-CD4+-T-cells": 0.75,
+    "THP-1": 1.0,
+    "U87-MG": 1.0,
+    "U937": 0.0
+   },
+   "negative_group_definitions": {
+    "all_11_partials_as_negative": "positive = phenotype>=0.75 (5); negative = the other 6",
+    "strict_partials_excluded": "positive = 5; negative = the 4 phenotype==0"
+   },
+   "forms": {
+    "C0_delta_manuscript": {
+     "auc_all11": 0.867,
+     "auc_strict8": 0.9,
+     "loo_auc_all11": 0.867
+    },
+    "C1_kpna_axis": {
+     "auc_all11": 0.5,
+     "auc_strict8": 0.5,
+     "loo_auc_all11": 0.5
+    },
+    "C1b_kpna_negated": {
+     "auc_all11": 0.5,
+     "auc_strict8": 0.5,
+     "loo_auc_all11": 0.5
+    },
+    "C2_equal_sum": {
+     "auc_all11": 0.833,
+     "auc_strict8": 0.85,
+     "loo_auc_all11": 0.833
+    },
+    "C3_weakest_link_min": {
+     "auc_all11": 0.6,
+     "auc_strict8": 0.7,
+     "loo_auc_all11": 0.6
+    },
+    "C4_product": {
+     "auc_all11": 0.167,
+     "auc_strict8": 0.25,
+     "loo_auc_all11": 0.167
+    },
+    "typeI_only": {
+     "auc_all11": 0.7,
+     "auc_strict8": 0.7,
+     "loo_auc_all11": 0.7
+    },
+    "typeIII_only": {
+     "auc_all11": 0.8,
+     "auc_strict8": 0.8,
+     "loo_auc_all11": 0.8
+    },
+    "ISG_priming_only": {
+     "auc_all11": 0.767,
+     "auc_strict8": 0.8,
+     "loo_auc_all11": 0.767
+    }
+   },
+   "fitted_two_factor": {
+    "coefficients_on_zD_and_zKPNA": [
+     1.099,
+     0.336
+    ],
+    "auc_all11_in_sample": 0.867,
+    "loo_auc_all11": 0.533
+   },
+   "fitted_three_component": {
+    "coefficients_on_typeI_typeIII_ISGprime": [
+     0.121,
+     0.679,
+     0.643
+    ],
+    "auc_all11_in_sample": 0.9,
+    "loo_auc_all11": 0.633
+   }
+  },
+  "median": {
+   "probe_rule": "median",
+   "cells": [
+    "CEM",
+    "CEM-SS",
+    "HT1080",
+    "Jurkat",
+    "PMA-THP-1",
+    "PMA-U937",
+    "primary-macrophages",
+    "primary-CD4+-T-cells",
+    "THP-1",
+    "U87-MG",
+    "U937"
+   ],
+   "n_cells": 11,
+   "phenotype": {
+    "CEM": 0.0,
+    "CEM-SS": 0.0,
+    "HT1080": 0.5,
+    "Jurkat": 0.0,
+    "PMA-THP-1": 1.0,
+    "PMA-U937": 0.5,
+    "primary-macrophages": 1.0,
+    "primary-CD4+-T-cells": 0.75,
+    "THP-1": 1.0,
+    "U87-MG": 1.0,
+    "U937": 0.0
+   },
+   "negative_group_definitions": {
+    "all_11_partials_as_negative": "positive = phenotype>=0.75 (5); negative = the other 6",
+    "strict_partials_excluded": "positive = 5; negative = the 4 phenotype==0"
+   },
+   "forms": {
+    "C0_delta_manuscript": {
+     "auc_all11": 0.867,
+     "auc_strict8": 0.85,
+     "loo_auc_all11": 0.867
+    },
+    "C1_kpna_axis": {
+     "auc_all11": 0.5,
+     "auc_strict8": 0.5,
+     "loo_auc_all11": 0.5
+    },
+    "C1b_kpna_negated": {
+     "auc_all11": 0.5,
+     "auc_strict8": 0.5,
+     "loo_auc_all11": 0.5
+    },
+    "C2_equal_sum": {
+     "auc_all11": 0.867,
+     "auc_strict8": 0.85,
+     "loo_auc_all11": 0.867
+    },
+    "C3_weakest_link_min": {
+     "auc_all11": 0.567,
+     "auc_strict8": 0.6,
+     "loo_auc_all11": 0.567
+    },
+    "C4_product": {
+     "auc_all11": 0.2,
+     "auc_strict8": 0.25,
+     "loo_auc_all11": 0.2
+    },
+    "typeI_only": {
+     "auc_all11": 0.733,
+     "auc_strict8": 0.75,
+     "loo_auc_all11": 0.733
+    },
+    "typeIII_only": {
+     "auc_all11": 0.833,
+     "auc_strict8": 0.8,
+     "loo_auc_all11": 0.833
+    },
+    "ISG_priming_only": {
+     "auc_all11": 0.767,
+     "auc_strict8": 0.8,
+     "loo_auc_all11": 0.767
+    }
+   },
+   "fitted_two_factor": {
+    "coefficients_on_zD_and_zKPNA": [
+     1.033,
+     0.329
+    ],
+    "auc_all11_in_sample": 0.833,
+    "loo_auc_all11": 0.567
+   },
+   "fitted_three_component": {
+    "coefficients_on_typeI_typeIII_ISGprime": [
+     0.128,
+     0.54,
+     0.661
+    ],
+    "auc_all11_in_sample": 0.9,
+    "loo_auc_all11": 0.633
+   }
+  }
+ },
+ "partB_rank_drift_154": {
+  "C2_equal": {
+   "spearman_vs_frozen_delta": 0.6268,
+   "top20_overlap": 10,
+   "top15_overlap": 9,
+   "largest_movers": [
+    {
+     "cell_type": "myonuclei",
+     "delta_rank": 131,
+     "composite_rank": 16
+    },
+    {
+     "cell_type": "colonocytes",
+     "delta_rank": 20,
+     "composite_rank": 119
+    },
+    {
+     "cell_type": "paneth cells",
+     "delta_rank": 51,
+     "composite_rank": 147
+    },
+    {
+     "cell_type": "lactotrophs",
+     "delta_rank": 109,
+     "composite_rank": 15
+    },
+    {
+     "cell_type": "pituicytes/fscs",
+     "delta_rank": 101,
+     "composite_rank": 14
+    },
+    {
+     "cell_type": "thyrotrophs",
+     "delta_rank": 112,
+     "composite_rank": 31
+    },
+    {
+     "cell_type": "somatotrophs",
+     "delta_rank": 89,
+     "composite_rank": 11
+    },
+    {
+     "cell_type": "gonadotrophs",
+     "delta_rank": 105,
+     "composite_rank": 29
+    }
+   ]
+  },
+  "C3_min": {
+   "spearman_vs_frozen_delta": 0.532,
+   "top20_overlap": 6,
+   "top15_overlap": 4,
+   "largest_movers": [
+    {
+     "cell_type": "esophageal apical cells",
+     "delta_rank": 3,
+     "composite_rank": 143
+    },
+    {
+     "cell_type": "enterocytes",
+     "delta_rank": 5,
+     "composite_rank": 133
+    },
+    {
+     "cell_type": "colonocytes",
+     "delta_rank": 20,
+     "composite_rank": 138
+    },
+    {
+     "cell_type": "hofbauer cells",
+     "delta_rank": 8,
+     "composite_rank": 122
+    },
+    {
+     "cell_type": "extravillous trophoblasts",
+     "delta_rank": 1,
+     "composite_rank": 109
+    },
+    {
+     "cell_type": "migrating cytotrophoblasts",
+     "delta_rank": 15,
+     "composite_rank": 117
+    },
+    {
+     "cell_type": "paneth cells",
+     "delta_rank": 51,
+     "composite_rank": 151
+    },
+    {
+     "cell_type": "epididymal basal cells",
+     "delta_rank": 18,
+     "composite_rank": 96
+    }
+   ]
+  },
+  "C4_product": {
+   "spearman_vs_frozen_delta": 0.1047,
+   "top20_overlap": 7,
+   "top15_overlap": 5,
+   "largest_movers": [
+    {
+     "cell_type": "erythrocytes",
+     "delta_rank": 154,
+     "composite_rank": 1
+    },
+    {
+     "cell_type": "esophageal apical cells",
+     "delta_rank": 3,
+     "composite_rank": 154
+    },
+    {
+     "cell_type": "extravillous trophoblasts",
+     "delta_rank": 1,
+     "composite_rank": 152
+    },
+    {
+     "cell_type": "enterocytes",
+     "delta_rank": 5,
+     "composite_rank": 153
+    },
+    {
+     "cell_type": "platelets",
+     "delta_rank": 146,
+     "composite_rank": 3
+    },
+    {
+     "cell_type": "adrenal medulla cells",
+     "delta_rank": 145,
+     "composite_rank": 4
+    },
+    {
+     "cell_type": "hofbauer cells",
+     "delta_rank": 8,
+     "composite_rank": 147
+    },
+    {
+     "cell_type": "oocytes",
+     "delta_rank": 141,
+     "composite_rank": 2
+    }
+   ]
+  },
+  "_partC_hepatocyte_lineage": {
+   "hepatocytes": {
+    "delta_rank": 34,
+    "delta": 0.4669,
+    "kpna_axis": -0.315,
+    "quadrant": "Q2_highD_lowK",
+    "composite_C2_rank": 64,
+    "above_composite_median": true
+   }
+  },
+  "_named_cell_types": {
+   "urothelial cells": {
+    "delta": 1.131,
+    "delta_rank": 7,
+    "kpna_axis": 0.343,
+    "quadrant": "Q1_highD_highK",
+    "rank_C2_equal": 6,
+    "rank_C3_min": 7,
+    "rank_C4_product": 12
+   },
+   "enterocytes": {
+    "delta": 1.284,
+    "delta_rank": 5,
+    "kpna_axis": -1.109,
+    "quadrant": "Q2_highD_lowK",
+    "rank_C2_equal": 48,
+    "rank_C3_min": 133,
+    "rank_C4_product": 153
+   },
+   "colonocytes": {
+    "delta": 0.697,
+    "delta_rank": 20,
+    "kpna_axis": -1.243,
+    "quadrant": "Q2_highD_lowK",
+    "rank_C2_equal": 119,
+    "rank_C3_min": 138,
+    "rank_C4_product": 146
+   },
+   "hepatocytes": {
+    "delta": 0.467,
+    "delta_rank": 34,
+    "kpna_axis": -0.315,
+    "quadrant": "Q2_highD_lowK",
+    "rank_C2_equal": 64,
+    "rank_C3_min": 75,
+    "rank_C4_product": 100
+   },
+   "respiratory ciliated cells": {
+    "delta": 0.572,
+    "delta_rank": 28,
+    "kpna_axis": 0.204,
+    "quadrant": "Q1_highD_highK",
+    "rank_C2_equal": 22,
+    "rank_C3_min": 17,
+    "rank_C4_product": 25
+   },
+   "pdcs": {
+    "delta": 1.414,
+    "delta_rank": 2,
+    "kpna_axis": 0.104,
+    "quadrant": "Q1_highD_highK",
+    "rank_C2_equal": 4,
+    "rank_C3_min": 27,
+    "rank_C4_product": 20
+   },
+   "monocytes": {
+    "delta": 1.002,
+    "delta_rank": 10,
+    "kpna_axis": 0.186,
+    "quadrant": "Q1_highD_highK",
+    "rank_C2_equal": 8,
+    "rank_C3_min": 18,
+    "rank_C4_product": 14
+   },
+   "macrophages": {
+    "delta": 0.948,
+    "delta_rank": 11,
+    "kpna_axis": 0.177,
+    "quadrant": "Q1_highD_highK",
+    "rank_C2_equal": 10,
+    "rank_C3_min": 20,
+    "rank_C4_product": 17
+   },
+   "microglia": {
+    "delta": 0.76,
+    "delta_rank": 14,
+    "kpna_axis": 0.949,
+    "quadrant": "Q1_highD_highK",
+    "rank_C2_equal": 3,
+    "rank_C3_min": 3,
+    "rank_C4_product": 8
+   },
+   "paneth cells": {
+    "delta": 0.242,
+    "delta_rank": 51,
+    "kpna_axis": -1.813,
+    "quadrant": "Q2_highD_lowK",
+    "rank_C2_equal": 147,
+    "rank_C3_min": 151,
+    "rank_C4_product": 136
+   },
+   "extravillous trophoblasts": {
+    "delta": 1.774,
+    "delta_rank": 1,
+    "kpna_axis": -0.757,
+    "quadrant": "Q2_highD_lowK",
+    "rank_C2_equal": 9,
+    "rank_C3_min": 109,
+    "rank_C4_product": 152
+   }
+  },
+  "_median_composite_C2": 0.121
+ },
+ "partD_identifiability": {
+  "spearman_delta_vs_kpna": -0.2699,
+  "pearson_r": -0.1011,
+  "r_squared": 0.0102,
+  "vif_each_axis": 1.0103,
+  "pc1_variance_ratio": 0.5505,
+  "pc1_loadings_zD_zKPNA": [
+   0.7071,
+   -0.7071
+  ],
+  "n_cell_types": 154
+ }
+}

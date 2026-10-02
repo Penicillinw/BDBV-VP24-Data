@@ -1,0 +1,115 @@
+dataset	file	cell_type	n_cells	n_donors	is_lymphoid_hint
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	CD8-positive, alpha-beta T cell	1532	5	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	CD4-positive, alpha-beta T cell	728	5	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	mature NK T cell	515	4	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	natural killer cell	242	4	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	mast cell	159	4	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	B cell	148	4	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	plasma cell	68	5	True
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	T cell	16	4	True
+skeletal muscle	TS_muscle.h5ad	CD8-positive, alpha-beta T cell	1417	6	True
+skeletal muscle	TS_muscle.h5ad	CD4-positive, alpha-beta T cell	514	6	True
+skeletal muscle	TS_muscle.h5ad	T cell	108	6	True
+skeletal muscle	TS_muscle.h5ad	mature NK T cell	98	2	True
+skeletal muscle	TS_muscle.h5ad	natural killer cell	91	4	True
+skeletal muscle	TS_muscle.h5ad	mast cell	66	6	True
+skeletal muscle	TS_muscle.h5ad	B cell	49	6	True
+skeletal muscle	TS_muscle.h5ad	plasma cell	4	3	True
+bone marrow	TS_bone_marrow.h5ad	CD4-positive, alpha-beta T cell	3173	7	True
+bone marrow	TS_bone_marrow.h5ad	CD8-positive, alpha-beta T cell	2636	7	True
+bone marrow	TS_bone_marrow.h5ad	B cell	1819	7	True
+bone marrow	TS_bone_marrow.h5ad	plasma cell	1448	7	True
+bone marrow	TS_bone_marrow.h5ad	natural killer cell	1099	7	True
+bone marrow	TS_bone_marrow.h5ad	T cell	98	6	True
+bone marrow	TS_bone_marrow.h5ad	mature NK T cell	64	6	True
+bone marrow	TS_bone_marrow.h5ad	regulatory T cell	14	2	True
+kidney	TS_kidney.h5ad	CD8-positive, alpha-beta T cell	537	1	True
+kidney	TS_kidney.h5ad	B cell	494	1	True
+kidney	TS_kidney.h5ad	CD4-positive, alpha-beta T cell	299	1	True
+kidney	TS_kidney.h5ad	natural killer cell	201	1	True
+kidney	TS_kidney.h5ad	T cell	17	1	True
+kidney	TS_kidney.h5ad	plasma cell	5	1	True
+skin	TS_skin.h5ad	T cell	2636	4	True
+skin	TS_skin.h5ad	mast cell	2001	4	True
+skin	TS_skin.h5ad	CD8-positive, alpha-beta T cell	1531	4	True
+skin	TS_skin.h5ad	CD4-positive, alpha-beta T cell	365	4	True
+skin	TS_skin.h5ad	regulatory T cell	273	4	True
+skin	TS_skin.h5ad	plasma cell	86	4	True
+skin	TS_skin.h5ad	natural killer cell	64	4	True
+skin	TS_skin.h5ad	mature NK T cell	33	4	True
+skin	TS_skin.h5ad	B cell	7	2	True
+skin	TS_skin.h5ad	activated CD4-positive, alpha-beta T cell	1	1	True
+intestine	TS_small_intestine.h5ad	CD4-positive, alpha-beta T cell	5155	5	True
+intestine	TS_small_intestine.h5ad	CD8-positive, alpha-beta T cell	3472	5	True
+intestine	TS_small_intestine.h5ad	small intestine goblet cell	2044	5	True
+intestine	TS_small_intestine.h5ad	activated CD8-positive, alpha-beta T cell	1147	5	True
+intestine	TS_small_intestine.h5ad	plasma cell	822	5	True
+intestine	TS_small_intestine.h5ad	B cell	773	5	True
+intestine	TS_small_intestine.h5ad	activated CD4-positive, alpha-beta T cell	570	5	True
+intestine	TS_small_intestine.h5ad	intestinal tuft cell	448	5	True
+intestine	TS_small_intestine.h5ad	mast cell	250	4	True
+intestine	TS_small_intestine.h5ad	natural killer cell	161	5	True
+intestine	TS_small_intestine.h5ad	gamma-delta T cell	121	5	True
+intestine	TS_small_intestine.h5ad	naive thymus-derived CD4-positive, alpha-beta T cell	115	5	True
+intestine	TS_small_intestine.h5ad	myofibroblast cell	51	4	True
+intestine	TS_small_intestine.h5ad	regulatory T cell	15	2	True
+intestine large	TS_large_intestine.h5ad	CD4-positive, alpha-beta T cell	4240	5	True
+intestine large	TS_large_intestine.h5ad	plasma cell	3308	3	True
+intestine large	TS_large_intestine.h5ad	CD8-positive, alpha-beta T cell	2962	5	True
+intestine large	TS_large_intestine.h5ad	B cell	2069	5	True
+intestine large	TS_large_intestine.h5ad	gamma-delta T cell	1856	5	True
+intestine large	TS_large_intestine.h5ad	large intestine goblet cell	1557	4	True
+intestine large	TS_large_intestine.h5ad	regulatory T cell	633	4	True
+intestine large	TS_large_intestine.h5ad	mast cell	393	4	True
+intestine large	TS_large_intestine.h5ad	naive thymus-derived CD4-positive, alpha-beta T cell	228	3	True
+intestine large	TS_large_intestine.h5ad	tuft cell of colon	178	4	True
+intestine large	TS_large_intestine.h5ad	myofibroblast cell	82	3	True
+intestine large	TS_large_intestine.h5ad	mature NK T cell	47	5	True
+intestine large	TS_large_intestine.h5ad	natural killer cell	14	4	True
+lung	Krasnow_lung_10X.h5ad	natural killer cell	4769	3	True
+lung	Krasnow_lung_10X.h5ad	effector memory CD4-positive, alpha-beta T cell	3013	3	True
+lung	Krasnow_lung_10X.h5ad	naive thymus-derived CD8-positive, alpha-beta T cell	2042	3	True
+lung	Krasnow_lung_10X.h5ad	effector memory CD8-positive, alpha-beta T cell	1190	3	True
+lung	Krasnow_lung_10X.h5ad	naive thymus-derived CD4-positive, alpha-beta T cell	932	3	True
+lung	Krasnow_lung_10X.h5ad	club cell	931	3	True
+lung	Krasnow_lung_10X.h5ad	B cell	725	3	True
+lung	Krasnow_lung_10X.h5ad	mature NK T cell	335	2	True
+lung	Krasnow_lung_10X.h5ad	myofibroblast cell	248	3	True
+lung	Krasnow_lung_10X.h5ad	plasma cell	187	2	True
+lung	Krasnow_lung_10X.h5ad	lung goblet cell	159	1	True
+lung	Krasnow_lung_10X.h5ad	lymphocyte	105	2	True
+liver myeloid	HLiCA_myeloid.h5ad	lymphocyte	1293	90	True
+liver endothelium	HLiCA_endothelial.h5ad	lymphocyte	202	60	True
+liver epithelium	HLiCA_hepatocyte.h5ad	lymphocyte	1179	56	True
+synovium	synovium_RA.h5ad	central memory CD4-positive, alpha-beta T cell	21531	36	True
+synovium	synovium_RA.h5ad	naive thymus-derived CD4-positive, alpha-beta T cell	17043	36	True
+synovium	synovium_RA.h5ad	effector memory CD4-positive, alpha-beta T cell	12531	36	True
+synovium	synovium_RA.h5ad	natural killer cell	9698	36	True
+synovium	synovium_RA.h5ad	naive B cell	6760	36	True
+synovium	synovium_RA.h5ad	memory B cell	6177	36	True
+synovium	synovium_RA.h5ad	naive thymus-derived CD8-positive, alpha-beta T cell	2882	36	True
+synovium	synovium_RA.h5ad	effector memory CD8-positive, alpha-beta T cell, terminally differentiated	2702	36	True
+synovium	synovium_RA.h5ad	CD8-positive, alpha-beta memory T cell	2292	36	True
+synovium	synovium_RA.h5ad	plasmablast	1473	36	True
+synovium	synovium_RA.h5ad	gamma-delta T cell	1424	36	True
+synovium	synovium_RA.h5ad	CD4-positive, alpha-beta T cell	595	32	True
+testis	TS_testis.h5ad	CD8-positive, alpha-beta T cell	3	1	True
+testis	TS_testis.h5ad	CD4-positive, alpha-beta T cell	2	1	True
+testis	TS_testis.h5ad	B cell	1	1	True
+testis	TS_testis.h5ad	mast cell	1	1	True
+prostate	TS_prostate.h5ad	CD8-positive, alpha-beta T cell	2516	3	True
+prostate	TS_prostate.h5ad	mature NK T cell	487	3	True
+prostate	TS_prostate.h5ad	CD4-positive, alpha-beta T cell	116	3	True
+prostate	TS_prostate.h5ad	B cell	101	3	True
+prostate	TS_prostate.h5ad	mast cell	26	3	True
+prostate	TS_prostate.h5ad	T cell	14	2	True
+uterus	TS_uterus.h5ad	CD8-positive, alpha-beta T cell	1341	2	True
+uterus	TS_uterus.h5ad	CD4-positive, alpha-beta T cell	438	2	True
+uterus	TS_uterus.h5ad	mature NK T cell	207	2	True
+uterus	TS_uterus.h5ad	myofibroblast cell	101	1	True
+uterus	TS_uterus.h5ad	natural killer cell	92	2	True
+uterus	TS_uterus.h5ad	mast cell	65	2	True
+uterus	TS_uterus.h5ad	B cell	50	2	True
+uterus	TS_uterus.h5ad	T cell	47	2	True
+uterus	TS_uterus.h5ad	plasma cell	19	1	True
+uterus	TS_uterus.h5ad	regulatory T cell	1	1	True

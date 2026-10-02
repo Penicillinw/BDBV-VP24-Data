@@ -1,0 +1,9 @@
+panel	species_group	source_db	n_with_all_four_bdbv_type	n_informative_records_examined	fraction
+FigS3b	BDBV	UniProt	1	1	1.0
+FigS3b	All other orthoebolaviruses	UniProt	0	39	0.0
+FigS3b	BDBV	BV-BRC	2	3	0.6666666666666666
+FigS3b	All other orthoebolaviruses	BV-BRC	0	62	0.0
+FigS3b	BDBV	ENA	9	9	1.0
+FigS3b	All other orthoebolaviruses	ENA	0	99	0.0
+FigS3b	BDBV	NCBI VP24 census	31	31	1.0
+FigS3b	All other orthoebolaviruses	NCBI VP24 census	0	3459	0.0

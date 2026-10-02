@@ -1,0 +1,1117 @@
+{
+ "pre_registration": "report/G7_预注册_KPNA轴与乘数函数形式_20260926.md",
+ "inputs": {
+  "expression": "analysis/t4_ifn_landscape_20260925/hpa_ifn_landscape_wide.tsv",
+  "delta": "analysis/t4_ifn_landscape_20260925/restriction_gradient.tsv"
+ },
+ "axes": {
+  "KPNA_axis": [
+   "KPNA1",
+   "KPNA5",
+   "KPNA6"
+  ],
+  "cargo_axis": [
+   "STAT1",
+   "STAT2",
+   "IRF9"
+  ]
+ },
+ "gene_stats": {
+  "IRF9": {
+   "mean_log10_nCPM": null,
+   "sd_log10_nCPM": null,
+   "n_present": 0
+  },
+  "KPNA1": {
+   "mean_log10_nCPM": 1.8815578658220735,
+   "sd_log10_nCPM": 0.2013924040616061,
+   "n_present": 154
+  },
+  "KPNA5": {
+   "mean_log10_nCPM": 1.4921991003868178,
+   "sd_log10_nCPM": 0.37663374327763927,
+   "n_present": 154
+  },
+  "KPNA6": {
+   "mean_log10_nCPM": 1.5561448406685872,
+   "sd_log10_nCPM": 0.3076408215678565,
+   "n_present": 154
+  },
+  "STAT1": {
+   "mean_log10_nCPM": 1.913619601603939,
+   "sd_log10_nCPM": 0.362641000279274,
+   "n_present": 154
+  },
+  "STAT2": {
+   "mean_log10_nCPM": 1.527695974208635,
+   "sd_log10_nCPM": 0.2980436131795433,
+   "n_present": 154
+  }
+ },
+ "n_cell_types": 154,
+ "prechecks": {
+  "T1_rho_delta_kpna": -0.2699409382521337,
+  "T1_pass": true,
+  "T2_pairwise_rho": {
+   "KPNA1~KPNA5": 0.43764883899600715,
+   "KPNA1~KPNA6": 0.5457982157937366,
+   "KPNA5~KPNA6": 0.2669389015806791
+  },
+  "T3_kpna_axis_iqr": 0.9040456230790765,
+  "T3_pass": true,
+  "extra_rho": {
+   "rho_delta_vs_cargo_axis": 0.24755826084099333,
+   "rho_delta_vs_kpna_max": -0.34569310879906595,
+   "rho_delta_vs_import_axis": -0.009688098113145553
+  }
+ },
+ "medians": {
+  "delta": 0.06715910398374589,
+  "kpna_axis": 0.08871903409010554
+ },
+ "quadrant_sizes": {
+  "Q3_lowD_highK": 47,
+  "Q4_lowD_lowK": 30,
+  "Q1_highD_highK": 30,
+  "Q2_highD_lowK": 47
+ },
+ "Q2_highD_lowK": [
+  {
+   "cell_type": "extravillous trophoblasts",
+   "delta_restriction": 1.774327069093413,
+   "delta_rank": 1,
+   "KPNA1_z": -0.6014893310564288,
+   "KPNA5_z": -1.7686261774876375,
+   "KPNA6_z": 0.0989545660683819,
+   "KPNA1_nCPM": 56.6,
+   "KPNA5_nCPM": 5.7,
+   "KPNA6_nCPM": 37.599999999999994,
+   "KPNA_axis": -0.7570536474918947,
+   "kpna_max": 0.0989545660683819,
+   "cargo_axis": 0.5247378849626049,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "esophageal apical cells",
+   "delta_restriction": 1.3885489011706815,
+   "delta_rank": 3,
+   "KPNA1_z": -0.5865656791256146,
+   "KPNA5_z": -2.363407753411729,
+   "KPNA6_z": -1.2166826587454511,
+   "KPNA1_nCPM": 57.00000000000001,
+   "KPNA5_nCPM": 3.0,
+   "KPNA6_nCPM": 14.200000000000003,
+   "KPNA_axis": -1.3888853637609315,
+   "kpna_max": -0.5865656791256146,
+   "cargo_axis": 0.15903636687693778,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "enterocytes",
+   "delta_restriction": 1.283708611085192,
+   "delta_rank": 5,
+   "KPNA1_z": -1.4149529200140223,
+   "KPNA5_z": -1.6232892538662889,
+   "KPNA6_z": -0.29019952508086017,
+   "KPNA1_nCPM": 38.49999999999999,
+   "KPNA5_nCPM": 6.6000000000000005,
+   "KPNA6_nCPM": 28.300000000000008,
+   "KPNA_axis": -1.1094805663203904,
+   "kpna_max": -0.29019952508086017,
+   "cargo_axis": 0.28268864088287937,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "hofbauer cells",
+   "delta_restriction": 1.0186025106908345,
+   "delta_rank": 8,
+   "KPNA1_z": -0.8137713216317639,
+   "KPNA5_z": -1.0312283122878652,
+   "KPNA6_z": -0.7271674143011568,
+   "KPNA1_nCPM": 51.199999999999996,
+   "KPNA5_nCPM": 11.699999999999998,
+   "KPNA6_nCPM": 20.500000000000004,
+   "KPNA_axis": -0.8573890160735953,
+   "kpna_max": -0.7271674143011568,
+   "cargo_axis": -0.14550563661792762,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "myeloid",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "kupffer cells",
+   "delta_restriction": 1.014404704380472,
+   "delta_rank": 9,
+   "KPNA1_z": -0.9901703610789674,
+   "KPNA5_z": -0.09111558447785748,
+   "KPNA6_z": -0.08850626601556758,
+   "KPNA1_nCPM": 47.099999999999994,
+   "KPNA5_nCPM": 27.700000000000003,
+   "KPNA6_nCPM": 32.8,
+   "KPNA_axis": -0.38993073719079746,
+   "kpna_max": -0.08850626601556758,
+   "cargo_axis": 1.1832034581473294,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "hepatic;myeloid",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "prostatic club cells",
+   "delta_restriction": 0.8258457249283633,
+   "delta_rank": 12,
+   "KPNA1_z": -0.249901043634271,
+   "KPNA5_z": -0.6354875888815102,
+   "KPNA6_z": 0.08793999821661565,
+   "KPNA1_nCPM": 66.8,
+   "KPNA5_nCPM": 16.899999999999995,
+   "KPNA6_nCPM": 37.29999999999999,
+   "KPNA_axis": -0.26581621143305517,
+   "kpna_max": 0.08793999821661565,
+   "cargo_axis": -0.3631857926338958,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "migrating cytotrophoblasts",
+   "delta_restriction": 0.7587294458759309,
+   "delta_rank": 15,
+   "KPNA1_z": -1.0677656204025041,
+   "KPNA5_z": -1.3539091397112315,
+   "KPNA6_z": 0.06938922819099821,
+   "KPNA1_nCPM": 45.4,
+   "KPNA5_nCPM": 8.6,
+   "KPNA6_nCPM": 36.8,
+   "KPNA_axis": -0.7840951773075792,
+   "kpna_max": 0.06938922819099821,
+   "cargo_axis": -0.5534931920887097,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "pancreatic duct cells",
+   "delta_restriction": 0.7085084088453776,
+   "delta_rank": 17,
+   "KPNA1_z": -0.5206585736053231,
+   "KPNA5_z": -0.30698827546387353,
+   "KPNA6_z": -0.45346496157219357,
+   "KPNA1_nCPM": 58.8,
+   "KPNA5_nCPM": 22.800000000000004,
+   "KPNA6_nCPM": 25.100000000000005,
+   "KPNA_axis": -0.4270372702137967,
+   "kpna_max": -0.30698827546387353,
+   "cargo_axis": -0.02683002663021461,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "epididymal basal cells",
+   "delta_restriction": 0.7053080330230151,
+   "delta_rank": 18,
+   "KPNA1_z": -0.7010948450897776,
+   "KPNA5_z": -0.4029245606781224,
+   "KPNA6_z": -0.5777742329986714,
+   "KPNA1_nCPM": 54.00000000000001,
+   "KPNA5_nCPM": 20.899999999999995,
+   "KPNA6_nCPM": 22.900000000000002,
+   "KPNA_axis": -0.5605978795888571,
+   "kpna_max": -0.4029245606781224,
+   "cargo_axis": 0.8799483315315333,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "fallopian secretory cells",
+   "delta_restriction": 0.7030532022163726,
+   "delta_rank": 19,
+   "KPNA1_z": -0.16875118422820554,
+   "KPNA5_z": -0.009686821617796496,
+   "KPNA6_z": -0.4862965177124049,
+   "KPNA1_nCPM": 69.4,
+   "KPNA5_nCPM": 29.800000000000008,
+   "KPNA6_nCPM": 24.500000000000004,
+   "KPNA_axis": -0.22157817451946896,
+   "kpna_max": -0.009686821617796496,
+   "cargo_axis": -0.32378133645130724,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "colonocytes",
+   "delta_restriction": 0.6965167631190908,
+   "delta_rank": 20,
+   "KPNA1_z": -1.6451936919409609,
+   "KPNA5_z": -1.5933370506687834,
+   "KPNA6_z": -0.4918434532761587,
+   "KPNA1_nCPM": 34.49999999999999,
+   "KPNA5_nCPM": 6.799999999999999,
+   "KPNA6_nCPM": 24.4,
+   "KPNA_axis": -1.243458065295301,
+   "kpna_max": -0.4918434532761587,
+   "cargo_axis": 0.10725449124536961,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "epididymal efferent duct ciliated cells",
+   "delta_restriction": 0.6892458167533638,
+   "delta_rank": 21,
+   "KPNA1_z": -0.096460870009247,
+   "KPNA5_z": 0.5019256515458178,
+   "KPNA6_z": -0.962399759481228,
+   "KPNA1_nCPM": 71.8,
+   "KPNA5_nCPM": 46.99999999999999,
+   "KPNA6_nCPM": 17.199999999999996,
+   "KPNA_axis": -0.18564499264821907,
+   "kpna_max": 0.5019256515458178,
+   "cargo_axis": -0.03379946316355774,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "cdc",
+   "delta_restriction": 0.6358376400546567,
+   "delta_rank": 22,
+   "KPNA1_z": 0.23257076975113933,
+   "KPNA5_z": -0.2006155698928919,
+   "KPNA6_z": -0.12232089551353435,
+   "KPNA1_nCPM": 83.79999999999998,
+   "KPNA5_nCPM": 25.100000000000005,
+   "KPNA6_nCPM": 32.0,
+   "KPNA_axis": -0.030121898551762307,
+   "kpna_max": 0.23257076975113933,
+   "cargo_axis": 1.0488047336958826,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "myeloid",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "goblet cells",
+   "delta_restriction": 0.6336416705094098,
+   "delta_rank": 23,
+   "KPNA1_z": -0.826200515103423,
+   "KPNA5_z": -0.9954705637053658,
+   "KPNA6_z": 0.06938922819099821,
+   "KPNA1_nCPM": 50.9,
+   "KPNA5_nCPM": 12.099999999999998,
+   "KPNA6_nCPM": 36.8,
+   "KPNA_axis": -0.5840939502059302,
+   "kpna_max": 0.06938922819099821,
+   "cargo_axis": -0.13287103000548856,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "salivary duct cells",
+   "delta_restriction": 0.6151801860089433,
+   "delta_rank": 24,
+   "KPNA1_z": -0.2530840096696882,
+   "KPNA5_z": -0.6037198775619663,
+   "KPNA6_z": -0.1879928891888952,
+   "KPNA1_nCPM": 66.69999999999999,
+   "KPNA5_nCPM": 17.399999999999995,
+   "KPNA6_nCPM": 30.499999999999993,
+   "KPNA_axis": -0.3482655921401832,
+   "kpna_max": -0.1879928891888952,
+   "cargo_axis": 0.06929279653037812,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "fallopian tube ciliated cells",
+   "delta_restriction": 0.597400549521236,
+   "delta_rank": 25,
+   "KPNA1_z": -0.049579478047942355,
+   "KPNA5_z": 0.764982471421697,
+   "KPNA6_z": -1.363357019314382,
+   "KPNA1_nCPM": 73.40000000000002,
+   "KPNA5_nCPM": 59.29999999999998,
+   "KPNA6_nCPM": 12.699999999999998,
+   "KPNA_axis": -0.21598467531354248,
+   "kpna_max": 0.764982471421697,
+   "cargo_axis": -0.2620157516953604,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "prostatic hillock cells",
+   "delta_restriction": 0.5758727694518676,
+   "delta_rank": 26,
+   "KPNA1_z": -0.31775029728885545,
+   "KPNA5_z": -0.3820534933657925,
+   "KPNA6_z": 0.3249027903216607,
+   "KPNA1_nCPM": 64.70000000000002,
+   "KPNA5_nCPM": 21.3,
+   "KPNA6_nCPM": 44.3,
+   "KPNA_axis": -0.12496700011099575,
+   "kpna_max": 0.3249027903216607,
+   "cargo_axis": -0.10598411336243413,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "granulosa cells",
+   "delta_restriction": 0.5723731226433546,
+   "delta_rank": 27,
+   "KPNA1_z": -1.4814813559809465,
+   "KPNA5_z": 0.5209855067904705,
+   "KPNA6_z": -0.2474895799699419,
+   "KPNA1_nCPM": 37.29999999999999,
+   "KPNA5_nCPM": 47.800000000000004,
+   "KPNA6_nCPM": 29.199999999999992,
+   "KPNA_axis": -0.4026618097201393,
+   "kpna_max": 0.5209855067904705,
+   "cargo_axis": 0.06621471439089094,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "foveolar cells",
+   "delta_restriction": 0.5287229804669804,
+   "delta_rank": 30,
+   "KPNA1_z": -0.5570246815844101,
+   "KPNA5_z": -1.2180941115562165,
+   "KPNA6_z": 0.277366538681835,
+   "KPNA1_nCPM": 57.800000000000004,
+   "KPNA5_nCPM": 9.799999999999999,
+   "KPNA6_nCPM": 42.8,
+   "KPNA_axis": -0.49925075148626386,
+   "kpna_max": 0.277366538681835,
+   "cargo_axis": 0.530560253995124,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "epididymal efferent duct absorptive cells",
+   "delta_restriction": 0.4929749163415373,
+   "delta_rank": 33,
+   "KPNA1_z": -0.677697229326811,
+   "KPNA5_z": -0.01719886765552655,
+   "KPNA6_z": -0.9546644344576276,
+   "KPNA1_nCPM": 54.6,
+   "KPNA5_nCPM": 29.60000000000001,
+   "KPNA6_nCPM": 17.3,
+   "KPNA_axis": -0.5498535104799883,
+   "kpna_max": -0.01719886765552655,
+   "cargo_axis": -0.8525306364339822,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "hepatocytes",
+   "delta_restriction": 0.46690448673783624,
+   "delta_rank": 34,
+   "KPNA1_z": 0.5794730597978562,
+   "KPNA5_z": -1.3184264943123296,
+   "KPNA6_z": -0.20603394347576504,
+   "KPNA1_nCPM": 98.59999999999998,
+   "KPNA5_nCPM": 8.9,
+   "KPNA6_nCPM": 30.099999999999998,
+   "KPNA_axis": -0.3149957926634128,
+   "kpna_max": 0.5794730597978562,
+   "cargo_axis": 0.6193677820429252,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "hepatic",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "esophageal suprabasal cells",
+   "delta_restriction": 0.42103647312720366,
+   "delta_rank": 36,
+   "KPNA1_z": -0.144384155503314,
+   "KPNA5_z": -1.3539091397112315,
+   "KPNA6_z": -0.6883110177131352,
+   "KPNA1_nCPM": 70.19999999999999,
+   "KPNA5_nCPM": 8.6,
+   "KPNA6_nCPM": 21.100000000000005,
+   "KPNA_axis": -0.7288681043092269,
+   "kpna_max": -0.144384155503314,
+   "cargo_axis": 0.2757125304405309,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "epididymal principal cells",
+   "delta_restriction": 0.4202373786999463,
+   "delta_rank": 37,
+   "KPNA1_z": -0.3641989043212111,
+   "KPNA5_z": -1.261612294620571,
+   "KPNA6_z": -0.5956063852796105,
+   "KPNA1_nCPM": 63.29999999999998,
+   "KPNA5_nCPM": 9.399999999999999,
+   "KPNA6_nCPM": 22.599999999999998,
+   "KPNA_axis": -0.7404725280737976,
+   "kpna_max": -0.3641989043212111,
+   "cargo_axis": 0.45405971566171854,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "submucosal glandular cells",
+   "delta_restriction": 0.4154324165978613,
+   "delta_rank": 38,
+   "KPNA1_z": -0.9283004875959269,
+   "KPNA5_z": -0.39767127146173537,
+   "KPNA6_z": -0.5030031421006036,
+   "KPNA1_nCPM": 48.49999999999999,
+   "KPNA5_nCPM": 20.999999999999996,
+   "KPNA6_nCPM": 24.200000000000006,
+   "KPNA_axis": -0.6096583003860886,
+   "kpna_max": -0.39767127146173537,
+   "cargo_axis": 0.16204893388960254,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "airway_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "respiratory secretory cells",
+   "delta_restriction": 0.39648665571262764,
+   "delta_rank": 39,
+   "KPNA1_z": -0.5062821263758233,
+   "KPNA5_z": -0.47348885542155267,
+   "KPNA6_z": -0.19248158385999892,
+   "KPNA1_nCPM": 59.2,
+   "KPNA5_nCPM": 19.600000000000005,
+   "KPNA6_nCPM": 30.39999999999999,
+   "KPNA_axis": -0.39075085521912495,
+   "kpna_max": -0.19248158385999892,
+   "cargo_axis": -0.10380804842568891,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "airway_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "pancreatic acinar cells",
+   "delta_restriction": 0.37972183720656205,
+   "delta_rank": 40,
+   "KPNA1_z": -0.2435491713025731,
+   "KPNA5_z": -0.4847386518587543,
+   "KPNA6_z": 0.14924921349960574,
+   "KPNA1_nCPM": 67.00000000000001,
+   "KPNA5_nCPM": 19.400000000000002,
+   "KPNA6_nCPM": 38.99999999999999,
+   "KPNA_axis": -0.19301286988724056,
+   "kpna_max": 0.14924921349960574,
+   "cargo_axis": -0.13071898933672638,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "schwann cells",
+   "delta_restriction": 0.37614050268187543,
+   "delta_rank": 41,
+   "KPNA1_z": 0.19667169176623528,
+   "KPNA5_z": -0.1874371980126773,
+   "KPNA6_z": -0.07189791816224662,
+   "KPNA1_nCPM": 82.40000000000002,
+   "KPNA5_nCPM": 25.4,
+   "KPNA6_nCPM": 33.2,
+   "KPNA_axis": -0.02088780813622955,
+   "kpna_max": 0.19667169176623528,
+   "cargo_axis": 0.576473935724279,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "basal prostatic cells",
+   "delta_restriction": 0.35873105928989757,
+   "delta_rank": 42,
+   "KPNA1_z": -0.8428850014072808,
+   "KPNA5_z": 0.35342916812615555,
+   "KPNA6_z": 0.0315399560938641,
+   "KPNA1_nCPM": 50.5,
+   "KPNA5_nCPM": 41.2,
+   "KPNA6_nCPM": 35.8,
+   "KPNA_axis": -0.15263862572908707,
+   "kpna_max": 0.35342916812615555,
+   "cargo_axis": -0.189926702393676,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "gastric progenitor cells",
+   "delta_restriction": 0.3323416053854063,
+   "delta_rank": 44,
+   "KPNA1_z": -0.7089508067743638,
+   "KPNA5_z": -0.736405745075966,
+   "KPNA6_z": -0.909121991905919,
+   "KPNA1_nCPM": 53.800000000000004,
+   "KPNA5_nCPM": 15.399999999999995,
+   "KPNA6_nCPM": 17.899999999999995,
+   "KPNA_axis": -0.7848261812520829,
+   "kpna_max": -0.7089508067743638,
+   "cargo_axis": -0.1102533709442925,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "esophageal basal cells",
+   "delta_restriction": 0.28932239368335066,
+   "delta_rank": 46,
+   "KPNA1_z": -0.41167004665897555,
+   "KPNA5_z": -1.0221843836630191,
+   "KPNA6_z": -0.30960454931378706,
+   "KPNA1_nCPM": 61.89999999999999,
+   "KPNA5_nCPM": 11.799999999999999,
+   "KPNA6_nCPM": 27.899999999999995,
+   "KPNA_axis": -0.5811529932119273,
+   "kpna_max": -0.30960454931378706,
+   "cargo_axis": -0.3006782019130224,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "paneth cells",
+   "delta_restriction": 0.2421811271191973,
+   "delta_rank": 51,
+   "KPNA1_z": -3.297412952104323,
+   "KPNA5_z": -1.0403437351613358,
+   "KPNA6_z": -1.1008321156104515,
+   "KPNA1_nCPM": 15.5,
+   "KPNA5_nCPM": 11.600000000000001,
+   "KPNA6_nCPM": 15.5,
+   "KPNA_axis": -1.8128629342920366,
+   "kpna_max": -1.0403437351613358,
+   "cargo_axis": -1.5517907602960692,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "endometrial secretory cells",
+   "delta_restriction": 0.23633111676878607,
+   "delta_rank": 53,
+   "KPNA1_z": 0.15226091000414188,
+   "KPNA5_z": -0.4847386518587543,
+   "KPNA6_z": -0.20603394347576504,
+   "KPNA1_nCPM": 80.7,
+   "KPNA5_nCPM": 19.400000000000002,
+   "KPNA6_nCPM": 30.099999999999998,
+   "KPNA_axis": -0.17950389511012585,
+   "kpna_max": 0.15226091000414188,
+   "cargo_axis": 0.6298780195457954,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "decidual stromal cells",
+   "delta_restriction": 0.22087701318342554,
+   "delta_rank": 54,
+   "KPNA1_z": -1.6757822771138846,
+   "KPNA5_z": -0.616322134022463,
+   "KPNA6_z": -0.027207492289570465,
+   "KPNA1_nCPM": 34.0,
+   "KPNA5_nCPM": 17.199999999999996,
+   "KPNA6_nCPM": 34.300000000000004,
+   "KPNA_axis": -0.7731039678086393,
+   "kpna_max": -0.027207492289570465,
+   "cargo_axis": -0.212430946459006,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "mucous neck cells",
+   "delta_restriction": 0.2149118327279759,
+   "delta_rank": 56,
+   "KPNA1_z": -0.2594640708249557,
+   "KPNA5_z": -0.25026725140051,
+   "KPNA6_z": -0.32928003554214,
+   "KPNA1_nCPM": 66.49999999999999,
+   "KPNA5_nCPM": 24.000000000000007,
+   "KPNA6_nCPM": 27.5,
+   "KPNA_axis": -0.2796704525892019,
+   "kpna_max": -0.25026725140051,
+   "cargo_axis": 0.04144902531837778,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "endometrial glandular cells",
+   "delta_restriction": 0.20223231043421344,
+   "delta_rank": 57,
+   "KPNA1_z": 0.6912754382181053,
+   "KPNA5_z": -1.0681305011241777,
+   "KPNA6_z": 0.6392896414636065,
+   "KPNA1_nCPM": 103.90000000000003,
+   "KPNA5_nCPM": 11.300000000000004,
+   "KPNA6_nCPM": 55.6,
+   "KPNA_axis": 0.08747819285251135,
+   "kpna_max": 0.6912754382181053,
+   "cargo_axis": 0.8079102167226428,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "parietal cells",
+   "delta_restriction": 0.19939617059500955,
+   "delta_rank": 58,
+   "KPNA1_z": -0.47428132170417237,
+   "KPNA5_z": -0.14036556070756565,
+   "KPNA6_z": -1.2260008000668583,
+   "KPNA1_nCPM": 60.1,
+   "KPNA5_nCPM": 26.5,
+   "KPNA6_nCPM": 14.100000000000001,
+   "KPNA_axis": -0.6135492274928654,
+   "kpna_max": -0.14036556070756565,
+   "cargo_axis": -1.2204360199095645,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "gastric chief cells",
+   "delta_restriction": 0.19309378364679966,
+   "delta_rank": 59,
+   "KPNA1_z": -0.677697229326811,
+   "KPNA5_z": -0.153013895810542,
+   "KPNA6_z": -1.4373953564033564,
+   "KPNA1_nCPM": 54.6,
+   "KPNA5_nCPM": 26.2,
+   "KPNA6_nCPM": 11.999999999999998,
+   "KPNA_axis": -0.7560354938469032,
+   "kpna_max": -0.153013895810542,
+   "cargo_axis": -0.778064338127098,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "ovarian stromal cells",
+   "delta_restriction": 0.1909144451534881,
+   "delta_rank": 60,
+   "KPNA1_z": -1.387827290688742,
+   "KPNA5_z": 0.9103193950430463,
+   "KPNA6_z": 0.03537087644941532,
+   "KPNA1_nCPM": 38.99999999999999,
+   "KPNA5_nCPM": 67.40000000000002,
+   "KPNA6_nCPM": 35.900000000000006,
+   "KPNA_axis": -0.14737900639876017,
+   "kpna_max": 0.9103193950430463,
+   "cargo_axis": -0.2023041576075617,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "suprabasal keratinocytes",
+   "delta_restriction": 0.12858178306934956,
+   "delta_rank": 67,
+   "KPNA1_z": 0.5335193766473697,
+   "KPNA5_z": -0.8944048931734564,
+   "KPNA6_z": 0.621721676086632,
+   "KPNA1_nCPM": 96.5,
+   "KPNA5_nCPM": 13.300000000000002,
+   "KPNA6_nCPM": 54.900000000000006,
+   "KPNA_axis": 0.08694538652018176,
+   "kpna_max": 0.621721676086632,
+   "cargo_axis": -0.47743011834695626,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "breast secretory cells",
+   "delta_restriction": 0.12847672853289302,
+   "delta_rank": 68,
+   "KPNA1_z": -0.5387649696292405,
+   "KPNA5_z": -0.2688659608727383,
+   "KPNA6_z": -0.4056063687311301,
+   "KPNA1_nCPM": 58.3,
+   "KPNA5_nCPM": 23.599999999999998,
+   "KPNA6_nCPM": 26.000000000000004,
+   "KPNA_axis": -0.40441243307770297,
+   "kpna_max": -0.2688659608727383,
+   "cargo_axis": -0.4815223242699451,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "epididymal clear cells",
+   "delta_restriction": 0.12498766566224728,
+   "delta_rank": 69,
+   "KPNA1_z": -0.3641989043212111,
+   "KPNA5_z": 0.16055150873935367,
+   "KPNA6_z": -0.3797030128934278,
+   "KPNA1_nCPM": 63.29999999999998,
+   "KPNA5_nCPM": 34.7,
+   "KPNA6_nCPM": 26.5,
+   "KPNA_axis": -0.1944501361584284,
+   "kpna_max": 0.16055150873935367,
+   "cargo_axis": -0.6776406281205754,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "enteric transient amplifying cells",
+   "delta_restriction": 0.12352826445902472,
+   "delta_rank": 70,
+   "KPNA1_z": -1.9654983572240723,
+   "KPNA5_z": -1.5933370506687834,
+   "KPNA6_z": -0.46432419423190185,
+   "KPNA1_nCPM": 29.60000000000001,
+   "KPNA5_nCPM": 6.799999999999999,
+   "KPNA6_nCPM": 24.900000000000006,
+   "KPNA_axis": -1.3410532007082525,
+   "kpna_max": -0.46432419423190185,
+   "cargo_axis": -0.6791545393394012,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "gut_epithelium",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "breast myoepithelial cells",
+   "delta_restriction": 0.11901508669408219,
+   "delta_rank": 71,
+   "KPNA1_z": -1.4984391820108092,
+   "KPNA5_z": -0.37175793399966484,
+   "KPNA6_z": -1.2543300440657392,
+   "KPNA1_nCPM": 36.99999999999999,
+   "KPNA5_nCPM": 21.5,
+   "KPNA6_nCPM": 13.800000000000004,
+   "KPNA_axis": -1.0415090533587377,
+   "kpna_max": -0.37175793399966484,
+   "cargo_axis": -0.17202897198315173,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "syncytiotrophoblasts",
+   "delta_restriction": 0.10572549324189766,
+   "delta_rank": 72,
+   "KPNA1_z": -0.6392566553524032,
+   "KPNA5_z": -1.6082159021206766,
+   "KPNA6_z": 2.044040666725928,
+   "KPNA1_nCPM": 55.6,
+   "KPNA5_nCPM": 6.699999999999999,
+   "KPNA6_nCPM": 152.09999999999994,
+   "KPNA_axis": -0.06781063024905054,
+   "kpna_max": 2.044040666725928,
+   "cargo_axis": -1.4769640700521143,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "fibroblasts",
+   "delta_restriction": 0.10386309342483842,
+   "delta_rank": 73,
+   "KPNA1_z": -0.07289277643303761,
+   "KPNA5_z": 0.1955446626894738,
+   "KPNA6_z": 0.12432585998150159,
+   "KPNA1_nCPM": 72.60000000000001,
+   "KPNA5_nCPM": 35.8,
+   "KPNA6_nCPM": 38.29999999999999,
+   "KPNA_axis": 0.08232591541264593,
+   "kpna_max": 0.1955446626894738,
+   "cargo_axis": 0.6660754057485149,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "conjunctival goblet cells",
+   "delta_restriction": 0.09608526993967563,
+   "delta_rank": 75,
+   "KPNA1_z": -0.5754403280652473,
+   "KPNA5_z": -0.23651247611485163,
+   "KPNA6_z": -0.03925615676347329,
+   "KPNA1_nCPM": 57.3,
+   "KPNA5_nCPM": 24.300000000000004,
+   "KPNA6_nCPM": 34.0,
+   "KPNA_axis": -0.28373632031452406,
+   "kpna_max": -0.03925615676347329,
+   "cargo_axis": -0.040170065505449826,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "",
+   "sanctuary_groups": ""
+  },
+  {
+   "cell_type": "cholangiocytes",
+   "delta_restriction": 0.07428179980507389,
+   "delta_rank": 76,
+   "KPNA1_z": -1.2268615433269263,
+   "KPNA5_z": -0.23651247611485163,
+   "KPNA6_z": -0.45888413630643915,
+   "KPNA1_nCPM": 42.099999999999994,
+   "KPNA5_nCPM": 24.300000000000004,
+   "KPNA6_nCPM": 25.0,
+   "KPNA_axis": -0.640752718582739,
+   "kpna_max": -0.23651247611485163,
+   "cargo_axis": -0.029133422243303286,
+   "quadrant": "Q2_highD_lowK",
+   "amplified_groups": "hepatic",
+   "sanctuary_groups": ""
+  }
+ ],
+ "compartment_hits": {
+  "amplified": {
+   "gut_epithelium": [
+    "colonocytes",
+    "enteric stem cells",
+    "enteric transient amplifying cells",
+    "enterocytes",
+    "foveolar cells",
+    "gastric chief cells",
+    "gastric progenitor cells",
+    "goblet cells",
+    "mucous neck cells",
+    "paneth cells",
+    "parietal cells",
+    "tuft cells"
+   ],
+   "urinary_renal_epithelium": [
+    "distal convoluted tubule cells",
+    "loop of henle epithelial cells",
+    "papillary tip epithelial cells",
+    "podocytes",
+    "proximal tubule cells",
+    "renal collecting duct intercalated cells",
+    "renal collecting duct principal cells",
+    "renal connecting tubule cells",
+    "urothelial cells"
+   ],
+   "hepatic": [
+    "cholangiocytes",
+    "hepatic stellate cells",
+    "hepatocytes",
+    "kupffer cells"
+   ],
+   "airway_epithelium": [
+    "alveolar cells type 1",
+    "alveolar cells type 2",
+    "respiratory basal cells",
+    "respiratory ciliated cells",
+    "respiratory deuterosomal cells",
+    "respiratory ionocytes",
+    "respiratory secretory cells",
+    "submucosal glandular cells",
+    "transitional alveolar cells"
+   ],
+   "myeloid": [
+    "cdc",
+    "hofbauer cells",
+    "kupffer cells",
+    "macrophages",
+    "mast cells",
+    "microglia",
+    "monocyte progenitors",
+    "monocytes",
+    "neutrophil progenitors",
+    "neutrophils",
+    "pdcs"
+   ]
+  },
+  "sanctuary": {
+   "retina_PPE_and_neurons": [
+    "cone photoreceptor cells",
+    "müller glia",
+    "retinal amacrine cells",
+    "retinal bipolar cells",
+    "retinal ganglion cells",
+    "retinal horizontal cells",
+    "retinal pigment epithelial cells",
+    "rod photoreceptor cells"
+   ],
+   "retina_PPE_only": [
+    "retinal pigment epithelial cells"
+   ],
+   "photoreceptors_only": [
+    "cone photoreceptor cells",
+    "rod photoreceptor cells"
+   ],
+   "testis_somatic": [
+    "leydig cells",
+    "peritubular myoid cells",
+    "sertoli cells"
+   ],
+   "testis_germline": [
+    "differentiating spermatogonia",
+    "early primary spermatocytes",
+    "early spermatids",
+    "late primary spermatocytes",
+    "late spermatids",
+    "oocytes",
+    "undifferentiated spermatogonia"
+   ],
+   "choroid_plexus": [
+    "choroid plexus epithelial cells"
+   ],
+   "ependymal": [
+    "ependymal cells"
+   ]
+  }
+ },
+ "sensitivity_rank_drift": {
+  "Delta_adj_equal": {
+   "spearman_vs_delta": 0.6268184693232133,
+   "top20_overlap": 10,
+   "largest_moves": [
+    {
+     "cell_type": "myonuclei",
+     "delta_rank": 131,
+     "new_rank": 16
+    },
+    {
+     "cell_type": "colonocytes",
+     "delta_rank": 20,
+     "new_rank": 119
+    },
+    {
+     "cell_type": "paneth cells",
+     "delta_rank": 51,
+     "new_rank": 147
+    },
+    {
+     "cell_type": "lactotrophs",
+     "delta_rank": 109,
+     "new_rank": 15
+    },
+    {
+     "cell_type": "pituicytes/fscs",
+     "delta_rank": 101,
+     "new_rank": 14
+    },
+    {
+     "cell_type": "thyrotrophs",
+     "delta_rank": 112,
+     "new_rank": 31
+    },
+    {
+     "cell_type": "somatotrophs",
+     "delta_rank": 89,
+     "new_rank": 11
+    },
+    {
+     "cell_type": "gonadotrophs",
+     "delta_rank": 105,
+     "new_rank": 29
+    }
+   ]
+  },
+  "Delta_adj_min": {
+   "spearman_vs_delta": 0.5319976671020316,
+   "top20_overlap": 6,
+   "largest_moves": [
+    {
+     "cell_type": "esophageal apical cells",
+     "delta_rank": 3,
+     "new_rank": 143
+    },
+    {
+     "cell_type": "enterocytes",
+     "delta_rank": 5,
+     "new_rank": 133
+    },
+    {
+     "cell_type": "colonocytes",
+     "delta_rank": 20,
+     "new_rank": 138
+    },
+    {
+     "cell_type": "hofbauer cells",
+     "delta_rank": 8,
+     "new_rank": 122
+    },
+    {
+     "cell_type": "extravillous trophoblasts",
+     "delta_rank": 1,
+     "new_rank": 109
+    },
+    {
+     "cell_type": "migrating cytotrophoblasts",
+     "delta_rank": 15,
+     "new_rank": 117
+    },
+    {
+     "cell_type": "paneth cells",
+     "delta_rank": 51,
+     "new_rank": 151
+    },
+    {
+     "cell_type": "epididymal basal cells",
+     "delta_rank": 18,
+     "new_rank": 96
+    }
+   ]
+  },
+  "Delta_adj_maxK": {
+   "spearman_vs_delta": 0.5504177037383869,
+   "top20_overlap": 9,
+   "largest_moves": [
+    {
+     "cell_type": "late primary spermatocytes",
+     "delta_rank": 148,
+     "new_rank": 16
+    },
+    {
+     "cell_type": "late spermatids",
+     "delta_rank": 130,
+     "new_rank": 7
+    },
+    {
+     "cell_type": "myonuclei",
+     "delta_rank": 131,
+     "new_rank": 21
+    },
+    {
+     "cell_type": "paneth cells",
+     "delta_rank": 51,
+     "new_rank": 145
+    },
+    {
+     "cell_type": "neutrophil progenitors",
+     "delta_rank": 99,
+     "new_rank": 8
+    },
+    {
+     "cell_type": "gastric progenitor cells",
+     "delta_rank": 44,
+     "new_rank": 134
+    },
+    {
+     "cell_type": "pituicytes/fscs",
+     "delta_rank": 101,
+     "new_rank": 17
+    },
+    {
+     "cell_type": "lactotrophs",
+     "delta_rank": 109,
+     "new_rank": 29
+    }
+   ]
+  }
+ }
+}

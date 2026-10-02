@@ -1,0 +1,58 @@
+protein_accession	length_aa	class	collection_date	country	isolate	nucleotide_accession	definition	same_length_as_ebov	n_sub_vs_EBOV_unaligned	pos83	pos135	pos140	pos141	pos184	pos217	four_position_motif
+QNC49636	95	partial	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120004"	MT680256.1	membrane-associated protein, partial [Bundibugyo virus]	False								NA
+AKB09567	251	full_length	01-Oct-2007		"Bundibugyo
+                     virus/H.sapiens-tc/UGA/2007/Butalya-811250"	KR063673.1	membrane-associated protein VP24 [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+QNC49699	251	full_length	09-Sep-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-201200120-1"	MT742157.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+ALT19774	251	full_length	14-Nov-2007		"Bundibugyo virus/H.
+                     sapiens-tc/UGA/2007/Bundibugyo-200706291"	KU182911.1	membrane-associated protein VP24 [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+QNC49537	251	full_length	20-Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120022-1"	MT680245.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49690	251	full_length	20-Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120022-1"	MT680262.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+AYI50311	251	full_length	2007		"Ebola
+                     virus/H.sapiens-tc/Uganda/2007/Bundibugyo-R4386L"	MK028834.1	membrane-associated protein [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+AYI50320	251	full_length	2007		"Ebola
+                     virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291"	MK028835.1	membrane-associated protein [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+AYI50386	251	full_length	2007		"Ebola
+                     virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291"	MK028856.1	membrane-associated protein [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+QYU59242	251	full_length	2007		Ebolavirus H.sapiens-tc/2007	MT583343.1	membrane-associated protein [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+QYU59251	251	full_length	2007		Ebolavirus H.sapiens-tc/2007	MT583344.1	membrane-associated protein [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+AGL73455	251	full_length	2012		EboBund-112 2012	KC545393.1	VP24 [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+AGL73462	251	full_length	2012		EboBund-120 2012	KC545394.1	VP24 [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+AGL73469	251	full_length	2012		EboBund-122 2012	KC545395.1	VP24 [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+AGL73476	251	full_length	2012		EboBund-14 2012	KC545396.1	VP24 [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49546	251	full_length	21-Sep-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120143-3"	MT680246.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49555	251	full_length	21-Sep-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120143"	MT680247.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49564	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-201200004"	MT680248.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49573	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120037"	MT680249.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49582	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120074-1"	MT680250.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49591	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120115-1"	MT680251.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49600	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120120-1"	MT680252.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49609	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120130"	MT680253.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49618	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120135"	MT680254.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49627	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-tc/COD/2012/Isiro-20120138"	MT680255.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49645	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120109-2"	MT680257.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49654	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120074-1"	MT680258.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49663	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120115-1"	MT680259.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49672	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120116-3"	MT680260.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+QNC49681	251	full_length	Aug-2012		"Bundibugyo
+                     virus/H.sapiens-wt/COD/2012/Isiro-20120130"	MT680261.1	membrane-associated protein [Bundibugyo virus]	True	36	S	Q	H	A	R	V	SQHA
+ACI28626	251	full_length	Nov-2007			FJ217161.1	VP24 [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA
+YP_003815439	251	full_length	Nov-2007		"Bundibugyo
+                     virus/H.sapiens-tc/UGA/2007/Butalya-811250"		membrane-associated protein [Bundibugyo virus]	True	35	S	Q	H	A	R	V	SQHA

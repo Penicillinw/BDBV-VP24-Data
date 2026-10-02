@@ -1,0 +1,717 @@
+{
+ "floor_cells": 50,
+ "bottom_quartile_rank": 116,
+ "n_reference_classes": 154,
+ "n_frozen_mapped": 97,
+ "n_atlas_labels": 412,
+ "S19": {
+  "classification": {
+   "MAPPED_CONNECTED": 40,
+   "MAPPED_UNCONNECTED": 57,
+   "UNMAPPED_CONTAINMENT_CANDIDATE": 18,
+   "UNMAPPED_NO_WITNESS": 39
+  },
+  "n_low_end": 41,
+  "low_end_classification": {
+   "MAPPED_CONNECTED": 7,
+   "MAPPED_UNCONNECTED": 21,
+   "UNMAPPED_CONTAINMENT_CANDIDATE": 2,
+   "UNMAPPED_NO_WITNESS": 11
+  }
+ },
+ "S26": {
+  "classification": {
+   "MAPPED_CONNECTED": 51,
+   "MAPPED_UNCONNECTED": 46,
+   "UNMAPPED_CONTAINMENT_CANDIDATE": 28,
+   "UNMAPPED_NAME_IDENTICAL": 1,
+   "UNMAPPED_NO_WITNESS": 28
+  },
+  "n_low_end": 41,
+  "low_end_classification": {
+   "MAPPED_CONNECTED": 14,
+   "MAPPED_UNCONNECTED": 14,
+   "UNMAPPED_CONTAINMENT_CANDIDATE": 7,
+   "UNMAPPED_NO_WITNESS": 6
+  }
+ },
+ "atlases_without_contrast": [
+  "gut_APC_lamina_propria.h5ad",
+  "cfa755c1_Supercluster__Choroid_plexus.h5ad"
+ ],
+ "low_end_closure": {
+  "n_low_end": 41,
+  "n_connected_in_S19": 7,
+  "n_connected_in_S26": 14,
+  "n_closed_by_the_7_new_atlases": 7,
+  "closed": [
+   {
+    "reference_cell_type": "cardiomyocytes",
+    "reference_rank": 147,
+    "reference_delta": -1.0551,
+    "atlases": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad"
+   },
+   {
+    "reference_cell_type": "choroid plexus epithelial cells",
+    "reference_rank": 94,
+    "reference_delta": -0.08,
+    "atlases": "cfa755c1_Supercluster__Choroid_plexus.h5ad"
+   },
+   {
+    "reference_cell_type": "proximal tubule cells",
+    "reference_rank": 128,
+    "reference_delta": -0.6551,
+    "atlases": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad"
+   },
+   {
+    "reference_cell_type": "retinal ganglion cells",
+    "reference_rank": 153,
+    "reference_delta": -1.2906,
+    "atlases": "e6dad530_All_cell_types_of_human_eye.h5ad"
+   },
+   {
+    "reference_cell_type": "retinal pigment epithelial cells",
+    "reference_rank": 143,
+    "reference_delta": -1.0246,
+    "atlases": "e6dad530_All_cell_types_of_human_eye.h5ad"
+   },
+   {
+    "reference_cell_type": "sertoli cells",
+    "reference_rank": 129,
+    "reference_delta": -0.6769,
+    "atlases": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad;43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad"
+   },
+   {
+    "reference_cell_type": "urothelial cells",
+    "reference_rank": 7,
+    "reference_delta": 1.1309,
+    "atlases": "3e524d45_Human_adult_ureter.h5ad;8e5978bd_Adult_bladder_urothelial_subset.h5ad"
+   }
+  ],
+  "n_still_not_connected_in_S26": 27,
+  "still_not_connected": [
+   {
+    "reference_cell_type": "adipocytes",
+    "reference_rank": 149,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "adrenal cortex cells",
+    "reference_rank": 138,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "synonym",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "adrenal medulla cells",
+    "reference_rank": 145,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "synonym",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "bergmann glia",
+    "reference_rank": 120,
+    "classification_S26": "UNMAPPED_NO_WITNESS",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "cone photoreceptor cells",
+    "reference_rank": 151,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "distal convoluted tubule cells",
+    "reference_rank": 121,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "curated",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "early primary spermatocytes",
+    "reference_rank": 150,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "curated",
+    "name_level_hits": 1
+   },
+   {
+    "reference_cell_type": "early spermatids",
+    "reference_rank": 133,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 1
+   },
+   {
+    "reference_cell_type": "epicardial cells",
+    "reference_rank": 126,
+    "classification_S26": "UNMAPPED_NO_WITNESS",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "fibro-adipogenic progenitors",
+    "reference_rank": 136,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "synonym",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "hepatic stellate cells",
+    "reference_rank": 122,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "late primary spermatocytes",
+    "reference_rank": 148,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "curated",
+    "name_level_hits": 1
+   },
+   {
+    "reference_cell_type": "late spermatids",
+    "reference_rank": 130,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 1
+   },
+   {
+    "reference_cell_type": "loop of henle epithelial cells",
+    "reference_rank": 118,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 5
+   },
+   {
+    "reference_cell_type": "megakaryocyte progenitors",
+    "reference_rank": 135,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "curated",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "megakaryocytes",
+    "reference_rank": 137,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "myonuclei",
+    "reference_rank": 131,
+    "classification_S26": "UNMAPPED_NO_WITNESS",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "myosatellite cells",
+    "reference_rank": 125,
+    "classification_S26": "UNMAPPED_NO_WITNESS",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "oocytes",
+    "reference_rank": 141,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "pituitary stem cells",
+    "reference_rank": 117,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "platelets",
+    "reference_rank": 146,
+    "classification_S26": "MAPPED_UNCONNECTED",
+    "frozen_route": "exact_label",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "renal connecting tubule cells",
+    "reference_rank": 119,
+    "classification_S26": "UNMAPPED_NO_WITNESS",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "retinal amacrine cells",
+    "reference_rank": 124,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 1
+   },
+   {
+    "reference_cell_type": "retinal bipolar cells",
+    "reference_rank": 132,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "retinal horizontal cells",
+    "reference_rank": 140,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "rod photoreceptor cells",
+    "reference_rank": 142,
+    "classification_S26": "UNMAPPED_CONTAINMENT_CANDIDATE",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   },
+   {
+    "reference_cell_type": "thymic myoid cells",
+    "reference_rank": 152,
+    "classification_S26": "UNMAPPED_NO_WITNESS",
+    "frozen_route": "(no mapping)",
+    "name_level_hits": 0
+   }
+  ]
+ },
+ "granularity_mismatch_S26": {
+  "n_classes": 82,
+  "n_low_end": 23,
+  "classes": [
+   "adrenal cortex cells",
+   "alveolar cells type 1",
+   "alveolar cells type 2",
+   "b-cells",
+   "cdc",
+   "cholangiocytes",
+   "choroid plexus epithelial cells",
+   "colonocytes",
+   "conjunctival goblet cells",
+   "corticotrophs",
+   "decidual stromal cells",
+   "differentiating spermatogonia",
+   "distal convoluted tubule cells",
+   "early primary spermatocytes",
+   "early spermatids",
+   "endometrial stromal cells",
+   "enterocytes",
+   "ependymal cells",
+   "erythrocyte progenitors",
+   "erythrocytes",
+   "fallopian tube ciliated cells",
+   "fibroblasts",
+   "gastric chief cells",
+   "goblet cells",
+   "gonadotrophs",
+   "granulosa cells",
+   "hematopoietic stem cells",
+   "hepatic stellate cells",
+   "hepatocytes",
+   "hofbauer cells",
+   "innate lymphoid cells",
+   "kupffer cells",
+   "lactotrophs",
+   "late primary spermatocytes",
+   "late spermatids",
+   "lymphatic endothelial cells",
+   "macrophages",
+   "mast cells",
+   "medullary thymic epithelial cells",
+   "megakaryocyte progenitors",
+   "megakaryocyte-erythroid progenitors",
+   "megakaryocytes",
+   "mesothelial cells",
+   "microglia",
+   "monocyte progenitors",
+   "monocytes",
+   "mucous neck cells",
+   "neuroendocrine cells",
+   "neutrophil progenitors",
+   "neutrophils",
+   "nk-cells",
+   "oocytes",
+   "ovarian stromal cells",
+   "pancreatic acinar cells",
+   "pancreatic islet cells",
+   "paneth cells",
+   "parietal cells",
+   "pdcs",
+   "peritubular myoid cells",
+   "plasma cells",
+   "platelets",
+   "podocytes",
+   "proximal tubule cells",
+   "respiratory basal cells",
+   "respiratory ciliated cells",
+   "respiratory deuterosomal cells",
+   "respiratory ionocytes",
+   "retinal ganglion cells",
+   "retinal pigment epithelial cells",
+   "salivary acinar cells",
+   "salivary ionocytes",
+   "salivary myoepithelial cells",
+   "sertoli cells",
+   "somatotrophs",
+   "suprabasal keratinocytes",
+   "t-cells",
+   "thymocytes",
+   "thyrotrophs",
+   "tuft cells",
+   "undifferentiated spermatogonia",
+   "urothelial cells",
+   "vascular smooth muscle cells"
+  ]
+ },
+ "selfcheck_A_vs_frozen_pipeline": {
+  "S19": {
+   "recomputed_pairs": 162,
+   "recomputed_atlases_with_pairs": 18,
+   "recomputed_classes_with_pairs": 39,
+   "frozen_b5b_reference": {
+    "pairs": 162,
+    "atlases": 18,
+    "classes": 39
+   },
+   "reproduces_frozen_pipeline": true
+  }
+ },
+ "selfcheck_vs_frozen_mapping_ge_floor": {
+  "n_compared": 97,
+  "n_identical": 32,
+  "n_differing": 65,
+  "differences": [
+   {
+    "reference_cell_type": "adrenal cortex cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "alveolar cells type 1",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "alveolar cells type 2",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "b-cells",
+    "frozen_covering_ge_floor": 8,
+    "recomputed_with_fixed_parser": 11
+   },
+   {
+    "reference_cell_type": "cdc",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 7
+   },
+   {
+    "reference_cell_type": "cholangiocytes",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 3
+   },
+   {
+    "reference_cell_type": "choroid plexus epithelial cells",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "colonocytes",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "conjunctival goblet cells",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "corticotrophs",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "decidual stromal cells",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "differentiating spermatogonia",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "distal convoluted tubule cells",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "early primary spermatocytes",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "early spermatids",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "endometrial stromal cells",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "enterocytes",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 7
+   },
+   {
+    "reference_cell_type": "ependymal cells",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "fallopian tube ciliated cells",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "gastric chief cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "gonadotrophs",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "granulosa cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "hematopoietic stem cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "hepatic stellate cells",
+    "frozen_covering_ge_floor": 8,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "hofbauer cells",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "innate lymphoid cells",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 9
+   },
+   {
+    "reference_cell_type": "lactotrophs",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "late primary spermatocytes",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "late spermatids",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "macrophages",
+    "frozen_covering_ge_floor": 10,
+    "recomputed_with_fixed_parser": 16
+   },
+   {
+    "reference_cell_type": "mesothelial cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "microglia",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "monocyte progenitors",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "monocytes",
+    "frozen_covering_ge_floor": 8,
+    "recomputed_with_fixed_parser": 18
+   },
+   {
+    "reference_cell_type": "mucous neck cells",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "neuroendocrine cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "neutrophil progenitors",
+    "frozen_covering_ge_floor": 7,
+    "recomputed_with_fixed_parser": 8
+   },
+   {
+    "reference_cell_type": "neutrophils",
+    "frozen_covering_ge_floor": 7,
+    "recomputed_with_fixed_parser": 8
+   },
+   {
+    "reference_cell_type": "nk-cells",
+    "frozen_covering_ge_floor": 13,
+    "recomputed_with_fixed_parser": 9
+   },
+   {
+    "reference_cell_type": "ovarian stromal cells",
+    "frozen_covering_ge_floor": 1,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "pancreatic acinar cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "pancreatic islet cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "parietal cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "pdcs",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "peritubular myoid cells",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "podocytes",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "proximal tubule cells",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "respiratory basal cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "respiratory ciliated cells",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "respiratory deuterosomal cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "respiratory ionocytes",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "respiratory secretory cells",
+    "frozen_covering_ge_floor": 0,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "retinal pigment epithelial cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "salivary acinar cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "salivary ionocytes",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "salivary myoepithelial cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "sertoli cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "smooth muscle cells",
+    "frozen_covering_ge_floor": 4,
+    "recomputed_with_fixed_parser": 9
+   },
+   {
+    "reference_cell_type": "somatotrophs",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "suprabasal keratinocytes",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "t-cells",
+    "frozen_covering_ge_floor": 3,
+    "recomputed_with_fixed_parser": 47
+   },
+   {
+    "reference_cell_type": "thyrotrophs",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "undifferentiated spermatogonia",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 1
+   },
+   {
+    "reference_cell_type": "urothelial cells",
+    "frozen_covering_ge_floor": 2,
+    "recomputed_with_fixed_parser": 0
+   },
+   {
+    "reference_cell_type": "vascular endothelial cells",
+    "frozen_covering_ge_floor": 9,
+    "recomputed_with_fixed_parser": 32
+   }
+  ]
+ }
+}

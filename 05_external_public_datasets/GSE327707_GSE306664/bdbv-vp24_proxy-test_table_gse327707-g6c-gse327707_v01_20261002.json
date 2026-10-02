@@ -1,0 +1,336 @@
+{
+ "dataset": "GSE327707",
+ "design": "6 healthy donors; FACS-sorted Whole PBMC / CD14 / CD4 / CD8 / B cell; 48 h BCS, CytoStim, LPS, IFN-alpha, and unstimulated baseline; bulk RNA-seq",
+ "modules_frozen": {
+  "ISG": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6"
+  ],
+  "receptors": [
+   "IFNAR1",
+   "IFNAR2",
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "housekeeping": [
+   "ACTB",
+   "GAPDH",
+   "TBP",
+   "RPL13A",
+   "PPIA",
+   "HPRT1"
+  ]
+ },
+ "genes_missing": [],
+ "bimodality_screen": {
+  "Whole PBMC": {
+   "n_donors": 6,
+   "induced_log_units": [
+    5.042,
+    3.775,
+    2.946,
+    0.667,
+    4.109,
+    4.385
+   ],
+   "min": 0.667,
+   "max": 5.042,
+   "largest_single_gap": 2.279,
+   "largest_gap_fraction_of_range": 0.521,
+   "looks_binary": true
+  },
+  "CD14": {
+   "n_donors": 6,
+   "induced_log_units": [
+    4.032,
+    1.681,
+    3.046,
+    0.981,
+    5.159,
+    5.082
+   ],
+   "min": 0.981,
+   "max": 5.159,
+   "largest_single_gap": 1.365,
+   "largest_gap_fraction_of_range": 0.327,
+   "looks_binary": false
+  },
+  "CD4": {
+   "n_donors": 6,
+   "induced_log_units": [
+    4.781,
+    3.974,
+    3.249,
+    1.428,
+    4.594,
+    4.644
+   ],
+   "min": 1.428,
+   "max": 4.781,
+   "largest_single_gap": 1.821,
+   "largest_gap_fraction_of_range": 0.543,
+   "looks_binary": true
+  },
+  "CD8": {
+   "n_donors": 6,
+   "induced_log_units": [
+    4.64,
+    4.025,
+    3.501,
+    0.768,
+    4.676,
+    4.371
+   ],
+   "min": 0.768,
+   "max": 4.676,
+   "largest_single_gap": 2.733,
+   "largest_gap_fraction_of_range": 0.699,
+   "looks_binary": true
+  },
+  "B cell": {
+   "n_donors": 6,
+   "induced_log_units": [
+    3.055,
+    2.964,
+    2.574,
+    0.899,
+    4.568,
+    3.58
+   ],
+   "min": 0.899,
+   "max": 4.568,
+   "largest_single_gap": 1.675,
+   "largest_gap_fraction_of_range": 0.457,
+   "looks_binary": false
+  }
+ },
+ "per_cell_type": {
+  "Whole PBMC": {
+   "donors": [
+    "Donor 464",
+    "Donor 467",
+    "Donor 470",
+    "Donor 474",
+    "Donor 477",
+    "Donor 479"
+   ],
+   "baseline_isg": [
+    4.164,
+    5.389,
+    5.789,
+    8.973,
+    4.218,
+    4.629
+   ],
+   "induction_isg": [
+    5.042,
+    3.775,
+    2.946,
+    0.667,
+    4.109,
+    4.385
+   ],
+   "induced_mean": 3.487,
+   "rho_baseline_isg_vs_induction": -0.943,
+   "p_permutation": 0.0172,
+   "rho_baseline_2gene_vs_own_induction": -0.314,
+   "rho_baseline_typeI_vs_isg_induction": -0.371,
+   "rho_baseline_typeIII_vs_isg_induction": -0.086,
+   "rho_delta_like_vs_isg_induction": -0.143,
+   "rho_housekeeping_vs_isg_induction": -0.029
+  },
+  "CD14": {
+   "donors": [
+    "Donor 464",
+    "Donor 467",
+    "Donor 470",
+    "Donor 474",
+    "Donor 477",
+    "Donor 479"
+   ],
+   "baseline_isg": [
+    5.32,
+    7.457,
+    6.662,
+    8.936,
+    4.229,
+    4.374
+   ],
+   "induction_isg": [
+    4.032,
+    1.681,
+    3.046,
+    0.981,
+    5.159,
+    5.082
+   ],
+   "induced_mean": 3.33,
+   "rho_baseline_isg_vs_induction": -1.0,
+   "p_permutation": 0.003,
+   "rho_baseline_2gene_vs_own_induction": -0.943,
+   "rho_baseline_typeI_vs_isg_induction": -0.029,
+   "rho_baseline_typeIII_vs_isg_induction": -0.657,
+   "rho_delta_like_vs_isg_induction": -0.714,
+   "rho_housekeeping_vs_isg_induction": 0.143
+  },
+  "CD4": {
+   "donors": [
+    "Donor 464",
+    "Donor 467",
+    "Donor 470",
+    "Donor 474",
+    "Donor 477",
+    "Donor 479"
+   ],
+   "baseline_isg": [
+    3.931,
+    4.789,
+    5.411,
+    7.757,
+    4.249,
+    4.449
+   ],
+   "induction_isg": [
+    4.781,
+    3.974,
+    3.249,
+    1.428,
+    4.594,
+    4.644
+   ],
+   "induced_mean": 3.778,
+   "rho_baseline_isg_vs_induction": -0.943,
+   "p_permutation": 0.0172,
+   "rho_baseline_2gene_vs_own_induction": -1.0,
+   "rho_baseline_typeI_vs_isg_induction": -0.257,
+   "rho_baseline_typeIII_vs_isg_induction": 0.371,
+   "rho_delta_like_vs_isg_induction": -0.543,
+   "rho_housekeeping_vs_isg_induction": 0.314
+  },
+  "CD8": {
+   "donors": [
+    "Donor 464",
+    "Donor 467",
+    "Donor 470",
+    "Donor 474",
+    "Donor 477",
+    "Donor 479"
+   ],
+   "baseline_isg": [
+    3.909,
+    4.263,
+    5.112,
+    7.955,
+    3.964,
+    4.098
+   ],
+   "induction_isg": [
+    4.64,
+    4.025,
+    3.501,
+    0.768,
+    4.676,
+    4.371
+   ],
+   "induced_mean": 3.663,
+   "rho_baseline_isg_vs_induction": -0.943,
+   "p_permutation": 0.0168,
+   "rho_baseline_2gene_vs_own_induction": -0.943,
+   "rho_baseline_typeI_vs_isg_induction": 0.657,
+   "rho_baseline_typeIII_vs_isg_induction": 0.314,
+   "rho_delta_like_vs_isg_induction": -0.429,
+   "rho_housekeeping_vs_isg_induction": -0.429
+  },
+  "B cell": {
+   "donors": [
+    "Donor 464",
+    "Donor 467",
+    "Donor 470",
+    "Donor 474",
+    "Donor 477",
+    "Donor 479"
+   ],
+   "baseline_isg": [
+    5.701,
+    5.453,
+    6.128,
+    7.727,
+    4.074,
+    4.927
+   ],
+   "induction_isg": [
+    3.055,
+    2.964,
+    2.574,
+    0.899,
+    4.568,
+    3.58
+   ],
+   "induced_mean": 2.94,
+   "rho_baseline_isg_vs_induction": -0.943,
+   "p_permutation": 0.0178,
+   "rho_baseline_2gene_vs_own_induction": -0.771,
+   "rho_baseline_typeI_vs_isg_induction": 0.314,
+   "rho_baseline_typeIII_vs_isg_induction": -0.143,
+   "rho_delta_like_vs_isg_induction": -0.543,
+   "rho_housekeeping_vs_isg_induction": -0.714
+  }
+ },
+ "pooled_within_cell_type": {
+  "n_units": 30,
+  "spearman_baseline_rank_vs_induction_rank": -0.954,
+  "p_permutation": 0.0
+ },
+ "pooled_naive": {
+  "spearman_raw_baseline_vs_induction": -0.914
+ },
+ "cross_cell_type": {
+  "rows": [
+   {
+    "cell_type": "Whole PBMC",
+    "mean_baseline_isg": 5.527,
+    "mean_induction_isg": 3.487
+   },
+   {
+    "cell_type": "CD14",
+    "mean_baseline_isg": 6.163,
+    "mean_induction_isg": 3.33
+   },
+   {
+    "cell_type": "CD4",
+    "mean_baseline_isg": 5.098,
+    "mean_induction_isg": 3.778
+   },
+   {
+    "cell_type": "CD8",
+    "mean_baseline_isg": 4.884,
+    "mean_induction_isg": 3.663
+   },
+   {
+    "cell_type": "B cell",
+    "mean_baseline_isg": 5.668,
+    "mean_induction_isg": 2.94
+   }
+  ],
+  "spearman_mean_baseline_vs_mean_induction": -0.8
+ },
+ "random_gene_set_null": {
+  "background_genes": 9931,
+  "draws": 1000,
+  "median_abs_rho": 0.577,
+  "p95_abs_rho": 0.783,
+  "observed_abs_rho_percentile": 100.0
+ }
+}

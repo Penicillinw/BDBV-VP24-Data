@@ -1,0 +1,110 @@
+{
+ "modules": {
+  "ISG17": {
+   "n_RC": 9,
+   "n_RN": 5,
+   "mean_RC_v3": 10.16707495208878,
+   "mean_RN_v3": 9.821323667176472,
+   "auc_level_v3": 0.7333333333333333,
+   "p_perm_level": 0.09490509490509491,
+   "p_perm_level_one_sided": 0.09490509490509491,
+   "permutation": "exact",
+   "permutation_space": 2002,
+   "n_RC_fold": 8,
+   "n_RN_fold": 5,
+   "auc_fold_v5_v3": 0.3,
+   "null_median_auc": 0.4444444444444444,
+   "null_p95_auc": 0.6888888888888889,
+   "null_max_auc": 0.9777777777777777,
+   "percentile_of_observed": 97.0
+  },
+  "PRIMING": {
+   "n_RC": 9,
+   "n_RN": 5,
+   "mean_RC_v3": 11.870560449333333,
+   "mean_RN_v3": 11.6034519455,
+   "auc_level_v3": 0.6444444444444445,
+   "p_perm_level": 0.21878121878121878,
+   "p_perm_level_one_sided": 0.21878121878121878,
+   "permutation": "exact",
+   "permutation_space": 2002,
+   "n_RC_fold": 8,
+   "n_RN_fold": 5,
+   "auc_fold_v5_v3": 0.4
+  },
+  "RECEPTOR": {
+   "n_RC": 9,
+   "n_RN": 5,
+   "mean_RC_v3": 9.852220456236111,
+   "mean_RN_v3": 9.936235458350001,
+   "auc_level_v3": 0.26666666666666666,
+   "p_perm_level": 0.09490509490509491,
+   "p_perm_level_one_sided": 0.9265734265734266,
+   "permutation": "exact",
+   "permutation_space": 2002,
+   "n_RC_fold": 8,
+   "n_RN_fold": 5,
+   "auc_fold_v5_v3": 0.775
+  },
+  "HK": {
+   "n_RC": 9,
+   "n_RN": 5,
+   "mean_RC_v3": 12.05594426138889,
+   "mean_RN_v3": 11.938758311277777,
+   "auc_level_v3": 0.8444444444444444,
+   "p_perm_level": 0.02097902097902098,
+   "p_perm_level_one_sided": 0.02097902097902098,
+   "permutation": "exact",
+   "permutation_space": 2002,
+   "n_RC_fold": 8,
+   "n_RN_fold": 5,
+   "auc_fold_v5_v3": 0.45
+  },
+  "null_random_modules": {
+   "n_draws": 2000,
+   "seed": 20260927,
+   "module_size": 17
+  }
+ },
+ "genes_used": {
+  "ISG17": [
+   "BST2",
+   "DDX58",
+   "IFI27",
+   "IFI6",
+   "IFIH1",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "IRF7",
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "OAS2",
+   "RSAD2",
+   "STAT1",
+   "USP18"
+  ],
+  "PRIMING": [
+   "ISG15",
+   "MX1"
+  ],
+  "RECEPTOR": [
+   "IFNAR1",
+   "IFNAR2",
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "HK": [
+   "ACTB",
+   "GAPDH",
+   "HPRT1",
+   "PPIA",
+   "RPL13A",
+   "TBP"
+  ]
+ },
+ "n_samples": 50,
+ "n_subjects": 21
+}

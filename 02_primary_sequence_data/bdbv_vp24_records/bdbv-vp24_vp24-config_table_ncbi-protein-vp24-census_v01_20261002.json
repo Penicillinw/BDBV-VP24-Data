@@ -1,0 +1,369 @@
+{
+ "reference": {
+  "protein": "EBOV VP24 / UniProt P0C779",
+  "length": 251
+ },
+ "queries": {
+  "bdbv_protein": "Bundibugyo virus[Organism] AND VP24[All Fields]",
+  "bdbv_nuccore": "Bundibugyo virus[Organism] AND VP24[All Fields]",
+  "bdbv_complete_genomes": "Bundibugyo virus[Organism] AND complete genome[Title]"
+ },
+ "route_P": {
+  "term": "Bundibugyo virus[Organism] AND VP24[All Fields]",
+  "esearch_count": 32,
+  "ids_retrieved": 32,
+  "records": 32,
+  "full_length": 31,
+  "partial": 1,
+  "config_counts_all": {
+   "SQHA": 31,
+   "S???": 1
+  },
+  "config_counts_full_length_only": {
+   "SQHA": 31
+  },
+  "partial_records": [
+   {
+    "accession": "QNC49636.1",
+    "length": 95,
+    "definition": "membrane-associated protein, partial [Bundibugyo virus]"
+   }
+  ],
+  "claim1_supported": true
+ },
+ "route_N": {
+  "term": "Bundibugyo virus[Organism] AND VP24[All Fields]",
+  "esearch_count": 32,
+  "records": 32,
+  "vp24_translated": 32,
+  "config_counts": {
+   "SQHA": 31,
+   "S???": 1
+  }
+ },
+ "route_G": {
+  "term": "Bundibugyo virus[Organism] AND complete genome[Title]",
+  "esearch_count": 62,
+  "records": 62,
+  "vp24_translated": 26,
+  "config_counts": {
+   "SQHA": 26
+  },
+  "claim1_supported": true
+ },
+ "per_species": {
+  "BDBV": {
+   "term": "Bundibugyo virus[Organism] AND VP24[All Fields]",
+   "esearch_count": 32,
+   "records_scanned": 32,
+   "full_length": 31,
+   "config_counts": {
+    "SQHA": 31,
+    "S???": 1
+   },
+   "residues_by_position": {
+    "pos83": {
+     "S": 32
+    },
+    "pos135": {
+     "Q": 31,
+     "?": 1
+    },
+    "pos140": {
+     "H": 31,
+     "?": 1
+    },
+    "pos141": {
+     "A": 31,
+     "?": 1
+    },
+    "pos184": {
+     "R": 31,
+     "?": 1
+    },
+    "pos217": {
+     "V": 31,
+     "?": 1
+    }
+   }
+  },
+  "EBOV": {
+   "term": "Zaire ebolavirus[Organism] AND VP24[All Fields]",
+   "esearch_count": 3308,
+   "records_scanned": 1497,
+   "full_length": 1449,
+   "config_counts": {
+    "PNRV": 1477,
+    "ELRG": 2,
+    "PXXX": 7,
+    "XNRV": 6,
+    "XXXX": 1,
+    "PXRV": 1,
+    "PNXX": 2,
+    "EHEI": 1
+   },
+   "residues_by_position": {
+    "pos83": {
+     "P": 1487,
+     "E": 3,
+     "X": 7
+    },
+    "pos135": {
+     "N": 1485,
+     "L": 2,
+     "X": 9,
+     "H": 1
+    },
+    "pos140": {
+     "R": 1486,
+     "X": 10,
+     "E": 1
+    },
+    "pos141": {
+     "V": 1484,
+     "G": 2,
+     "X": 10,
+     "I": 1
+    },
+    "pos184": {
+     "Q": 1479,
+     "A": 2,
+     "?": 2,
+     "X": 14
+    },
+    "pos217": {
+     "A": 1474,
+     "G": 2,
+     "X": 15,
+     "?": 5,
+     "Q": 1
+    }
+   }
+  },
+  "SUDV": {
+   "term": "Sudan ebolavirus[Organism] AND VP24[All Fields]",
+   "esearch_count": 148,
+   "records_scanned": 148,
+   "full_length": 144,
+   "config_counts": {
+    "QNRV": 147,
+    "QNRX": 1
+   },
+   "residues_by_position": {
+    "pos83": {
+     "Q": 148
+    },
+    "pos135": {
+     "N": 148
+    },
+    "pos140": {
+     "R": 148
+    },
+    "pos141": {
+     "V": 147,
+     "X": 1
+    },
+    "pos184": {
+     "P": 147,
+     "X": 1
+    },
+    "pos217": {
+     "V": 148
+    }
+   }
+  },
+  "TAFV": {
+   "term": "Tai Forest ebolavirus[Organism] AND VP24[All Fields]",
+   "esearch_count": 4,
+   "records_scanned": 4,
+   "full_length": 4,
+   "config_counts": {
+    "PQQA": 4
+   },
+   "residues_by_position": {
+    "pos83": {
+     "P": 4
+    },
+    "pos135": {
+     "Q": 4
+    },
+    "pos140": {
+     "Q": 4
+    },
+    "pos141": {
+     "A": 4
+    },
+    "pos184": {
+     "K": 4
+    },
+    "pos217": {
+     "V": 4
+    }
+   }
+  },
+  "RESTV": {
+   "term": "Reston ebolavirus[Organism] AND VP24[All Fields]",
+   "esearch_count": 27,
+   "records_scanned": 27,
+   "full_length": 25,
+   "config_counts": {
+    "PNSV": 27
+   },
+   "residues_by_position": {
+    "pos83": {
+     "P": 27
+    },
+    "pos135": {
+     "N": 27
+    },
+    "pos140": {
+     "S": 27
+    },
+    "pos141": {
+     "V": 27
+    },
+    "pos184": {
+     "S": 27
+    },
+    "pos217": {
+     "V": 27
+    }
+   }
+  },
+  "BOMV": {
+   "term": "Bombali virus[Organism] AND VP24[All Fields]",
+   "esearch_count": 10,
+   "records_scanned": 10,
+   "full_length": 10,
+   "config_counts": {
+    "PNSV": 8,
+    "PNRV": 2
+   },
+   "residues_by_position": {
+    "pos83": {
+     "P": 10
+    },
+    "pos135": {
+     "N": 10
+    },
+    "pos140": {
+     "S": 8,
+     "R": 2
+    },
+    "pos141": {
+     "V": 10
+    },
+    "pos184": {
+     "N": 10
+    },
+    "pos217": {
+     "V": 10
+    }
+   }
+  },
+  "MARV": {
+   "term": "Marburg marburgvirus[Organism] AND VP24[All Fields]",
+   "esearch_count": 147,
+   "records_scanned": 147,
+   "full_length": 0,
+   "config_counts": {
+    "DLKV": 2,
+    "PHLL": 138,
+    "PFDC": 2,
+    "P???": 1,
+    "PNNM": 1,
+    "PNAL": 1,
+    "P?RL": 1,
+    "PDLP": 1
+   },
+   "residues_by_position": {
+    "pos83": {
+     "D": 2,
+     "P": 145
+    },
+    "pos135": {
+     "L": 2,
+     "H": 138,
+     "F": 2,
+     "?": 2,
+     "N": 2,
+     "D": 1
+    },
+    "pos140": {
+     "K": 2,
+     "L": 139,
+     "D": 2,
+     "?": 1,
+     "N": 1,
+     "A": 1,
+     "R": 1
+    },
+    "pos141": {
+     "V": 2,
+     "L": 140,
+     "C": 2,
+     "?": 1,
+     "M": 1,
+     "P": 1
+    },
+    "pos184": {
+     "A": 2,
+     "T": 141,
+     "?": 1,
+     "N": 1,
+     "Q": 2
+    },
+    "pos217": {
+     "V": 140,
+     "F": 2,
+     "?": 1,
+     "A": 2,
+     "T": 1,
+     "C": 1
+    }
+   }
+  },
+  "LLOV": {
+   "term": "Lloviu virus[Organism] AND VP24[All Fields]",
+   "esearch_count": 7,
+   "records_scanned": 7,
+   "full_length": 0,
+   "config_counts": {
+    "PNRA": 7
+   },
+   "residues_by_position": {
+    "pos83": {
+     "P": 7
+    },
+    "pos135": {
+     "N": 7
+    },
+    "pos140": {
+     "R": 7
+    },
+    "pos141": {
+     "A": 7
+    },
+    "pos184": {
+     "K": 7
+    },
+    "pos217": {
+     "V": 7
+    }
+   }
+  }
+ },
+ "non_bdbv_full_length_config_counts": {
+  "PNRV": 1442,
+  "XXXX": 1,
+  "XNRV": 3,
+  "PXXX": 3,
+  "PXRV": 1,
+  "PNXX": 1,
+  "QNRV": 144,
+  "PQQA": 4,
+  "PNSV": 33
+ },
+ "claim2_supported": true,
+ "claim2_note": "Exclusivity is asserted only over the sequences actually scanned, and per-species depth differs by orders of magnitude; any manuscript sentence must carry those counts."
+}

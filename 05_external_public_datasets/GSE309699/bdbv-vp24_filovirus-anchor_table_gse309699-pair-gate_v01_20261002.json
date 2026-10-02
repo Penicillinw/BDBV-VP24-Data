@@ -1,0 +1,133 @@
+{
+ "P1_naive_pairs": 140,
+ "P1_frozen_reference": 140,
+ "P1_match": true,
+ "P2_repaired_pairs": 162,
+ "P2_repaired_reference": 162,
+ "P2_match": true,
+ "P3_per_atlas_all_match": true,
+ "P3_per_atlas_detail": [
+  {
+   "atlas": "Krasnow_lung_10X.h5ad",
+   "mine": 20,
+   "repaired_table": 20,
+   "match": true
+  },
+  {
+   "atlas": "TS_small_intestine.h5ad",
+   "mine": 17,
+   "repaired_table": 17,
+   "match": true
+  },
+  {
+   "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+   "mine": 16,
+   "repaired_table": 16,
+   "match": true
+  },
+  {
+   "atlas": "TS_bone_marrow.h5ad",
+   "mine": 14,
+   "repaired_table": 14,
+   "match": true
+  },
+  {
+   "atlas": "TS_skin.h5ad",
+   "mine": 13,
+   "repaired_table": 13,
+   "match": true
+  },
+  {
+   "atlas": "TS_uterus.h5ad",
+   "mine": 13,
+   "repaired_table": 13,
+   "match": true
+  },
+  {
+   "atlas": "TS_muscle.h5ad",
+   "mine": 13,
+   "repaired_table": 13,
+   "match": true
+  },
+  {
+   "atlas": "TS_large_intestine.h5ad",
+   "mine": 12,
+   "repaired_table": 12,
+   "match": true
+  },
+  {
+   "atlas": "TS_prostate.h5ad",
+   "mine": 9,
+   "repaired_table": 9,
+   "match": true
+  },
+  {
+   "atlas": "TS_kidney.h5ad",
+   "mine": 7,
+   "repaired_table": 7,
+   "match": true
+  },
+  {
+   "atlas": "synovium_RA.h5ad",
+   "mine": 6,
+   "repaired_table": 6,
+   "match": true
+  },
+  {
+   "atlas": "TS_testis.h5ad",
+   "mine": 6,
+   "repaired_table": 6,
+   "match": true
+  },
+  {
+   "atlas": "HLiCA_myeloid.h5ad",
+   "mine": 6,
+   "repaired_table": 6,
+   "match": true
+  }
+ ],
+ "P4_added": 22,
+ "P4_lost": 0,
+ "P4_added_ok": true,
+ "P5_universe_identical": true,
+ "P5_note": "universe is built once from the frozen inventory; both parsers read the same object",
+ "P6_exact_route_naive": 146,
+ "P6_exact_route_fixed": 146,
+ "P6_exact_route_identical": true,
+ "P4_example_new_pairs": [
+  [
+   "b-cells",
+   "synovium_RA.h5ad"
+  ],
+  [
+   "cdc",
+   "Krasnow_lung_10X.h5ad"
+  ],
+  [
+   "cdc",
+   "TS_bone_marrow.h5ad"
+  ],
+  [
+   "cdc",
+   "TS_skin.h5ad"
+  ],
+  [
+   "cdc",
+   "synovium_RA.h5ad"
+  ],
+  [
+   "macrophages",
+   "HBCA_microglia.h5ad"
+  ],
+  [
+   "macrophages",
+   "TS_testis.h5ad"
+  ],
+  [
+   "mesothelial cells",
+   "TS_testis.h5ad"
+  ]
+ ],
+ "term_count_naive": 19155,
+ "term_count_fixed": 19155
+}

@@ -1,0 +1,8 @@
+level	feature	n	estimate	p_value
+between_tissue	S_AT_lectin	9	0.1333	0.7324
+between_tissue	S_AT_broad	9	-0.2	0.6059
+between_tissue	S_EM_all	9	0.0167	0.9661
+between_tissue	S_EM_protease	9	0.4167	0.2646
+between_tissue	S_RE_interferon	9	-0.4833	0.1875
+between_tissue	S_ISG_control	9	-0.05	0.8984
+between_tissue	S_MONO_marker	9	-0.2	0.6059

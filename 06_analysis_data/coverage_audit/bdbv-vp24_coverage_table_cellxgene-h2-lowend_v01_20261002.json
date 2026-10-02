@@ -1,0 +1,300 @@
+{
+ "primary_floor_cells": 50,
+ "per_atlas": [
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "n_matched": 22,
+   "rho": 0.711
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "n_matched": 7,
+   "rho": 0.643
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "n_matched": 3,
+   "rho": 0.5
+  },
+  {
+   "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+   "n_matched": 0,
+   "rho": null
+  },
+  {
+   "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "n_matched": 0,
+   "rho": null
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "n_matched": 1,
+   "rho": null
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "n_matched": 3,
+   "rho": 0.5
+  }
+ ],
+ "pooled": {
+  "n": 36,
+  "rho": 0.581,
+  "p_permutation": 0.002
+ },
+ "pairs": [
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "cell_type": "retinal ganglion cells",
+   "reference_delta": -1.291,
+   "atlas_delta_z": 0.337,
+   "n_cells": 2433
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "erythrocyte progenitors",
+   "reference_delta": -1.037,
+   "atlas_delta_z": -1.106,
+   "n_cells": 12049
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "cell_type": "retinal pigment epithelial cells",
+   "reference_delta": -1.025,
+   "atlas_delta_z": -1.031,
+   "n_cells": 1704
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "megakaryocyte-erythroid progenitors",
+   "reference_delta": -0.918,
+   "atlas_delta_z": -1.106,
+   "n_cells": 12049
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "sertoli cells",
+   "reference_delta": -0.677,
+   "atlas_delta_z": -0.27,
+   "n_cells": 1192
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "cell_type": "sertoli cells",
+   "reference_delta": -0.677,
+   "atlas_delta_z": 0.607,
+   "n_cells": 6726
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "proximal tubule cells",
+   "reference_delta": -0.655,
+   "atlas_delta_z": -1.319,
+   "n_cells": 2023
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "smooth muscle cells",
+   "reference_delta": -0.372,
+   "atlas_delta_z": -0.058,
+   "n_cells": 22077
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "smooth muscle cells",
+   "reference_delta": -0.372,
+   "atlas_delta_z": -1.759,
+   "n_cells": 572
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "cell_type": "smooth muscle cells",
+   "reference_delta": -0.372,
+   "atlas_delta_z": -1.351,
+   "n_cells": 105
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "oligodendrocytes",
+   "reference_delta": -0.232,
+   "atlas_delta_z": -0.497,
+   "n_cells": 7771
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "neutrophil progenitors",
+   "reference_delta": -0.111,
+   "atlas_delta_z": -0.1,
+   "n_cells": 18545
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "mast cells",
+   "reference_delta": -0.104,
+   "atlas_delta_z": 0.413,
+   "n_cells": 1658
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "mast cells",
+   "reference_delta": -0.104,
+   "atlas_delta_z": -0.979,
+   "n_cells": 249
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "cell_type": "choroid plexus epithelial cells",
+   "reference_delta": -0.08,
+   "atlas_delta_z": 0.0,
+   "n_cells": 7689
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "alveolar cells type 2",
+   "reference_delta": -0.068,
+   "atlas_delta_z": 0.411,
+   "n_cells": 7403
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "astrocytes",
+   "reference_delta": -0.018,
+   "atlas_delta_z": 0.202,
+   "n_cells": 3349
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "cell_type": "astrocytes",
+   "reference_delta": -0.018,
+   "atlas_delta_z": 1.147,
+   "n_cells": 574
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "mesothelial cells",
+   "reference_delta": 0.028,
+   "atlas_delta_z": 0.923,
+   "n_cells": 2663
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "fibroblasts",
+   "reference_delta": 0.104,
+   "atlas_delta_z": 0.536,
+   "n_cells": 53467
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "fibroblasts",
+   "reference_delta": 0.104,
+   "atlas_delta_z": -1.65,
+   "n_cells": 2541
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "gastric chief cells",
+   "reference_delta": 0.193,
+   "atlas_delta_z": -0.734,
+   "n_cells": 4973
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "t-cells",
+   "reference_delta": 0.525,
+   "atlas_delta_z": 1.302,
+   "n_cells": 27547
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "t-cells",
+   "reference_delta": 0.525,
+   "atlas_delta_z": 1.075,
+   "n_cells": 3051
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "goblet cells",
+   "reference_delta": 0.634,
+   "atlas_delta_z": 0.669,
+   "n_cells": 7191
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "vascular endothelial cells",
+   "reference_delta": 0.725,
+   "atlas_delta_z": 1.063,
+   "n_cells": 33863
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "vascular endothelial cells",
+   "reference_delta": 0.725,
+   "atlas_delta_z": 0.748,
+   "n_cells": 634
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "cell_type": "vascular endothelial cells",
+   "reference_delta": 0.725,
+   "atlas_delta_z": 0.899,
+   "n_cells": 414
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "b-cells",
+   "reference_delta": 0.778,
+   "atlas_delta_z": 1.618,
+   "n_cells": 7036
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "b-cells",
+   "reference_delta": 0.778,
+   "atlas_delta_z": -0.355,
+   "n_cells": 585
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "macrophages",
+   "reference_delta": 0.948,
+   "atlas_delta_z": 1.799,
+   "n_cells": 33241
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "monocytes",
+   "reference_delta": 1.002,
+   "atlas_delta_z": 1.466,
+   "n_cells": 19248
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "cell_type": "urothelial cells",
+   "reference_delta": 1.131,
+   "atlas_delta_z": 0.551,
+   "n_cells": 3023
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "neutrophils",
+   "reference_delta": 1.2,
+   "atlas_delta_z": -0.1,
+   "n_cells": 18545
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "enterocytes",
+   "reference_delta": 1.284,
+   "atlas_delta_z": 0.276,
+   "n_cells": 36440
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "cell_type": "plasma cells",
+   "reference_delta": 1.371,
+   "atlas_delta_z": 0.955,
+   "n_cells": 27737
+  }
+ ],
+ "labels_below_floor": {}
+}

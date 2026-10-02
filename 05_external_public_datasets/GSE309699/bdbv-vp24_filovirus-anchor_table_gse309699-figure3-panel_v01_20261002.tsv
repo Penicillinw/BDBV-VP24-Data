@@ -1,0 +1,15 @@
+panel	condition	AUC_1e5_percent_infection	provenance	note
+Elliff2025_Fig3A	no IFN	2.05	visual estimate, +/-0.05e5	baseline reference
+Elliff2025_Fig3A	IFN-beta 6 h	0.95	visual estimate, +/-0.05e5	equal to gamma within the panel
+Elliff2025_Fig3A	IFN-gamma 6 h	0.95	visual estimate, +/-0.05e5	equal to beta within the panel
+Elliff2025_Fig3A	IFN-lambda 6 h	1.35	visual estimate, +/-0.05e5	highest AUC of the three = least inhibitory
+Elliff2025_Fig3B	no IFN	2.05	visual estimate, +/-0.05e5	baseline reference
+Elliff2025_Fig3B	IFN-beta 24 h	0.65	visual estimate, +/-0.05e5	lowest AUC = most inhibitory
+Elliff2025_Fig3B	IFN-gamma 24 h	0.85	visual estimate, +/-0.05e5	highest AUC of the three = least inhibitory
+Elliff2025_Fig3B	IFN-lambda 24 h	0.75	visual estimate, +/-0.05e5	between beta and gamma, closer to beta
+Elliff2025_Fig3C	IFN-beta 6 h	1.40	visual estimate, +/-0.05e5	separate experiment from panel A
+Elliff2025_Fig3C	IFN-beta 24 h	0.75	visual estimate, +/-0.05e5	*** vs 6 h; 24 h enhanced inhibition
+Elliff2025_Fig3D	IFN-gamma 6 h	0.95	visual estimate, +/-0.05e5	separate experiment
+Elliff2025_Fig3D	IFN-gamma 24 h	0.95	visual estimate, +/-0.05e5	ns vs 6 h
+Elliff2025_Fig3E	IFN-lambda 6 h	1.25	visual estimate, +/-0.05e5	separate experiment
+Elliff2025_Fig3E	IFN-lambda 24 h	0.65	visual estimate, +/-0.05e5	** vs 6 h; 24 h enhanced inhibition

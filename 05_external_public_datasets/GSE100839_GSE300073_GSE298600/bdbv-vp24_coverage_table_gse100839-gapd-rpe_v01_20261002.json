@@ -1,0 +1,174 @@
+{
+ "dataset": "GSE100839",
+ "pmid": "28721309",
+ "design": "ARPE-19 (human retinal pigment epithelial line), mock vs EBOV, 24 h, n = 3 + 3",
+ "columns": [
+  "1_24C",
+  "2_24C",
+  "3_24C",
+  "1_24E",
+  "2_24E",
+  "3_24E"
+ ],
+ "library_size_min": 15832919,
+ "library_size_max": 26250785,
+ "ISG17": {
+  "genes_used": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "OAS2",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6",
+   "DDX58",
+   "IFIH1"
+  ],
+  "mock_log2cpm": 2.1911,
+  "ebov_log2cpm": 3.7175,
+  "difference_log2": 1.5265
+ },
+ "type_I": {
+  "genes_used": [
+   "IFNAR1",
+   "IFNAR2"
+  ],
+  "mock_log2cpm": 4.052,
+  "ebov_log2cpm": 4.0426,
+  "difference_log2": -0.0094
+ },
+ "type_III": {
+  "genes_used": [
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "mock_log2cpm": 3.7759,
+  "ebov_log2cpm": 3.6616,
+  "difference_log2": -0.1143
+ },
+ "priming": {
+  "genes_used": [
+   "ISG15",
+   "MX1"
+  ],
+  "mock_log2cpm": 1.7851,
+  "ebov_log2cpm": 4.1012,
+  "difference_log2": 2.3161
+ },
+ "per_gene": {
+  "BST2": {
+   "mock": 0.397,
+   "ebov": 1.011,
+   "difference": 0.614
+  },
+  "DDX58": {
+   "mock": 4.184,
+   "ebov": 5.604,
+   "difference": 1.419
+  },
+  "IFI27": {
+   "mock": 0.218,
+   "ebov": 0.871,
+   "difference": 0.653
+  },
+  "IFI6": {
+   "mock": 3.586,
+   "ebov": 4.959,
+   "difference": 1.373
+  },
+  "IFIH1": {
+   "mock": 3.92,
+   "ebov": 4.472,
+   "difference": 0.552
+  },
+  "IFIT1": {
+   "mock": 3.945,
+   "ebov": 6.034,
+   "difference": 2.089
+  },
+  "IFIT2": {
+   "mock": 2.653,
+   "ebov": 5.017,
+   "difference": 2.364
+  },
+  "IFIT3": {
+   "mock": 3.066,
+   "ebov": 5.165,
+   "difference": 2.099
+  },
+  "IFNAR1": {
+   "mock": 5.452,
+   "ebov": 5.62,
+   "difference": 0.167
+  },
+  "IFNAR2": {
+   "mock": 2.652,
+   "ebov": 2.465,
+   "difference": -0.186
+  },
+  "IFNLR1": {
+   "mock": 3.492,
+   "ebov": 3.626,
+   "difference": 0.134
+  },
+  "IL10RB": {
+   "mock": 4.06,
+   "ebov": 3.697,
+   "difference": -0.363
+  },
+  "IRF7": {
+   "mock": 3.716,
+   "ebov": 3.78,
+   "difference": 0.064
+  },
+  "ISG15": {
+   "mock": 2.324,
+   "ebov": 4.149,
+   "difference": 1.825
+  },
+  "MX1": {
+   "mock": 1.246,
+   "ebov": 4.054,
+   "difference": 2.807
+  },
+  "MX2": {
+   "mock": 0.0,
+   "ebov": 0.137,
+   "difference": 0.137
+  },
+  "OAS1": {
+   "mock": 0.561,
+   "ebov": 3.072,
+   "difference": 2.511
+  },
+  "OAS2": {
+   "mock": 0.123,
+   "ebov": 2.339,
+   "difference": 2.215
+  },
+  "RSAD2": {
+   "mock": 0.102,
+   "ebov": 2.812,
+   "difference": 2.71
+  },
+  "STAT1": {
+   "mock": 6.113,
+   "ebov": 6.976,
+   "difference": 0.862
+  },
+  "USP18": {
+   "mock": 1.094,
+   "ebov": 2.748,
+   "difference": 1.654
+  }
+ },
+ "response_is_modest": false
+}

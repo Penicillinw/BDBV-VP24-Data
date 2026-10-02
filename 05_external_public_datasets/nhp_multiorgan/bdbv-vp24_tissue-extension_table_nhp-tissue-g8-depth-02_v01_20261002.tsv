@@ -1,0 +1,7 @@
+outcome	n	rho_depth_residual	p_spearman
+E_raw	8	0.0	1.0
+E_dayadj	8	-0.048	0.9108
+E_late	8	-0.19	0.6514
+E_within_animal	8	-0.595	0.1195
+E_induced	6	0.086	0.8717
+E_induced_broad	6	-0.314	0.5441

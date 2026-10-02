@@ -1,0 +1,910 @@
+{
+ "rule": "frozen h2/b5 rule set: raw counts -> CPM -> equal-weight log10(CPM+1) components; ontology-id connection with is_a + part_of ancestry; floor 50 cells; within-atlas z; 4000 label permutations, seed 20260926",
+ "arms_frozen_convention": {
+  "R0_frozen": {
+   "additions": {},
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 0,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 3,
+     "rho": 0.5
+    }
+   ],
+   "pooled": {
+    "n": 38,
+    "rho": 0.568,
+    "p_permutation": 0.0005,
+    "min_detectable_abs_rho_power80": 0.441
+   },
+   "n_pairs_excluded_by_min_matches_3": 3,
+   "excluded_pairs": [
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "reference_cell_type": "urothelial cells",
+     "reference_delta": 1.131,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "basal cell of urothelium | intermediate cell of urothelium | umbrella cell of urothelium",
+     "n_cells": 14776
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "choroid plexus epithelial cells",
+     "reference_delta": -0.08,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "ependymal cells",
+     "reference_delta": 0.19,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    }
+   ],
+   "gate": "target from h2b_agreement.json: n=38, rho=0.568, p=0.0005"
+  },
+  "R1_photoreceptor": {
+   "additions": {
+    "rod photoreceptor cells": "CL:0000604",
+    "cone photoreceptor cells": "CL:0000573"
+   },
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 5,
+     "rho": 0.0
+    }
+   ],
+   "pooled": {
+    "n": 40,
+    "rho": 0.595,
+    "p_permutation": 0.0002,
+    "min_detectable_abs_rho_power80": 0.431
+   },
+   "n_pairs_excluded_by_min_matches_3": 5,
+   "excluded_pairs": [
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "reference_cell_type": "cone photoreceptor cells",
+     "reference_delta": -1.21,
+     "atlas_delta_z": -1.0,
+     "atlas_labels": "retinal cone cell",
+     "n_cells": 1997
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "reference_cell_type": "rod photoreceptor cells",
+     "reference_delta": -1.0,
+     "atlas_delta_z": 1.0,
+     "atlas_labels": "retinal rod cell",
+     "n_cells": 7073
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "reference_cell_type": "urothelial cells",
+     "reference_delta": 1.131,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "basal cell of urothelium | intermediate cell of urothelium | umbrella cell of urothelium",
+     "n_cells": 14776
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "choroid plexus epithelial cells",
+     "reference_delta": -0.08,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "ependymal cells",
+     "reference_delta": 0.19,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    }
+   ]
+  },
+  "R2_plus_interneurons": {
+   "additions": {
+    "rod photoreceptor cells": "CL:0000604",
+    "cone photoreceptor cells": "CL:0000573",
+    "retinal amacrine cells": "CL:0000561",
+    "retinal bipolar cells": "CL:0000748",
+    "retinal horizontal cells": "CL:0000745"
+   },
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 8,
+     "rho": 0.381
+    }
+   ],
+   "pooled": {
+    "n": 43,
+    "rho": 0.609,
+    "p_permutation": 0.0005,
+    "min_detectable_abs_rho_power80": 0.416
+   },
+   "n_pairs_excluded_by_min_matches_3": 5,
+   "excluded_pairs": [
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "reference_cell_type": "cone photoreceptor cells",
+     "reference_delta": -1.21,
+     "atlas_delta_z": -1.0,
+     "atlas_labels": "retinal cone cell",
+     "n_cells": 1997
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "reference_cell_type": "rod photoreceptor cells",
+     "reference_delta": -1.0,
+     "atlas_delta_z": 1.0,
+     "atlas_labels": "retinal rod cell",
+     "n_cells": 7073
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "reference_cell_type": "urothelial cells",
+     "reference_delta": 1.131,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "basal cell of urothelium | intermediate cell of urothelium | umbrella cell of urothelium",
+     "n_cells": 14776
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "choroid plexus epithelial cells",
+     "reference_delta": -0.08,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "ependymal cells",
+     "reference_delta": 0.19,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    }
+   ]
+  },
+  "R3_whole_retina_family": {
+   "additions": {
+    "rod photoreceptor cells": "CL:0000604",
+    "cone photoreceptor cells": "CL:0000573",
+    "retinal amacrine cells": "CL:0000561",
+    "retinal bipolar cells": "CL:0000748",
+    "retinal horizontal cells": "CL:0000745",
+    "müller glia": "CL:0000636"
+   },
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 9,
+     "rho": 0.567
+    }
+   ],
+   "pooled": {
+    "n": 44,
+    "rho": 0.605,
+    "p_permutation": 0.0002,
+    "min_detectable_abs_rho_power80": 0.412
+   },
+   "n_pairs_excluded_by_min_matches_3": 5,
+   "excluded_pairs": [
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "reference_cell_type": "cone photoreceptor cells",
+     "reference_delta": -1.21,
+     "atlas_delta_z": -1.0,
+     "atlas_labels": "retinal cone cell",
+     "n_cells": 1997
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "reference_cell_type": "rod photoreceptor cells",
+     "reference_delta": -1.0,
+     "atlas_delta_z": 1.0,
+     "atlas_labels": "retinal rod cell",
+     "n_cells": 7073
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "reference_cell_type": "urothelial cells",
+     "reference_delta": 1.131,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "basal cell of urothelium | intermediate cell of urothelium | umbrella cell of urothelium",
+     "n_cells": 14776
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "choroid plexus epithelial cells",
+     "reference_delta": -0.08,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "reference_cell_type": "ependymal cells",
+     "reference_delta": 0.19,
+     "atlas_delta_z": 0.0,
+     "atlas_labels": "choroid plexus epithelial cell",
+     "n_cells": 7689
+    }
+   ]
+  }
+ },
+ "arms_no_min_matches_filter": {
+  "R0_frozen": {
+   "additions": {},
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 0,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 3,
+     "rho": 0.5
+    }
+   ],
+   "pooled": {
+    "n": 41,
+    "rho": 0.545,
+    "p_permutation": 0.0007,
+    "min_detectable_abs_rho_power80": 0.426
+   },
+   "n_pairs_excluded_by_min_matches_3": 0,
+   "excluded_pairs": []
+  },
+  "R1_photoreceptor": {
+   "additions": {
+    "rod photoreceptor cells": "CL:0000604",
+    "cone photoreceptor cells": "CL:0000573"
+   },
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 5,
+     "rho": 0.0
+    }
+   ],
+   "pooled": {
+    "n": 45,
+    "rho": 0.534,
+    "p_permutation": 0.0002,
+    "min_detectable_abs_rho_power80": 0.407
+   },
+   "n_pairs_excluded_by_min_matches_3": 0,
+   "excluded_pairs": []
+  },
+  "R2_plus_interneurons": {
+   "additions": {
+    "rod photoreceptor cells": "CL:0000604",
+    "cone photoreceptor cells": "CL:0000573",
+    "retinal amacrine cells": "CL:0000561",
+    "retinal bipolar cells": "CL:0000748",
+    "retinal horizontal cells": "CL:0000745"
+   },
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 8,
+     "rho": 0.381
+    }
+   ],
+   "pooled": {
+    "n": 48,
+    "rho": 0.554,
+    "p_permutation": 0.0002,
+    "min_detectable_abs_rho_power80": 0.395
+   },
+   "n_pairs_excluded_by_min_matches_3": 0,
+   "excluded_pairs": []
+  },
+  "R3_whole_retina_family": {
+   "additions": {
+    "rod photoreceptor cells": "CL:0000604",
+    "cone photoreceptor cells": "CL:0000573",
+    "retinal amacrine cells": "CL:0000561",
+    "retinal bipolar cells": "CL:0000748",
+    "retinal horizontal cells": "CL:0000745",
+    "müller glia": "CL:0000636"
+   },
+   "per_atlas": [
+    {
+     "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+     "n_matched": 24,
+     "rho": 0.745
+    },
+    {
+     "atlas": "3e524d45_Human_adult_ureter.h5ad",
+     "n_matched": 7,
+     "rho": 0.679
+    },
+    {
+     "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+     "n_matched": 4,
+     "rho": 0.4
+    },
+    {
+     "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+     "n_matched": 1,
+     "rho": null
+    },
+    {
+     "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+     "n_matched": 2,
+     "rho": null
+    },
+    {
+     "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+     "n_matched": 9,
+     "rho": 0.567
+    }
+   ],
+   "pooled": {
+    "n": 49,
+    "rho": 0.548,
+    "p_permutation": 0.0007,
+    "min_detectable_abs_rho_power80": 0.391
+   },
+   "n_pairs_excluded_by_min_matches_3": 0,
+   "excluded_pairs": []
+  }
+ },
+ "floor_sensitivity": {
+  "R0_frozen": {
+   "floor_50": {
+    "n": 38,
+    "rho": 0.568,
+    "p_permutation": 0.0005,
+    "min_detectable_abs_rho_power80": 0.441
+   },
+   "floor_200": {
+    "n": 37,
+    "rho": 0.562,
+    "p_permutation": 0.0005,
+    "min_detectable_abs_rho_power80": 0.447
+   },
+   "floor_500": {
+    "n": 33,
+    "rho": 0.573,
+    "p_permutation": 0.0012,
+    "min_detectable_abs_rho_power80": 0.471
+   }
+  },
+  "R3_whole_retina_family": {
+   "floor_50": {
+    "n": 44,
+    "rho": 0.605,
+    "p_permutation": 0.0002,
+    "min_detectable_abs_rho_power80": 0.412
+   },
+   "floor_200": {
+    "n": 43,
+    "rho": 0.609,
+    "p_permutation": 0.0015,
+    "min_detectable_abs_rho_power80": 0.416
+   },
+   "floor_500": {
+    "n": 39,
+    "rho": 0.623,
+    "p_permutation": 0.0005,
+    "min_detectable_abs_rho_power80": 0.436
+   }
+  }
+ },
+ "leave_one_atlas_out_R3": {
+  "2adb1f8a_Construction_of_a_human_cell_landscape_at_single": {
+   "n": 20,
+   "rho": 0.392,
+   "p_permutation": 0.0947,
+   "min_detectable_abs_rho_power80": 0.591
+  },
+  "3e524d45_Human_adult_ureter": {
+   "n": 37,
+   "rho": 0.703,
+   "p_permutation": 0.0002,
+   "min_detectable_abs_rho_power80": 0.447
+  },
+  "43dc52cb_Human_embryonic_male_gonadal_tissue": {
+   "n": 40,
+   "rho": 0.62,
+   "p_permutation": 0.0005,
+   "min_detectable_abs_rho_power80": 0.431
+  },
+  "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip": {
+   "n": 44,
+   "rho": 0.605,
+   "p_permutation": 0.0002,
+   "min_detectable_abs_rho_power80": 0.412
+  },
+  "8e5978bd_Adult_bladder_urothelial_subset": {
+   "n": 44,
+   "rho": 0.605,
+   "p_permutation": 0.0002,
+   "min_detectable_abs_rho_power80": 0.412
+  },
+  "cfa755c1_Supercluster__Choroid_plexus": {
+   "n": 44,
+   "rho": 0.605,
+   "p_permutation": 0.0002,
+   "min_detectable_abs_rho_power80": 0.412
+  },
+  "e6dad530_All_cell_types_of_human_eye": {
+   "n": 35,
+   "rho": 0.603,
+   "p_permutation": 0.0002,
+   "min_detectable_abs_rho_power80": 0.458
+  }
+ },
+ "collateral_audit": {
+  "rod photoreceptor cells": {
+   "cl_id": "CL:0000604",
+   "atlas_terms_reached": [
+    "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip:CL:0000604(7073)",
+    "e6dad530_All_cell_types_of_human_eye:CL:0000604(62523)"
+   ],
+   "other_reference_types_sharing_this_cl": []
+  },
+  "cone photoreceptor cells": {
+   "cl_id": "CL:0000573",
+   "atlas_terms_reached": [
+    "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip:CL:0000573(1997)",
+    "e6dad530_All_cell_types_of_human_eye:CL:0000573(1777)"
+   ],
+   "other_reference_types_sharing_this_cl": []
+  },
+  "retinal amacrine cells": {
+   "cl_id": "CL:0000561",
+   "atlas_terms_reached": [
+    "e6dad530_All_cell_types_of_human_eye:CL:0000561(6317)"
+   ],
+   "other_reference_types_sharing_this_cl": []
+  },
+  "retinal bipolar cells": {
+   "cl_id": "CL:0000748",
+   "atlas_terms_reached": [
+    "e6dad530_All_cell_types_of_human_eye:CL:0000748(16695)"
+   ],
+   "other_reference_types_sharing_this_cl": []
+  },
+  "retinal horizontal cells": {
+   "cl_id": "CL:0000745",
+   "atlas_terms_reached": [
+    "e6dad530_All_cell_types_of_human_eye:CL:0000745(1913)"
+   ],
+   "other_reference_types_sharing_this_cl": []
+  },
+  "müller glia": {
+   "cl_id": "CL:0000636",
+   "atlas_terms_reached": [
+    "e6dad530_All_cell_types_of_human_eye:CL:0000636(5114)"
+   ],
+   "other_reference_types_sharing_this_cl": []
+  }
+ },
+ "count_layer_by_atlas": {
+  "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad": [
+   "raw/X"
+  ],
+  "3e524d45_Human_adult_ureter.h5ad": [
+   "raw/X"
+  ],
+  "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad": [
+   "raw/X"
+  ],
+  "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad": [
+   "raw/X"
+  ],
+  "8e5978bd_Adult_bladder_urothelial_subset.h5ad": [
+   "raw/X"
+  ],
+  "cfa755c1_Supercluster__Choroid_plexus.h5ad": [
+   "X"
+  ],
+  "e6dad530_All_cell_types_of_human_eye.h5ad": [
+   "raw/X"
+  ]
+ },
+ "gate_diff_vs_h2b": {
+  "frozen_n": 38,
+  "recomputed_n": 38,
+  "only_in_recomputed": [],
+  "only_in_frozen": []
+ },
+ "newly_connected_pairs": [
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "cone photoreceptor cells",
+   "reference_delta": -1.21,
+   "atlas_delta_z": -0.923,
+   "atlas_labels": "retinal cone cell",
+   "n_cells": 1777,
+   "same_sign": true
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "müller glia",
+   "reference_delta": -0.312,
+   "atlas_delta_z": 0.485,
+   "atlas_labels": "Mueller cell",
+   "n_cells": 5114,
+   "same_sign": false
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "retinal amacrine cells",
+   "reference_delta": -0.642,
+   "atlas_delta_z": -0.049,
+   "atlas_labels": "amacrine cell",
+   "n_cells": 6317,
+   "same_sign": true
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "retinal bipolar cells",
+   "reference_delta": -0.744,
+   "atlas_delta_z": -0.891,
+   "atlas_labels": "retinal bipolar neuron",
+   "n_cells": 16695,
+   "same_sign": true
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "retinal horizontal cells",
+   "reference_delta": -0.925,
+   "atlas_delta_z": -0.395,
+   "atlas_labels": "retina horizontal cell",
+   "n_cells": 1913,
+   "same_sign": true
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "rod photoreceptor cells",
+   "reference_delta": -1.0,
+   "atlas_delta_z": -1.173,
+   "atlas_labels": "retinal rod cell",
+   "n_cells": 62523,
+   "same_sign": true
+  }
+ ],
+ "connected_but_excluded_by_min_matches_rule": [
+  {
+   "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+   "reference_cell_type": "cone photoreceptor cells",
+   "atlas_delta_z": -1.0,
+   "n_cells": 1997
+  },
+  {
+   "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+   "reference_cell_type": "rod photoreceptor cells",
+   "atlas_delta_z": 1.0,
+   "n_cells": 7073
+  },
+  {
+   "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "reference_cell_type": "urothelial cells",
+   "atlas_delta_z": 0.0,
+   "n_cells": 14776
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "reference_cell_type": "choroid plexus epithelial cells",
+   "atlas_delta_z": 0.0,
+   "n_cells": 7689
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "reference_cell_type": "ependymal cells",
+   "atlas_delta_z": 0.0,
+   "n_cells": 7689
+  }
+ ],
+ "degenerate_atlas_readings": {
+  "R0_frozen::7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip": {
+   "n_matched": 0,
+   "reference_types": [],
+   "atlas_z": {},
+   "reference_delta": {},
+   "pair_order_concordant_with_reference": null,
+   "reading": "two-term atlas: z is identically +/-1 - only the ORDER of the two types is interpretable, not the signed distance"
+  },
+  "R0_frozen::8e5978bd_Adult_bladder_urothelial_subset": {
+   "n_matched": 1,
+   "reference_types": [
+    "urothelial cells"
+   ],
+   "atlas_z": {
+    "urothelial cells": 0.0
+   },
+   "reference_delta": {
+    "urothelial cells": 1.131
+   },
+   "pair_order_concordant_with_reference": null,
+   "reading": "single-term atlas: z is identically 0 - no variance-based information"
+  },
+  "R0_frozen::cfa755c1_Supercluster__Choroid_plexus": {
+   "n_matched": 2,
+   "reference_types": [
+    "choroid plexus epithelial cells",
+    "ependymal cells"
+   ],
+   "atlas_z": {
+    "choroid plexus epithelial cells": 0.0,
+    "ependymal cells": 0.0
+   },
+   "reference_delta": {
+    "choroid plexus epithelial cells": -0.08,
+    "ependymal cells": 0.19
+   },
+   "pair_order_concordant_with_reference": null,
+   "reading": "NO variance-based information: every matched type sits on the same z (the atlas carries only one CL term), so ties make the order meaningless too"
+  },
+  "R3_whole_retina_family::7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip": {
+   "n_matched": 2,
+   "reference_types": [
+    "cone photoreceptor cells",
+    "rod photoreceptor cells"
+   ],
+   "atlas_z": {
+    "cone photoreceptor cells": -1.0,
+    "rod photoreceptor cells": 1.0
+   },
+   "reference_delta": {
+    "cone photoreceptor cells": -1.21,
+    "rod photoreceptor cells": -1.0
+   },
+   "pair_order_concordant_with_reference": true,
+   "reading": "two-term atlas: z is identically +/-1 - only the ORDER of the two types is interpretable, not the signed distance"
+  },
+  "R3_whole_retina_family::8e5978bd_Adult_bladder_urothelial_subset": {
+   "n_matched": 1,
+   "reference_types": [
+    "urothelial cells"
+   ],
+   "atlas_z": {
+    "urothelial cells": 0.0
+   },
+   "reference_delta": {
+    "urothelial cells": 1.131
+   },
+   "pair_order_concordant_with_reference": null,
+   "reading": "single-term atlas: z is identically 0 - no variance-based information"
+  },
+  "R3_whole_retina_family::cfa755c1_Supercluster__Choroid_plexus": {
+   "n_matched": 2,
+   "reference_types": [
+    "choroid plexus epithelial cells",
+    "ependymal cells"
+   ],
+   "atlas_z": {
+    "choroid plexus epithelial cells": 0.0,
+    "ependymal cells": 0.0
+   },
+   "reference_delta": {
+    "choroid plexus epithelial cells": -0.08,
+    "ependymal cells": 0.19
+   },
+   "pair_order_concordant_with_reference": null,
+   "reading": "NO variance-based information: every matched type sits on the same z (the atlas carries only one CL term), so ties make the order meaningless too"
+  }
+ }
+}

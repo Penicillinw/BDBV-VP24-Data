@@ -1,0 +1,20 @@
+dataset	file	n_cells	n_cell_types	n_donors
+vessel wall	TS_Vasculature_cellxgene_source.h5ad	42650	25	5
+skeletal muscle	TS_muscle.h5ad	46772	32	6
+bone marrow	TS_bone_marrow.h5ad	27112	25	7
+kidney	TS_kidney.h5ad	11376	13	1
+skin	TS_skin.h5ad	17786	25	4
+intestine	TS_small_intestine.h5ad	42036	34	5
+intestine large	TS_large_intestine.h5ad	30084	29	5
+lung	Krasnow_lung_10X.h5ad	65662	46	3
+gut lamina propria	gut_APC_lamina_propria.h5ad	28758	1	6
+liver myeloid	HLiCA_myeloid.h5ad	65575	11	105
+liver endothelium	HLiCA_endothelial.h5ad	86530	8	107
+liver epithelium	HLiCA_hepatocyte.h5ad	228368	4	96
+liver cholangiocyte	HLiCA_cholangiocyte.h5ad	8811	3	97
+brain microglia	HBCA_microglia.h5ad	91838	2	4
+brain vascular	HBCA_vascular.h5ad	9932	3	4
+synovium	synovium_RA.h5ad	108717	15	36
+testis	TS_testis.h5ad	7513	15	1
+prostate	TS_prostate.h5ad	21030	14	3
+uterus	TS_uterus.h5ad	22029	28	2

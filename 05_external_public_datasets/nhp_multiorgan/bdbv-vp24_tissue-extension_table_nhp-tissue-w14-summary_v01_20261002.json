@@ -1,0 +1,220 @@
+{
+  "date": "2026-09-24",
+  "resource": {
+    "geo": "GSE226106",
+    "paper": "Normandin et al. 2023 Cell Genomics, PMID 38169842, doi 10.1016/j.xgen.2023.100440",
+    "n_samples": 425,
+    "n_tissues": 14,
+    "n_animals": 38,
+    "gene_rows": 35405,
+    "gene_symbols_mapped": "see log",
+    "viral_load_source": "qPCR_table.csv Quant.Kulesh / Quant.18s",
+    "composition_source": "TeRNAdecov/MuSiC sample_quantile_compositions"
+  },
+  "panels_present": {
+    "AT_lectin": [
+      "CD209",
+      "CLEC10A",
+      "CLEC4G"
+    ],
+    "AT_broad": [
+      "AXL",
+      "TYRO3",
+      "TIMD4",
+      "MERTK"
+    ],
+    "EM_core": [
+      "NPC1",
+      "NPC2"
+    ],
+    "EM_protease": [
+      "CTSB",
+      "CTSL"
+    ],
+    "EM_traffic": [
+      "TPCN1",
+      "TPCN2",
+      "CD63",
+      "VPS11",
+      "VPS16",
+      "VPS18",
+      "VPS33A",
+      "VPS39",
+      "VPS41",
+      "VPS29",
+      "RAB7A",
+      "PLEKHM1",
+      "GNPTAB",
+      "SLC39A9",
+      "PIK3C3",
+      "TMEM106B"
+    ],
+    "RE_interferon": [
+      "BST2",
+      "SERINC3",
+      "SERINC5",
+      "MX1",
+      "MX2",
+      "ISG15",
+      "TRIM6"
+    ],
+    "ISG_control": [
+      "IFIT1",
+      "IFIT2",
+      "IFIT3",
+      "OAS1",
+      "OAS2",
+      "OASL",
+      "RSAD2",
+      "IFI6",
+      "IFI44",
+      "IFI44L"
+    ],
+    "MONO_marker": [
+      "CD14",
+      "LYZ",
+      "FCN1",
+      "S100A8",
+      "S100A9",
+      "VCAN",
+      "CSF1R",
+      "CD68",
+      "ITGAM"
+    ],
+    "EM_all": [
+      "NPC1",
+      "NPC2",
+      "CTSB",
+      "CTSL",
+      "TPCN1",
+      "TPCN2",
+      "CD63",
+      "VPS11",
+      "VPS16",
+      "VPS18",
+      "VPS33A",
+      "VPS39",
+      "VPS41",
+      "VPS29",
+      "RAB7A",
+      "PLEKHM1",
+      "GNPTAB",
+      "SLC39A9",
+      "PIK3C3",
+      "TMEM106B"
+    ]
+  },
+  "panels_missing": {
+    "AT_lectin": [
+      "CD209L2"
+    ],
+    "AT_broad": [
+      "HAVCR1"
+    ],
+    "EM_core": [],
+    "EM_protease": [],
+    "EM_traffic": [],
+    "RE_interferon": [],
+    "ISG_control": [],
+    "MONO_marker": [
+      "FCGR3A"
+    ],
+    "EM_all": []
+  },
+  "tissue_correlations": [
+    {
+      "feature": "S_EM_protease",
+      "n": 343,
+      "spearman_rho": 0.1479,
+      "p_value": 0.00608
+    },
+    {
+      "feature": "S_EM_all",
+      "n": 343,
+      "spearman_rho": 0.076,
+      "p_value": 0.16
+    },
+    {
+      "feature": "S_AT_broad",
+      "n": 343,
+      "spearman_rho": 0.0492,
+      "p_value": 0.36387
+    },
+    {
+      "feature": "S_EM_core",
+      "n": 343,
+      "spearman_rho": 0.0456,
+      "p_value": 0.39991
+    },
+    {
+      "feature": "S_RE_interferon",
+      "n": 343,
+      "spearman_rho": -0.0044,
+      "p_value": 0.93562
+    },
+    {
+      "feature": "S_ISG_control",
+      "n": 343,
+      "spearman_rho": -0.0089,
+      "p_value": 0.87019
+    },
+    {
+      "feature": "S_MONO_marker",
+      "n": 343,
+      "spearman_rho": -0.016,
+      "p_value": 0.76774
+    },
+    {
+      "feature": "S_AT_lectin",
+      "n": 343,
+      "spearman_rho": -0.023,
+      "p_value": 0.67098
+    },
+    {
+      "feature": "S_EM_traffic",
+      "n": 343,
+      "spearman_rho": -0.0418,
+      "p_value": 0.43989
+    }
+  ],
+  "combination_2x2": [
+    {
+      "entry_high": false,
+      "machine_high": false,
+      "n": 75,
+      "median_log10_viral": -6.373273125104543,
+      "mean_log10_viral": -6.327521326647459,
+      "median_myeloid": 0.029707748
+    },
+    {
+      "entry_high": false,
+      "machine_high": true,
+      "n": 97,
+      "median_log10_viral": -6.4931149682815565,
+      "mean_log10_viral": -6.448289146910043,
+      "median_myeloid": 0.1592595
+    },
+    {
+      "entry_high": true,
+      "machine_high": false,
+      "n": 97,
+      "median_log10_viral": -7.401604962758443,
+      "mean_log10_viral": -6.733241268750795,
+      "median_myeloid": 0.08420055415
+    },
+    {
+      "entry_high": true,
+      "machine_high": true,
+      "n": 74,
+      "median_log10_viral": -6.471678531117152,
+      "mean_log10_viral": -6.264313897205577,
+      "median_myeloid": 0.12634228
+    }
+  ],
+  "limitations": [
+    "bulk tissue: scores reflect tissue composition as much as per-cell state, hence the monocyte/myeloid covariate",
+    "qPCR viral load is from a different assay than RNA-seq; both come from the same biosamples but are normalised differently",
+    "tissue-specific panels are not adjusted for RNA composition (e.g. haemoglobin in spleen) beyond CPM",
+    "deconvolution is only available for 8 of the tissues"
+  ]
+}

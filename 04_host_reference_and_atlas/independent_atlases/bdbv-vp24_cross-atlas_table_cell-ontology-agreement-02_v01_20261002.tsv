@@ -1,0 +1,93 @@
+analysis	route	scope	atlas	cell_floor	z_universe	n_pairs	spearman	p_perm	p_perm_n	p_t_approx	min_detectable_rho_power80	achieved_power_at_observed
+B5-hierarchy|floor50|all_labels	B5-hierarchy	pooled		50	all_labels	162	0.5191	0.0002	4000	0.0	0.219	1.0
+B5-hierarchy|floor50|matched_only	B5-hierarchy	pooled		50	matched_only	162	0.4524	0.0002	4000	0.0	0.219	1.0
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	HBCA_microglia.h5ad	50	all_labels	2	1.0				nan	
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	HBCA_vascular.h5ad	50	all_labels	4	0.9487	0.1667	4000	0.0513	0.993	0.444
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	HLiCA_cholangiocyte.h5ad	50	all_labels	1					nan	
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	HLiCA_endothelial.h5ad	50	all_labels	2	1.0				nan	
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	HLiCA_hepatocyte.h5ad	50	all_labels	1					nan	
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	HLiCA_myeloid.h5ad	50	all_labels	6	-0.3769	0.4664	4000	0.4615	0.924	0.106
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	Krasnow_lung_10X.h5ad	50	all_labels	20	0.7341	0.0007	4000	0.0002	0.591	0.972
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_Vasculature_cellxgene_source.h5ad	50	all_labels	16	0.3976	0.1275	4000	0.1272	0.651	0.329
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_bone_marrow.h5ad	50	all_labels	14	0.7519	0.0032	4000	0.0019	0.688	0.9
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_kidney.h5ad	50	all_labels	7	-0.4144	0.3567	4000	0.3553	0.886	0.143
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_large_intestine.h5ad	50	all_labels	12	0.3357	0.2917	4000	0.2861	0.732	0.182
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_muscle.h5ad	50	all_labels	13	0.6419	0.0197	4000	0.018	0.709	0.673
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_prostate.h5ad	50	all_labels	9	0.7448	0.0285	4000	0.0213	0.816	0.653
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_skin.h5ad	50	all_labels	13	0.6832	0.0117	4000	0.0101	0.709	0.752
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_small_intestine.h5ad	50	all_labels	17	0.3509	0.1712	4000	0.1673	0.634	0.278
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_testis.h5ad	50	all_labels	6	0.971	0.0107	4000	0.0012	0.924	0.955
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	TS_uterus.h5ad	50	all_labels	13	0.3857	0.1942	4000	0.1931	0.709	0.251
+B5-hierarchy|floor50|per_atlas	B5-hierarchy	per_atlas	synovium_RA.h5ad	50	all_labels	6	0.4638	0.4004	4000	0.3542	0.924	0.14
+B5-hierarchy|floor50|mean_of_per_atlas	B5-hierarchy	mean_of_per_atlas	atlases with n>=5: 13	50	all_labels	152	0.4361					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without HBCA_microglia.h5ad	50	all_labels	160	0.5204					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without HBCA_vascular.h5ad	50	all_labels	158	0.5069					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without HLiCA_cholangiocyte.h5ad	50	all_labels	161	0.5179					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without HLiCA_endothelial.h5ad	50	all_labels	160	0.5177					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without HLiCA_hepatocyte.h5ad	50	all_labels	161	0.5193					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without HLiCA_myeloid.h5ad	50	all_labels	156	0.5552					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without Krasnow_lung_10X.h5ad	50	all_labels	142	0.4949					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_Vasculature_cellxgene_source.h5ad	50	all_labels	146	0.5274					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_bone_marrow.h5ad	50	all_labels	148	0.4929					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_kidney.h5ad	50	all_labels	155	0.5244					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_large_intestine.h5ad	50	all_labels	150	0.53					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_muscle.h5ad	50	all_labels	149	0.5161					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_prostate.h5ad	50	all_labels	153	0.5055					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_skin.h5ad	50	all_labels	149	0.5039					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_small_intestine.h5ad	50	all_labels	145	0.5405					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_testis.h5ad	50	all_labels	156	0.5103					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without TS_uterus.h5ad	50	all_labels	149	0.5358					
+B5-hierarchy|floor50|leave_one_atlas_out	B5-hierarchy	leave_one_atlas_out	without synovium_RA.h5ad	50	all_labels	156	0.5228					
+B5-hierarchy|floor50|deduplicated_atlas_labelsets	B5-hierarchy	deduplicated	141 distinct atlas label sets (from 162 pairs)	50	all_labels	141	0.5635	0.0002	4000	0.0	0.234	1.0
+B5-exact|floor50|all_labels	B5-exact	pooled		50	all_labels	115	0.5827	0.0002	4000	0.0	0.259	1.0
+B5-exact|floor50|matched_only	B5-exact	pooled		50	matched_only	115	0.3578	0.0002	4000	0.0001	0.259	0.977
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	HBCA_microglia.h5ad	50	all_labels	1					nan	
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	HBCA_vascular.h5ad	50	all_labels	3	1.0			0.0	nan	
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	HLiCA_cholangiocyte.h5ad	50	all_labels	1					nan	
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	HLiCA_endothelial.h5ad	50	all_labels	1					nan	
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	HLiCA_hepatocyte.h5ad	50	all_labels	1					nan	
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	HLiCA_myeloid.h5ad	50	all_labels	3	0.5			0.6667	nan	
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	Krasnow_lung_10X.h5ad	50	all_labels	14	0.8374	0.0005	4000	0.0002	0.688	0.98
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_Vasculature_cellxgene_source.h5ad	50	all_labels	14	0.4422	0.1212	4000	0.1133	0.688	0.351
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_bone_marrow.h5ad	50	all_labels	12	0.8246	0.0017	4000	0.001	0.732	0.94
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_kidney.h5ad	50	all_labels	5	-0.6	0.3409	4000	0.2848	0.963	0.165
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_large_intestine.h5ad	50	all_labels	5	0.6	0.3544	4000	0.2848	0.963	0.165
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_muscle.h5ad	50	all_labels	11	0.697	0.0205	4000	0.0171	0.758	0.683
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_prostate.h5ad	50	all_labels	8	0.8144	0.019	4000	0.0138	0.849	0.722
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_skin.h5ad	50	all_labels	11	0.5786	0.0665	4000	0.0622	0.758	0.463
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_small_intestine.h5ad	50	all_labels	10	0.6991	0.03	4000	0.0245	0.785	0.629
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_testis.h5ad	50	all_labels	4	0.9487	0.1545	4000	0.0513	0.993	0.444
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	TS_uterus.h5ad	50	all_labels	10	0.2736	0.4501	4000	0.4444	0.785	0.115
+B5-exact|floor50|per_atlas	B5-exact	per_atlas	synovium_RA.h5ad	50	all_labels	1					nan	
+B5-exact|floor50|mean_of_per_atlas	B5-exact	mean_of_per_atlas	atlases with n>=5: 10	50	all_labels	100	0.5167					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without HBCA_microglia.h5ad	50	all_labels	114	0.5886					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without HBCA_vascular.h5ad	50	all_labels	112	0.5789					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without HLiCA_cholangiocyte.h5ad	50	all_labels	114	0.5811					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without HLiCA_endothelial.h5ad	50	all_labels	114	0.5824					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without HLiCA_hepatocyte.h5ad	50	all_labels	114	0.5881					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without HLiCA_myeloid.h5ad	50	all_labels	112	0.5976					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without Krasnow_lung_10X.h5ad	50	all_labels	101	0.5529					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_Vasculature_cellxgene_source.h5ad	50	all_labels	101	0.5988					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_bone_marrow.h5ad	50	all_labels	103	0.5488					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_kidney.h5ad	50	all_labels	110	0.5847					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_large_intestine.h5ad	50	all_labels	110	0.5847					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_muscle.h5ad	50	all_labels	104	0.5732					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_prostate.h5ad	50	all_labels	107	0.5684					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_skin.h5ad	50	all_labels	104	0.5789					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_small_intestine.h5ad	50	all_labels	105	0.5975					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_testis.h5ad	50	all_labels	111	0.5808					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without TS_uterus.h5ad	50	all_labels	105	0.6187					
+B5-exact|floor50|leave_one_atlas_out	B5-exact	leave_one_atlas_out	without synovium_RA.h5ad	50	all_labels	114	0.5828					
+B5-exact|floor50|deduplicated_atlas_labelsets	B5-exact	deduplicated	106 distinct atlas label sets (from 115 pairs)	50	all_labels	106	0.6342	0.0002	4000	0.0	0.269	1.0
+B5-hierarchy|floor200|all_labels	B5-hierarchy	pooled		200	all_labels	116	0.5527	0.0002	4000	0.0	0.258	1.0
+B5-hierarchy|floor200|matched_only	B5-hierarchy	pooled		200	matched_only	116	0.201	0.0267	4000	0.0305	0.258	0.582
+B5-exact|floor200|all_labels	B5-exact	pooled		200	all_labels	78	0.65	0.0002	4000	0.0	0.313	1.0
+B5-exact|floor200|matched_only	B5-exact	pooled		200	matched_only	78	0.2148	0.0655	4000	0.0589	0.313	0.472
+B5-hierarchy|floor500|all_labels	B5-hierarchy	pooled		500	all_labels	89	0.479	0.0002	4000	0.0	0.293	0.998
+B5-hierarchy|floor500|matched_only	B5-hierarchy	pooled		500	matched_only	89	0.3437	0.0017	4000	0.001	0.293	0.913
+B5-exact|floor500|all_labels	B5-exact	pooled		500	all_labels	57	0.5612	0.0001	20000	0.0	0.364	0.997
+B5-exact|floor500|matched_only	B5-exact	pooled		500	matched_only	57	0.2733	0.0382	20000	0.0397	0.364	0.54
+g9-replay|handmap|raw-cpm-counts	g9-replay	pooled		50	absolute	28	0.5228	0.0047	20000	0.0043	0.508	0.827
+g9-replay|handmap|lognorm-values	g9-replay	pooled		50	absolute	28	0.0433	0.8253	20000	0.8268	0.508	0.055
+g9-replay|handmap|raw-cpm-counts|per-atlas-z	g9-replay	pooled		50	all_labels	28	0.4628	0.0149	20000	0.0131	0.508	0.707
+g9-replay|handmap|lognorm-values|per-atlas-z (reproduces 0.256)	g9-replay	pooled		50	all_labels	28	0.2436	0.2127	20000	0.2116	0.508	0.237

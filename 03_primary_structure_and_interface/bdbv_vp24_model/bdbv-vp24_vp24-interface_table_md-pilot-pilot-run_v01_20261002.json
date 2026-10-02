@@ -1,0 +1,48 @@
+{
+ "platform": "OpenCL",
+ "mode": "run",
+ "variants": {
+  "WT": {
+   "minimised_energy_kcal_mol": -8454.4,
+   "void_volume_nm3_within_0.6nm_of_P83_CA": 0.2031,
+   "n_native_contacts": 2366,
+   "replicas": [
+    {
+     "replica": 0,
+     "ps": 1000.0,
+     "wall_s": 523.0,
+     "local_rmsd_nm": 0.5513,
+     "Q_fraction": 0.955
+    },
+    {
+     "replica": 1,
+     "ps": 1000.0,
+     "wall_s": 526.7,
+     "local_rmsd_nm": 1.2608,
+     "Q_fraction": 0.947
+    }
+   ]
+  },
+  "P83S": {
+   "minimised_energy_kcal_mol": -8497.7,
+   "void_volume_nm3_within_0.6nm_of_P83_CA": 0.2188,
+   "n_native_contacts": 2367,
+   "replicas": [
+    {
+     "replica": 0,
+     "ps": 1000.0,
+     "wall_s": 514.1,
+     "local_rmsd_nm": 0.6525,
+     "Q_fraction": 0.964
+    },
+    {
+     "replica": 1,
+     "ps": 1000.0,
+     "wall_s": 516.2,
+     "local_rmsd_nm": 1.5399,
+     "Q_fraction": 0.962
+    }
+   ]
+  }
+ }
+}

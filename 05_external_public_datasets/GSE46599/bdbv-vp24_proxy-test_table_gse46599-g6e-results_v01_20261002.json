@@ -1,0 +1,995 @@
+{
+ "dataset": "GSE46599",
+ "platform": "Illumina HumanHT-12 v4 (GPL10558)",
+ "design_verbatim": "48 samples; design: 9 cell lines, primary CD4+ T cells and primary macrophages, untreated and IFN-treated; 2 replicate experiments per cell line; 3 replicate experiments per primary cell type",
+ "treatment_verbatim": "1 to 2 million cells were treated with 1000 U / mL universal type 1 IFN (#11200-1 PBL interferon source) for 24 h prior to RNA extraction, or left untreated.",
+ "n_samples": 48,
+ "cells": [
+  "CEM",
+  "CEM-SS",
+  "HT1080",
+  "Jurkat",
+  "PMA-THP-1",
+  "PMA-U937",
+  "primary-macrophages",
+  "primary-CD4+-T-cells",
+  "THP-1",
+  "U87-MG",
+  "U937"
+ ],
+ "platform_completeness": {
+  "genes_requested": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "OAS2",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6",
+   "DDX58",
+   "IFIH1",
+   "IFNAR1",
+   "IFNAR2",
+   "IFNLR1",
+   "IL10RB",
+   "ACTB",
+   "GAPDH",
+   "TBP",
+   "RPL13A",
+   "PPIA",
+   "HPRT1"
+  ],
+  "genes_resolved": {
+   "ISG15": [
+    "ILMN_2054019"
+   ],
+   "MX1": [
+    "ILMN_1662358"
+   ],
+   "MX2": [
+    "ILMN_2231928"
+   ],
+   "OAS1": [
+    "ILMN_1658247",
+    "ILMN_1672606",
+    "ILMN_1675640",
+    "ILMN_2410826"
+   ],
+   "OAS2": [
+    "ILMN_1674063",
+    "ILMN_1709333",
+    "ILMN_1736729",
+    "ILMN_2248970"
+   ],
+   "IFIT1": [
+    "ILMN_1699331",
+    "ILMN_1707695"
+   ],
+   "IFIT2": [
+    "ILMN_1739428"
+   ],
+   "IFIT3": [
+    "ILMN_1664543",
+    "ILMN_1701789",
+    "ILMN_2239754"
+   ],
+   "BST2": [
+    "ILMN_1723480"
+   ],
+   "RSAD2": [
+    "ILMN_1657871"
+   ],
+   "USP18": [
+    "ILMN_3240420"
+   ],
+   "STAT1": [
+    "ILMN_1690105",
+    "ILMN_1691364",
+    "ILMN_1777325"
+   ],
+   "IRF7": [
+    "ILMN_1674646",
+    "ILMN_1798181",
+    "ILMN_2349061"
+   ],
+   "IFI27": [
+    "ILMN_2058782"
+   ],
+   "IFI6": [
+    "ILMN_1687384",
+    "ILMN_2347798"
+   ],
+   "DDX58": [
+    "ILMN_1797001"
+   ],
+   "IFIH1": [
+    "ILMN_1781373"
+   ],
+   "IFNAR1": [
+    "ILMN_1752923"
+   ],
+   "IFNAR2": [
+    "ILMN_1765146",
+    "ILMN_1791057",
+    "ILMN_2347999"
+   ],
+   "IFNLR1": [
+    "ILMN_1680805",
+    "ILMN_2405324"
+   ],
+   "IL10RB": [
+    "ILMN_1767360",
+    "ILMN_2230892"
+   ],
+   "ACTB": [
+    "ILMN_1777296",
+    "ILMN_2038777",
+    "ILMN_2152131"
+   ],
+   "GAPDH": [
+    "ILMN_1343295",
+    "ILMN_1802252",
+    "ILMN_2038778"
+   ],
+   "TBP": [
+    "ILMN_1697117"
+   ],
+   "RPL13A": [
+    "ILMN_1713369"
+   ],
+   "PPIA": [
+    "ILMN_1704529"
+   ],
+   "HPRT1": [
+    "ILMN_1736940",
+    "ILMN_2056975"
+   ]
+  },
+  "genes_absent_from_array": [],
+  "resolution_evidence": {
+   "ISG15": "gene symbol; probe ILMN_2054019; accession NM_005101",
+   "MX1": "gene symbol; probe ILMN_1662358; accession NM_002462",
+   "MX2": "gene symbol; probe ILMN_2231928; accession NM_002463",
+   "OAS1": "gene symbol; probe ILMN_1658247; accession NM_002534",
+   "OAS2": "gene symbol; probe ILMN_1674063; accession NM_016817",
+   "IFIT1": "gene symbol; probe ILMN_1699331; accession NM_001548",
+   "IFIT2": "gene symbol; probe ILMN_1739428; accession NM_001547",
+   "IFIT3": "gene symbol; probe ILMN_1664543; accession NM_001031683",
+   "BST2": "gene symbol; probe ILMN_1723480; accession NM_004335",
+   "RSAD2": "gene symbol; probe ILMN_1657871; accession NM_080657",
+   "USP18": "gene symbol; probe ILMN_3240420; accession NM_017414",
+   "STAT1": "gene symbol; probe ILMN_1690105; accession NM_007315",
+   "IRF7": "gene symbol; probe ILMN_1674646; accession NM_004031",
+   "IFI27": "gene symbol; probe ILMN_2058782; accession NM_005532",
+   "IFI6": "gene symbol; probe ILMN_1687384; accession NM_022873",
+   "DDX58": "gene symbol; probe ILMN_1797001; accession NM_014314",
+   "IFIH1": "gene symbol; probe ILMN_1781373; accession NM_022168",
+   "IFNAR1": "gene symbol; probe ILMN_1752923; accession NM_000629",
+   "IFNAR2": "gene symbol; probe ILMN_1765146; accession NM_207584",
+   "IFNLR1": "gene symbol; probe ILMN_1680805; accession NM_173064",
+   "IL10RB": "gene symbol; probe ILMN_1767360; accession NM_000628",
+   "ACTB": "gene symbol; probe ILMN_1777296; accession NM_001101",
+   "GAPDH": "gene symbol; probe ILMN_1343295; accession NM_002046",
+   "TBP": "gene symbol; probe ILMN_1697117; accession NM_003194",
+   "RPL13A": "gene symbol; probe ILMN_1713369; accession NM_012423",
+   "PPIA": "gene symbol; probe ILMN_1704529; accession NM_021130",
+   "HPRT1": "gene symbol; probe ILMN_1736940; accession NM_000194"
+  },
+  "ISG_module_used": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "OAS2",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6",
+   "DDX58",
+   "IFIH1"
+  ],
+  "ISG_module_n_of_requested": "17/17"
+ },
+ "manuscript_components": {
+  "priming_ISG15_MX1": [
+   "ISG15",
+   "MX1"
+  ],
+  "type_I_IFNAR1_IFNAR2": [
+   "IFNAR1",
+   "IFNAR2"
+  ],
+  "type_III_IFNLR1_IL10RB": [
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "composite": "equal-weight mean of the three terms above"
+ },
+ "per_cell_type": [
+  {
+   "cell": "PMA-U937",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 9.65,
+   "ISG_IFN": 12.6219,
+   "ISG_induction": 2.9719,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 9.8539,
+   "priming_ISG15_MX1_IFN": 12.1115,
+   "priming_ISG15_MX1_induction": 2.2576,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 9.6279,
+   "typeI_IFNAR1_IFNAR2_IFN": 9.8654,
+   "typeI_IFNAR1_IFNAR2_induction": 0.2375,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 8.8514,
+   "typeIII_IFNLR1_IL10RB_IFN": 9.1963,
+   "typeIII_IFNLR1_IL10RB_induction": 0.3449,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 9.2396,
+   "receptor_IFN": 9.5308,
+   "receptor_induction": 0.2912,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 12.8067,
+   "housekeeping_IFN": 12.2433,
+   "housekeeping_induction": -0.5634,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 9.4444
+  },
+  {
+   "cell": "primary-CD4+-T-cells",
+   "kind": "primary",
+   "n_control": 3,
+   "n_ifn": 3,
+   "ISG_baseline": 9.0198,
+   "ISG_IFN": 12.4757,
+   "ISG_induction": 3.4559,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 11.5619,
+   "priming_ISG15_MX1_IFN": 14.4658,
+   "priming_ISG15_MX1_induction": 2.904,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 9.0669,
+   "typeI_IFNAR1_IFNAR2_IFN": 8.8987,
+   "typeI_IFNAR1_IFNAR2_induction": -0.1682,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 9.0751,
+   "typeIII_IFNLR1_IL10RB_IFN": 9.3727,
+   "typeIII_IFNLR1_IL10RB_induction": 0.2976,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 9.071,
+   "receptor_IFN": 9.1357,
+   "receptor_induction": 0.0647,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 13.3318,
+   "housekeeping_IFN": 13.2094,
+   "housekeeping_induction": -0.1224,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 9.9013
+  },
+  {
+   "cell": "U937",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 8.2991,
+   "ISG_IFN": 11.8221,
+   "ISG_induction": 3.523,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 8.9307,
+   "priming_ISG15_MX1_IFN": 11.8757,
+   "priming_ISG15_MX1_induction": 2.945,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 8.9188,
+   "typeI_IFNAR1_IFNAR2_IFN": 8.6536,
+   "typeI_IFNAR1_IFNAR2_induction": -0.2652,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 8.6856,
+   "typeIII_IFNLR1_IL10RB_IFN": 8.6539,
+   "typeIII_IFNLR1_IL10RB_induction": -0.0317,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 8.8022,
+   "receptor_IFN": 8.6537,
+   "receptor_induction": -0.1485,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 13.0149,
+   "housekeeping_IFN": 12.9176,
+   "housekeeping_induction": -0.0973,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 8.845
+  },
+  {
+   "cell": "primary-macrophages",
+   "kind": "primary",
+   "n_control": 3,
+   "n_ifn": 3,
+   "ISG_baseline": 9.9666,
+   "ISG_IFN": 13.5335,
+   "ISG_induction": 3.5669,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 12.1365,
+   "priming_ISG15_MX1_IFN": 14.9108,
+   "priming_ISG15_MX1_induction": 2.7743,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 10.0032,
+   "typeI_IFNAR1_IFNAR2_IFN": 9.847,
+   "typeI_IFNAR1_IFNAR2_induction": -0.1562,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 10.3257,
+   "typeIII_IFNLR1_IL10RB_IFN": 10.5676,
+   "typeIII_IFNLR1_IL10RB_induction": 0.2419,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 10.1644,
+   "receptor_IFN": 10.2073,
+   "receptor_induction": 0.0429,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 12.605,
+   "housekeeping_IFN": 12.0785,
+   "housekeeping_induction": -0.5264,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 10.8218
+  },
+  {
+   "cell": "CEM-SS",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 7.3968,
+   "ISG_IFN": 11.0389,
+   "ISG_induction": 3.6421,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 8.8672,
+   "priming_ISG15_MX1_IFN": 11.5887,
+   "priming_ISG15_MX1_induction": 2.7215,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 8.7706,
+   "typeI_IFNAR1_IFNAR2_IFN": 8.9599,
+   "typeI_IFNAR1_IFNAR2_induction": 0.1892,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 7.9239,
+   "typeIII_IFNLR1_IL10RB_IFN": 8.0067,
+   "typeIII_IFNLR1_IL10RB_induction": 0.0827,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 8.3473,
+   "receptor_IFN": 8.4833,
+   "receptor_induction": 0.136,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 13.2766,
+   "housekeeping_IFN": 13.1978,
+   "housekeeping_induction": -0.0788,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 8.5206
+  },
+  {
+   "cell": "HT1080",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 7.5592,
+   "ISG_IFN": 11.2238,
+   "ISG_induction": 3.6646,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 9.0793,
+   "priming_ISG15_MX1_IFN": 14.03,
+   "priming_ISG15_MX1_induction": 4.9507,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 8.709,
+   "typeI_IFNAR1_IFNAR2_IFN": 8.5208,
+   "typeI_IFNAR1_IFNAR2_induction": -0.1882,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 7.6395,
+   "typeIII_IFNLR1_IL10RB_IFN": 7.7388,
+   "typeIII_IFNLR1_IL10RB_induction": 0.0994,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 8.1742,
+   "receptor_IFN": 8.1298,
+   "receptor_induction": -0.0444,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 13.1469,
+   "housekeeping_IFN": 13.1179,
+   "housekeeping_induction": -0.029,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 8.4759
+  },
+  {
+   "cell": "CEM",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 7.6083,
+   "ISG_IFN": 11.5166,
+   "ISG_induction": 3.9083,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 8.7661,
+   "priming_ISG15_MX1_IFN": 14.568,
+   "priming_ISG15_MX1_induction": 5.8018,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 9.1667,
+   "typeI_IFNAR1_IFNAR2_IFN": 9.0799,
+   "typeI_IFNAR1_IFNAR2_induction": -0.0868,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 7.6743,
+   "typeIII_IFNLR1_IL10RB_IFN": 7.731,
+   "typeIII_IFNLR1_IL10RB_induction": 0.0567,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 8.4205,
+   "receptor_IFN": 8.4055,
+   "receptor_induction": -0.015,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 13.0118,
+   "housekeeping_IFN": 13.0198,
+   "housekeeping_induction": 0.0081,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 8.5357
+  },
+  {
+   "cell": "U87-MG",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 7.4846,
+   "ISG_IFN": 11.7584,
+   "ISG_induction": 4.2738,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 8.2867,
+   "priming_ISG15_MX1_IFN": 11.5168,
+   "priming_ISG15_MX1_induction": 3.2302,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 8.8982,
+   "typeI_IFNAR1_IFNAR2_IFN": 8.577,
+   "typeI_IFNAR1_IFNAR2_induction": -0.3212,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 8.2617,
+   "typeIII_IFNLR1_IL10RB_IFN": 8.1434,
+   "typeIII_IFNLR1_IL10RB_induction": -0.1182,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 8.5799,
+   "receptor_IFN": 8.3602,
+   "receptor_induction": -0.2197,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 12.8659,
+   "housekeeping_IFN": 12.763,
+   "housekeeping_induction": -0.1029,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 8.4822
+  },
+  {
+   "cell": "PMA-THP-1",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 9.1582,
+   "ISG_IFN": 13.4487,
+   "ISG_induction": 4.2906,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 10.8077,
+   "priming_ISG15_MX1_IFN": 14.9015,
+   "priming_ISG15_MX1_induction": 4.0937,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 10.5941,
+   "typeI_IFNAR1_IFNAR2_IFN": 10.2502,
+   "typeI_IFNAR1_IFNAR2_induction": -0.3438,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 9.2096,
+   "typeIII_IFNLR1_IL10RB_IFN": 9.0848,
+   "typeIII_IFNLR1_IL10RB_induction": -0.1248,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 9.9018,
+   "receptor_IFN": 9.6675,
+   "receptor_induction": -0.2343,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 12.5265,
+   "housekeeping_IFN": 12.0886,
+   "housekeeping_induction": -0.4378,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 10.2038
+  },
+  {
+   "cell": "Jurkat",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 7.8817,
+   "ISG_IFN": 12.2094,
+   "ISG_induction": 4.3277,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 8.998,
+   "priming_ISG15_MX1_IFN": 14.688,
+   "priming_ISG15_MX1_induction": 5.69,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 9.7892,
+   "typeI_IFNAR1_IFNAR2_IFN": 9.6502,
+   "typeI_IFNAR1_IFNAR2_induction": -0.1391,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 9.1815,
+   "typeIII_IFNLR1_IL10RB_IFN": 9.2166,
+   "typeIII_IFNLR1_IL10RB_induction": 0.0351,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 9.4853,
+   "receptor_IFN": 9.4334,
+   "receptor_induction": -0.052,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 12.873,
+   "housekeeping_IFN": 12.8841,
+   "housekeeping_induction": 0.0111,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 9.3229
+  },
+  {
+   "cell": "THP-1",
+   "kind": "immortalized",
+   "n_control": 2,
+   "n_ifn": 2,
+   "ISG_baseline": 8.0927,
+   "ISG_IFN": 12.5144,
+   "ISG_induction": 4.4217,
+   "ISG_n_genes": 17,
+   "priming_ISG15_MX1_baseline": 9.7216,
+   "priming_ISG15_MX1_IFN": 14.6298,
+   "priming_ISG15_MX1_induction": 4.9082,
+   "priming_ISG15_MX1_n_genes": 2,
+   "typeI_IFNAR1_IFNAR2_baseline": 9.5446,
+   "typeI_IFNAR1_IFNAR2_IFN": 9.2398,
+   "typeI_IFNAR1_IFNAR2_induction": -0.3048,
+   "typeI_IFNAR1_IFNAR2_n_genes": 2,
+   "typeIII_IFNLR1_IL10RB_baseline": 9.0297,
+   "typeIII_IFNLR1_IL10RB_IFN": 8.9918,
+   "typeIII_IFNLR1_IL10RB_induction": -0.0379,
+   "typeIII_IFNLR1_IL10RB_n_genes": 2,
+   "receptor_baseline": 9.2871,
+   "receptor_IFN": 9.1158,
+   "receptor_induction": -0.1713,
+   "receptor_n_genes": 4,
+   "housekeeping_baseline": 12.8612,
+   "housekeeping_IFN": 12.5763,
+   "housekeeping_induction": -0.2849,
+   "housekeeping_n_genes": 6,
+   "composite_baseline": 9.432
+  }
+ ],
+ "tests": {
+  "all": {
+   "n": 11,
+   "baseline ISG module vs own induction": {
+    "spearman": -0.373,
+    "p": 0.26043,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   },
+   "baseline ISG15+MX1 vs own induction": {
+    "spearman": -0.345,
+    "p": 0.29904,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   },
+   "baseline IFNAR1+IFNAR2 vs ISG induction": {
+    "spearman": 0.2,
+    "p": 0.5564,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   },
+   "baseline IFNLR1+IL10RB vs ISG induction": {
+    "spearman": 0.082,
+    "p": 0.81732,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   },
+   "baseline composite vs ISG induction": {
+    "spearman": -0.173,
+    "p": 0.6157,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   },
+   "baseline housekeeping vs ISG induction (negative control)": {
+    "spearman": -0.3,
+    "p": 0.37122,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   },
+   "baseline ISG module vs induced level": {
+    "spearman": 0.918,
+    "p": 0.00021,
+    "method": "Monte Carlo, 200000 draws, seed 20260926",
+    "notes": "n too large for exact enumeration"
+   }
+  },
+  "immortalized_only": {
+   "n": 9,
+   "baseline ISG module vs own induction": {
+    "spearman": -0.083,
+    "p": 0.8432,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   },
+   "baseline ISG15+MX1 vs own induction": {
+    "spearman": -0.133,
+    "p": 0.7435,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   },
+   "baseline IFNAR1+IFNAR2 vs ISG induction": {
+    "spearman": 0.4,
+    "p": 0.2912,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   },
+   "baseline IFNLR1+IL10RB vs ISG induction": {
+    "spearman": 0.467,
+    "p": 0.2125,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   },
+   "baseline composite vs ISG induction": {
+    "spearman": 0.2,
+    "p": 0.6134,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   },
+   "baseline housekeeping vs ISG induction (negative control)": {
+    "spearman": -0.367,
+    "p": 0.3363,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   },
+   "baseline ISG module vs induced level": {
+    "spearman": 0.883,
+    "p": 0.0031,
+    "method": "exact, 362880 permutations",
+    "min_achievable_p": 0.0
+   }
+  },
+  "primary_only": {
+   "n": 2,
+   "note": "too few cell types for a correlation"
+  }
+ },
+ "bimodality": {
+  "induction_sorted": [
+   2.972,
+   3.456,
+   3.523,
+   3.567,
+   3.642,
+   3.665,
+   3.908,
+   4.274,
+   4.291,
+   4.328,
+   4.422
+  ],
+  "range": [
+   2.972,
+   4.422
+  ],
+  "largest_gap": 0.484,
+  "median_gap": 0.075,
+  "largest_consecutive_fold_change": 1.163,
+  "is_bimodal": false,
+  "n_non_responders_below_0.5": 0,
+  "n_below_20pct_of_max": 0
+ },
+ "ceiling_check": {
+  "ISG15": {
+   "baseline_range": [
+    9.378,
+    12.451
+   ],
+   "induced_range": [
+    14.26,
+    14.945
+   ],
+   "max_induction": 5.119,
+   "min_induction": 2.248,
+   "spearman_baseline_vs_induced": 0.564
+  },
+  "MX1": {
+   "baseline_range": [
+    5.222,
+    12.782
+   ],
+   "induced_range": [
+    8.503,
+    14.933
+   ],
+   "max_induction": 9.355,
+   "min_induction": 1.057,
+   "spearman_baseline_vs_induced": 0.664
+  },
+  "MX2": {
+   "baseline_range": [
+    5.438,
+    12.324
+   ],
+   "induced_range": [
+    11.016,
+    14.446
+   ],
+   "max_induction": 6.602,
+   "min_induction": 1.042,
+   "spearman_baseline_vs_induced": 0.8
+  },
+  "OAS1": {
+   "baseline_range": [
+    6.094,
+    8.865
+   ],
+   "induced_range": [
+    9.705,
+    12.296
+   ],
+   "max_induction": 4.881,
+   "min_induction": 2.879,
+   "spearman_baseline_vs_induced": 0.555
+  },
+  "OAS2": {
+   "baseline_range": [
+    5.042,
+    8.366
+   ],
+   "induced_range": [
+    9.531,
+    11.264
+   ],
+   "max_induction": 5.536,
+   "min_induction": 2.594,
+   "spearman_baseline_vs_induced": 0.436
+  },
+  "IFIT1": {
+   "baseline_range": [
+    5.894,
+    11.527
+   ],
+   "induced_range": [
+    13.42,
+    15.191
+   ],
+   "max_induction": 7.527,
+   "min_induction": 3.238,
+   "spearman_baseline_vs_induced": 0.918
+  },
+  "IFIT2": {
+   "baseline_range": [
+    6.524,
+    10.437
+   ],
+   "induced_range": [
+    9.211,
+    15.157
+   ],
+   "max_induction": 5.954,
+   "min_induction": 1.827,
+   "spearman_baseline_vs_induced": 0.609
+  },
+  "IFIT3": {
+   "baseline_range": [
+    5.535,
+    9.281
+   ],
+   "induced_range": [
+    10.674,
+    13.366
+   ],
+   "max_induction": 5.586,
+   "min_induction": 3.181,
+   "spearman_baseline_vs_induced": 0.536
+  },
+  "BST2": {
+   "baseline_range": [
+    5.849,
+    11.847
+   ],
+   "induced_range": [
+    10.536,
+    13.46
+   ],
+   "max_induction": 4.867,
+   "min_induction": 1.127,
+   "spearman_baseline_vs_induced": 0.9
+  },
+  "RSAD2": {
+   "baseline_range": [
+    5.646,
+    9.434
+   ],
+   "induced_range": [
+    9.288,
+    14.505
+   ],
+   "max_induction": 6.688,
+   "min_induction": 1.957,
+   "spearman_baseline_vs_induced": 0.6
+  },
+  "USP18": {
+   "baseline_range": [
+    5.575,
+    9.162
+   ],
+   "induced_range": [
+    9.432,
+    12.596
+   ],
+   "max_induction": 5.346,
+   "min_induction": 2.588,
+   "spearman_baseline_vs_induced": 0.227
+  },
+  "STAT1": {
+   "baseline_range": [
+    9.876,
+    14.068
+   ],
+   "induced_range": [
+    12.419,
+    14.743
+   ],
+   "max_induction": 3.222,
+   "min_induction": 0.397,
+   "spearman_baseline_vs_induced": 0.882
+  },
+  "IRF7": {
+   "baseline_range": [
+    5.076,
+    9.328
+   ],
+   "induced_range": [
+    5.171,
+    11.369
+   ],
+   "max_induction": 3.252,
+   "min_induction": 0.095,
+   "spearman_baseline_vs_induced": 0.982
+  },
+  "IFI27": {
+   "baseline_range": [
+    5.19,
+    9.677
+   ],
+   "induced_range": [
+    10.628,
+    14.715
+   ],
+   "max_induction": 9.216,
+   "min_induction": 4.749,
+   "spearman_baseline_vs_induced": 0.618
+  },
+  "IFI6": {
+   "baseline_range": [
+    8.221,
+    13.392
+   ],
+   "induced_range": [
+    14.1,
+    15.1
+   ],
+   "max_induction": 5.879,
+   "min_induction": 1.709,
+   "spearman_baseline_vs_induced": 0.8
+  },
+  "DDX58": {
+   "baseline_range": [
+    6.577,
+    8.247
+   ],
+   "induced_range": [
+    8.659,
+    12.251
+   ],
+   "max_induction": 4.109,
+   "min_induction": 1.464,
+   "spearman_baseline_vs_induced": 0.691
+  },
+  "IFIH1": {
+   "baseline_range": [
+    5.135,
+    11.649
+   ],
+   "induced_range": [
+    7.139,
+    13.083
+   ],
+   "max_induction": 3.718,
+   "min_induction": 1.435,
+   "spearman_baseline_vs_induced": 0.973
+  }
+ },
+ "hiv1_restriction_label_from_series": {
+  "CEM": [
+   "permissive",
+   "untreated"
+  ],
+  "CEM-SS": [
+   "permissive",
+   "untreated"
+  ],
+  "HT1080": [
+   "partially resistant",
+   "untreated"
+  ],
+  "Jurkat": [
+   "permissive",
+   "untreated"
+  ],
+  "PMA-THP-1": [
+   "resistant",
+   "untreated"
+  ],
+  "PMA-U937": [
+   "partially resistant",
+   "untreated"
+  ],
+  "primary-macrophages": [
+   "resistant",
+   "untreated"
+  ],
+  "primary-CD4+-T-cells": [
+   "resistant",
+   "untreated"
+  ],
+  "THP-1": [
+   "resistant",
+   "untreated"
+  ],
+  "U87-MG": [
+   "resistant",
+   "untreated"
+  ],
+  "U937": [
+   "permissive",
+   "untreated"
+  ]
+ },
+ "hiv1_restriction_groups": {
+  "permissive": {
+   "n": 4,
+   "cells": [
+    "U937",
+    "CEM-SS",
+    "CEM",
+    "Jurkat"
+   ],
+   "mean_baseline_ISG": 7.796,
+   "mean_ISG_induction": 3.85
+  },
+  "partially resistant": {
+   "n": 2,
+   "cells": [
+    "PMA-U937",
+    "HT1080"
+   ],
+   "mean_baseline_ISG": 8.605,
+   "mean_ISG_induction": 3.318
+  },
+  "resistant": {
+   "n": 5,
+   "cells": [
+    "primary-CD4+-T-cells",
+    "primary-macrophages",
+    "U87-MG",
+    "PMA-THP-1",
+    "THP-1"
+   ],
+   "mean_baseline_ISG": 8.744,
+   "mean_ISG_induction": 4.002
+  },
+  "resistant_vs_permissive_baseline": {
+   "difference_resistant_minus_permissive": 0.948,
+   "p": 0.119,
+   "method": "exact, 126 label permutations",
+   "caveat": "functional label is HIV-1 restriction, not interferon responsiveness"
+  }
+ }
+}

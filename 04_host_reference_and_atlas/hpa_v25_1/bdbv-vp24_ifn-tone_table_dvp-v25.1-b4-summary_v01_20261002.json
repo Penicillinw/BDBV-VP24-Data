@@ -1,0 +1,437 @@
+{
+  "resource": "Wang et al. 2019 Mol Syst Biol 15:e8503 (PMC6379049)",
+  "protein_table": "Table_EV1.xlsx / C. Genes",
+  "rna_table": "Table_EV2.xlsx / B. Genes",
+  "n_tissues_shared": 29,
+  "tissues": [
+    "Adrenal gland",
+    "Appendix",
+    "Brain",
+    "Colon",
+    "Duodenum",
+    "Endometrium",
+    "Esophagus",
+    "Fallopian tube",
+    "Fat",
+    "Gallbladder",
+    "Heart",
+    "Kidney",
+    "Liver",
+    "Lung",
+    "Lymph node",
+    "Ovary",
+    "Pancreas",
+    "Placenta",
+    "Prostate",
+    "Rectum",
+    "Salivary gland",
+    "Small intestine",
+    "Smooth muscle",
+    "Spleen",
+    "Stomach",
+    "Testis",
+    "Thyroid",
+    "Tonsil",
+    "Urinary bladder"
+  ],
+  "n_genes_in_universe": 11670,
+  "min_tissues_rule": 10,
+  "run_date": "2026-09-26",
+  "rules": {
+    "R5_primary_listwise_detected": {
+      "rule": "R5_primary_listwise_detected",
+      "genes_in_universe": 11670,
+      "genes_in_null": 8697,
+      "null_median_rho": 0.3350166302046611,
+      "null_q25_rho": 0.1496388028895769,
+      "null_q75_rho": 0.5171568627450981,
+      "null_median_n_tissues": 28.0,
+      "focal": {
+        "IFNAR1": {
+          "rho": 0.0824,
+          "n_tissues": 13,
+          "p": 0.788950927847518,
+          "q_bh_focal": 0.7889509278475179,
+          "percentile_in_genome": 0.1806
+        },
+        "IFNAR2": {
+          "rho": 0.3212,
+          "n_tissues": 10,
+          "p": 0.36546831043867045,
+          "q_bh_focal": 0.42849449614026536,
+          "percentile_in_genome": 0.48
+        },
+        "IL10RB": {
+          "rho": 0.184,
+          "n_tissues": 24,
+          "p": 0.3895404510366049,
+          "q_bh_focal": 0.42849449614026536,
+          "percentile_in_genome": 0.2918
+        },
+        "ISG15": {
+          "rho": 0.3963,
+          "n_tissues": 28,
+          "p": 0.0368300965047156,
+          "q_bh_focal": 0.08102621231037432,
+          "percentile_in_genome": 0.5875
+        },
+        "MX1": {
+          "rho": 0.8764,
+          "n_tissues": 29,
+          "p": 4.669694331106725e-10,
+          "q_bh_focal": 2.568331882108699e-09,
+          "percentile_in_genome": 0.995
+        },
+        "KPNA1": {
+          "rho": 0.1793,
+          "n_tissues": 29,
+          "p": 0.35200111362750863,
+          "q_bh_focal": 0.42849449614026536,
+          "percentile_in_genome": 0.2864
+        },
+        "KPNA5": {
+          "rho": 1.0,
+          "n_tissues": 4,
+          "p": 0.0,
+          "q_bh_focal": 0.0,
+          "percentile_in_genome": 1.0
+        },
+        "KPNA6": {
+          "rho": 0.4811,
+          "n_tissues": 29,
+          "p": 0.008241272244484342,
+          "q_bh_focal": 0.02266349867233194,
+          "percentile_in_genome": 0.704
+        },
+        "STAT1": {
+          "rho": 0.6217,
+          "n_tissues": 29,
+          "p": 0.0003184603499017165,
+          "q_bh_focal": 0.0011676879496396273,
+          "percentile_in_genome": 0.8589
+        },
+        "STAT2": {
+          "rho": 0.3187,
+          "n_tissues": 29,
+          "p": 0.09196387663824587,
+          "q_bh_focal": 0.16860044050345077,
+          "percentile_in_genome": 0.4772
+        },
+        "IRF9": {
+          "rho": 0.1808,
+          "n_tissues": 29,
+          "p": 0.34798019453464213,
+          "q_bh_focal": 0.42849449614026536,
+          "percentile_in_genome": 0.2879
+        }
+      },
+      "focal_genes_missing_from_resource": [
+        "IFNLR1"
+      ]
+    },
+    "S1_all_tissues_zeros_kept": {
+      "rule": "S1_all_tissues_zeros_kept",
+      "genes_in_universe": 11670,
+      "genes_in_null": 11670,
+      "null_median_rho": 0.32861190050957195,
+      "null_q25_rho": 0.15764032218577,
+      "null_q75_rho": 0.49739275604609645,
+      "null_median_n_tissues": 29.0,
+      "focal": {
+        "IFNAR1": {
+          "rho": 0.2532,
+          "n_tissues": 29,
+          "p": 0.18506545906026478,
+          "q_bh_focal": 0.22619111662921249,
+          "percentile_in_genome": 0.3802
+        },
+        "IFNAR2": {
+          "rho": 0.4049,
+          "n_tissues": 29,
+          "p": 0.02936109643794387,
+          "q_bh_focal": 0.06459441216347651,
+          "percentile_in_genome": 0.6193
+        },
+        "IL10RB": {
+          "rho": 0.2803,
+          "n_tissues": 29,
+          "p": 0.1408380922579135,
+          "q_bh_focal": 0.22131700211957833,
+          "percentile_in_genome": 0.4216
+        },
+        "ISG15": {
+          "rho": 0.435,
+          "n_tissues": 29,
+          "p": 0.01836614880893513,
+          "q_bh_focal": 0.05050690922457161,
+          "percentile_in_genome": 0.6644
+        },
+        "MX1": {
+          "rho": 0.8764,
+          "n_tissues": 29,
+          "p": 4.669694331106725e-10,
+          "q_bh_focal": 5.136663764217398e-09,
+          "percentile_in_genome": 0.9937
+        },
+        "KPNA1": {
+          "rho": 0.1793,
+          "n_tissues": 29,
+          "p": 0.35200111362750863,
+          "q_bh_focal": 0.35200111362750863,
+          "percentile_in_genome": 0.2752
+        },
+        "KPNA5": {
+          "rho": 0.264,
+          "n_tissues": 29,
+          "p": 0.16648032741568564,
+          "q_bh_focal": 0.22619111662921249,
+          "percentile_in_genome": 0.3944
+        },
+        "KPNA6": {
+          "rho": 0.4811,
+          "n_tissues": 29,
+          "p": 0.008241272244484342,
+          "q_bh_focal": 0.03021799822977592,
+          "percentile_in_genome": 0.7308
+        },
+        "STAT1": {
+          "rho": 0.6217,
+          "n_tissues": 29,
+          "p": 0.0003184603499017165,
+          "q_bh_focal": 0.0017515319244594408,
+          "percentile_in_genome": 0.8776
+        },
+        "STAT2": {
+          "rho": 0.3187,
+          "n_tissues": 29,
+          "p": 0.09196387663824587,
+          "q_bh_focal": 0.16860044050345077,
+          "percentile_in_genome": 0.4862
+        },
+        "IRF9": {
+          "rho": 0.1808,
+          "n_tissues": 29,
+          "p": 0.34798019453464213,
+          "q_bh_focal": 0.35200111362750863,
+          "percentile_in_genome": 0.2772
+        }
+      },
+      "focal_genes_missing_from_resource": [
+        "IFNLR1"
+      ]
+    },
+    "S2_mrna_detected_only": {
+      "rule": "S2_mrna_detected_only",
+      "genes_in_universe": 11670,
+      "genes_in_null": 9518,
+      "null_median_rho": 0.32650213008024975,
+      "null_q25_rho": 0.14759303474508734,
+      "null_q75_rho": 0.5059450713511485,
+      "null_median_n_tissues": 29.0,
+      "focal": {
+        "IFNAR1": {
+          "rho": 0.2532,
+          "n_tissues": 29,
+          "p": 0.18506545906026478,
+          "q_bh_focal": 0.22619111662921249,
+          "percentile_in_genome": 0.3915
+        },
+        "IFNAR2": {
+          "rho": 0.4049,
+          "n_tissues": 29,
+          "p": 0.02936109643794387,
+          "q_bh_focal": 0.06459441216347651,
+          "percentile_in_genome": 0.6164
+        },
+        "IL10RB": {
+          "rho": 0.2803,
+          "n_tissues": 29,
+          "p": 0.1408380922579135,
+          "q_bh_focal": 0.19365237685463105,
+          "percentile_in_genome": 0.4324
+        },
+        "ISG15": {
+          "rho": 0.3963,
+          "n_tissues": 28,
+          "p": 0.0368300965047156,
+          "q_bh_focal": 0.0675218435919786,
+          "percentile_in_genome": 0.6003
+        },
+        "MX1": {
+          "rho": 0.8764,
+          "n_tissues": 29,
+          "p": 4.669694331106725e-10,
+          "q_bh_focal": 5.136663764217398e-09,
+          "percentile_in_genome": 0.995
+        },
+        "KPNA1": {
+          "rho": 0.1793,
+          "n_tissues": 29,
+          "p": 0.35200111362750863,
+          "q_bh_focal": 0.35200111362750863,
+          "percentile_in_genome": 0.2878
+        },
+        "KPNA5": {
+          "rho": 0.4237,
+          "n_tissues": 27,
+          "p": 0.0276576780723763,
+          "q_bh_focal": 0.06459441216347651,
+          "percentile_in_genome": 0.6427
+        },
+        "KPNA6": {
+          "rho": 0.4811,
+          "n_tissues": 29,
+          "p": 0.008241272244484342,
+          "q_bh_focal": 0.03021799822977592,
+          "percentile_in_genome": 0.7181
+        },
+        "STAT1": {
+          "rho": 0.6217,
+          "n_tissues": 29,
+          "p": 0.0003184603499017165,
+          "q_bh_focal": 0.0017515319244594408,
+          "percentile_in_genome": 0.8671
+        },
+        "STAT2": {
+          "rho": 0.3187,
+          "n_tissues": 29,
+          "p": 0.09196387663824587,
+          "q_bh_focal": 0.14451466328867207,
+          "percentile_in_genome": 0.4906
+        },
+        "IRF9": {
+          "rho": 0.1808,
+          "n_tissues": 29,
+          "p": 0.34798019453464213,
+          "q_bh_focal": 0.35200111362750863,
+          "percentile_in_genome": 0.2895
+        }
+      },
+      "focal_genes_missing_from_resource": [
+        "IFNLR1"
+      ]
+    }
+  },
+  "detectability": [
+    {
+      "gene": "IFNAR1",
+      "group": "score_typeI",
+      "ensembl_gene_id": "ENSG00000142166",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 13,
+      "tissues_protein_undetected": 16,
+      "fraction_undetected": 0.5517241379310345,
+      "median_mrna_tpm_detected": 16.43
+    },
+    {
+      "gene": "IFNAR2",
+      "group": "score_typeI",
+      "ensembl_gene_id": "ENSG00000159110",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 10,
+      "tissues_protein_undetected": 19,
+      "fraction_undetected": 0.6551724137931034,
+      "median_mrna_tpm_detected": 18.555
+    },
+    {
+      "gene": "IFNLR1",
+      "group": "score_typeIII",
+      "ensembl_gene_id": NaN,
+      "tissues_assayed": 0,
+      "tissues_protein_detected": 0,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": NaN,
+      "median_mrna_tpm_detected": NaN
+    },
+    {
+      "gene": "IL10RB",
+      "group": "score_typeIII",
+      "ensembl_gene_id": "ENSG00000243646",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 24,
+      "tissues_protein_undetected": 5,
+      "fraction_undetected": 0.1724137931034483,
+      "median_mrna_tpm_detected": 22.51
+    },
+    {
+      "gene": "ISG15",
+      "group": "score_priming",
+      "ensembl_gene_id": "ENSG00000187608",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 8.6
+    },
+    {
+      "gene": "MX1",
+      "group": "score_priming",
+      "ensembl_gene_id": "ENSG00000157601",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 17.71
+    },
+    {
+      "gene": "KPNA1",
+      "group": "second_axis",
+      "ensembl_gene_id": "ENSG00000114030",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 14.4
+    },
+    {
+      "gene": "KPNA5",
+      "group": "second_axis",
+      "ensembl_gene_id": "ENSG00000196911",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 5,
+      "tissues_protein_undetected": 24,
+      "fraction_undetected": 0.8275862068965517,
+      "median_mrna_tpm_detected": 6.93
+    },
+    {
+      "gene": "KPNA6",
+      "group": "second_axis",
+      "ensembl_gene_id": "ENSG00000025800",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 10.41
+    },
+    {
+      "gene": "STAT1",
+      "group": "cargo",
+      "ensembl_gene_id": "ENSG00000115415",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 33.33
+    },
+    {
+      "gene": "STAT2",
+      "group": "cargo",
+      "ensembl_gene_id": "ENSG00000170581",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 13.82
+    },
+    {
+      "gene": "IRF9",
+      "group": "cargo",
+      "ensembl_gene_id": "ENSG00000213928",
+      "tissues_assayed": 29,
+      "tissues_protein_detected": 29,
+      "tissues_protein_undetected": 0,
+      "fraction_undetected": 0.0,
+      "median_mrna_tpm_detected": 26.28
+    }
+  ]
+}

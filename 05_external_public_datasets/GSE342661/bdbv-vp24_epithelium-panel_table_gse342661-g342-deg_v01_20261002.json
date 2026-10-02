@@ -1,0 +1,305 @@
+{
+  "rule": "paired t on log2(TPM+1), BH-FDR < 0.05 and |mean log2FC| >= 1",
+  "rows": [
+    {
+      "route": "apical-basal",
+      "time": "24h",
+      "treatment": "IFNB1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 817,
+      "n_sig_down": 275,
+      "max_abs_mean_log2_fc": 9.617451377703702
+    },
+    {
+      "route": "apical-basal",
+      "time": "24h",
+      "treatment": "IFNL1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 2,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 6.061082747027024
+    },
+    {
+      "route": "apical-basal",
+      "time": "24h",
+      "treatment": "IFNL2",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.473577172882074
+    },
+    {
+      "route": "apical-basal",
+      "time": "24h",
+      "treatment": "IFNL3",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 1,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.799386625800465
+    },
+    {
+      "route": "apical-basal",
+      "time": "24h",
+      "treatment": "IFNL4",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 2.6857998217519614
+    },
+    {
+      "route": "apical-basal",
+      "time": "6h",
+      "treatment": "IFNB1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 473,
+      "n_sig_down": 17,
+      "max_abs_mean_log2_fc": 9.583459949138486
+    },
+    {
+      "route": "apical-basal",
+      "time": "6h",
+      "treatment": "IFNL1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 60,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.920919554752237
+    },
+    {
+      "route": "apical-basal",
+      "time": "6h",
+      "treatment": "IFNL2",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 22,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.860503186616763
+    },
+    {
+      "route": "apical-basal",
+      "time": "6h",
+      "treatment": "IFNL3",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 75,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.849609846533205
+    },
+    {
+      "route": "apical-basal",
+      "time": "6h",
+      "treatment": "IFNL4",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.411077919306417
+    },
+    {
+      "route": "apical-basal",
+      "time": "72h",
+      "treatment": "IFNB1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 738,
+      "n_sig_down": 286,
+      "max_abs_mean_log2_fc": 9.025759078018247
+    },
+    {
+      "route": "apical-basal",
+      "time": "72h",
+      "treatment": "IFNL1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 31,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 6.392407027985
+    },
+    {
+      "route": "apical-basal",
+      "time": "72h",
+      "treatment": "IFNL2",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 5.751235175897572
+    },
+    {
+      "route": "apical-basal",
+      "time": "72h",
+      "treatment": "IFNL3",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 62,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 6.36408400863401
+    },
+    {
+      "route": "apical-basal",
+      "time": "72h",
+      "treatment": "IFNL4",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 2.484503880218596
+    },
+    {
+      "route": "apical-only",
+      "time": "24h",
+      "treatment": "IFNB1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.982927260132454
+    },
+    {
+      "route": "apical-only",
+      "time": "24h",
+      "treatment": "IFNL1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.1172569243248303
+    },
+    {
+      "route": "apical-only",
+      "time": "24h",
+      "treatment": "IFNL2",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.6269414387869
+    },
+    {
+      "route": "apical-only",
+      "time": "24h",
+      "treatment": "IFNL3",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.3256725810062426
+    },
+    {
+      "route": "apical-only",
+      "time": "24h",
+      "treatment": "IFNL4",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.3269100224570196
+    },
+    {
+      "route": "apical-only",
+      "time": "6h",
+      "treatment": "IFNB1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.757097870879677
+    },
+    {
+      "route": "apical-only",
+      "time": "6h",
+      "treatment": "IFNL1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 2.9500998298970726
+    },
+    {
+      "route": "apical-only",
+      "time": "6h",
+      "treatment": "IFNL2",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.0302203544842703
+    },
+    {
+      "route": "apical-only",
+      "time": "6h",
+      "treatment": "IFNL3",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.820500612819133
+    },
+    {
+      "route": "apical-only",
+      "time": "6h",
+      "treatment": "IFNL4",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.534651344952147
+    },
+    {
+      "route": "apical-only",
+      "time": "72h",
+      "treatment": "IFNB1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.627818031705578
+    },
+    {
+      "route": "apical-only",
+      "time": "72h",
+      "treatment": "IFNL1",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.304929138684953
+    },
+    {
+      "route": "apical-only",
+      "time": "72h",
+      "treatment": "IFNL2",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.28244923060745
+    },
+    {
+      "route": "apical-only",
+      "time": "72h",
+      "treatment": "IFNL3",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 4.384884989265482
+    },
+    {
+      "route": "apical-only",
+      "time": "72h",
+      "treatment": "IFNL4",
+      "n_pairs": 5,
+      "n_tested": 62754,
+      "n_sig_up": 0,
+      "n_sig_down": 0,
+      "max_abs_mean_log2_fc": 3.0085951134271456
+    }
+  ]
+}

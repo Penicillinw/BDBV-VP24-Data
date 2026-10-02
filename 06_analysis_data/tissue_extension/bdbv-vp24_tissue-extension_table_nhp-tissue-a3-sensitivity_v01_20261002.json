@@ -1,0 +1,359 @@
+{
+  "role": "exploratory sensitivity; does NOT alter the pre-registered verdict",
+  "instrument2_markers": 6877,
+  "instrument2_anchor_A1_hits": 5,
+  "instrument2_anchor_A1_table": [
+    {
+      "tissue": "liver",
+      "top1": "hepatocytes",
+      "top1_frac": 0.585,
+      "expected": "hepatocytes",
+      "hit": true
+    },
+    {
+      "tissue": "kidney",
+      "top1": "kidney_tubule",
+      "top1_frac": 0.318,
+      "expected": "kidney_tubule",
+      "hit": true
+    },
+    {
+      "tissue": "brain",
+      "top1": "neurons",
+      "top1_frac": 0.259,
+      "expected": "astrocytes;ependymal;microglia;neurons;oligodendrocytes",
+      "hit": true
+    },
+    {
+      "tissue": "adrenal gland",
+      "top1": "adrenal_medulla",
+      "top1_frac": 0.531,
+      "expected": "adrenal_cortex;adrenal_medulla",
+      "hit": true
+    },
+    {
+      "tissue": "lymph node",
+      "top1": "adrenal_cortex",
+      "top1_frac": 0.202,
+      "expected": "b_cells;innate_lymphoid;nk_cells;plasma_cells;t_cells",
+      "hit": false
+    },
+    {
+      "tissue": "skin",
+      "top1": "adipocytes",
+      "top1_frac": 0.586,
+      "expected": "fibroblasts;keratinocytes",
+      "hit": false
+    },
+    {
+      "tissue": "sex organ",
+      "top1": "smooth_muscle",
+      "top1_frac": 0.257,
+      "expected": "epididymal_epithelium;germ_cells;leydig;sertoli",
+      "hit": false
+    },
+    {
+      "tissue": "lung",
+      "top1": "alveolar_epithelium",
+      "top1_frac": 0.319,
+      "expected": "airway_epithelium;alveolar_epithelium",
+      "hit": true
+    }
+  ],
+  "instrument3_anchor_A1_hits": 6,
+  "instrument3_anchor_A1_table": [
+    {
+      "tissue": "liver",
+      "top1": "hepatocytes",
+      "top1_frac": 0.341,
+      "hit": true
+    },
+    {
+      "tissue": "kidney",
+      "top1": "kidney_tubule",
+      "top1_frac": 0.084,
+      "hit": true
+    },
+    {
+      "tissue": "brain",
+      "top1": "astrocytes",
+      "top1_frac": 0.092,
+      "hit": true
+    },
+    {
+      "tissue": "adrenal gland",
+      "top1": "adrenal_medulla",
+      "top1_frac": 0.132,
+      "hit": true
+    },
+    {
+      "tissue": "lymph node",
+      "top1": "b_cells",
+      "top1_frac": 0.105,
+      "hit": true
+    },
+    {
+      "tissue": "skin",
+      "top1": "adipocytes",
+      "top1_frac": 0.309,
+      "hit": false
+    },
+    {
+      "tissue": "sex organ",
+      "top1": "smooth_muscle",
+      "top1_frac": 0.112,
+      "hit": false
+    },
+    {
+      "tissue": "lung",
+      "top1": "alveolar_epithelium",
+      "top1_frac": 0.121,
+      "hit": true
+    }
+  ],
+  "instrument3_anchor_A2_vs_cpm_share": {
+    "rho": 0.81,
+    "p": 0.0149
+  },
+  "instrument3_composition_R2_on_ISG": 0.737,
+  "instrument2_anchor_A2": {
+    "vs_cpm_share_median": {
+      "rho": -0.19,
+      "p": 0.6514
+    },
+    "vs_cpm_share_mean": {
+      "rho": -0.238,
+      "p": 0.5702
+    }
+  },
+  "instrument1_anchor_A2_vs_cpm_share": {
+    "rho": 0.548,
+    "p": 0.16
+  },
+  "marker_immune_R2_on_ISG": 0.001,
+  "instrument2_composition_R2_on_ISG": 0.61,
+  "primary_equivalent_inst2": {
+    "pair": "PRIMARY-equivalent (inst2): delta_weighted_inst2 vs E_adj_inst2",
+    "n": "8",
+    "rho": 0.19,
+    "p_perm": 0.6559,
+    "ci_low": -0.676,
+    "ci_high": 0.923,
+    "loo_min": -0.071,
+    "loo_max": 0.571
+  },
+  "correlations": [
+    {
+      "pair": "PRIMARY-equivalent (inst2): delta_weighted_inst2 vs E_adj_inst2",
+      "n": 8,
+      "rho": 0.19,
+      "p_perm": 0.6559,
+      "ci_low": -0.676,
+      "ci_high": 0.923,
+      "loo_min": -0.071,
+      "loo_max": 0.571
+    },
+    {
+      "pair": "marker: delta_median_g8 vs E_adj_marker",
+      "n": 8,
+      "rho": -0.333,
+      "p_perm": 0.4237,
+      "ci_low": -0.918,
+      "ci_high": 0.6,
+      "loo_min": -0.786,
+      "loo_max": -0.071
+    },
+    {
+      "pair": "marker: delta_weighted_inst2 vs E_adj_marker",
+      "n": 8,
+      "rho": -0.19,
+      "p_perm": 0.6665,
+      "ci_low": -0.918,
+      "ci_high": 0.744,
+      "loo_min": -0.571,
+      "loo_max": 0.143
+    },
+    {
+      "pair": "inst2 composition: delta_median_g8 vs E_adj_inst2",
+      "n": 8,
+      "rho": 0.333,
+      "p_perm": 0.4271,
+      "ci_low": -0.448,
+      "ci_high": 0.852,
+      "loo_min": 0.143,
+      "loo_max": 0.5
+    },
+    {
+      "pair": "PRIMARY-equivalent (inst3): delta_weighted_inst3 vs E_adj_inst3",
+      "n": 8,
+      "rho": -0.167,
+      "p_perm": 0.7071,
+      "ci_low": -0.797,
+      "ci_high": 0.747,
+      "loo_min": -0.393,
+      "loo_max": 0.107
+    },
+    {
+      "pair": "inst3 composition: delta_median_g8 vs E_adj_inst3",
+      "n": 8,
+      "rho": 0.048,
+      "p_perm": 0.9394,
+      "ci_low": -0.848,
+      "ci_high": 0.842,
+      "loo_min": -0.286,
+      "loo_max": 0.357
+    },
+    {
+      "pair": "confound: E_raw vs immune_cpm_share",
+      "n": 8,
+      "rho": 0.167,
+      "p_perm": 0.7083,
+      "ci_low": -0.772,
+      "ci_high": 0.947,
+      "loo_min": -0.25,
+      "loo_max": 0.5
+    },
+    {
+      "pair": "confound: delta_median_g8 vs immune_cpm_share",
+      "n": 8,
+      "rho": 0.452,
+      "p_perm": 0.2677,
+      "ci_low": -0.557,
+      "ci_high": 1.0,
+      "loo_min": 0.179,
+      "loo_max": 0.75
+    }
+  ],
+  "table": [
+    {
+      "tissue": "liver",
+      "delta_weighted_inst2": -0.0293,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": 0.1314,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.0056,
+      "immune_fraction_inst3": 0.1255,
+      "immune_cpm_share": 0.0006,
+      "E_adj_marker": 0.9327,
+      "E_raw": 1.0653,
+      "delta_median_g8": 0.2706,
+      "E_adj_inst2": 0.1089,
+      "E_adj_inst3": 0.0996
+    },
+    {
+      "tissue": "kidney",
+      "delta_weighted_inst2": -0.2069,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": -0.0773,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.0775,
+      "immune_fraction_inst3": 0.1526,
+      "immune_cpm_share": 0.0002,
+      "E_adj_marker": 0.8266,
+      "E_raw": 0.9543,
+      "delta_median_g8": -0.455,
+      "E_adj_inst2": 0.1212,
+      "E_adj_inst3": 0.3992
+    },
+    {
+      "tissue": "brain",
+      "delta_weighted_inst2": -0.1152,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": -0.1407,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.1012,
+      "immune_fraction_inst3": 0.1244,
+      "immune_cpm_share": 0.0,
+      "E_adj_marker": 0.082,
+      "E_raw": 0.1879,
+      "delta_median_g8": 0.132,
+      "E_adj_inst2": 0.2907,
+      "E_adj_inst3": 0.2052
+    },
+    {
+      "tissue": "adrenal gland",
+      "delta_weighted_inst2": -0.8893,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": -0.2636,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.0379,
+      "immune_fraction_inst3": 0.134,
+      "immune_cpm_share": 0.0001,
+      "E_adj_marker": 0.6467,
+      "E_raw": 0.7612,
+      "delta_median_g8": -0.969,
+      "E_adj_inst2": 0.0503,
+      "E_adj_inst3": -0.0871
+    },
+    {
+      "tissue": "lymph node",
+      "delta_weighted_inst2": 0.0222,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": 0.2067,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.4332,
+      "immune_fraction_inst3": 0.4903,
+      "immune_cpm_share": 0.0011,
+      "E_adj_marker": 0.2217,
+      "E_raw": 0.3614,
+      "delta_median_g8": 0.2748,
+      "E_adj_inst2": 0.1422,
+      "E_adj_inst3": 0.1132
+    },
+    {
+      "tissue": "skin",
+      "delta_weighted_inst2": -0.7965,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": -0.4165,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.0558,
+      "immune_fraction_inst3": 0.0836,
+      "immune_cpm_share": 0.0,
+      "E_adj_marker": 0.4395,
+      "E_raw": 0.5473,
+      "delta_median_g8": 0.0599,
+      "E_adj_inst2": 0.3198,
+      "E_adj_inst3": 0.2509
+    },
+    {
+      "tissue": "sex organ",
+      "delta_weighted_inst2": -0.423,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": -0.0971,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.0152,
+      "immune_fraction_inst3": 0.1417,
+      "immune_cpm_share": 0.0002,
+      "E_adj_marker": 0.2752,
+      "E_raw": 0.3836,
+      "delta_median_g8": -0.356,
+      "E_adj_inst2": 0.0642,
+      "E_adj_inst3": 0.0187
+    },
+    {
+      "tissue": "lung",
+      "delta_weighted_inst2": -0.1615,
+      "coverage_inst2": 1.0,
+      "delta_weighted_inst3": 0.0026,
+      "coverage_inst3": 1.0,
+      "immune_fraction_inst2": 0.03,
+      "immune_fraction_inst3": 0.2046,
+      "immune_cpm_share": 0.0006,
+      "E_adj_marker": 0.591,
+      "E_raw": 0.735,
+      "delta_median_g8": 0.0821,
+      "E_adj_inst2": -0.0062,
+      "E_adj_inst3": -0.1704
+    }
+  ],
+  "markers_used_for_immune_share": [
+    "PTPRC",
+    "CD3E",
+    "MS4A1",
+    "NKG7",
+    "LYZ",
+    "CD68",
+    "CD14"
+  ],
+  "missing_class_members": []
+}

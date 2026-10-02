@@ -1,0 +1,44 @@
+panel	species	species_label	sequences_assessed	n_partial_skipped	observation	position	residue	n_records	is_major_call	is_bdbv_defining_residue	is_bombali_departure	carries_SQHA
+Fig1a	BDBV	Bundibugyo	31	1	position_call	83	S	31	True	True	False	True
+Fig1a	BDBV	Bundibugyo	31	1	position_call	135	Q	31	True	True	False	True
+Fig1a	BDBV	Bundibugyo	31	1	position_call	140	H	31	True	True	False	True
+Fig1a	BDBV	Bundibugyo	31	1	position_call	141	A	31	True	True	False	True
+Fig1a	BDBV	Bundibugyo	31	1	four_position_motif		SQHA	31				True
+Fig1a	EBOV	Zaire	3271	31	position_call	83	P	3263	True	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	83	X	8	False	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	135	N	3261	True	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	135	X	10	False	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	140	R	3260	True	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	140	X	11	False	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	141	V	3260	True	False	False	False
+Fig1a	EBOV	Zaire	3271	31	position_call	141	X	11	False	False	False	False
+Fig1a	EBOV	Zaire	3271	31	four_position_motif		PNRV	3253				False
+Fig1a	EBOV	Zaire	3271	31	four_position_motif		PXXX	7				False
+Fig1a	EBOV	Zaire	3271	31	four_position_motif		XNRV	6				False
+Fig1a	EBOV	Zaire	3271	31	four_position_motif		XXXX	2				False
+Fig1a	EBOV	Zaire	3271	31	four_position_motif		PNXX	2				False
+Fig1a	EBOV	Zaire	3271	31	four_position_motif		PXRV	1				False
+Fig1a	SUDV	Sudan	147	0	position_call	83	Q	147	True	False	False	False
+Fig1a	SUDV	Sudan	147	0	position_call	135	N	147	True	False	False	False
+Fig1a	SUDV	Sudan	147	0	position_call	140	R	147	True	False	False	False
+Fig1a	SUDV	Sudan	147	0	position_call	141	V	146	True	False	False	False
+Fig1a	SUDV	Sudan	147	0	position_call	141	X	1	False	False	False	False
+Fig1a	SUDV	Sudan	147	0	four_position_motif		QNRV	146				False
+Fig1a	SUDV	Sudan	147	0	four_position_motif		QNRX	1				False
+Fig1a	TAFV	Tai Forest	4	0	position_call	83	P	4	True	False	False	False
+Fig1a	TAFV	Tai Forest	4	0	position_call	135	Q	4	True	True	False	False
+Fig1a	TAFV	Tai Forest	4	0	position_call	140	Q	4	True	False	False	False
+Fig1a	TAFV	Tai Forest	4	0	position_call	141	A	4	True	True	False	False
+Fig1a	TAFV	Tai Forest	4	0	four_position_motif		PQQA	4				False
+Fig1a	RESTV	Reston	27	0	position_call	83	P	27	True	False	False	False
+Fig1a	RESTV	Reston	27	0	position_call	135	N	27	True	False	False	False
+Fig1a	RESTV	Reston	27	0	position_call	140	S	27	True	False	False	False
+Fig1a	RESTV	Reston	27	0	position_call	141	V	27	True	False	False	False
+Fig1a	RESTV	Reston	27	0	four_position_motif		PNSV	27				False
+Fig1a	BOMV	Bombali	10	0	position_call	83	P	10	True	False	False	False
+Fig1a	BOMV	Bombali	10	0	position_call	135	N	10	True	False	False	False
+Fig1a	BOMV	Bombali	10	0	position_call	140	S	8	True	False	True	False
+Fig1a	BOMV	Bombali	10	0	position_call	140	R	2	False	False	True	False
+Fig1a	BOMV	Bombali	10	0	position_call	141	V	10	True	False	False	False
+Fig1a	BOMV	Bombali	10	0	four_position_motif		PNSV	8				False
+Fig1a	BOMV	Bombali	10	0	four_position_motif		PNRV	2				False

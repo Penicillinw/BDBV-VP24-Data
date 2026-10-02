@@ -1,0 +1,11 @@
+gene	cell_type	nCPM	source
+CD209	Mononuclear phagocytes	2.7	single_cell_group
+CLEC10A	dendritic cells	662.6	single_cell_group
+CLEC4M	Endothelial cells	12.3	single_cell_group
+CLEC4M	Reproductive supporting cells	26.8	single_cell_group
+CLEC4M	Stromal cells	5.4	single_cell_group
+CLEC4G	Neuronal cells	10.4	single_cell_group
+HAVCR1	Renal nephron cells	70.5	single_cell_group
+CTSB	Mononuclear phagocytes	1672.7	single_cell_group
+CTSL	Mononuclear phagocytes	1183.9	single_cell_group
+CTSL	Trophoblast cells	1915.0	single_cell_group

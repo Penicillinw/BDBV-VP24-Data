@@ -1,0 +1,285 @@
+{
+ "panel_genes_present": 33,
+ "panel_genes_missing": [],
+ "duplicate_panel_rows": {},
+ "arm_sizes": {
+  "IFN alpha": 8,
+  "IFN beta": 8,
+  "IFN gamma": 5,
+  "IFN lambda": 8,
+  "untreated": 15
+ },
+ "arm_levels": [
+  {
+   "arm": "IFN alpha",
+   "block": "all",
+   "n": 8,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 7.364,
+   "boot_lo": 6.981,
+   "boot_hi": 7.749,
+   "panel_mean_MoR_sidecheck": 11.658,
+   "core12_mean_log2cpm": 8.466,
+   "batches": "20200820"
+  },
+  {
+   "arm": "IFN alpha",
+   "block": "6h",
+   "n": 4,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 7.883,
+   "boot_lo": 7.857,
+   "boot_hi": 7.916,
+   "panel_mean_MoR_sidecheck": 12.287,
+   "core12_mean_log2cpm": 8.592,
+   "batches": "20200820"
+  },
+  {
+   "arm": "IFN alpha",
+   "block": "24h",
+   "n": 4,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 6.845,
+   "boot_lo": 6.815,
+   "boot_hi": 6.874,
+   "panel_mean_MoR_sidecheck": 11.028,
+   "core12_mean_log2cpm": 8.341,
+   "batches": "20200820"
+  },
+  {
+   "arm": "IFN beta",
+   "block": "all",
+   "n": 8,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 8.109,
+   "boot_lo": 7.938,
+   "boot_hi": 8.274,
+   "panel_mean_MoR_sidecheck": 12.313,
+   "core12_mean_log2cpm": 9.015,
+   "batches": "20200722"
+  },
+  {
+   "arm": "IFN beta",
+   "block": "6h",
+   "n": 4,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 7.881,
+   "boot_lo": 7.867,
+   "boot_hi": 7.902,
+   "panel_mean_MoR_sidecheck": 12.197,
+   "core12_mean_log2cpm": 8.544,
+   "batches": "20200722"
+  },
+  {
+   "arm": "IFN beta",
+   "block": "24h",
+   "n": 4,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 8.337,
+   "boot_lo": 8.319,
+   "boot_hi": 8.356,
+   "panel_mean_MoR_sidecheck": 12.429,
+   "core12_mean_log2cpm": 9.487,
+   "batches": "20200722"
+  },
+  {
+   "arm": "IFN gamma",
+   "block": "all",
+   "n": 5,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 6.647,
+   "boot_lo": 6.202,
+   "boot_hi": 7.078,
+   "panel_mean_MoR_sidecheck": 10.848,
+   "core12_mean_log2cpm": 5.888,
+   "batches": "20200722"
+  },
+  {
+   "arm": "IFN gamma",
+   "block": "6h",
+   "n": 2,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 6.006,
+   "boot_lo": 5.968,
+   "boot_hi": 6.043,
+   "panel_mean_MoR_sidecheck": 10.296,
+   "core12_mean_log2cpm": 5.19,
+   "batches": "20200722"
+  },
+  {
+   "arm": "IFN gamma",
+   "block": "24h",
+   "n": 3,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 7.075,
+   "boot_lo": 7.055,
+   "boot_hi": 7.11,
+   "panel_mean_MoR_sidecheck": 11.215,
+   "core12_mean_log2cpm": 6.353,
+   "batches": "20200722"
+  },
+  {
+   "arm": "IFN lambda",
+   "block": "all",
+   "n": 8,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 7.189,
+   "boot_lo": 7.047,
+   "boot_hi": 7.332,
+   "panel_mean_MoR_sidecheck": 11.299,
+   "core12_mean_log2cpm": 8.405,
+   "batches": "20200820"
+  },
+  {
+   "arm": "IFN lambda",
+   "block": "6h",
+   "n": 4,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 6.988,
+   "boot_lo": 6.923,
+   "boot_hi": 7.03,
+   "panel_mean_MoR_sidecheck": 11.205,
+   "core12_mean_log2cpm": 8.035,
+   "batches": "20200820"
+  },
+  {
+   "arm": "IFN lambda",
+   "block": "24h",
+   "n": 4,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 7.389,
+   "boot_lo": 7.373,
+   "boot_hi": 7.406,
+   "panel_mean_MoR_sidecheck": 11.392,
+   "core12_mean_log2cpm": 8.776,
+   "batches": "20200820"
+  },
+  {
+   "arm": "untreated",
+   "block": "all",
+   "n": 15,
+   "panel_n": 33,
+   "panel_mean_log2cpm": 3.779,
+   "boot_lo": 3.401,
+   "boot_hi": 4.174,
+   "panel_mean_MoR_sidecheck": 7.355,
+   "core12_mean_log2cpm": 4.609,
+   "batches": "20200722,20200820"
+  }
+ ],
+ "signature_contrast": {
+  "IFN alpha": {
+   "typeII_mean": 4.959,
+   "typeI_mean": 8.781,
+   "typeII_minus_typeI": -3.822
+  },
+  "IFN beta": {
+   "typeII_mean": 6.042,
+   "typeI_mean": 10.801,
+   "typeII_minus_typeI": -4.759
+  },
+  "IFN gamma": {
+   "typeII_mean": 8.767,
+   "typeI_mean": 5.739,
+   "typeII_minus_typeI": 3.028
+  },
+  "IFN lambda": {
+   "typeII_mean": 4.13,
+   "typeI_mean": 9.038,
+   "typeII_minus_typeI": -4.908
+  },
+  "untreated": {
+   "typeII_mean": 1.083,
+   "typeI_mean": 3.344,
+   "typeII_minus_typeI": -2.26
+  }
+ },
+ "gamma_minus_lambda": {
+  "observed": -0.541,
+  "boot_lo": -1.043,
+  "boot_hi": -0.089,
+  "share_gamma_above_lambda": 0.002
+ },
+ "vs_original": [
+  {
+   "arm": "IFN alpha",
+   "independent": 7.364,
+   "original": 7.364,
+   "abs_diff": 0.0
+  },
+  {
+   "arm": "IFN beta",
+   "independent": 8.109,
+   "original": 8.109,
+   "abs_diff": 0.0
+  },
+  {
+   "arm": "IFN gamma",
+   "independent": 6.647,
+   "original": 6.647,
+   "abs_diff": 0.0
+  },
+  {
+   "arm": "IFN lambda",
+   "independent": 7.189,
+   "original": 7.189,
+   "abs_diff": 0.0
+  },
+  {
+   "arm": "untreated",
+   "independent": 3.779,
+   "original": 3.73,
+   "abs_diff": 0.049
+  }
+ ],
+ "batch_blocks": {
+  "20200722": {
+   "n": 20,
+   "level": 5.949,
+   "arms": [
+    "IFN beta",
+    "IFN gamma",
+    "untreated"
+   ]
+  },
+  "20200820": {
+   "n": 24,
+   "level": 6.343,
+   "arms": [
+    "IFN alpha",
+    "IFN lambda",
+    "untreated"
+   ]
+  }
+ },
+ "batch_matched_induction": {
+  "IFN beta": {
+   "control_batch": "20200722",
+   "control_n": 7,
+   "arm_level": 8.109,
+   "control_level": 2.982,
+   "delta_vs_batch_matched_control": 5.128
+  },
+  "IFN gamma": {
+   "control_batch": "20200722",
+   "control_n": 7,
+   "arm_level": 6.647,
+   "control_level": 2.982,
+   "delta_vs_batch_matched_control": 3.666
+  },
+  "IFN alpha": {
+   "control_batch": "20200820",
+   "control_n": 8,
+   "arm_level": 7.364,
+   "control_level": 4.478,
+   "delta_vs_batch_matched_control": 2.886
+  },
+  "IFN lambda": {
+   "control_batch": "20200820",
+   "control_n": 8,
+   "arm_level": 7.189,
+   "control_level": 4.478,
+   "delta_vs_batch_matched_control": 2.711
+  }
+ }
+}

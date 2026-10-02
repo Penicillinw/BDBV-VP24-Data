@@ -1,0 +1,23 @@
+{
+  "recorded_utc": "2026-09-19T08:27:02+00:00",
+  "python": "3.14.6",
+  "python_executable": "E:\\Miniconda\\python.exe",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "packages": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "h5py": "3.16.0",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.1",
+    "biopython": "1.88",
+    "pymupdf": "1.28.2",
+    "python-docx": "1.2.0",
+    "scikit-learn": "1.9.0",
+    "anndata": "0.13.2",
+    "seaborn": "0.13.2",
+    "requests": "2.34.2"
+  },
+  "pymol": "3.1.1",
+  "libreoffice": "LibreOffice 26.8 (F:\\program\\soffice.exe) used for DOCX to PDF",
+  "bootstrap_seed": 20260919
+}

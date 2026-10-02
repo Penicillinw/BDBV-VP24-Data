@@ -1,0 +1,14 @@
+{
+  "source": "data/hpa/rna_single_cell_type.tsv (raw, streamed)",
+  "n_genes_shared": 19295,
+  "n_genes_used": 19295,
+  "n_matched_groups": 19,
+  "median_rho": 0.9213536070410676,
+  "q05_rho": 0.6646159624727701,
+  "q25_rho": 0.8523738998436471,
+  "q75_rho": 0.9596136962247583,
+  "q95_rho": 0.9877085162423176,
+  "frac_rho_ge_099": 0.0383250532292406,
+  "frac_rho_ge_095": 0.32183217775836653,
+  "frac_identical_all_pairs": 0.04913189945581757
+}

@@ -1,0 +1,31 @@
+Licence
+=======
+
+Copyright (c) 2026 Wenhao Huang
+
+Contents of this repository that were created by the author — including the
+derived data tables, the analysis code, the metadata files and this
+documentation — are licensed under the
+
+    Creative Commons Attribution 4.0 International Licence (CC BY 4.0)
+
+To view a copy of this licence, visit:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt the material for any purpose, provided you
+give appropriate credit, provide a link to the licence, and indicate if
+changes were made.
+
+Third-party data
+----------------
+This repository does NOT redistribute third-party raw data. Data obtained from
+external repositories (NCBI, UniProt, RCSB PDB, Human Protein Atlas, CELLxGENE
+Discover, NCBI GEO) remain subject to the terms of their original sources and
+are referenced by accession only. See
+`00_index_and_metadata/LICENSE_AND_ACCESS.md` for the per-source terms and
+accession list.
+
+If you reuse a table in this repository that was derived from a third-party
+source, you must also comply with that source's terms and cite the original
+publication.

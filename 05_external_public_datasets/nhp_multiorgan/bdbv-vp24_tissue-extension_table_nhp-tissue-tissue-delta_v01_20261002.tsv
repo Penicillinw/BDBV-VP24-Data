@@ -1,0 +1,10 @@
+tissue	n_cell_types	delta_median	cell_types
+liver	4	0.270593143271455	cholangiocytes;hepatic stellate cells;hepatocytes;kupffer cells
+kidney	7	-0.4550351769809819	distal convoluted tubule cells;loop of henle epithelial cells;podocytes;proximal tubule cells;renal collecting duct intercalated cells;renal collecting duct principal cells;renal connecting tubule cells
+brain	11	0.1320282627950433	astrocytes;bergmann glia;brain excitatory neurons;brain inhibitory neurons;choroid plexus epithelial cells;ependymal cells;microglia;müller glia;oligodendrocyte progenitor cells;oligodendrocytes;other brain neurons
+adrenal gland	2	-0.9689713732381198	adrenal cortex cells;adrenal medulla cells
+lymph node	7	0.2747523226366519	b-cells;innate lymphoid cells;lymphatic endothelial cells;mast cells;nk-cells;plasma cells;t-cells
+skin	4	0.059947097865011706	basal keratinocytes;fibroblasts;melanocytes;suprabasal keratinocytes
+sex organ	17	-0.3559665166011954	differentiating spermatogonia;early primary spermatocytes;early spermatids;epididymal basal cells;epididymal clear cells;epididymal efferent duct absorptive cells;epididymal efferent duct ciliated cells;epididymal principal cells;granulosa cells;late primary spermatocytes;late spermatids;leydig cells;oocytes;ovarian stromal cells;peritubular myoid cells;sertoli cells;undifferentiated spermatogonia
+lung	8	0.0820753237455773	alveolar cells type 1;alveolar cells type 2;respiratory basal cells;respiratory ciliated cells;respiratory deuterosomal cells;respiratory ionocytes;respiratory secretory cells;transitional alveolar cells
+blood	14	-0.381852977567186	b-cells;erythrocyte progenitors;erythrocytes;hematopoietic stem cells;megakaryocyte progenitors;megakaryocyte-erythroid progenitors;megakaryocytes;monocyte progenitors;monocytes;neutrophil progenitors;neutrophils;nk-cells;platelets;t-cells

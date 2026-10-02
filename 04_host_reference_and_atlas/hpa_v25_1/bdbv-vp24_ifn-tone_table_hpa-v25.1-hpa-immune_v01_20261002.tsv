@@ -1,0 +1,15 @@
+gene	cell_type	nTPM
+CD209	classical monocyte	1.4
+CD209	intermediate monocyte	1.4
+CD209	myeloid DC	1.2
+CLEC10A	myeloid DC	466.5
+HAVCR1	naive CD4 T-cell	2.5
+NPC1	plasmacytoid DC	71.3
+CTSB	basophil	389.7
+CTSB	classical monocyte	610.5
+CTSB	intermediate monocyte	467.6
+CTSB	myeloid DC	287.7
+CTSB	non-classical monocyte	309.1
+CTSB	plasmacytoid DC	410.8
+CTSL	intermediate monocyte	128.2
+CTSL	non-classical monocyte	196.2

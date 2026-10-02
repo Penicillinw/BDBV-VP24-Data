@@ -1,0 +1,62 @@
+{
+ "n_units": 11,
+ "n_restricted": 5,
+ "units": [
+  "CEM",
+  "CEM-SS",
+  "HT1080",
+  "Jurkat",
+  "PMA-THP-1",
+  "PMA-U937",
+  "primary-macrophages",
+  "primary-CD4+-T-cells",
+  "THP-1",
+  "U87-MG",
+  "U937"
+ ],
+ "notes": "GSE46599; phenotype from the series summary (HIV-1 restriction)",
+ "forms": {
+  "manuscript_delta (typeI+typeIII+ISG)/3": {
+   "auc": 0.867
+  },
+  "typeI_receptor_only": {
+   "auc": 0.7
+  },
+  "typeIII_receptor_only": {
+   "auc": 0.8
+  },
+  "baseline_ISG_only": {
+   "auc": 0.767
+  },
+  "ISG_wide_only": {
+   "auc": 0.7
+  },
+  "KPNA_axis": {
+   "auc": 0.5
+  },
+  "KPNA_axis_negated": {
+   "auc": 0.5
+  },
+  "ISG_induction": {
+   "auc": 0.433
+  },
+  "ISG_postlevel": {
+   "auc": 0.7
+  }
+ },
+ "fitted_three_components": {
+  "auc_all": 0.9,
+  "loo_auc": 0.633,
+  "z_scaled_coefficients": [
+   0.121,
+   0.679,
+   0.643
+  ],
+  "component_order": [
+   "typeI",
+   "typeIII",
+   "ISG_prime"
+  ]
+ },
+ "manuscript_form_loo_auc": 0.667
+}

@@ -1,0 +1,87 @@
+{
+ "n_lines": 10,
+ "induction_sorted": [
+  [
+   "a549",
+   7.997,
+   0.011
+  ],
+  [
+   "calu6",
+   8.36,
+   0.013
+  ],
+  [
+   "panc1",
+   8.249,
+   0.023
+  ],
+  [
+   "juso",
+   7.629,
+   0.028
+  ],
+  [
+   "ls174-t",
+   8.009,
+   0.044
+  ],
+  [
+   "d10",
+   7.51,
+   0.657
+  ],
+  [
+   "hct116",
+   7.494,
+   1.082
+  ],
+  [
+   "aspc1",
+   7.529,
+   1.09
+  ],
+  [
+   "me15",
+   7.612,
+   1.207
+  ],
+  [
+   "miapaca",
+   7.769,
+   1.288
+  ]
+ ],
+ "responders_threshold_0.3": {
+  "n": 5,
+  "lines": [
+   "d10",
+   "hct116",
+   "aspc1",
+   "me15",
+   "miapaca"
+  ],
+  "mean_baseline": 7.583,
+  "mean_induction": 1.065
+ },
+ "non_responders_threshold_0.3": {
+  "n": 5,
+  "lines": [
+   "a549",
+   "calu6",
+   "panc1",
+   "juso",
+   "ls174-t"
+  ],
+  "mean_baseline": 8.049,
+  "mean_induction": 0.024
+ },
+ "gap_in_induction": 0.613,
+ "phenotype_is_binary": true,
+ "sign_flip_test": {
+  "spearman_all_10": -0.6,
+  "spearman_responders_only_n5": 0.9,
+  "spearman_non_responders_only_n5": -0.2,
+  "interpretation": "if the sign differs between strata, the pooled correlation reflects the bimodal split rather than a graded relationship"
+ }
+}

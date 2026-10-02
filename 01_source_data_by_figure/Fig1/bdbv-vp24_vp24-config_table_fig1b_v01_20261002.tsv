@@ -1,0 +1,11 @@
+panel	observation	viral_residue	viral_atom	partner_residue	partner_atom	distance_A	structure	caption_value_A	matches_caption
+Fig1b	interchain_polar_contact_model	135	O	480	OD1	2.73	vp24_kpna_complex.pdb (BDBV model chain A / KPNA5 chain Z)	2.73	yes
+Fig1b	interchain_polar_contact_model	135	OE1	483	OE1	3.23	vp24_kpna_complex.pdb (BDBV model chain A / KPNA5 chain Z)	3.23	yes
+Fig1b	interchain_polar_contact_model	184	NH1	481	NZ	2.97	vp24_kpna_complex.pdb (BDBV model chain A / KPNA5 chain Z)	2.97	yes
+Fig1b	interchain_polar_contact_model	184	NE	481	NZ	3.23	vp24_kpna_complex.pdb (BDBV model chain A / KPNA5 chain Z)	3.23	yes
+Fig1b	interchain_polar_contact_model	184	NH2	481	NZ	3.51	vp24_kpna_complex.pdb (BDBV model chain A / KPNA5 chain Z)	3.51	yes
+Fig1b	interchain_polar_contact_model	184	O	398	NH1	3.54	vp24_kpna_complex.pdb (BDBV model chain A / KPNA5 chain Z)	3.54	yes
+Fig1b	p83_nearest_kpna5_atom_model	83		KPNA5		11.66	vp24_kpna_complex.pdb (chain A / chain Z)	11.7	yes
+Fig1b	p83_nearest_kpna5_atom_experimental	83		KPNA5		11.36	4U2X.pdb (chain A / chain D)	11.4	yes
+Fig1b	p83_second_vp24_copy_model_nearest_atom	83		VP24 copy 2		22.9	vp24_kpna_complex.pdb (chain A / chain B)	55.0	no
+Fig1b	p83_second_vp24_copy_model_ca_ca	83		VP24 copy 2		80.17	vp24_kpna_complex.pdb (chain A / chain B)	55.0	no

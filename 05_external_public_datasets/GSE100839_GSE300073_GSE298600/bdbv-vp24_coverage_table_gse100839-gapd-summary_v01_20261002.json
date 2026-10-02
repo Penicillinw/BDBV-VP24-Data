@@ -1,0 +1,157 @@
+{
+ "source": "GSE300073 / GSE298600 (PMID 41284734)",
+ "module_definition": {
+  "ISG17": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "OAS2",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6",
+   "DDX58",
+   "IFIH1"
+  ],
+  "type_I": [
+   "IFNAR1",
+   "IFNAR2"
+  ],
+  "type_III": [
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "priming": [
+   "ISG15",
+   "MX1"
+  ]
+ },
+ "series": {
+  "GSE300073": {
+   "n_columns": 18,
+   "n_genes": 58409,
+   "library_size_min": 3965216,
+   "library_size_max": 27808997,
+   "ISG17_genes_present": [
+    "ISG15",
+    "MX1",
+    "MX2",
+    "OAS1",
+    "OAS2",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "BST2",
+    "RSAD2",
+    "USP18",
+    "STAT1",
+    "IRF7",
+    "IFI27",
+    "IFI6",
+    "DDX58",
+    "IFIH1"
+   ],
+   "ISG17_genes_missing": [],
+   "type_I_missing": [],
+   "type_III_missing": [],
+   "priming_missing": [],
+   "mean_ISG17_by_condition": {
+    "MARV_1d": 2.053,
+    "MARV_3d": 5.459,
+    "EBOV_1d": 2.008,
+    "EBOV_3d": 2.083,
+    "Mock_1d": 2.147,
+    "Mock_3d": 2.829
+   }
+  },
+  "GSE298600": {
+   "n_columns": 9,
+   "n_genes": 58409,
+   "library_size_min": 77413870,
+   "library_size_max": 116756030,
+   "ISG17_genes_present": [
+    "ISG15",
+    "MX1",
+    "MX2",
+    "OAS1",
+    "OAS2",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "BST2",
+    "RSAD2",
+    "USP18",
+    "STAT1",
+    "IRF7",
+    "IFI27",
+    "IFI6",
+    "DDX58",
+    "IFIH1"
+   ],
+   "ISG17_genes_missing": [],
+   "type_I_missing": [],
+   "type_III_missing": [],
+   "priming_missing": [],
+   "mean_ISG17_by_condition": {
+    "MARV_3d": 9.726,
+    "EBOV_3d": 4.809,
+    "Mock_3d": 3.346
+   }
+  }
+ },
+ "ISG17_induction_vs_matched_mock": {
+  "GSE300073:EBOV:1d": -0.14,
+  "GSE300073:MARV:1d": -0.095,
+  "GSE300073:EBOV:3d": -0.746,
+  "GSE300073:MARV:3d": 2.63,
+  "GSE298600:EBOV:3d": 1.463,
+  "GSE298600:MARV:3d": 6.38
+ },
+ "mapping_checks": {
+  "GSE300073_R2a": {
+   "mean_within_condition_rho": 0.891,
+   "mean_between_condition_rho": 0.815,
+   "passes": true
+  },
+  "GSE298600_R2a": {
+   "mean_within_condition_rho": 0.956,
+   "mean_between_condition_rho": 0.68,
+   "passes": true
+  },
+  "R2b_delayed_induction": {
+   "EBOV": {
+    "day1": 2.008,
+    "day3": 2.084,
+    "rises_between_days": true
+   },
+   "MARV": {
+    "day1": 2.053,
+    "day3": 5.459,
+    "rises_between_days": true
+   }
+  },
+  "R2b_passes": true,
+  "R2c_cross_series": {
+   "EBOV": {
+    "GSE300073": 2.084,
+    "GSE298600": 4.809,
+    "difference": -2.726
+   },
+   "Mock": {
+    "GSE300073": 2.829,
+    "GSE298600": 3.346,
+    "difference": -0.517
+   }
+  },
+  "R2c_passes": false,
+  "R2c_note": "tolerance = the larger of the EBOV-mock difference within one series and 0.5 log2",
+  "map_accepted": false
+ }
+}

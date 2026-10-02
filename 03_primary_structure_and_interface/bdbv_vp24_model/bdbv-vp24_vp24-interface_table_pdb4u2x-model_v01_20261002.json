@@ -1,0 +1,40 @@
+{
+  "protein": "VP24",
+  "model": "01",
+  "target_length": 251,
+  "modeled_residues": 221,
+  "modeled_fraction": 0.8805,
+  "modeled_ranges": [
+    "A:11-231",
+    "B:11-231"
+  ],
+  "template_pdb": "4m0q",
+  "template_chain": "B",
+  "template_resolution": 1.9210001230239868,
+  "coverage": 0.9044,
+  "sequence_similarity": 0.5645,
+  "sequence_identity": 85.0,
+  "pred_lddt": 0.814,
+  "qmean4_norm": 0.708,
+  "qmean4_z": -1.91,
+  "qmean6_norm": 0.701,
+  "qmean6_z": -1.89,
+  "local_score": {
+    "n": 442,
+    "min": 0.404,
+    "max": 0.912,
+    "mean": 0.739,
+    "ge_06": 0.855
+  },
+  "oligomeric_state": "homo-dimer",
+  "oligomer_prediction": "0.626",
+  "major_issues": null,
+  "source_report": "G:\\本迪布焦研究\\data\\同源建模\\swissmodel\\VP24\\models\\01\\report.json",
+  "source_model": "G:\\本迪布焦研究\\data\\同源建模\\swissmodel\\VP24\\models\\01\\model.pdb",
+  "verdict": "pass_domain_only",
+  "accession": "B8XCN4",
+  "label": "VP24_full",
+  "note": "全链模型，模板 4m0q，QMEAN4 0.708，QMEAN4 z=-1.91，可用于 KPNA 界面映射。",
+  "target_sequence_file": "G:\\本迪布焦研究\\data\\同源建模\\curated\\VP24\\target_sequence.fasta",
+  "curated_model_file": "G:\\本迪布焦研究\\data\\同源建模\\curated\\VP24\\model.pdb"
+}

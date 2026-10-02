@@ -1,0 +1,721 @@
+{
+ "date": "2026-09-26",
+ "rows": [
+  {
+   "gap": "D1",
+   "source": "NCBI gds",
+   "query": "Bundibugyo",
+   "date": "2026-09-26",
+   "hits": 4,
+   "ids": "200290671;200237547;200114905;100025032"
+  },
+  {
+   "gap": "D1",
+   "source": "NCBI gds",
+   "query": "Bundibugyo AND Homo sapiens[Organism]",
+   "date": "2026-09-26",
+   "hits": 0,
+   "ids": ""
+  },
+  {
+   "gap": "D1",
+   "source": "NCBI gds",
+   "query": "ebolavirus AND transcriptome",
+   "date": "2026-09-26",
+   "hits": 4,
+   "ids": "200232633;200136985;200114905;200099389"
+  },
+  {
+   "gap": "D1",
+   "source": "NCBI gds",
+   "query": "filovirus AND (RNA-seq OR \"single cell\")",
+   "date": "2026-09-26",
+   "hits": 5,
+   "ids": "200300073;200298600;200309699;200192447;200191315"
+  },
+  {
+   "gap": "D1",
+   "source": "NCBI gds",
+   "query": "filovirus AND organoid",
+   "date": "2026-09-26",
+   "hits": 2,
+   "ids": "200300073;200298600"
+  },
+  {
+   "gap": "D1",
+   "source": "NCBI sra",
+   "query": "Bundibugyo",
+   "date": "2026-09-26",
+   "hits": 227,
+   "ids": "40042139;40042101;40042058;40042033;40042030;40042019;40042011;40042009;40041947;36101731"
+  },
+  {
+   "gap": "D1",
+   "source": "NCBI bioproject",
+   "query": "Bundibugyo",
+   "date": "2026-09-26",
+   "hits": 10,
+   "ids": "1524778;1515654;1502092;1489870;1229513;995616;743478;614935;495928;319812"
+  },
+  {
+   "gap": "D2",
+   "source": "NCBI gds",
+   "query": "spleen AND (single cell OR snRNA) AND Homo sapiens[Organism]",
+   "date": "2026-09-26",
+   "hits": 1850,
+   "ids": "200312983;200343687;200266677;200345464;200248008;200338951;200338205;200326791;200317492;200333486"
+  },
+  {
+   "gap": "D2",
+   "source": "NCBI gds",
+   "query": "(retina OR \"retinal pigment\") AND interferon AND Homo sapiens[Organism]",
+   "date": "2026-09-26",
+   "hits": 11,
+   "ids": "200247586;200252276;200160356;200223570;200161733;200161732;200165112;200053115;100000570;100006244"
+  },
+  {
+   "gap": "D2",
+   "source": "NCBI gds",
+   "query": "(urothelium OR bladder) AND interferon AND Homo sapiens[Organism]",
+   "date": "2026-09-26",
+   "hits": 16,
+   "ids": "200252437;200283227;200293534;200268243;200245748;200238208;200226545;200186610;200186609;200142221"
+  },
+  {
+   "gap": "D2",
+   "source": "NCBI gds",
+   "query": "(\"choroid plexus\" OR Sertoli OR Leydig) AND interferon AND Homo sapiens[Organism]",
+   "date": "2026-09-26",
+   "hits": 7,
+   "ids": "200252421;200253518;200252991;200186814;200146890;200153261;200065575"
+  },
+  {
+   "gap": "D2",
+   "source": "NCBI gds",
+   "query": "\"ARPE-19\" AND (interferon OR IFN)",
+   "date": "2026-09-26",
+   "hits": 11,
+   "ids": "200252276;200165112;200100839;100000570;100006244;305026350;305026349;305026348;305026347;305026346"
+  },
+  {
+   "gap": "D3",
+   "source": "NCBI gds",
+   "query": "(interferon OR IFN) AND (pseudotype OR \"viral load\" OR replication) AND (RNA-seq OR transcriptome)",
+   "date": "2026-09-26",
+   "hits": 248,
+   "ids": "200347494;200347085;200318503;200318766;200318729;200318728;200318727;200318714;200344459;200343985"
+  },
+  {
+   "gap": "D4",
+   "source": "NCBI gds",
+   "query": "(\"airway epithelium\" OR \"nasal epithelium\" OR \"bronchial epithelium\") AND interferon AND (lambda OR \"type III\")",
+   "date": "2026-09-26",
+   "hits": 20,
+   "ids": "200342661;200281938;200231666;200295759;200291815;200153428;100000570;100000571;304644132;304644131"
+  },
+  {
+   "gap": "D5",
+   "source": "NCBI gds",
+   "query": "proteome AND transcriptome AND (\"multiple tissues\" OR \"tissue atlas\") AND Homo sapiens[Organism]",
+   "date": "2026-09-26",
+   "hits": 0,
+   "ids": ""
+  },
+  {
+   "gap": "D1",
+   "source": "Europe PMC",
+   "query": "Bundibugyo AND (transcriptom* OR \"RNA-seq\" OR sequencing)",
+   "date": "2026-09-26",
+   "hits": 612,
+   "ids": "42772264;PPR1247657;42376327;42515566;PPR1252590;42434018;42515627;42621107"
+  },
+  {
+   "gap": "D1",
+   "source": "Europe PMC",
+   "query": "(Bundibugyo OR filovirus) AND (organoid OR \"gut organoid\") AND infection",
+   "date": "2026-09-26",
+   "hits": 39,
+   "ids": "42286245;41284734;PPR1175917;40399610;41896609;39090822;41910274;42262129"
+  },
+  {
+   "gap": "D1",
+   "source": "Europe PMC",
+   "query": "filovirus AND \"single-cell\" AND (host response OR transcriptom*)",
+   "date": "2026-09-26",
+   "hits": 262,
+   "ids": "41284734;42286245;42069597;41910274;40399610;42661222;39585636;42274214"
+  },
+  {
+   "gap": "D2",
+   "source": "Europe PMC",
+   "query": "(\"retinal pigment epithelium\" OR ARPE-19) AND interferon AND transcriptome",
+   "date": "2026-09-26",
+   "hits": 473,
+   "ids": "42149122;41898716;40544279;41157636;41490974;41205411;41523997;42412559"
+  },
+  {
+   "gap": "D2",
+   "source": "Europe PMC",
+   "query": "urothelium AND interferon AND (transcriptome OR \"RNA-seq\")",
+   "date": "2026-09-26",
+   "hits": 257,
+   "ids": "42515797;41724981;41337590;41006678;PMC13583304;41625014;41256858;42658564"
+  },
+  {
+   "gap": "D3",
+   "source": "Europe PMC",
+   "query": "interferon AND (filovirus OR Ebola) AND (pretreatment OR \"dose-dependent\") AND transcriptome",
+   "date": "2026-09-26",
+   "hits": 262,
+   "ids": "PPR1099692;42670157;41472248;41284734;42028645;42059390;42473417;41467787"
+  },
+  {
+   "gap": "D4",
+   "source": "Europe PMC",
+   "query": "(\"nasal epithelium\" OR \"airway epithelium\") AND (\"IFN-lambda\" OR \"type III interferon\") AND transcriptome",
+   "date": "2026-09-26",
+   "hits": 66,
+   "ids": "41789060;42126190;42442360;41959565;39780400;41239423;42713112;40267147"
+  },
+  {
+   "gap": "D5",
+   "source": "Europe PMC",
+   "query": "paired proteome transcriptome atlas human tissues coverage",
+   "date": "2026-09-26",
+   "hits": 1233,
+   "ids": "42708363;42726466;42419284;42584423;41953641;41883585;42653123;42310461"
+  }
+ ],
+ "detail": {
+  "gds:Bundibugyo": [
+   "200290671",
+   "200237547",
+   "200114905",
+   "100025032"
+  ],
+  "gds:Bundibugyo AND Homo sapiens[Organism]": [],
+  "gds:ebolavirus AND transcriptome": [
+   "200232633",
+   "200136985",
+   "200114905",
+   "200099389"
+  ],
+  "gds:filovirus AND (RNA-seq OR \"single cell\")": [
+   "200300073",
+   "200298600",
+   "200309699",
+   "200192447",
+   "200191315"
+  ],
+  "gds:filovirus AND organoid": [
+   "200300073",
+   "200298600"
+  ],
+  "sra:Bundibugyo": [
+   "40042139",
+   "40042101",
+   "40042058",
+   "40042033",
+   "40042030",
+   "40042019",
+   "40042011",
+   "40042009",
+   "40041947",
+   "36101731"
+  ],
+  "bioproject:Bundibugyo": [
+   "1524778",
+   "1515654",
+   "1502092",
+   "1489870",
+   "1229513",
+   "995616",
+   "743478",
+   "614935",
+   "495928",
+   "319812"
+  ],
+  "gds:spleen AND (single cell OR snRNA) AND Homo sapiens[Organism]": [
+   "200312983",
+   "200343687",
+   "200266677",
+   "200345464",
+   "200248008",
+   "200338951",
+   "200338205",
+   "200326791",
+   "200317492",
+   "200333486"
+  ],
+  "gds:(retina OR \"retinal pigment\") AND interferon AND Homo sapiens[Organism]": [
+   "200247586",
+   "200252276",
+   "200160356",
+   "200223570",
+   "200161733",
+   "200161732",
+   "200165112",
+   "200053115",
+   "100000570",
+   "100006244"
+  ],
+  "gds:(urothelium OR bladder) AND interferon AND Homo sapiens[Organism]": [
+   "200252437",
+   "200283227",
+   "200293534",
+   "200268243",
+   "200245748",
+   "200238208",
+   "200226545",
+   "200186610",
+   "200186609",
+   "200142221"
+  ],
+  "gds:(\"choroid plexus\" OR Sertoli OR Leydig) AND interferon AND Homo sapiens[Organism]": [
+   "200252421",
+   "200253518",
+   "200252991",
+   "200186814",
+   "200146890",
+   "200153261",
+   "200065575"
+  ],
+  "gds:\"ARPE-19\" AND (interferon OR IFN)": [
+   "200252276",
+   "200165112",
+   "200100839",
+   "100000570",
+   "100006244",
+   "305026350",
+   "305026349",
+   "305026348",
+   "305026347",
+   "305026346"
+  ],
+  "gds:(interferon OR IFN) AND (pseudotype OR \"viral load\" OR replication) AND (RNA-seq OR transcriptome)": [
+   "200347494",
+   "200347085",
+   "200318503",
+   "200318766",
+   "200318729",
+   "200318728",
+   "200318727",
+   "200318714",
+   "200344459",
+   "200343985"
+  ],
+  "gds:(\"airway epithelium\" OR \"nasal epithelium\" OR \"bronchial epithelium\") AND interferon AND (lambda OR \"type III\")": [
+   "200342661",
+   "200281938",
+   "200231666",
+   "200295759",
+   "200291815",
+   "200153428",
+   "100000570",
+   "100000571",
+   "304644132",
+   "304644131"
+  ],
+  "gds:proteome AND transcriptome AND (\"multiple tissues\" OR \"tissue atlas\") AND Homo sapiens[Organism]": [],
+  "epmc:Bundibugyo AND (transcriptom* OR \"RNA-seq\" OR sequencing)": [
+   {
+    "id": "42772264",
+    "year": "2026",
+    "journal": "Am J Trop Med Hyg",
+    "title": "Investigation of Dinga Dinga: A Cluster of Bilateral Lower-Extremity Tremors-Bundibugyo District, Uganda, 2023-2024."
+   },
+   {
+    "id": "PPR1247657",
+    "year": "2026",
+    "journal": "",
+    "title": "Whole-Genome Sequencing for High-Consequence Emerging RNA Viruses: Strategy Selection for Bundibugyo Virus Disease Under 2026 Outbreak Constraints"
+   },
+   {
+    "id": "42376327",
+    "year": "2026",
+    "journal": "J Virus Erad",
+    "title": "Ebola Bundibugyo resurgence in eastern Democratic Republic of Congo: Implications for regional surveillance and preparedness."
+   },
+   {
+    "id": "42515566",
+    "year": "2026",
+    "journal": "Viruses",
+    "title": "Whole-Genome Sequencing for High-Consequence Emerging RNA Viruses: Strategy Selection for Bundibugyo Virus Disease Under 2026 Outbreak Constraints."
+   },
+   {
+    "id": "PPR1252590",
+    "year": "2026",
+    "journal": "",
+    "title": "Bundibugyo Virus Disease: Diagnostics and Medical Countermeasures for a Neglected Ebolavirus"
+   },
+   {
+    "id": "42434018",
+    "year": "2026",
+    "journal": "Infect Med (Beijing)",
+    "title": "The 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo: Virology, epidemiology, continental response, and research priorities."
+   },
+   {
+    "id": "42515627",
+    "year": "2026",
+    "journal": "Viruses",
+    "title": "Bundibugyo Virus Disease: Diagnostics and Medical Countermeasures for a Neglected Ebolavirus."
+   },
+   {
+    "id": "42621107",
+    "year": "2026",
+    "journal": "Front Public Health",
+    "title": "From reactive trials to regional vaccine sovereignty: a pan-ebolavirus vaccine-readiness framework for East Africa's Sudan virus and Bundibugyo virus threats."
+   }
+  ],
+  "epmc:(Bundibugyo OR filovirus) AND (organoid OR \"gut organoid\") AND infection": [
+   {
+    "id": "42286245",
+    "year": "2026",
+    "journal": "Nat Microbiol",
+    "title": "Host-virus determinants of Ebola virus persistence in a human cerebral organoid model."
+   },
+   {
+    "id": "41284734",
+    "year": "2025",
+    "journal": "PLoS Pathog",
+    "title": "Filovirus infection disrupts epithelial barrier function and ion transport in human iPSC-derived gut organoids."
+   },
+   {
+    "id": "PPR1175917",
+    "year": "2026",
+    "journal": "",
+    "title": "Antiviral immune responses in human organoid models of emerging viral infections: A systematic review"
+   },
+   {
+    "id": "40399610",
+    "year": "2025",
+    "journal": "Nat Immunol",
+    "title": "Enhanced antiviral innate immunity supports the bat reservoir of Marburg virus."
+   },
+   {
+    "id": "41896609",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "title": "Human airway organoids as a versatile model to study BSL-4 virus replication and pathogenesis."
+   },
+   {
+    "id": "39090822",
+    "year": "2024",
+    "journal": "Expert Opin Drug Discov",
+    "title": "An update on nonhuman primate usage for drug and vaccine evaluation against filoviruses."
+   },
+   {
+    "id": "41910274",
+    "year": "2026",
+    "journal": "J Virol",
+    "title": "From CRISPR functional genomics to synthetic interventions: engineering antiviral strategies."
+   },
+   {
+    "id": "42262129",
+    "year": "2026",
+    "journal": "J Virol",
+    "title": "The cholesterol transporter Niemann-Pick C1 facilitates the entry of porcine epidemic diarrhea coronavirus."
+   }
+  ],
+  "epmc:filovirus AND \"single-cell\" AND (host response OR transcriptom*)": [
+   {
+    "id": "41284734",
+    "year": "2025",
+    "journal": "PLoS Pathog",
+    "title": "Filovirus infection disrupts epithelial barrier function and ion transport in human iPSC-derived gut organoids."
+   },
+   {
+    "id": "42286245",
+    "year": "2026",
+    "journal": "Nat Microbiol",
+    "title": "Host-virus determinants of Ebola virus persistence in a human cerebral organoid model."
+   },
+   {
+    "id": "42069597",
+    "year": "2026",
+    "journal": "J Transl Med",
+    "title": "A pan-viral map of host dependency factors from multi-omics integration and machine learning across influenza A, SARS-CoV-2, Zika, and dengue viruses."
+   },
+   {
+    "id": "41910274",
+    "year": "2026",
+    "journal": "J Virol",
+    "title": "From CRISPR functional genomics to synthetic interventions: engineering antiviral strategies."
+   },
+   {
+    "id": "40399610",
+    "year": "2025",
+    "journal": "Nat Immunol",
+    "title": "Enhanced antiviral innate immunity supports the bat reservoir of Marburg virus."
+   },
+   {
+    "id": "42661222",
+    "year": "2026",
+    "journal": "Vet Res",
+    "title": "Atlas of gross, histologic, and immunohistologic anatomy of the lymphoid system in Egyptian rousettes (Rousettus aegyptiacus)."
+   },
+   {
+    "id": "39585636",
+    "year": "2025",
+    "journal": "Methods Mol Biol",
+    "title": "Droplet-Based Single-Cell 3' mRNA Sequencing of Marburg Virus-Infected Samples."
+   },
+   {
+    "id": "42274214",
+    "year": "2026",
+    "journal": "J Virol",
+    "title": "PPP2R5B regulates ANPEP expression and TGEV entry via dephosphorylation of HSF1 at Ser304/Ser308."
+   }
+  ],
+  "epmc:(\"retinal pigment epithelium\" OR ARPE-19) AND interferon AND transcriptome": [
+   {
+    "id": "42149122",
+    "year": "2026",
+    "journal": "Diabetes",
+    "title": "cGAS-STING Pathway Mediates Retinal Pigmental Epithelial Dysfunction in Diabetic Retinopathy."
+   },
+   {
+    "id": "41898716",
+    "year": "2026",
+    "journal": "Int J Mol Sci",
+    "title": "Mapping the Hypoxic Fitness Landscape of Retinal Pigment Epithelial Cells."
+   },
+   {
+    "id": "40544279",
+    "year": "2025",
+    "journal": "Cell Commun Signal",
+    "title": "AIM2 activation mediated by RIPK1/3-dependent mitochondrial DNA release drives Aβ&lt;sub&gt;1-40&lt;/sub&gt;-Induced retinal pigment epithelium injury."
+   },
+   {
+    "id": "41157636",
+    "year": "2025",
+    "journal": "Viruses",
+    "title": "Comparative Transcriptomics Analyses Identify DDX43 as a Cellular Regulator Involved in Suppressing HSV-2 Replication."
+   },
+   {
+    "id": "41490974",
+    "year": "2026",
+    "journal": "Nat Commun",
+    "title": "Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing."
+   },
+   {
+    "id": "41205411",
+    "year": "2025",
+    "journal": "Redox Biol",
+    "title": "N-acetyl-l-cysteine ethyl ester (NACET) induces the transcription factor NRF2 and prevents retinal aging and diabetic retinopathy."
+   },
+   {
+    "id": "41523997",
+    "year": "2026",
+    "journal": "Int J Ophthalmol",
+    "title": "Integrating multiple key molecules in uveal melanoma to uncover metastatic and immune microenvironment-related gene signatures."
+   },
+   {
+    "id": "42412559",
+    "year": "2026",
+    "journal": "J Clin Invest",
+    "title": "A peripheral subpopulation of retinal pigment epithelium resists oxidative damage through SERPINE3-mediated caspase-1 inhibition."
+   }
+  ],
+  "epmc:urothelium AND interferon AND (transcriptome OR \"RNA-seq\")": [
+   {
+    "id": "42515797",
+    "year": "2026",
+    "journal": "Pharmaceuticals (Basel)",
+    "title": "Preclinical Models of Bladder Cancer: Barrier, Metabolic, and Translational Susceptibility."
+   },
+   {
+    "id": "41724981",
+    "year": "2026",
+    "journal": "J Exp Clin Cancer Res",
+    "title": "Cell-of-origin and genetic drivers define advanced bladder cancer subtypes and potential therapeutic response in mouse models."
+   },
+   {
+    "id": "41337590",
+    "year": "2025",
+    "journal": "Sci Adv",
+    "title": "Virus-induced APOBEC3 transmutagenesis in bladder cancer initiation."
+   },
+   {
+    "id": "41006678",
+    "year": "2025",
+    "journal": "NPJ Precis Oncol",
+    "title": "Single-cell RNA-sequencing of BCG naïve and recurrent non-muscle invasive bladder cancer reveals a CD6/ALCAM-mediated immune-suppressive pathway."
+   },
+   {
+    "id": "PMC13583304",
+    "year": "2026",
+    "journal": "Bladder Cancer",
+    "title": "Abstracts Selected for Podium Presentations [listed in alphabetical order by presenter]"
+   },
+   {
+    "id": "41625014",
+    "year": "2026",
+    "journal": "Bladder Cancer",
+    "title": "Abstracts selected for poster presentation [listed in alphabetical order by presenter]."
+   },
+   {
+    "id": "41256858",
+    "year": "2025",
+    "journal": "Front Immunol",
+    "title": "Immune snapshots along the inflammation-to-cancer road in bladder urothelium."
+   },
+   {
+    "id": "42658564",
+    "year": "2026",
+    "journal": "Adv Sci (Weinh)",
+    "title": "Natural-Inspired Engineered Microalgae With Selenium Enrichment Enabled Potent Anti-Tumor Immunity."
+   }
+  ],
+  "epmc:interferon AND (filovirus OR Ebola) AND (pretreatment OR \"dose-dependent\") AND transcriptome": [
+   {
+    "id": "PPR1099692",
+    "year": "2025",
+    "journal": "",
+    "title": "Interferons Inhibit Ebola Virus Infection of Human Keratinocytes"
+   },
+   {
+    "id": "42670157",
+    "year": "2026",
+    "journal": "Eur J Immunol",
+    "title": "Isoform-Level Analysis Reveals Reproducible Early Changes in Transcript Usage During Human Vaccine Responses."
+   },
+   {
+    "id": "41472248",
+    "year": "2025",
+    "journal": "Viruses",
+    "title": "Interferons Inhibit Ebola Virus Infection of Human Keratinocytes."
+   },
+   {
+    "id": "41284734",
+    "year": "2025",
+    "journal": "PLoS Pathog",
+    "title": "Filovirus infection disrupts epithelial barrier function and ion transport in human iPSC-derived gut organoids."
+   },
+   {
+    "id": "42028645",
+    "year": "2026",
+    "journal": "Adv Sci (Weinh)",
+    "title": "Marburg Virus Glycoprotein Is a Remarkable Virulent Factor Linked to Hemorrhagic Pathology: Evidence from Multimodal Experimental Systems."
+   },
+   {
+    "id": "42059390",
+    "year": "2026",
+    "journal": "Microbiol Spectr",
+    "title": "Temporal transcriptomics identifies early-response and infection-condition-specific modules guiding host-directed anti-EBOV therapeutics."
+   },
+   {
+    "id": "42473417",
+    "year": "2026",
+    "journal": "J Med Virol",
+    "title": "IL-19 Modulates Antiviral Immunity and Inflammation via IL-20RB/STAT3/TRIM22 Signaling Pathway."
+   },
+   {
+    "id": "41467787",
+    "year": "2026",
+    "journal": "mBio",
+    "title": "Acute malaria dysregulates specialized lymph node macrophages to suppress vaccine-elicited protection against the Ebola virus."
+   }
+  ],
+  "epmc:(\"nasal epithelium\" OR \"airway epithelium\") AND (\"IFN-lambda\" OR \"type III interferon\") AND transcriptome": [
+   {
+    "id": "41789060",
+    "year": "2026",
+    "journal": "Front Immunol",
+    "title": "Differential antiviral effects and immune responses in nasal and airway organoid during RSV infection: implications for interferon therapy."
+   },
+   {
+    "id": "42126190",
+    "year": "2026",
+    "journal": "Infect Immun",
+    "title": "Modeling chronic infection with &lt;i&gt;Mycoplasma pneumoniae&lt;/i&gt; at an air-liquid interface: global transcriptional response of HBEC3-KT respiratory epithelial cells to biofilm towers."
+   },
+   {
+    "id": "42442360",
+    "year": "2026",
+    "journal": "Immunity",
+    "title": "Nasal immunity in respiratory viral infection, transmission, and protection."
+   },
+   {
+    "id": "41959565",
+    "year": "2026",
+    "journal": "Front Cell Infect Microbiol",
+    "title": "Host transcriptomic analysis reveals a defective intracellular environment that limits SARS-CoV-2 replication in CFTR-deficient airway epithelium."
+   },
+   {
+    "id": "39780400",
+    "year": "2025",
+    "journal": "Clin Exp Immunol",
+    "title": "Single-cell analysis of lung epithelial cells reveals age and cell population-specific responses to SARS-CoV-2 infection in ciliated cells."
+   },
+   {
+    "id": "41239423",
+    "year": "2025",
+    "journal": "Respir Res",
+    "title": "Leveraging human precision cut lung slices for the study of human parainfluenza virus 3 infection."
+   },
+   {
+    "id": "42713112",
+    "year": "2026",
+    "journal": "Future Virol",
+    "title": "When defense backfires: inflammatory determinants of RSV-induced disease severity."
+   },
+   {
+    "id": "40267147",
+    "year": "2025",
+    "journal": "PLoS Pathog",
+    "title": "Neuregulin-1 prevents death from a normally lethal respiratory viral infection."
+   }
+  ],
+  "epmc:paired proteome transcriptome atlas human tissues coverage": [
+   {
+    "id": "42708363",
+    "year": "2026",
+    "journal": "JCI Insight",
+    "title": "Spatial multiomics in biomedical research: advances beyond transcriptomics."
+   },
+   {
+    "id": "42726466",
+    "year": "2026",
+    "journal": "FASEB J",
+    "title": "Insights Into Spatial Transcriptomics: Exploring Recent Technical Developments and Their Diverse Applications."
+   },
+   {
+    "id": "42419284",
+    "year": "2026",
+    "journal": "Dev Cell",
+    "title": "Dissecting human organ development using spatial technologies."
+   },
+   {
+    "id": "42584423",
+    "year": "2026",
+    "journal": "Adv Sci (Weinh)",
+    "title": "Livestock Multi-Omics Integration: A Systematic Framework From Statistical Association to Causal Interpretation."
+   },
+   {
+    "id": "41953641",
+    "year": "2026",
+    "journal": "MedComm (2020)",
+    "title": "Single-Cell and Spatial Omics: Methods and Applications."
+   },
+   {
+    "id": "41883585",
+    "year": "2026",
+    "journal": "Mol Ther Nucleic Acids",
+    "title": "TiSMeD: A tissue-specific methylation and expression database for biomarker and translational applications."
+   },
+   {
+    "id": "42653123",
+    "year": "2026",
+    "journal": "Int J Mol Sci",
+    "title": "Single-Cell and Spatial Omics Technologies in Rice Abiotic Stress Biology: A Methodological Review."
+   },
+   {
+    "id": "42310461",
+    "year": "2026",
+    "journal": "Nature",
+    "title": "Spatial distribution of the proteome in the human body and in cancers."
+   }
+  ]
+ }
+}

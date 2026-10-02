@@ -1,0 +1,57 @@
+{
+ "GSE327707": {
+  "rows": [
+   {
+    "population": "Whole PBMC",
+    "mean_baseline_delta_like": 5.163,
+    "mean_induction_isg": 4.385
+   },
+   {
+    "population": "CD14",
+    "mean_baseline_delta_like": 4.26,
+    "mean_induction_isg": 5.082
+   },
+   {
+    "population": "CD8",
+    "mean_baseline_delta_like": 5.104,
+    "mean_induction_isg": 4.371
+   },
+   {
+    "population": "CD4",
+    "mean_baseline_delta_like": 5.436,
+    "mean_induction_isg": 4.644
+   },
+   {
+    "population": "B cell",
+    "mean_baseline_delta_like": 6.03,
+    "mean_induction_isg": 3.58
+   }
+  ],
+  "spearman_delta_like_vs_induction": -0.6
+ },
+ "GSE306664": {
+  "rows": [
+   {
+    "population": "Bcell",
+    "mean_baseline_delta_like": 0.422,
+    "mean_induction_isg": 1.937
+   },
+   {
+    "population": "Monocyte",
+    "mean_baseline_delta_like": 1.239,
+    "mean_induction_isg": 1.174
+   },
+   {
+    "population": "NK",
+    "mean_baseline_delta_like": 0.371,
+    "mean_induction_isg": 2.058
+   },
+   {
+    "population": "Tcell",
+    "mean_baseline_delta_like": 0.457,
+    "mean_induction_isg": 1.819
+   }
+  ],
+  "spearman_delta_like_vs_induction": -1.0
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "version": "6.9",
+ "hitCount": 1,
+ "request": {
+  "queryString": "EXT_ID:30071116 AND SRC:MED",
+  "internalQuery": "EXT_ID:30071116 AND SRC:MED",
+  "resultType": "CORE",
+  "cursorMark": "*",
+  "pageSize": 25,
+  "sort": "",
+  "synonym": false
+ },
+ "resultList": {
+  "result": [
+   {
+    "id": "30071116",
+    "source": "MED",
+    "pmid": "30071116",
+    "pmcid": "PMC6072132",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC6072132"
+     ]
+    },
+    "doi": "10.1371/journal.pone.0201827",
+    "title": "Transcriptional analysis of viral mRNAs reveals common transcription patterns in cells infected by five different filoviruses.",
+    "authorString": "Albariño CG, Wiggleton Guerrero L, Chakrabarti AK, Nichol ST.",
+    "authorList": {
+     "author": [
+      {
+       "fullName": "Albariño CG",
+       "lastName": "Albariño",
+       "firstName": "César G",
+       "initials": "CG",
+       "authorId": {
+        "type": "ORCID",
+        "value": "0000-0002-8013-1785"
+       },
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Atlanta, GA, United States of America."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Wiggleton Guerrero L",
+       "lastName": "Wiggleton Guerrero",
+       "firstName": "Lisa",
+       "initials": "L",
+       "authorId": {
+        "type": "ORCID",
+        "value": "0000-0003-2237-7215"
+       },
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Atlanta, GA, United States of America."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Chakrabarti AK",
+       "lastName": "Chakrabarti",
+       "firstName": "Ayan K",
+       "initials": "AK",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Atlanta, GA, United States of America."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Nichol ST",
+       "lastName": "Nichol",
+       "firstName": "Stuart T",
+       "initials": "ST",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Atlanta, GA, United States of America."
+         }
+        ]
+       }
+      }
+     ]
+    },
+    "authorIdList": {
+     "authorId": [
+      {
+       "type": "ORCID",
+       "value": "0000-0002-8013-1785"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0003-2237-7215"
+      }
+     ]
+    },
+    "dataLinksTagsList": {
+     "dataLinkstag": [
+      "supporting_data",
+      "related_data"
+     ]
+    },
+    "journalInfo": {
+     "issue": "8",
+     "volume": "13",
+     "journalIssueId": 2711582,
+     "dateOfPublication": "2018 ",
+     "monthOfPublication": 0,
+     "yearOfPublication": 2018,
+     "journal": {
+      "medlineAbbreviation": "PLoS One",
+      "title": "PloS one",
+      "essn": "1932-6203",
+      "issn": "1932-6203",
+      "isoabbreviation": "PLoS One",
+      "nlmid": "101285081"
+     },
+     "printPublicationDate": "2018-01-01"
+    },
+    "pubYear": "2018",
+    "pageInfo": "e0201827",
+    "abstractText": "Filoviruses are notorious viral pathogens responsible for high-consequence diseases in humans and non-human primates. Transcription of filovirus mRNA shares several common features with transcription in other non-segmented negative-strand viruses, including differential expression of genes located across the viral genome. Transcriptional patterns of Ebola virus (EBOV) and Marburg virus (MARV) have been previously described using traditional, laborious methods, such as northern blots and in vivo labeling of viral mRNAs. More recently, however, the availability of the next generation sequencing (NGS) technology has offered a more straightforward approach to assess transcriptional patterns. In this report, we analyzed the transcription patterns of four ebolaviruses-EBOV, Sudan (SUDV), Bundibugyo (BDBV), and Reston (RESTV) viruses-in two different cell lines using standard NGS library preparation and sequencing protocols. In agreement with previous reports mainly focused on EBOV and MARV, the remaining filoviruses used in this study also showed a consistent transcription pattern, with only minor variations between the different viruses. We have also analyzed the proportions of the three mRNAs transcribed from the GP gene, which are characteristic of the genus Ebolavirus and encode the glycoprotein (GP), the soluble GP (sGP), and the small soluble GP (ssGP). In addition, we used NGS methodology to analyze the transcription pattern of two previously described recombinant MARV. This analysis allowed us to correct our construction design, and to make an improved version of the original MARV expressing reporter genes.",
+    "affiliation": "Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Atlanta, GA, United States of America.",
+    "publicationStatus": "epublish",
+    "language": "eng",
+    "pubModel": "Electronic-eCollection",
+    "pubTypeList": {
+     "pubType": [
+      "Research Support, U.S. Gov't, P.H.S.",
+      "research-article",
+      "Journal Article"
+     ]
+    },
+    "meshHeadingList": {
+     "meshHeading": [
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Liver",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "majorTopic_YN": "N",
+          "abbreviation": "ME",
+          "qualifierName": "metabolism"
+         },
+         {
+          "majorTopic_YN": "N",
+          "abbreviation": "VI",
+          "qualifierName": "virology"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Cells, Cultured"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Macrophages",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "majorTopic_YN": "N",
+          "abbreviation": "ME",
+          "qualifierName": "metabolism"
+         },
+         {
+          "majorTopic_YN": "N",
+          "abbreviation": "VI",
+          "qualifierName": "virology"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Animals"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Humans"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Filoviridae",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "majorTopic_YN": "Y",
+          "abbreviation": "ME",
+          "qualifierName": "metabolism"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Filoviridae Infections",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "majorTopic_YN": "Y",
+          "abbreviation": "ME",
+          "qualifierName": "metabolism"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "RNA, Messenger",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "majorTopic_YN": "Y",
+          "abbreviation": "ME",
+          "qualifierName": "metabolism"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "RNA, Viral",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "majorTopic_YN": "Y",
+          "abbreviation": "ME",
+          "qualifierName": "metabolism"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Cell Culture Techniques"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Temperature"
+      },
+      {
+       "majorTopic_YN": "Y",
+       "descriptorName": "Transcription, Genetic"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Cricetinae"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Chlorocebus aethiops"
+      }
+     ]
+    },
+    "chemicalList": {
+     "chemical": [
+      {
+       "name": "RNA, Messenger",
+       "registryNumber": "0"
+      },
+      {
+       "name": "RNA, Viral",
+       "registryNumber": "0"
+      }
+     ]
+    },
+    "subsetList": {
+     "subset": [
+      {
+       "code": "IM",
+       "name": "Index Medicus"
+      }
+     ]
+    },
+    "fullTextUrlList": {
+     "fullTextUrl": [
+      {
+       "availability": "Open access",
+       "availabilityCode": "OA",
+       "documentStyle": "pdf",
+       "site": "Unpaywall",
+       "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0201827&type=printable"
+      },
+      {
+       "availability": "Subscription required",
+       "availabilityCode": "S",
+       "documentStyle": "doi",
+       "site": "DOI",
+       "url": "https://doi.org/10.1371/journal.pone.0201827"
+      },
+      {
+       "availability": "Open access",
+       "availabilityCode": "OA",
+       "documentStyle": "html",
+       "site": "Europe_PMC",
+       "url": "https://europepmc.org/articles/PMC6072132"
+      },
+      {
+       "availability": "Open access",
+       "availabilityCode": "OA",
+       "documentStyle": "pdf",
+       "site": "Europe_PMC",
+       "url": "https://europepmc.org/articles/PMC6072132?pdf=render"
+      }
+     ]
+    },
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 27,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "Y",
+    "dbCrossReferenceList": {
+     "dbName": [
+      "EMBL"
+     ]
+    },
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "license": "cc0",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "geo",
+      "gen",
+      "refseq"
+     ]
+    },
+    "dateOfCompletion": "2019-01-31",
+    "dateOfCreation": "2018-08-03",
+    "dateOfRevision": "2019-12-10",
+    "electronicPublicationDate": "2018-08-02",
+    "firstPublicationDate": "2018-08-02",
+    "firstIndexDate": "2018-08-03",
+    "fullTextReceivedDate": "2025-02-03",
+    "hasEvaluations": "N"
+   }
+  ]
+ }
+}

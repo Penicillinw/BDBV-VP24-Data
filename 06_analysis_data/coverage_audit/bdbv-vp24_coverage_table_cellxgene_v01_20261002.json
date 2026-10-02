@@ -1,0 +1,472 @@
+{
+ "RPE": [
+  [
+   "3c364ffe-d599-44d5-a77f-6c5fd7038cf6",
+   959629,
+   "Single cell atlas of the human optic nerve"
+  ],
+  [
+   "d71c6645-7ecb-4396-9c80-04d2749ab2e0",
+   247520,
+   "HiPSC-derived retinal organoid subpopulations from healthy and POAG donors"
+  ],
+  [
+   "ccfdcad0-7104-46b9-addf-fd66a2a15907",
+   34723,
+   "Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution"
+  ],
+  [
+   "babbf9f3-f482-45a5-ba76-c41f4c2f503e",
+   19768,
+   "Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution"
+  ],
+  [
+   "7e7f63c5-d964-40be-83de-ecbcccafd233",
+   43857,
+   "Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution"
+  ],
+  [
+   "f28376c8-2ca0-419f-8e22-543f71457eb3",
+   69244,
+   "Single cell atlas of the human retinal pigment epithelium and the choroid"
+  ],
+  [
+   "5ed90bc0-12f3-4354-b314-0ce0dbb96458",
+   182151,
+   "Single cell atlas of the human retinal pigment epithelium and the choroid"
+  ],
+  [
+   "53d9dafe-deb9-40b2-8bb4-38774fc8fc02",
+   566546,
+   "Single cell atlas of the human retinal pigment epithelium and the choroid"
+  ],
+  [
+   "1a9f3b38-b86d-416d-bbdc-9058ad3ff42d",
+   715619,
+   "Single cell atlas of the human retinal pigment epithelium and the choroid"
+  ],
+  [
+   "d6505c89-c43d-4c28-8c4f-7351a5fd5528",
+   3177310,
+   "Single cell atlas of the human retina"
+  ],
+  [
+   "be41a86a-b606-4b1c-8055-32f334898775",
+   265767,
+   "Single cell atlas of the human retina"
+  ],
+  [
+   "e6dad530-418b-47f9-af6e-472e56a7b314",
+   100055,
+   "Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration"
+  ],
+  [
+   "ab5b2256-b209-48b5-a801-c5d9a8c0de56",
+   8193,
+   "Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration"
+  ],
+  [
+   "9cfee1e6-b24f-433d-a269-f01841655d6a",
+   1635,
+   "Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration"
+  ],
+  [
+   "a41fb1c7-87d1-4840-a375-a1a6b3ab6737",
+   127659,
+   "HiPSC-derived retinal pigmented epithelium from healthy and AMD-GA donors"
+  ],
+  [
+   "ed419b4e-db9b-40f1-8593-68fdf8dfb076",
+   18011,
+   "Single-cell transcriptomic atlas for adult human retina"
+  ],
+  [
+   "fa27492b-82ff-4ab7-ac61-0e2b184eee67",
+   1001288,
+   "A human cell atlas of fetal gene expression"
+  ],
+  [
+   "f7c1c579-2dc0-47e2-ba19-8165c5a0e353",
+   4062980,
+   "A human cell atlas of fetal gene expression"
+  ],
+  [
+   "a0754256-f44b-4c4a-962c-a552e47d3fdc",
+   34273,
+   "Tabula Sapiens"
+  ],
+  [
+   "97a17473-e2b1-4f31-a544-44a60773e2dd",
+   228032,
+   "Tabula Sapiens"
+  ],
+  [
+   "53d208b0-2cfd-4366-9866-c3c6114081bc",
+   1136218,
+   "Tabula Sapiens"
+  ],
+  [
+   "af8b241a-c72c-4470-b1a4-80e7336c6ab6",
+   4335,
+   "Single-cell transcriptomics of the human retinal pigment epithelium and choroid in health and macular degeneration"
+  ]
+ ],
+ "photoreceptor": [
+  [
+   "3c364ffe-d599-44d5-a77f-6c5fd7038cf6",
+   959629,
+   "Single cell atlas of the human optic nerve"
+  ],
+  [
+   "856c1b98-5727-49da-bf0f-151bdb8cb056",
+   20091,
+   "Single-cell transcriptomic atlas of the human retina identifies cell types associated with age-related macular degeneration"
+  ],
+  [
+   "7b75b2c4-6d99-40be-9a61-391455d859e6",
+   9070,
+   "Cell Atlas of The Human Fovea and Peripheral Retina"
+  ],
+  [
+   "d71c6645-7ecb-4396-9c80-04d2749ab2e0",
+   247520,
+   "HiPSC-derived retinal organoid subpopulations from healthy and POAG donors"
+  ],
+  [
+   "ccfdcad0-7104-46b9-addf-fd66a2a15907",
+   34723,
+   "Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution"
+  ],
+  [
+   "babbf9f3-f482-45a5-ba76-c41f4c2f503e",
+   19768,
+   "Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution"
+  ],
+  [
+   "7e7f63c5-d964-40be-83de-ecbcccafd233",
+   43857,
+   "Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution"
+  ],
+  [
+   "d5c67a4e-a8d9-456d-a273-fa01adb1b308",
+   19694,
+   "A single-cell transcriptome atlas of the adult human retina"
+  ],
+  [
+   "322c816f-608a-4da1-99c4-36ca4ad45146",
+   51645,
+   "Single-cell multiome of the human retina and deep learning nominate causal variants in complex eye diseases"
+  ],
+  [
+   "d6505c89-c43d-4c28-8c4f-7351a5fd5528",
+   3177310,
+   "Single cell atlas of the human retina"
+  ],
+  [
+   "be41a86a-b606-4b1c-8055-32f334898775",
+   265767,
+   "Single cell atlas of the human retina"
+  ],
+  [
+   "975fd2d3-1982-47a1-9ef7-8cde3345f219",
+   691008,
+   "Single cell atlas of the human retina"
+  ],
+  [
+   "459dc9de-9ab8-4e4d-ac44-182595b1c18b",
+   72788,
+   "Single cell atlas of the human retina"
+  ],
+  [
+   "963a08cb-d995-4862-9614-f9d38a7d7540",
+   226506,
+   "Single Cell Multiome Atlas of the Human Fetal Retina"
+  ],
+  [
+   "e6dad530-418b-47f9-af6e-472e56a7b314",
+   100055,
+   "Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration"
+  ],
+  [
+   "d95ab381-2b7c-4885-b168-0097ed4e397f",
+   1378,
+   "Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration"
+  ],
+  [
+   "389bfbb9-8ef1-4582-8c41-410131c3d0eb",
+   62509,
+   "Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration"
+  ],
+  [
+   "0129dbd9-a7d3-4f6b-96b9-1da155a93748",
+   244474,
+   "Single-cell transcriptomic atlas for adult human retina"
+  ],
+  [
+   "00e5dedd-b9b7-43be-8c28-b0e5c6414a62",
+   21422,
+   "Single-cell transcriptomic atlas for adult human retina"
+  ],
+  [
+   "aecc2743-4ff2-4b55-ac8c-a1ff76fc4bb4",
+   108838,
+   "Human fetal retina atlas v1 - Unraveling the developmental heterogeneity within the human retina to reconstruct the continuity of retinal ganglion cell maturation and stage-specific intrinsic and extrinsic factors"
+  ],
+  [
+   "fa27492b-82ff-4ab7-ac61-0e2b184eee67",
+   1001288,
+   "A human cell atlas of fetal gene expression"
+  ],
+  [
+   "f7c1c579-2dc0-47e2-ba19-8165c5a0e353",
+   4062980,
+   "A human cell atlas of fetal gene expression"
+  ],
+  [
+   "d7f5d8d0-6150-48d7-b094-c34286ad11a1",
+   1920454,
+   "An integrated transcriptomic cell atlas of human neural organoids"
+  ],
+  [
+   "3a805b8d-c9d8-4c9b-881f-0eefa635974d",
+   1767346,
+   "An integrated transcriptomic cell atlas of human neural organoids"
+  ],
+  [
+   "a0754256-f44b-4c4a-962c-a552e47d3fdc",
+   34273,
+   "Tabula Sapiens"
+  ],
+  [
+   "6e4acdae-59ef-452b-a6d4-260cba368586",
+   2685,
+   "Tabula Sapiens"
+  ],
+  [
+   "53d208b0-2cfd-4366-9866-c3c6114081bc",
+   1136218,
+   "Tabula Sapiens"
+  ],
+  [
+   "f5be9ed2-5d41-4a52-91e4-4ff24ff84900",
+   34323,
+   "Human photoreceptor cells from different macular subregions have distinct transcriptional profiles"
+  ]
+ ],
+ "urothelium": [
+  [
+   "8e5978bd-0e48-4a09-a92d-fa2985059f05",
+   14776,
+   "Exploring the Utility of snRNA-seq in Profiling Human Bladder Tissue: A Comprehensive Comparison with scRNA-seq"
+  ],
+  [
+   "9ea768a2-87ab-46b6-a73d-c4e915f25af3",
+   40268,
+   "Spatiotemporal immune zonation of the human kidney"
+  ],
+  [
+   "2fc9c59f-3cfd-48d9-9b23-e369ea31bff3",
+   4620,
+   "Spatiotemporal immune zonation of the human kidney"
+  ],
+  [
+   "105c7dad-0468-4628-a5be-2bb42c6a8ae4",
+   40268,
+   "Single-cell transcriptomes from human kidneys reveal the cellular identity of renal tumors"
+  ],
+  [
+   "5467c340-864c-4810-86ef-647039c07148",
+   13544,
+   "Single-cell and spatial mapping Identify cell types and signaling Networks in the human ureter"
+  ],
+  [
+   "3e524d45-2265-4440-b903-3c30d51a0b17",
+   30942,
+   "Single-cell and spatial mapping Identify cell types and signaling Networks in the human ureter"
+  ],
+  [
+   "12c3efd8-d515-42e6-b93c-4961e599d524",
+   13161,
+   "Single-cell and spatial mapping Identify cell types and signaling Networks in the human ureter"
+  ],
+  [
+   "fb5eeccf-3c2a-473c-b6e3-7a1dda18d42d",
+   74694,
+   "A poly(A) isoform\u2013aware single-cell and spatial atlas defines fibroblast niches in the human bladder"
+  ],
+  [
+   "e5c63d94-593c-4338-a489-e1048599e751",
+   66385,
+   "Tabula Sapiens"
+  ],
+  [
+   "97a17473-e2b1-4f31-a544-44a60773e2dd",
+   228032,
+   "Tabula Sapiens"
+  ],
+  [
+   "53d208b0-2cfd-4366-9866-c3c6114081bc",
+   1136218,
+   "Tabula Sapiens"
+  ]
+ ],
+ "Sertoli": [
+  [
+   "43dc52cb-92eb-4256-b3a8-5ef220b3d292",
+   31749,
+   "Characterization of the human fetal gonad and reproductive tract by single-cell transcriptomics"
+  ],
+  [
+   "2adb1f8a-a6b1-4909-8ee8-484814e2d4bf",
+   599926,
+   "Construction of a human cell landscape at single-cell level"
+  ]
+ ],
+ "choroid_plexus_epithelium": [
+  [
+   "f9034091-2e8f-4ac6-9874-e7b7eb566824",
+   23120,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "f32c2c13-bb1a-4ffd-a457-60b64ecfa4cb",
+   116576,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "f20f44ef-a0d4-4d94-87de-037fd47141f0",
+   18728,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "ecd9230d-c571-4dab-abd3-8b54c74833f0",
+   46453,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "e8681d74-ac9e-4be5-be14-1cf1bbd54dd7",
+   31307,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "d2514440-d747-4d8d-b2c7-b58ef8b71fbe",
+   48856,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "cfa755c1-48c5-4336-94f4-aa95eca4fbd5",
+   7689,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "b8681124-aabf-4904-b9c9-66d834bf5bba",
+   13382,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "b165f033-9dec-468a-9248-802fc6902a74",
+   888263,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "a4116666-d295-4443-a174-0acc283f92c4",
+   29907,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "9ec34295-ab16-47e2-af33-b884143e520b",
+   49110,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "900fdf13-150d-4695-9f8c-4c09105ba2eb",
+   47416,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "88a01d4a-5197-45be-b5ae-e019aef43376",
+   40565,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "7c1c3d47-3166-43e5-9a95-65ceb2d45f78",
+   49512,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "77044335-0ac5-4406-9b3f-8cdd3656d67b",
+   23349,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "715327a6-7978-4896-ba91-69d6b04dbbfb",
+   40191,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "70e4f35b-c98c-45a1-9aa9-2053b07315dd",
+   40815,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "639ffc23-14db-4060-9027-3c90314200f8",
+   35290,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "5e5ab909-f73f-4b57-98a0-6d2c5662f6a4",
+   32306,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "5bc23cb2-8cfc-4960-bab1-c3027fbeefc4",
+   28155,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "367b55f4-d543-49aa-90e8-4765fcb8c687",
+   24354,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "182f6a56-7360-4924-a74e-1772e07b3031",
+   28724,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "0ee5ae70-c3f5-473f-bd1c-287f4690ffc5",
+   13623,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "095940cb-7422-4510-96e2-cbafd961eb88",
+   52045,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "090da8ea-46e8-40df-bffc-1f78e1538d27",
+   24190,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "07b1d7c8-5c2e-42f7-9246-26f746cd6013",
+   27210,
+   "Human Brain Cell Atlas v1.0"
+  ],
+  [
+   "595c9010-99ec-462d-b6a1-2b2fe5407871",
+   27092,
+   "Dysregulation of brain and choroid plexus cell types in severe COVID-19"
+  ],
+  [
+   "d7f5d8d0-6150-48d7-b094-c34286ad11a1",
+   1920454,
+   "An integrated transcriptomic cell atlas of human neural organoids"
+  ],
+  [
+   "3a805b8d-c9d8-4c9b-881f-0eefa635974d",
+   1767346,
+   "An integrated transcriptomic cell atlas of human neural organoids"
+  ]
+ ]
+}

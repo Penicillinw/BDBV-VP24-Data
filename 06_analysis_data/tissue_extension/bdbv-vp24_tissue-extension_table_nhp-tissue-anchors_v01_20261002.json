@@ -1,0 +1,169 @@
+{
+  "anchors": {
+    "A1_top1_hits": 6,
+    "A1_required": 6,
+    "A1_pass": true,
+    "A2_rho_immune": 0.405,
+    "A2_required": 0.5,
+    "A2_pass": false,
+    "all_pass": false
+  },
+  "A1": [
+    {
+      "tissue": "liver",
+      "top1": "hepatocytes",
+      "top1_frac": 0.486,
+      "expected": "hepatocytes",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.283
+    },
+    {
+      "tissue": "kidney",
+      "top1": "kidney_tubule",
+      "top1_frac": 0.376,
+      "expected": "kidney_tubule",
+      "hit": true,
+      "runner_up": "fibroblasts",
+      "runner_up_frac": 0.136
+    },
+    {
+      "tissue": "brain",
+      "top1": "neurons",
+      "top1_frac": 0.226,
+      "expected": "astrocytes;ependymal;microglia;neurons;oligodendrocytes",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.117
+    },
+    {
+      "tissue": "adrenal gland",
+      "top1": "adrenal_medulla",
+      "top1_frac": 0.514,
+      "expected": "adrenal_cortex;adrenal_medulla",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.351
+    },
+    {
+      "tissue": "lymph node",
+      "top1": "b_cells",
+      "top1_frac": 0.387,
+      "expected": "b_cells;innate_lymphoid;nk_cells;plasma_cells;t_cells",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.207
+    },
+    {
+      "tissue": "skin",
+      "top1": "adipocytes",
+      "top1_frac": 0.538,
+      "expected": "fibroblasts;keratinocytes",
+      "hit": false,
+      "runner_up": "fibroblasts",
+      "runner_up_frac": 0.141
+    },
+    {
+      "tissue": "sex organ",
+      "top1": "smooth_muscle",
+      "top1_frac": 0.262,
+      "expected": "epididymal_epithelium;germ_cells;leydig;sertoli",
+      "hit": false,
+      "runner_up": "hepatic_stellate",
+      "runner_up_frac": 0.227
+    },
+    {
+      "tissue": "lung",
+      "top1": "alveolar_epithelium",
+      "top1_frac": 0.344,
+      "expected": "airway_epithelium;alveolar_epithelium",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.202
+    }
+  ],
+  "A2": [
+    {
+      "tissue": "adrenal gland",
+      "manual_immune_fraction": 0.0042,
+      "immune_marker_index": -0.626
+    },
+    {
+      "tissue": "brain",
+      "manual_immune_fraction": 0.0035,
+      "immune_marker_index": -1.2612
+    },
+    {
+      "tissue": "kidney",
+      "manual_immune_fraction": 0.0345,
+      "immune_marker_index": -0.7137
+    },
+    {
+      "tissue": "liver",
+      "manual_immune_fraction": 0.0076,
+      "immune_marker_index": -0.0184
+    },
+    {
+      "tissue": "lung",
+      "manual_immune_fraction": 0.038,
+      "immune_marker_index": -0.0766
+    },
+    {
+      "tissue": "lymph node",
+      "manual_immune_fraction": 0.5332,
+      "immune_marker_index": 0.3313
+    },
+    {
+      "tissue": "sex organ",
+      "manual_immune_fraction": 0.0206,
+      "immune_marker_index": -0.3969
+    },
+    {
+      "tissue": "skin",
+      "manual_immune_fraction": 0.0525,
+      "immune_marker_index": -1.0522
+    }
+  ],
+  "A3": {
+    "liver": {
+      "rho_vs_depth": -0.349,
+      "p": 0.2021,
+      "n": 15
+    },
+    "kidney": {
+      "rho_vs_depth": -0.501,
+      "p": 0.0206,
+      "n": 21
+    },
+    "brain": {
+      "rho_vs_depth": -0.397,
+      "p": 0.0271,
+      "n": 31
+    },
+    "adrenal gland": {
+      "rho_vs_depth": 0.353,
+      "p": 0.2873,
+      "n": 11
+    },
+    "lymph node": {
+      "rho_vs_depth": -0.037,
+      "p": 0.7701,
+      "n": 64
+    },
+    "skin": {
+      "rho_vs_depth": -0.17,
+      "p": 0.3976,
+      "n": 27
+    },
+    "sex organ": {
+      "rho_vs_depth": -0.091,
+      "p": 0.8153,
+      "n": 9
+    },
+    "lung": {
+      "rho_vs_depth": 0.8,
+      "p": 0.2,
+      "n": 4
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+ "GSE300073_R2a": {
+  "mean_within_condition_rho": 0.891,
+  "mean_between_condition_rho": 0.815,
+  "passes": true
+ },
+ "GSE298600_R2a": {
+  "mean_within_condition_rho": 0.956,
+  "mean_between_condition_rho": 0.68,
+  "passes": true
+ },
+ "R2b_delayed_induction": {
+  "EBOV": {
+   "day1": 2.008,
+   "day3": 2.084,
+   "rises_between_days": true
+  },
+  "MARV": {
+   "day1": 2.053,
+   "day3": 5.459,
+   "rises_between_days": true
+  }
+ },
+ "R2b_passes": true,
+ "R2c_cross_series": {
+  "EBOV": {
+   "GSE300073": 2.084,
+   "GSE298600": 4.809,
+   "difference": -2.726
+  },
+  "Mock": {
+   "GSE300073": 2.829,
+   "GSE298600": 3.346,
+   "difference": -0.517
+  }
+ },
+ "R2c_passes": false,
+ "R2c_note": "tolerance = the larger of the EBOV-mock difference within one series and 0.5 log2",
+ "map_accepted": false
+}

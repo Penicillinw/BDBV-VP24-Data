@@ -1,0 +1,32 @@
+decision	proposed_category	files	bytes	reason_headline
+no	08_out_of_scope_and_superseded	508	82719562	SWISS-MODEL 同源建模、模板与 web 资源
+no	02_primary_sequence_data	376	40798263	第三方公开库原始下载件（§1：默认只登记 accession/URL/大小/哈希，不进仓库）
+no	05_external_public_datasets	304	16600980270	第三方公开库原始下载件（§1：默认只登记 accession/URL/大小/哈希，不进仓库）
+no	08_out_of_scope_and_superseded	147	1871590	轮次过程件（对齐/碰撞/校验 JSON、日志、说明文本），可重算且非数据
+no	08_out_of_scope_and_superseded	145	495138338	渲染成图/布局 PDF，不是数值源数据
+no	00_index_and_metadata	58	1257197	叙述性分析记录/运行日志（方法、口径、结论留痕）
+no	08_out_of_scope_and_superseded	57	457024	绘图样式脚本或一次性核查/装配过程脚本（非产出数值的分析脚本）
+pending	03_primary_structure_and_interface	48	12367458	pilot MD 的体系/最小化中间坐标（9 个体系 x 4 态，约 11.8 MB）
+no	08_out_of_scope_and_superseded	20	82293964	渲染成图（位图/矢量/矢量导出），不是数值源数据
+no	04_host_reference_and_atlas	19	179192	第三方公开库原始下载件（§1：默认只登记 accession/URL/大小/哈希，不进仓库）
+no	08_out_of_scope_and_superseded	19	352158	对应结构预测/对接/FoldX/静电/旧 two-gate 框架或 DOCX 装配，§1 已确认超范围/非数据
+no	05_external_public_datasets	14	278973829	第三方补充材料工作簿（xlsx），§1 第三方再分发一律 link_only 登记
+no	03_primary_structure_and_interface	13	10476102	实验结构文件，但 v13 正文/图注/方法仅引用 4U2X
+no	08_out_of_scope_and_superseded	12	451122	叙述性报告/历史记录文本（report/ 共 243 个文件，同类规则
+no	08_out_of_scope_and_superseded	9	196004	绘图/成图脚本（风格与版式），删掉后源数据仍可重算，按 §1 不属于数据
+no	08_out_of_scope_and_superseded	8	166731	Python 字节码缓存，非数据
+no	08_out_of_scope_and_superseded	8	118336	GP 序列/糖基化分析
+no	05_external_public_datasets	6	110889207	第三方参考注释/单细胞对象下载件（Mmul10 GTF、se.qc.rds），§1 默认 link_only 登记
+no	08_out_of_scope_and_superseded	5	12105929	手稿/补充稿 DOCX 产物（含历史版本），§1 明确不收（§3.7 生成物对照）
+no	04_host_reference_and_atlas	4	1440808786	HPA 官方下载件（单细胞类型参考表/细胞系表及其 zip，最大 1.0 GB）
+no	08_out_of_scope_and_superseded	2	14642	绘图/渲染脚本（含 PyMOL），按 §1 不收（§3.7 生成物对照）
+no	08_out_of_scope_and_superseded	1	27444	S 轮 Fig. 2 源数据，已被 U 轮 _coord/_round_U_20261002/figures/Fig2_
+no	08_out_of_scope_and_superseded	1	16565	S 轮 Fig. 3 源数据，已被 T 轮 _coord/_round_T_20261002/figures/Fig3_
+no	08_out_of_scope_and_superseded	1	27444	S 轮 figures_new/Fig. 2 源数据，已被 U 轮同源数据取代，不入库
+no	08_out_of_scope_and_superseded	1	16565	S 轮 figures_new/Fig. 3 源数据，已被 T 轮同源数据取代，不入库
+no	08_out_of_scope_and_superseded	1	29863	与 _coord/_round_U_20261002/figures/Fig2_partition_source.tsv
+no	08_out_of_scope_and_superseded	1	321819	渲染成图/导出 PDF/文档产物，非数值源数据（§1 不收）
+no	02_primary_sequence_data	1	45441	未归类扩展名，默认不入库（需人工复核）
+pending	03_primary_structure_and_interface	1	140640	Methods 所述 pilot MD 的 P83S 突变体坐标
+pending	03_primary_structure_and_interface	1	140804	Methods 所述 pilot MD 的 WT 输入坐标（结果自述为 uninformative）
+no	08_out_of_scope_and_superseded	1	11593	手稿装配/导出/渲染产物与旧版图件，§1 明确不收

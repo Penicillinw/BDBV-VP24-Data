@@ -1,0 +1,973 @@
+{
+ "started": "2026-09-26T01:18:54",
+ "reference": {
+  "id": "P0C779",
+  "length": 251,
+  "md5": "0ff12584e1efccdb39d65cd6236f8f7b"
+ },
+ "positions": [
+  83,
+  135,
+  140,
+  141
+ ],
+ "pathoplexus": {
+  "BDBV": {
+   "instance": "ebola-bdbv",
+   "url": "https://lapis.pathoplexus.org/ebola-bdbv/sample/aminoAcidMutations?limit=5000",
+   "data_version": "1790096663",
+   "n_vp24_variant_rows": 1,
+   "max_vp24_coverage": 849,
+   "variants": [
+    {
+     "mutation": "VP24:S24N",
+     "position": 24,
+     "from": "S",
+     "to": "N",
+     "count": 838,
+     "coverage": 849,
+     "proportion": 0.9870435806831567
+    }
+   ],
+   "variants_at_primary_positions": []
+  },
+  "EBOV": {
+   "instance": "ebola-zaire",
+   "url": "https://lapis.pathoplexus.org/ebola-zaire/sample/aminoAcidMutations?limit=5000",
+   "data_version": "1790096708",
+   "n_vp24_variant_rows": 5,
+   "max_vp24_coverage": 11561,
+   "variants": [
+    {
+     "mutation": "VP24:I102V",
+     "position": 102,
+     "from": "I",
+     "to": "V",
+     "count": 646,
+     "coverage": 11561,
+     "proportion": 0.05587751924573999
+    },
+    {
+     "mutation": "VP24:K163Q",
+     "position": 163,
+     "from": "K",
+     "to": "Q",
+     "count": 2451,
+     "coverage": 11518,
+     "proportion": 0.21279736065289112
+    },
+    {
+     "mutation": "VP24:M212K",
+     "position": 212,
+     "from": "M",
+     "to": "K",
+     "count": 11253,
+     "coverage": 11464,
+     "proportion": 0.9815945568736916
+    },
+    {
+     "mutation": "VP24:T34A",
+     "position": 34,
+     "from": "T",
+     "to": "A",
+     "count": 1797,
+     "coverage": 11460,
+     "proportion": 0.1568062827225131
+    },
+    {
+     "mutation": "VP24:K15Q",
+     "position": 15,
+     "from": "K",
+     "to": "Q",
+     "count": 2439,
+     "coverage": 11431,
+     "proportion": 0.2133671594786108
+    }
+   ],
+   "variants_at_primary_positions": []
+  },
+  "SUDV": {
+   "instance": "ebola-sudan",
+   "url": "https://lapis.pathoplexus.org/ebola-sudan/sample/aminoAcidMutations?limit=5000",
+   "data_version": "1790096655",
+   "n_vp24_variant_rows": 1,
+   "max_vp24_coverage": 579,
+   "variants": [
+    {
+     "mutation": "VP24:P233S",
+     "position": 233,
+     "from": "P",
+     "to": "S",
+     "count": 34,
+     "coverage": 579,
+     "proportion": 0.05872193436960276
+    }
+   ],
+   "variants_at_primary_positions": []
+  }
+ },
+ "ena": {
+  "BDBV": {
+   "n_ena_records_total": 57,
+   "n_records": 0,
+   "records": [],
+   "calls": []
+  },
+  "EBOV": {
+   "n_ena_records_total": 3680,
+   "n_records": 0,
+   "records": [],
+   "calls": []
+  },
+  "SUDV": {
+   "n_ena_records_total": 164,
+   "n_records": 0,
+   "records": [],
+   "calls": []
+  },
+  "RESTV": {
+   "n_ena_records_total": 61,
+   "n_records": 0,
+   "records": [],
+   "calls": []
+  },
+  "TAFV": {
+   "n_ena_records_total": 9,
+   "n_records": 0,
+   "records": [],
+   "calls": []
+  },
+  "BOMV": {
+   "n_ena_records_total": 12,
+   "n_records": 0,
+   "records": [],
+   "calls": []
+  }
+ },
+ "uniprot": {
+  "BDBV": {
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A565995",
+   "n_entries": 1,
+   "n_with_all_four_bdbv_type": 1,
+   "calls": [
+    {
+     "id": "tr|B8XCN4|B8XCN4_BDBV",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true,
+     "identical_to_ebov_reference": false
+    }
+   ]
+  },
+  "EBOV": {
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186538",
+   "n_entries": 27,
+   "n_with_all_four_bdbv_type": 0,
+   "calls": [
+    {
+     "id": "tr|A0A075WG23|A0A075WG23_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A089WWJ4|A0A089WWJ4_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A0E3TMH1|A0A0E3TMH1_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A0H3VWQ6|A0A0H3VWQ6_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A0K1NYE7|A0A0K1NYE7_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A0N7E4U5|A0A0N7E4U5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7C6|A0A141M7C6_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7C8|A0A141M7C8_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7D0|A0A141M7D0_9MONO",
+     "length": 207,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7D2|A0A141M7D2_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7D4|A0A141M7D4_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7D9|A0A141M7D9_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7E2|A0A141M7E2_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A141M7E4|A0A141M7E4_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A1X9ITK8|A0A1X9ITK8_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A2I4PED6|A0A2I4PED6_9MONO",
+     "length": 246,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A2I4PED8|A0A2I4PED8_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A2I4Q556|A0A2I4Q556_9MONO",
+     "length": 231,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A3G2LMD0|A0A3G2LMD0_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A3S8U0N3|A0A3S8U0N3_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A3S8U0V1|A0A3S8U0V1_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|G8DB44|G8DB44_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|I0DHB3|I0DHB3_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|L7QHU7|L7QHU7_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|L7QHW5|L7QHW5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|L7QI07|L7QI07_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": true
+    },
+    {
+     "id": "tr|L7QI16|L7QI16_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    }
+   ]
+  },
+  "SUDV": {
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186540",
+   "n_entries": 4,
+   "n_with_all_four_bdbv_type": 0,
+   "calls": [
+    {
+     "id": "tr|A0A0N9QWS5|A0A0N9QWS5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A0S1LHA2|A0A0S1LHA2_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|B0LPM0|B0LPM0_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|R4QUG5|R4QUG5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    }
+   ]
+  },
+  "RESTV": {
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186539",
+   "n_entries": 5,
+   "n_with_all_four_bdbv_type": 0,
+   "calls": [
+    {
+     "id": "tr|A0A1I9VT59|A0A1I9VT59_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A343J1N9|A0A343J1N9_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A343J1P8|A0A343J1P8_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|L7RE03|L7RE03_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|L7RF04|L7RF04_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    }
+   ]
+  },
+  "TAFV": {
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A186541",
+   "n_entries": 1,
+   "n_with_all_four_bdbv_type": 0,
+   "calls": [
+    {
+     "id": "tr|B8XCP3|B8XCP3_TAFV",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "Q",
+      "140": "Q",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    }
+   ]
+  },
+  "BOMV": {
+   "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=gene%3AVP24%20AND%20organism_id%3A2010960",
+   "n_entries": 2,
+   "n_with_all_four_bdbv_type": 0,
+   "calls": [
+    {
+     "id": "tr|A0A343EQF5|A0A343EQF5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    },
+    {
+     "id": "tr|A0A343EQG1|A0A343EQG1_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false,
+     "identical_to_ebov_reference": false
+    }
+   ]
+  }
+ },
+ "finished": "2026-09-26T01:21:07",
+ "bvbrc": {
+  "BDBV": {
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,565995)&limit(50000)&http_accept=application/json",
+   "n_features_total": 1337,
+   "n_vp24_features": 113,
+   "n_distinct_accessions": 32,
+   "distinct_aa_sequence_md5": [
+    "21e941e25637b2b5acb984f5c6a4b015",
+    "6103d7c7fd00a7bbc4b4e092ee75b2cf",
+    "6a946f24df3572069001b95cbd145b6e",
+    "c4799693f9c9e52ecc8367727ef29bfd"
+   ],
+   "example_accessions": [
+    "FJ217161",
+    "KC545393",
+    "KC545394",
+    "KC545395",
+    "KC545396",
+    "KR063673",
+    "KU182911",
+    "MK028834",
+    "MK028835",
+    "MK028856"
+   ],
+   "md5_of_known_reference_vp24": [
+    "6a946f24df3572069001b95cbd145b6e"
+   ],
+   "md5_of_reference_with_bdbv_type_at_all_four": [
+    "6a946f24df3572069001b95cbd145b6e"
+   ],
+   "bvbrc_md5_matching_a_bdbv_type_variant": [
+    "6a946f24df3572069001b95cbd145b6e"
+   ]
+  },
+  "EBOV": {
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186538)&limit(50000)&http_accept=application/json",
+   "n_features_total": 25000,
+   "n_vp24_features": 3629,
+   "n_distinct_accessions": 2057,
+   "distinct_aa_sequence_md5": [
+    "01db398fc82e41d2004b3225b3f0238f",
+    "027b03219f60aa76be19925a9ed1769f",
+    "04cbd46486802fff3b85e8c0b41fed80",
+    "087333ad8dc2c598a459f846e7dca462",
+    "0a154a8005ee88c01d35dd1f6097322e",
+    "0f2c6e375c43f716fa53630ffb43c8b1",
+    "0f5bfd5a3c2b490d3d486bbc7da24aeb",
+    "0ff12584e1efccdb39d65cd6236f8f7b",
+    "11fc21d826960fb8e34c88dee4def7c9",
+    "1348d1a70a17dd5633a2ea533a5ddb8b",
+    "137877011fa9e8e4d5513b05c355e09b",
+    "1385c255db5075831564750dc65ea03e",
+    "160a0e397d5f2045dcf7ea5764858888",
+    "1db181d23ed3098073de2b36e9d18549",
+    "1f66df02883df01302b4c370fc065449",
+    "1fe53da4e1b6ac726a0ec417b7000a34",
+    "20e9141ed012b6539d6f416e9e905ee4",
+    "24cbb9a86a76d5e5fbec7050562ca029",
+    "2989c3e2e497ca2b031f8265dd2b4c2a",
+    "2a5d13b8c2c1984aab32bda1cdbb2d62",
+    "3cc371834851914f8e9c6519df0b64c3",
+    "4f06d8214749ff40b9332761f22465d4",
+    "500ec2e1d3400d05d2b607e59c15cae6",
+    "575f7e1ff84367fe38e5733e2acd251c",
+    "594969488c85012f8582e66de1d36f4d",
+    "5ab9c718d1302c6fb3944f40314597ce",
+    "61d52d2b2ca2ec41813bdb1ccf23359b",
+    "662f02ced4a00a4c3fb91bed3b6f4ddd",
+    "6c39540a34fa679cecef8d6eb5aac5c4",
+    "793bc8e1e9cae6ed79627635e3506fc7",
+    "7ac31a8991a2804fca3e9e6e2ff571fc",
+    "7d9f43c2e21d9b699e4965ab08692b19",
+    "7f8e9d2e6352e79250a88370eff6d40c",
+    "85697909637d6632d2daccb032d0ea89",
+    "877add050cc111bbb681bf21d6315e08",
+    "8a958c5ee56995573b5fc0e700ba038f",
+    "8dcc882cc3b86f4921db471792344919",
+    "8dea48665bd39f28f3c3e895cffab615",
+    "8f7f7e6098b5989324b40dd6663b2dde",
+    "915e68c081d5bc9447634fed28c2159e",
+    "9340f93638bd36568fbd9fd21830091a",
+    "97af741d59a18bb44e18e7f9ac20a3ec",
+    "99525703604904c91283474c28f7a25a",
+    "99da44d22df9e6e1446e0e79d50ca3ad",
+    "9cfdf4ac260e3b4eb07ba3f85d8f9302",
+    "9d51ab3b15fcb7ecea2ba403ae770224",
+    "a5083748b3a6c9eaac4b093a3e6ec42c",
+    "a5688a0144f2138207e659beac4bd5b3",
+    "a576f925eaa3fe8233f1652b9bdf7764",
+    "ac3db2180cdbafef6d81369eca5dded3",
+    "ad2288543cee8d96f5d028f87700c75d",
+    "af4fa1b2db473074f0fc2f7d8d92dac8",
+    "b28e77add0cec7fa0429d44545c4db90",
+    "b5c4d63b6001651eff7f6d7ee437f0f3",
+    "bfe7123266c605953f1b8716c55d0401",
+    "c1c60ce2a7f72fc21ea1dff39735dee1",
+    "c89bf33dd5458be34239bb6d427e5242",
+    "c8a9960767805572bcaaddbd02b1071f",
+    "d0e173b3868a0c45092b55b8718498d1",
+    "d14d7bf129ea46ec976d06be99af6427",
+    "d26b7aea1fe78334e9036e1f300e6178",
+    "d35bb9029bdfaf8034e958854d16d235",
+    "d436434adfb33ceb6ebb37f16f3643db",
+    "d5243d99eab997d7f3165a6b7d78b9fd",
+    "e148234f98e6a262fb7eb2fff9a2ed32",
+    "e8ab8a5fa9b268aa51410ee13edfbb9e",
+    "edf45a0925aff544b8360a2ba8da6656",
+    "f1927922638fb88fe288f32f0bb98e07",
+    "fd4e00cc7fd9650d8327af426058fbc4"
+   ],
+   "example_accessions": [
+    "AF499101",
+    "AY354458",
+    "JQ352763",
+    "KC242784",
+    "KC242785",
+    "KC242786",
+    "KC242787",
+    "KC242788",
+    "KC242789",
+    "KC242791"
+   ],
+   "md5_of_known_reference_vp24": [
+    "0f5bfd5a3c2b490d3d486bbc7da24aeb",
+    "0ff12584e1efccdb39d65cd6236f8f7b",
+    "19f28eb6693c10e4225a21998e76d40a",
+    "2989c3e2e497ca2b031f8265dd2b4c2a",
+    "29a14cd47c56d693bc3dbb2c69f7d9fb",
+    "4bda5fa6b187ff803299492c4b5400d3",
+    "5aaf70b94430711dee4c17972320009b",
+    "7f8e9d2e6352e79250a88370eff6d40c",
+    "85697909637d6632d2daccb032d0ea89",
+    "85f174511de11c5f499ffc7f47e6afef",
+    "9eff7a78a6a6a544443bb4dfc658cbfe",
+    "a5083748b3a6c9eaac4b093a3e6ec42c",
+    "bd879e88f3032f05486e1b4e1e995a8f",
+    "c8a9960767805572bcaaddbd02b1071f",
+    "c9c8210b7ac0a42cb58c4c5372028a0d",
+    "d436434adfb33ceb6ebb37f16f3643db",
+    "d5243d99eab997d7f3165a6b7d78b9fd",
+    "d6c915a4c9dd35b109bf7643547f94a2",
+    "e94f6d0974f0d54b764ede2c94ec13aa",
+    "f1927922638fb88fe288f32f0bb98e07",
+    "fd98ec8926ff6b77dae38dc3ebcb8228"
+   ],
+   "md5_of_reference_with_bdbv_type_at_all_four": [
+    "0ca71e42512d830b9b71025ee15e43a1",
+    "14b5626a1aa594bbcb9731342552a31f",
+    "2900cf52cc40fe60bc9bb76cf6c4c9c8",
+    "3168373d64681ba0f4e9a15718569671",
+    "4d02c2b2995d8267d4edcaf9a23bf61e",
+    "4e321545acba60fb23c0670a8bb1ce92",
+    "51d8fc1e3dd090c145e654534029d0e0",
+    "56bfcb33c3115c26a22c00418cb866f4",
+    "5c8c2fc1e094a2041f6964e532dfec6c",
+    "5de2789d2fe60f8a38f7b052c44a9970",
+    "6b7de48ae519e77965c491dab727282c",
+    "6d1a2f4237513cd2e57947d1750c0e0e",
+    "79205e37d6a28fb64167663b2953fb5c",
+    "8a6d686d848aab6023e66da197f27bef",
+    "907295687df1c86fbbfe19cbd359e7a5",
+    "a094a8968dd4a4ce0251d9f6db9927fa",
+    "b543c5a293548dc088a6835d186f9804",
+    "c2c6f870490dfc95055ed5c36de470dc",
+    "c7b6bf341ff2270b4da331ca6eb6f6ef",
+    "cf7da7b5fb57586a6a4aa84076a20ffd",
+    "dfda36b2248c4a238cf434fb6033bc7d"
+   ],
+   "bvbrc_md5_matching_a_bdbv_type_variant": []
+  },
+  "SUDV": {
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186540)&limit(50000)&http_accept=application/json",
+   "n_features_total": 5421,
+   "n_vp24_features": 388,
+   "n_distinct_accessions": 140,
+   "distinct_aa_sequence_md5": [
+    "22445b7a69099906109c8cf1b1fd9f0c",
+    "2db9de7506b69a999d0aba2c93184595",
+    "94f0baa9ee5fd0d6389f61b39523694d",
+    "ab98df87ce1c5f5e65c733e90228f503",
+    "e5d5c6c65f0fe69c69b1c8e06148ecb8"
+   ],
+   "example_accessions": [
+    "AY729654",
+    "EU338380",
+    "FJ968794",
+    "KC242783",
+    "KC589025",
+    "KR063670",
+    "KT750754",
+    "KT878488",
+    "KU182912",
+    "KY425631"
+   ],
+   "md5_of_known_reference_vp24": [
+    "22445b7a69099906109c8cf1b1fd9f0c",
+    "2db9de7506b69a999d0aba2c93184595",
+    "94f0baa9ee5fd0d6389f61b39523694d",
+    "ab98df87ce1c5f5e65c733e90228f503"
+   ],
+   "md5_of_reference_with_bdbv_type_at_all_four": [
+    "3d2da8dedeea1297bda551cfb5959f36",
+    "8f8bcc73a5a678e66703659a93435c31",
+    "9199bad93b661fe826e06b23669bdad5",
+    "af8cb3e9e9033ee33ad3e5ddeae122f8"
+   ],
+   "bvbrc_md5_matching_a_bdbv_type_variant": []
+  },
+  "RESTV": {
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186539)&limit(50000)&http_accept=application/json",
+   "n_features_total": 907,
+   "n_vp24_features": 80,
+   "n_distinct_accessions": 19,
+   "distinct_aa_sequence_md5": [
+    "164b06034e29f66924acd9917f94e729",
+    "3fb54fd8535469e878e3bd8ad9d14c4a",
+    "51539de4cf6556eb55ece4bb33a65c6e",
+    "ad38dcce6250e1bf5268823e158f2fe6",
+    "e92a84ba6da7a680e83e964278a941b4",
+    "f42fb69017e4d2298dc5bb6836e145d0"
+   ],
+   "example_accessions": [
+    "AF522874",
+    "AY769362",
+    "JX477165",
+    "JX477166",
+    "KY008770",
+    "KY798004",
+    "KY798005",
+    "KY798006",
+    "KY798007",
+    "KY798008"
+   ],
+   "md5_of_known_reference_vp24": [
+    "164b06034e29f66924acd9917f94e729",
+    "51539de4cf6556eb55ece4bb33a65c6e",
+    "ad38dcce6250e1bf5268823e158f2fe6",
+    "e92a84ba6da7a680e83e964278a941b4",
+    "f42fb69017e4d2298dc5bb6836e145d0"
+   ],
+   "md5_of_reference_with_bdbv_type_at_all_four": [
+    "03d494c3d9912e77464cede28d9fb0a1",
+    "21bff6002cff8f5b969e021e5e777e71",
+    "2c69aeb4455f5e7163e310dbeeb2f56a",
+    "556dd5bfbd68bd38659e3ca2f2915f18",
+    "9e8541f8443da092dc623f460f15b52f"
+   ],
+   "bvbrc_md5_matching_a_bdbv_type_variant": []
+  },
+  "TAFV": {
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,186541)&limit(50000)&http_accept=application/json",
+   "n_features_total": 335,
+   "n_vp24_features": 33,
+   "n_distinct_accessions": 4,
+   "distinct_aa_sequence_md5": [
+    "06d2b6d630dc9c0b45a387a4f4cab31f",
+    "7e78a42ebf502c5cac876aab57eb9d98"
+   ],
+   "example_accessions": [
+    "FJ217162",
+    "KU182910",
+    "MH121167",
+    "NC_014372"
+   ],
+   "md5_of_known_reference_vp24": [
+    "06d2b6d630dc9c0b45a387a4f4cab31f"
+   ],
+   "md5_of_reference_with_bdbv_type_at_all_four": [
+    "df3b66051af48d28bf8799e06aa30f91"
+   ],
+   "bvbrc_md5_matching_a_bdbv_type_variant": []
+  },
+  "BOMV": {
+   "url": "https://www.bv-brc.org/api/genome_feature/?eq(taxon_id,2010960)&limit(50000)&http_accept=application/json",
+   "n_features_total": 451,
+   "n_vp24_features": 40,
+   "n_distinct_accessions": 7,
+   "distinct_aa_sequence_md5": [
+    "06b9ccc372cd1d1c6c0c01c64a189415",
+    "7026400fc3883a4be660ea80ac060814",
+    "b48586538d9b98e794a201e9ee33c65b"
+   ],
+   "example_accessions": [
+    "MF319185",
+    "MF319186",
+    "MK340750",
+    "MW056492",
+    "MW056493",
+    "NC_039345",
+    "ON871047"
+   ],
+   "md5_of_known_reference_vp24": [
+    "7026400fc3883a4be660ea80ac060814",
+    "b48586538d9b98e794a201e9ee33c65b"
+   ],
+   "md5_of_reference_with_bdbv_type_at_all_four": [
+    "6110da09689281e9f88162e812dca721"
+   ],
+   "bvbrc_md5_matching_a_bdbv_type_variant": []
+  }
+ }
+}

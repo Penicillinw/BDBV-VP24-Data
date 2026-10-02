@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite both the manuscript and this repository."
+title: "Analysis data for: Bundibugyo virus carries a genus-exclusive four-position VP24 configuration that orders cell-type interferon restriction"
+abstract: >-
+  Source data for every figure, primary sequence and structural evidence,
+  host reference tables, external dataset registrations, and the analysis
+  code that generates every number reported in the associated manuscript.
+  Third-party raw data are not redistributed; they are identified by
+  repository accession and retrieval date.
+type: dataset
+authors:
+  - family-names: Huang
+    given-names: Wenhao
+    affiliation: "Nanning No.3 High School, Nanning, Guangxi, China"
+version: 1.0.0
+date-released: 2026-10-02
+license: CC-BY-4.0
+keywords:
+  - Bundibugyo virus
+  - VP24
+  - importin-alpha
+  - interferon
+  - interferon-stimulated genes
+  - cell-type restriction
+  - sequence conservation
+  - Orthoebolavirus

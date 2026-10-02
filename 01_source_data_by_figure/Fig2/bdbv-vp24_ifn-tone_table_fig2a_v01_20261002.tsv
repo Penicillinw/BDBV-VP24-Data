@@ -1,0 +1,155 @@
+panel	rank	cell_type	delta_restriction	set_membership	coverage_limited
+Fig2a	1	extravillous trophoblasts	1.774327069093413	other	False
+Fig2a	2	pdcs	1.4139787601437532	other	False
+Fig2a	3	esophageal apical cells	1.3885489011706815	other	False
+Fig2a	4	plasma cells	1.3706695036705003	other	False
+Fig2a	5	enterocytes	1.283708611085192	amplification	False
+Fig2a	6	neutrophils	1.2004328685160923	other	False
+Fig2a	7	urothelial cells	1.1309346008112953	amplification	True
+Fig2a	8	hofbauer cells	1.0186025106908345	other	False
+Fig2a	9	kupffer cells	1.014404704380472	amplification	False
+Fig2a	10	monocytes	1.0018407175609303	amplification	False
+Fig2a	11	macrophages	0.9482211871831948	amplification	False
+Fig2a	12	prostatic club cells	0.8258457249283633	other	False
+Fig2a	13	b-cells	0.7781334249394501	other	False
+Fig2a	14	microglia	0.7595077062580641	amplification	False
+Fig2a	15	migrating cytotrophoblasts	0.7587294458759309	other	False
+Fig2a	16	vascular endothelial cells	0.7253195051956713	amplification	False
+Fig2a	17	pancreatic duct cells	0.7085084088453776	other	False
+Fig2a	18	epididymal basal cells	0.7053080330230151	other	False
+Fig2a	19	fallopian secretory cells	0.7030532022163726	other	False
+Fig2a	20	colonocytes	0.6965167631190908	amplification	False
+Fig2a	21	epididymal efferent duct ciliated cells	0.6892458167533638	amplification	False
+Fig2a	22	cdc	0.6358376400546567	other	False
+Fig2a	23	goblet cells	0.6336416705094098	other	False
+Fig2a	24	salivary duct cells	0.6151801860089433	other	False
+Fig2a	25	fallopian tube ciliated cells	0.597400549521236	other	False
+Fig2a	26	prostatic hillock cells	0.5758727694518676	other	False
+Fig2a	27	granulosa cells	0.5723731226433546	other	False
+Fig2a	28	respiratory ciliated cells	0.572022113310915	amplification	False
+Fig2a	29	ocular epithelial cells	0.5707320441378415	amplification	False
+Fig2a	30	foveolar cells	0.5287229804669804	other	False
+Fig2a	31	t-cells	0.524545614384698	other	False
+Fig2a	32	thymocytes	0.5196866741044147	other	False
+Fig2a	33	epididymal efferent duct absorptive cells	0.4929749163415373	other	False
+Fig2a	34	hepatocytes	0.46690448673783624	amplification	False
+Fig2a	35	alveolar cells type 1	0.46394438715764547	other	False
+Fig2a	36	esophageal suprabasal cells	0.42103647312720366	other	False
+Fig2a	37	epididymal principal cells	0.4202373786999463	other	False
+Fig2a	38	submucosal glandular cells	0.4154324165978613	other	False
+Fig2a	39	respiratory secretory cells	0.39648665571262764	other	False
+Fig2a	40	pancreatic acinar cells	0.37972183720656205	other	False
+Fig2a	41	schwann cells	0.37614050268187543	other	False
+Fig2a	42	basal prostatic cells	0.35873105928989757	other	False
+Fig2a	43	other brain neurons	0.3567518983784157	other	False
+Fig2a	44	gastric progenitor cells	0.3323416053854063	other	False
+Fig2a	45	lacrimal acinar cells	0.3106723564976363	other	False
+Fig2a	46	esophageal basal cells	0.28932239368335066	other	False
+Fig2a	47	nk-cells	0.2747523226366519	other	False
+Fig2a	48	salivary acinar cells	0.2705182628119153	other	False
+Fig2a	49	brain inhibitory neurons	0.24830043773671737	other	False
+Fig2a	50	salivary ionocytes	0.24693701517894492	other	False
+Fig2a	51	paneth cells	0.2421811271191973	other	False
+Fig2a	52	pericytes	0.24039918187271206	other	False
+Fig2a	53	endometrial secretory cells	0.23633111676878607	other	False
+Fig2a	54	decidual stromal cells	0.22087701318342554	other	False
+Fig2a	55	innate lymphoid cells	0.21948165266438113	other	False
+Fig2a	56	mucous neck cells	0.2149118327279759	other	False
+Fig2a	57	endometrial glandular cells	0.20223231043421344	other	False
+Fig2a	58	parietal cells	0.19939617059500955	other	False
+Fig2a	59	gastric chief cells	0.19309378364679966	other	False
+Fig2a	60	ovarian stromal cells	0.1909144451534881	other	False
+Fig2a	61	ependymal cells	0.19030534952240838	other	False
+Fig2a	62	lymphatic endothelial cells	0.18692794808558313	other	False
+Fig2a	63	pancreatic islet cells	0.15531551366619178	other	False
+Fig2a	64	brain excitatory neurons	0.1487606390041977	other	False
+Fig2a	65	prostatic glandular cells	0.14065809568509066	other	False
+Fig2a	66	oligodendrocyte progenitor cells	0.1320282627950433	other	False
+Fig2a	67	suprabasal keratinocytes	0.12858178306934956	other	False
+Fig2a	68	breast secretory cells	0.12847672853289302	other	False
+Fig2a	69	epididymal clear cells	0.12498766566224728	other	False
+Fig2a	70	enteric transient amplifying cells	0.12352826445902472	other	False
+Fig2a	71	breast myoepithelial cells	0.11901508669408219	other	False
+Fig2a	72	syncytiotrophoblasts	0.10572549324189766	other	False
+Fig2a	73	fibroblasts	0.10386309342483842	other	False
+Fig2a	74	transitional alveolar cells	0.09720165207810065	other	False
+Fig2a	75	conjunctival goblet cells	0.09608526993967563	other	False
+Fig2a	76	cholangiocytes	0.07428179980507389	other	False
+Fig2a	77	endometrial ciliated cells	0.06736921255443772	other	False
+Fig2a	78	respiratory basal cells	0.06694899541305406	other	False
+Fig2a	79	cytotrophoblasts	0.06073994005244628	other	False
+Fig2a	80	endometrial luminal cells	0.03953909568013825	other	False
+Fig2a	81	tuft cells	0.03402448454815358	other	False
+Fig2a	82	mesothelial cells	0.028007979039375176	other	False
+Fig2a	83	salivary basal cells	0.02468950438716727	other	False
+Fig2a	84	basal keratinocytes	0.016031102305185035	other	False
+Fig2a	85	neuroendocrine cells	0.003341441736985492	other	False
+Fig2a	86	melanocytes	-0.001949988733687268	other	False
+Fig2a	87	enteric stem cells	-0.014641036866549642	other	False
+Fig2a	88	astrocytes	-0.018431544209654704	other	False
+Fig2a	89	somatotrophs	-0.047502204156559126	other	False
+Fig2a	90	monocyte progenitors	-0.05819102350851546	other	False
+Fig2a	91	salivary myoepithelial cells	-0.062294791053709976	other	False
+Fig2a	92	alveolar cells type 2	-0.06798349347559068	other	False
+Fig2a	93	peritubular myoid cells	-0.06952607915333907	other	False
+Fig2a	94	choroid plexus epithelial cells	-0.0800387291068354	sanctuary	True
+Fig2a	95	breast lactating cells	-0.08075637132930052	other	False
+Fig2a	96	papillary tip epithelial cells	-0.08940853677982795	other	False
+Fig2a	97	vascular smooth muscle cells	-0.09055465003887449	other	False
+Fig2a	98	mast cells	-0.1035310790734263	other	False
+Fig2a	99	neutrophil progenitors	-0.11148074830859617	other	False
+Fig2a	100	renal collecting duct principal cells	-0.12030325903258743	other	False
+Fig2a	101	pituicytes/fscs	-0.13245763089168536	other	False
+Fig2a	102	medullary thymic epithelial cells	-0.19389592960514215	other	False
+Fig2a	103	corticotrophs	-0.2172757858845943	other	False
+Fig2a	104	breast hormone-responsive cells	-0.2176180384328391	other	False
+Fig2a	105	gonadotrophs	-0.22726791486015716	other	False
+Fig2a	106	oligodendrocytes	-0.23241886513959706	other	False
+Fig2a	107	respiratory deuterosomal cells	-0.25606030135491675	other	False
+Fig2a	108	endometrial stromal cells	-0.2609582810626024	other	False
+Fig2a	109	lactotrophs	-0.2763306516503257	other	False
+Fig2a	110	renal collecting duct intercalated cells	-0.3092109493342617	other	False
+Fig2a	111	müller glia	-0.312128609643828	other	False
+Fig2a	112	thyrotrophs	-0.314347129548659	other	False
+Fig2a	113	respiratory ionocytes	-0.33011074326942674	other	False
+Fig2a	114	leydig cells	-0.35596651660119544	sanctuary	False
+Fig2a	115	podocytes	-0.35973437576443484	other	False
+Fig2a	116	smooth muscle cells	-0.37224580665519746	other	False
+Fig2a	117	pituitary stem cells	-0.42868794532634147	other	False
+Fig2a	118	loop of henle epithelial cells	-0.4550351769809819	other	False
+Fig2a	119	renal connecting tubule cells	-0.47887765633070817	other	False
+Fig2a	120	bergmann glia	-0.5343004763659857	other	False
+Fig2a	121	distal convoluted tubule cells	-0.5620424866789324	other	False
+Fig2a	122	hepatic stellate cells	-0.5728060846213252	other	False
+Fig2a	123	undifferentiated spermatogonia	-0.6236066640927691	other	False
+Fig2a	124	retinal amacrine cells	-0.6418075954020992	other	False
+Fig2a	125	myosatellite cells	-0.6418671698834643	other	False
+Fig2a	126	epicardial cells	-0.6425857903809631	other	False
+Fig2a	127	hematopoietic stem cells	-0.6522252068257759	other	False
+Fig2a	128	proximal tubule cells	-0.6551147720743185	other	False
+Fig2a	129	sertoli cells	-0.6768722177761943	sanctuary	False
+Fig2a	130	late spermatids	-0.7088586983215253	other	False
+Fig2a	131	myonuclei	-0.7099324320623333	other	False
+Fig2a	132	retinal bipolar cells	-0.7437768961469465	other	False
+Fig2a	133	early spermatids	-0.7901751642409668	other	False
+Fig2a	134	differentiating spermatogonia	-0.7943535163432704	other	False
+Fig2a	135	megakaryocyte progenitors	-0.8222954795900049	other	False
+Fig2a	136	fibro-adipogenic progenitors	-0.8304414721405772	other	False
+Fig2a	137	megakaryocytes	-0.8654507286423776	other	False
+Fig2a	138	adrenal cortex cells	-0.8898910484449246	other	False
+Fig2a	139	megakaryocyte-erythroid progenitors	-0.9184204228504799	other	False
+Fig2a	140	retinal horizontal cells	-0.9250602038002714	other	False
+Fig2a	141	oocytes	-0.9300464370054528	other	False
+Fig2a	142	rod photoreceptor cells	-0.9999470539105273	sanctuary	False
+Fig2a	143	retinal pigment epithelial cells	-1.0245655711730601	sanctuary	False
+Fig2a	144	erythrocyte progenitors	-1.037383626736336	other	False
+Fig2a	145	adrenal medulla cells	-1.0480516980313148	other	False
+Fig2a	146	platelets	-1.0528679775117205	other	False
+Fig2a	147	cardiomyocytes	-1.055060650434859	other	False
+Fig2a	148	late primary spermatocytes	-1.1149663478079146	other	False
+Fig2a	149	adipocytes	-1.1311597146385028	other	False
+Fig2a	150	early primary spermatocytes	-1.179305873361031	other	False
+Fig2a	151	cone photoreceptor cells	-1.2095437615131186	other	False
+Fig2a	152	thymic myoid cells	-1.2599478233991523	other	False
+Fig2a	153	retinal ganglion cells	-1.2905871252672851	other	False
+Fig2a	154	erythrocytes	-2.0367722408262794	other	False

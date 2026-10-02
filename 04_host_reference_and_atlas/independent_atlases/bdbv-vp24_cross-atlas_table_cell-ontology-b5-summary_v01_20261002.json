@@ -1,0 +1,49 @@
+{
+ "n_hpa_types": 97,
+ "n_testable_hpa_types": 79,
+ "n_pairs_hierarchy_floor50": 162,
+ "n_atlases_with_pairs": 18,
+ "n_g9_replay_pairs": 28,
+ "compartment_coverage": {
+  "urothelial": {
+   "atlases_with_any_cells": 0,
+   "atlases_with_ge50_cells": 0,
+   "total_cells_all_atlases": 0
+  },
+  "airway / lower respiratory epithelium": {
+   "atlases_with_any_cells": 1,
+   "atlases_with_ge50_cells": 1,
+   "total_cells_all_atlases": 7219
+  },
+  "myeloid": {
+   "atlases_with_any_cells": 14,
+   "atlases_with_ge50_cells": 14,
+   "total_cells_all_atlases": 225498
+  },
+  "retinal pigment epithelium": {
+   "atlases_with_any_cells": 0,
+   "atlases_with_ge50_cells": 0,
+   "total_cells_all_atlases": 0
+  },
+  "photoreceptors": {
+   "atlases_with_any_cells": 0,
+   "atlases_with_ge50_cells": 0,
+   "total_cells_all_atlases": 0
+  },
+  "Sertoli": {
+   "atlases_with_any_cells": 0,
+   "atlases_with_ge50_cells": 0,
+   "total_cells_all_atlases": 0
+  },
+  "Leydig": {
+   "atlases_with_any_cells": 1,
+   "atlases_with_ge50_cells": 0,
+   "total_cells_all_atlases": 10
+  },
+  "choroid plexus": {
+   "atlases_with_any_cells": 0,
+   "atlases_with_ge50_cells": 0,
+   "total_cells_all_atlases": 0
+  }
+ }
+}

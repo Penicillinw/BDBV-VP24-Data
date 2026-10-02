@@ -1,0 +1,5 @@
+panel	cohort	phase	spread_across_donors_log2	source_field
+FigS1d	GSE327707	before_ifn	4.706600000000001	computed from sample_scores.tsv
+FigS1d	GSE327707	after_ifn	0.7788999999999984	computed from sample_scores.tsv
+FigS1d	GSE306664	before_ifn	2.413	ceiling_check_ifna.Monocyte.baseline_range
+FigS1d	GSE306664	after_ifn	0.363	ceiling_check_ifna.Monocyte.post_ifn_range

@@ -1,0 +1,1873 @@
+accession	description	length	full_length	alignment_gap_columns	pos83	pos135	pos140	pos141	pos184	pos217	four_position_config	species
+QYU59251.1	QYU59251.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QYU59242.1	QYU59242.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49699.1	QNC49699.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49690.1	QNC49690.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49681.1	QNC49681.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49672.1	QNC49672.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49663.1	QNC49663.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49654.1	QNC49654.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49645.1	QNC49645.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49636.1	QNC49636.1 membrane-associated protein, partial [Bundibugyo virus]	95	False	156	S	?	?	?	?	?	S???	BDBV
+QNC49627.1	QNC49627.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49618.1	QNC49618.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49609.1	QNC49609.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49600.1	QNC49600.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49591.1	QNC49591.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49582.1	QNC49582.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49573.1	QNC49573.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49564.1	QNC49564.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49555.1	QNC49555.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49546.1	QNC49546.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+QNC49537.1	QNC49537.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AYI50386.1	AYI50386.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AYI50320.1	AYI50320.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AYI50311.1	AYI50311.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+YP_003815439.1	YP_003815439.1 membrane-associated protein [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+ALT19774.1	ALT19774.1 membrane-associated protein VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AKB09567.1	AKB09567.1 membrane-associated protein VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AGL73476.1	AGL73476.1 VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AGL73469.1	AGL73469.1 VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AGL73462.1	AGL73462.1 VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+AGL73455.1	AGL73455.1 VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+ACI28626.1	ACI28626.1 VP24 [Bundibugyo virus]	251	True	0	S	Q	H	A	R	V	SQHA	BDBV
+pdb|8Y9J|D	pdb|8Y9J|D Chain D, Membrane-associated protein VP24	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+pdb|8Y9J|C	pdb|8Y9J|C Chain C, Membrane-associated protein VP24	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+pdb|8Y9J|B	pdb|8Y9J|B Chain B, Nucleoprotein	739	False	12	E	L	R	G	A	G	ELRG	EBOV
+pdb|8Y9J|A	pdb|8Y9J|A Chain A, Nucleoprotein	739	False	12	E	L	R	G	A	G	ELRG	EBOV
+WWV93304.1	WWV93304.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93295.1	WWV93295.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93286.1	WWV93286.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93277.1	WWV93277.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93268.1	WWV93268.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93259.1	WWV93259.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93250.1	WWV93250.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93241.1	WWV93241.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93232.1	WWV93232.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93223.1	WWV93223.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93214.1	WWV93214.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93205.1	WWV93205.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93196.1	WWV93196.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93187.1	WWV93187.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93178.1	WWV93178.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93169.1	WWV93169.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93160.1	WWV93160.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93151.1	WWV93151.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93142.1	WWV93142.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93133.1	WWV93133.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93124.1	WWV93124.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93115.1	WWV93115.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93106.1	WWV93106.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93097.1	WWV93097.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93088.1	WWV93088.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93079.1	WWV93079.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93070.1	WWV93070.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93061.1	WWV93061.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93052.1	WWV93052.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93043.1	WWV93043.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93034.1	WWV93034.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93025.1	WWV93025.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93016.1	WWV93016.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV93007.1	WWV93007.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92998.1	WWV92998.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92989.1	WWV92989.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92980.1	WWV92980.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92971.1	WWV92971.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92962.1	WWV92962.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92953.1	WWV92953.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92944.1	WWV92944.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92935.1	WWV92935.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92926.1	WWV92926.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92917.1	WWV92917.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92908.1	WWV92908.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92899.1	WWV92899.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92890.1	WWV92890.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92881.1	WWV92881.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92872.1	WWV92872.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92863.1	WWV92863.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92854.1	WWV92854.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92845.1	WWV92845.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92836.1	WWV92836.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92827.1	WWV92827.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92818.1	WWV92818.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92809.1	WWV92809.1 VP24, partial [Zaire ebolavirus]	244	False	7	P	X	X	X	Q	A	PXXX	EBOV
+WWV92800.1	WWV92800.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92791.1	WWV92791.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92782.1	WWV92782.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92773.1	WWV92773.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92764.1	WWV92764.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92755.1	WWV92755.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92746.1	WWV92746.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92737.1	WWV92737.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92728.1	WWV92728.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92719.1	WWV92719.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92710.1	WWV92710.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92701.1	WWV92701.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92692.1	WWV92692.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92683.1	WWV92683.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92674.1	WWV92674.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92665.1	WWV92665.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92656.1	WWV92656.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92647.1	WWV92647.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92638.1	WWV92638.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92629.1	WWV92629.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92620.1	WWV92620.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92611.1	WWV92611.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92602.1	WWV92602.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92593.1	WWV92593.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92584.1	WWV92584.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92575.1	WWV92575.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92566.1	WWV92566.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92557.1	WWV92557.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92548.1	WWV92548.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92539.1	WWV92539.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WWV92530.1	WWV92530.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+pdb|4M0Q|B	pdb|4M0Q|B Chain B, Membrane-associated protein VP24	230	False	21	P	N	R	V	Q	A	PNRV	EBOV
+pdb|4M0Q|A	pdb|4M0Q|A Chain A, Membrane-associated protein VP24	230	False	21	P	N	R	V	Q	A	PNRV	EBOV
+WGW16109.1	WGW16109.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGW16100.1	WGW16100.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGW16093.1	WGW16093.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGW16085.1	WGW16085.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGW16078.1	WGW16078.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39865.1	WGV39865.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39856.1	WGV39856.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39847.1	WGV39847.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39838.1	WGV39838.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39829.1	WGV39829.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39820.1	WGV39820.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39811.1	WGV39811.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39802.1	WGV39802.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39793.1	WGV39793.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39784.1	WGV39784.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39775.1	WGV39775.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39766.1	WGV39766.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39757.1	WGV39757.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39748.1	WGV39748.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39739.1	WGV39739.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39730.1	WGV39730.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39721.1	WGV39721.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39712.1	WGV39712.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39703.1	WGV39703.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39694.1	WGV39694.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39685.1	WGV39685.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39676.1	WGV39676.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WGV39667.1	WGV39667.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02129.1	ALG02129.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02120.1	ALG02120.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02111.1	ALG02111.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02102.1	ALG02102.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02093.1	ALG02093.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+ALG02084.1	ALG02084.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02075.1	ALG02075.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02066.1	ALG02066.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02057.1	ALG02057.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02048.1	ALG02048.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02039.1	ALG02039.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02030.1	ALG02030.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02021.1	ALG02021.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02012.1	ALG02012.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG02003.1	ALG02003.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01994.1	ALG01994.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01985.1	ALG01985.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01976.1	ALG01976.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01967.1	ALG01967.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01958.1	ALG01958.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01949.1	ALG01949.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01940.1	ALG01940.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01931.1	ALG01931.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01922.1	ALG01922.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01913.1	ALG01913.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01904.1	ALG01904.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01895.1	ALG01895.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01886.1	ALG01886.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01877.1	ALG01877.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01868.1	ALG01868.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01859.1	ALG01859.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01850.1	ALG01850.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01841.1	ALG01841.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01832.1	ALG01832.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01823.1	ALG01823.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01814.1	ALG01814.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01805.1	ALG01805.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01796.1	ALG01796.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01787.1	ALG01787.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01778.1	ALG01778.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01769.1	ALG01769.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01760.1	ALG01760.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01751.1	ALG01751.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01742.1	ALG01742.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01733.1	ALG01733.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01724.1	ALG01724.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01715.1	ALG01715.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01706.1	ALG01706.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+ALG01697.1	ALG01697.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+ALG01688.1	ALG01688.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01679.1	ALG01679.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01670.1	ALG01670.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01661.1	ALG01661.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01652.1	ALG01652.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01643.1	ALG01643.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01634.1	ALG01634.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01625.1	ALG01625.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01616.1	ALG01616.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01607.1	ALG01607.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01598.1	ALG01598.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01589.1	ALG01589.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01580.1	ALG01580.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01571.1	ALG01571.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01562.1	ALG01562.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01553.1	ALG01553.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01544.1	ALG01544.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01535.1	ALG01535.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01526.1	ALG01526.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01517.1	ALG01517.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01508.1	ALG01508.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01499.1	ALG01499.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01490.1	ALG01490.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01481.1	ALG01481.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+ALG01472.1	ALG01472.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01463.1	ALG01463.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01454.1	ALG01454.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01445.1	ALG01445.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01436.1	ALG01436.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01427.1	ALG01427.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01418.1	ALG01418.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01409.1	ALG01409.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01400.1	ALG01400.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01391.1	ALG01391.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01382.1	ALG01382.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01373.1	ALG01373.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01364.1	ALG01364.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01355.1	ALG01355.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01346.1	ALG01346.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01337.1	ALG01337.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01328.1	ALG01328.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01319.1	ALG01319.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01310.1	ALG01310.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01301.1	ALG01301.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01292.1	ALG01292.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01283.1	ALG01283.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01274.1	ALG01274.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01265.1	ALG01265.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01256.1	ALG01256.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01247.1	ALG01247.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01238.1	ALG01238.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01229.1	ALG01229.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01220.1	ALG01220.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01211.1	ALG01211.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01202.1	ALG01202.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01193.1	ALG01193.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01184.1	ALG01184.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01175.1	ALG01175.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01166.1	ALG01166.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01157.1	ALG01157.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01148.1	ALG01148.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01139.1	ALG01139.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01130.1	ALG01130.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01121.1	ALG01121.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01112.1	ALG01112.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01103.1	ALG01103.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01094.1	ALG01094.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01085.1	ALG01085.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01076.1	ALG01076.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01067.1	ALG01067.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01058.1	ALG01058.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01049.1	ALG01049.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+ALG01040.1	ALG01040.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01031.1	ALG01031.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01022.1	ALG01022.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01013.1	ALG01013.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG01004.1	ALG01004.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00995.1	ALG00995.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00986.1	ALG00986.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00977.1	ALG00977.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00968.1	ALG00968.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00959.1	ALG00959.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00950.1	ALG00950.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00941.1	ALG00941.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00932.1	ALG00932.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00923.1	ALG00923.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00914.1	ALG00914.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00905.1	ALG00905.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00896.1	ALG00896.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00887.1	ALG00887.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALG00878.1	ALG00878.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WDG39738.1	WDG39738.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WDG39729.1	WDG39729.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WDG39720.1	WDG39720.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+WDG39711.1	WDG39711.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+UAL49942.1	UAL49942.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+UAL49933.1	UAL49933.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+UAL49924.1	UAL49924.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+UAL49915.1	UAL49915.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QMS54675.1	QMS54675.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QMS54666.1	QMS54666.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QXV44996.1	QXV44996.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QXV44988.1	QXV44988.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21766.1	QWX21766.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21757.1	QWX21757.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21748.1	QWX21748.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21739.1	QWX21739.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21730.1	QWX21730.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21721.1	QWX21721.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21712.1	QWX21712.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21703.1	QWX21703.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21694.1	QWX21694.1 membrane-associated protein, partial [Zaire ebolavirus]	193	False	58	P	N	R	V	Q	?	PNRV	EBOV
+QWX21685.1	QWX21685.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21676.1	QWX21676.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21667.1	QWX21667.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21658.1	QWX21658.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QWX21649.1	QWX21649.1 membrane-associated protein, partial [Zaire ebolavirus]	148	False	103	P	N	R	V	?	?	PNRV	EBOV
+QYU59323.1	QYU59323.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYU59314.1	QYU59314.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYU59305.1	QYU59305.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYU59296.1	QYU59296.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86877.1	QYR86877.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86868.1	QYR86868.1 VP24, partial [Zaire ebolavirus]	149	False	102	X	N	R	V	?	?	XNRV	EBOV
+QYR86859.1	QYR86859.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86850.1	QYR86850.1 VP24, partial [Zaire ebolavirus]	212	False	39	P	N	R	V	X	X	PNRV	EBOV
+QYR86841.1	QYR86841.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86832.1	QYR86832.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86823.1	QYR86823.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86814.1	QYR86814.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86805.1	QYR86805.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86796.1	QYR86796.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86787.1	QYR86787.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86778.1	QYR86778.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86769.1	QYR86769.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86760.1	QYR86760.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86751.1	QYR86751.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86742.1	QYR86742.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86733.1	QYR86733.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86724.1	QYR86724.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86715.1	QYR86715.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86706.1	QYR86706.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86697.1	QYR86697.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86688.1	QYR86688.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86679.1	QYR86679.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86670.1	QYR86670.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86661.1	QYR86661.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86652.1	QYR86652.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86643.1	QYR86643.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86634.1	QYR86634.1 VP24 [Zaire ebolavirus]	251	True	0	X	X	X	X	X	A	XXXX	EBOV
+QYR86625.1	QYR86625.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86616.1	QYR86616.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86607.1	QYR86607.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86598.1	QYR86598.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86589.1	QYR86589.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86580.1	QYR86580.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86571.1	QYR86571.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86562.1	QYR86562.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86553.1	QYR86553.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86544.1	QYR86544.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86535.1	QYR86535.1 VP24, partial [Zaire ebolavirus]	250	False	1	P	N	R	V	Q	A	PNRV	EBOV
+QYR86526.1	QYR86526.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86517.1	QYR86517.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86508.1	QYR86508.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86499.1	QYR86499.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86490.1	QYR86490.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86481.1	QYR86481.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86472.1	QYR86472.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86463.1	QYR86463.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86454.1	QYR86454.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86445.1	QYR86445.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86436.1	QYR86436.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86427.1	QYR86427.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86418.1	QYR86418.1 VP24, partial [Zaire ebolavirus]	250	False	1	P	N	R	V	Q	A	PNRV	EBOV
+QYR86409.1	QYR86409.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86400.1	QYR86400.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86391.1	QYR86391.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86382.1	QYR86382.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86373.1	QYR86373.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86364.1	QYR86364.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86355.1	QYR86355.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86346.1	QYR86346.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86337.1	QYR86337.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86328.1	QYR86328.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86319.1	QYR86319.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86310.1	QYR86310.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86301.1	QYR86301.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86292.1	QYR86292.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86283.1	QYR86283.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86274.1	QYR86274.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86265.1	QYR86265.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86256.1	QYR86256.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86238.1	QYR86238.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86229.1	QYR86229.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86220.1	QYR86220.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86211.1	QYR86211.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86202.1	QYR86202.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86193.1	QYR86193.1 VP24, partial [Zaire ebolavirus]	231	False	20	P	N	R	V	Q	A	PNRV	EBOV
+QYR86184.1	QYR86184.1 VP24, partial [Zaire ebolavirus]	205	False	46	P	N	R	V	X	A	PNRV	EBOV
+QYR86175.1	QYR86175.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86166.1	QYR86166.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86157.1	QYR86157.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86148.1	QYR86148.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86139.1	QYR86139.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86130.1	QYR86130.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86121.1	QYR86121.1 VP24, partial [Zaire ebolavirus]	220	False	31	X	N	R	V	Q	A	XNRV	EBOV
+QYR86112.1	QYR86112.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86103.1	QYR86103.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86094.1	QYR86094.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86085.1	QYR86085.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86076.1	QYR86076.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86067.1	QYR86067.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86058.1	QYR86058.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86049.1	QYR86049.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86040.1	QYR86040.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86031.1	QYR86031.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86022.1	QYR86022.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86013.1	QYR86013.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR86004.1	QYR86004.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85995.1	QYR85995.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85986.1	QYR85986.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85977.1	QYR85977.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85968.1	QYR85968.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85959.1	QYR85959.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85950.1	QYR85950.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85941.1	QYR85941.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85932.1	QYR85932.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85923.1	QYR85923.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85914.1	QYR85914.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85905.1	QYR85905.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85896.1	QYR85896.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85887.1	QYR85887.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85878.1	QYR85878.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85869.1	QYR85869.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85860.1	QYR85860.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85851.1	QYR85851.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85842.1	QYR85842.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85833.1	QYR85833.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85824.1	QYR85824.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85815.1	QYR85815.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85806.1	QYR85806.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85797.1	QYR85797.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85788.1	QYR85788.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85779.1	QYR85779.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85770.1	QYR85770.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85761.1	QYR85761.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85752.1	QYR85752.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85743.1	QYR85743.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85734.1	QYR85734.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85725.1	QYR85725.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85716.1	QYR85716.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85707.1	QYR85707.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85698.1	QYR85698.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85689.1	QYR85689.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85680.1	QYR85680.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85671.1	QYR85671.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85662.1	QYR85662.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85653.1	QYR85653.1 VP24, partial [Zaire ebolavirus]	235	False	16	P	N	R	V	X	A	PNRV	EBOV
+QYR85644.1	QYR85644.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85635.1	QYR85635.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85626.1	QYR85626.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85617.1	QYR85617.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85608.1	QYR85608.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85599.1	QYR85599.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85590.1	QYR85590.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85581.1	QYR85581.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85572.1	QYR85572.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85563.1	QYR85563.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85545.1	QYR85545.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85536.1	QYR85536.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85527.1	QYR85527.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85518.1	QYR85518.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85509.1	QYR85509.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85500.1	QYR85500.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85491.1	QYR85491.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85482.1	QYR85482.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85473.1	QYR85473.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85464.1	QYR85464.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85455.1	QYR85455.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85446.1	QYR85446.1 VP24, partial [Zaire ebolavirus]	250	False	1	P	X	X	X	Q	A	PXXX	EBOV
+QYR85437.1	QYR85437.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85428.1	QYR85428.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85419.1	QYR85419.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85410.1	QYR85410.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85401.1	QYR85401.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85392.1	QYR85392.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85383.1	QYR85383.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85374.1	QYR85374.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85365.1	QYR85365.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85356.1	QYR85356.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85347.1	QYR85347.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85338.1	QYR85338.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85329.1	QYR85329.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85320.1	QYR85320.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85311.1	QYR85311.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85302.1	QYR85302.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85293.1	QYR85293.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85284.1	QYR85284.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85275.1	QYR85275.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85266.1	QYR85266.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85257.1	QYR85257.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85248.1	QYR85248.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85239.1	QYR85239.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85230.1	QYR85230.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85221.1	QYR85221.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85212.1	QYR85212.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85203.1	QYR85203.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85194.1	QYR85194.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85185.1	QYR85185.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85176.1	QYR85176.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85167.1	QYR85167.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QYR85149.1	QYR85149.1 VP24, partial [Zaire ebolavirus]	250	False	1	P	N	R	V	Q	A	PNRV	EBOV
+QUJ10641.1	QUJ10641.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QUJ10632.1	QUJ10632.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QUJ10623.1	QUJ10623.1 VP24, partial [Zaire ebolavirus]	250	False	1	P	N	R	V	Q	A	PNRV	EBOV
+QUJ10614.1	QUJ10614.1 VP24 [Zaire ebolavirus]	251	True	0	X	N	R	V	Q	A	XNRV	EBOV
+QUJ10605.1	QUJ10605.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QUJ10595.1	QUJ10595.1 VP24 [Zaire ebolavirus]	251	True	0	P	X	X	X	X	A	PXXX	EBOV
+QTZ17676.1	QTZ17676.1 VP24, partial [Zaire ebolavirus]	202	False	49	P	X	X	X	X	X	PXXX	EBOV
+QNL29139.1	QNL29139.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29130.1	QNL29130.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29121.1	QNL29121.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29112.1	QNL29112.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29103.1	QNL29103.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29094.1	QNL29094.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29085.1	QNL29085.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29076.1	QNL29076.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29067.1	QNL29067.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29058.1	QNL29058.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29049.1	QNL29049.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29040.1	QNL29040.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29031.1	QNL29031.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29022.1	QNL29022.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29013.1	QNL29013.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL29004.1	QNL29004.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28995.1	QNL28995.1 VP24, partial [Zaire ebolavirus]	250	False	1	P	N	R	V	Q	A	PNRV	EBOV
+QNL28986.1	QNL28986.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28977.1	QNL28977.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28968.1	QNL28968.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28959.1	QNL28959.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28950.1	QNL28950.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28941.1	QNL28941.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28932.1	QNL28932.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28923.1	QNL28923.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28914.1	QNL28914.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28905.1	QNL28905.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28896.1	QNL28896.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28887.1	QNL28887.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28878.1	QNL28878.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28869.1	QNL28869.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28860.1	QNL28860.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28851.1	QNL28851.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28842.1	QNL28842.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28833.1	QNL28833.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28824.1	QNL28824.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28815.1	QNL28815.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28806.1	QNL28806.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28797.1	QNL28797.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28788.1	QNL28788.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28779.1	QNL28779.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28770.1	QNL28770.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28761.1	QNL28761.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28752.1	QNL28752.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28743.1	QNL28743.1 VP24, partial [Zaire ebolavirus]	221	False	30	X	N	R	V	Q	A	XNRV	EBOV
+QNL28734.1	QNL28734.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28725.1	QNL28725.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28716.1	QNL28716.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28707.1	QNL28707.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28698.1	QNL28698.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28689.1	QNL28689.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28680.1	QNL28680.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28671.1	QNL28671.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28662.1	QNL28662.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28653.1	QNL28653.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28644.1	QNL28644.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28635.1	QNL28635.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28626.1	QNL28626.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28617.1	QNL28617.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28608.1	QNL28608.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28599.1	QNL28599.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28590.1	QNL28590.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28581.1	QNL28581.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28572.1	QNL28572.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28563.1	QNL28563.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28554.1	QNL28554.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28545.1	QNL28545.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28536.1	QNL28536.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28527.1	QNL28527.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28518.1	QNL28518.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28509.1	QNL28509.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28500.1	QNL28500.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28491.1	QNL28491.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28482.1	QNL28482.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28473.1	QNL28473.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28464.1	QNL28464.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28455.1	QNL28455.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28446.1	QNL28446.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28437.1	QNL28437.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	X	X	PNRV	EBOV
+QNL28429.1	QNL28429.1 VP24 [Zaire ebolavirus]	251	True	0	P	X	X	X	Q	A	PXXX	EBOV
+QNL28420.1	QNL28420.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28411.1	QNL28411.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28402.1	QNL28402.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28393.1	QNL28393.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28384.1	QNL28384.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28375.1	QNL28375.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28366.1	QNL28366.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28357.1	QNL28357.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28348.1	QNL28348.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28339.1	QNL28339.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28330.1	QNL28330.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28321.1	QNL28321.1 VP24 [Zaire ebolavirus]	251	True	0	P	X	R	V	Q	A	PXRV	EBOV
+QNL28312.1	QNL28312.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28303.1	QNL28303.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28294.1	QNL28294.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28285.1	QNL28285.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28277.1	QNL28277.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28268.1	QNL28268.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28259.1	QNL28259.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28250.1	QNL28250.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28241.1	QNL28241.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28232.1	QNL28232.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28223.1	QNL28223.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28214.1	QNL28214.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28205.1	QNL28205.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28196.1	QNL28196.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28187.1	QNL28187.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28178.1	QNL28178.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28169.1	QNL28169.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28160.1	QNL28160.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28151.1	QNL28151.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28142.1	QNL28142.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28133.1	QNL28133.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28124.1	QNL28124.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28115.1	QNL28115.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28106.1	QNL28106.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28097.1	QNL28097.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28088.1	QNL28088.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28079.1	QNL28079.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28070.1	QNL28070.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28061.1	QNL28061.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28052.1	QNL28052.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28043.1	QNL28043.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28034.1	QNL28034.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28025.1	QNL28025.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28016.1	QNL28016.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL28007.1	QNL28007.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27998.1	QNL27998.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27989.1	QNL27989.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27980.1	QNL27980.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27971.1	QNL27971.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27962.1	QNL27962.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27953.1	QNL27953.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27944.1	QNL27944.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27935.1	QNL27935.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27926.1	QNL27926.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27917.1	QNL27917.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27908.1	QNL27908.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27899.1	QNL27899.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27890.1	QNL27890.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27881.1	QNL27881.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27872.1	QNL27872.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27863.1	QNL27863.1 VP24, partial [Zaire ebolavirus]	218	False	33	P	N	R	V	Q	A	PNRV	EBOV
+QNL27854.1	QNL27854.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27845.1	QNL27845.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27836.1	QNL27836.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27827.1	QNL27827.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27818.1	QNL27818.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27809.1	QNL27809.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27800.1	QNL27800.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27791.1	QNL27791.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27782.1	QNL27782.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27773.1	QNL27773.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27764.1	QNL27764.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27755.1	QNL27755.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27746.1	QNL27746.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27737.1	QNL27737.1 VP24, partial [Zaire ebolavirus]	246	False	5	P	N	X	X	X	A	PNXX	EBOV
+QNL27728.1	QNL27728.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27719.1	QNL27719.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27710.1	QNL27710.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27701.1	QNL27701.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27692.1	QNL27692.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27683.1	QNL27683.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27674.1	QNL27674.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27665.1	QNL27665.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27656.1	QNL27656.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27647.1	QNL27647.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27638.1	QNL27638.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27629.1	QNL27629.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27620.1	QNL27620.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27611.1	QNL27611.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27602.1	QNL27602.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27593.1	QNL27593.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27584.1	QNL27584.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27575.1	QNL27575.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27566.1	QNL27566.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27557.1	QNL27557.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27548.1	QNL27548.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27539.1	QNL27539.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27530.1	QNL27530.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27521.1	QNL27521.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27512.1	QNL27512.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27503.1	QNL27503.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27494.1	QNL27494.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27485.1	QNL27485.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27476.1	QNL27476.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27467.1	QNL27467.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27458.1	QNL27458.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27449.1	QNL27449.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27440.1	QNL27440.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27431.1	QNL27431.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27422.1	QNL27422.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27413.1	QNL27413.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27404.1	QNL27404.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27395.1	QNL27395.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27386.1	QNL27386.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27377.1	QNL27377.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27368.1	QNL27368.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27359.1	QNL27359.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27350.1	QNL27350.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27341.1	QNL27341.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27332.1	QNL27332.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27323.1	QNL27323.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+QNL27314.1	QNL27314.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27305.1	QNL27305.1 VP24, partial [Zaire ebolavirus]	219	False	32	P	X	X	X	X	A	PXXX	EBOV
+QNL27296.1	QNL27296.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27287.1	QNL27287.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27278.1	QNL27278.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27269.1	QNL27269.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27260.1	QNL27260.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27251.1	QNL27251.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27242.1	QNL27242.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27233.1	QNL27233.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27224.1	QNL27224.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27215.1	QNL27215.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27206.1	QNL27206.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27197.1	QNL27197.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27188.1	QNL27188.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27179.1	QNL27179.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27170.1	QNL27170.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27161.1	QNL27161.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27152.1	QNL27152.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27143.1	QNL27143.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27134.1	QNL27134.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27125.1	QNL27125.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27116.1	QNL27116.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27107.1	QNL27107.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27098.1	QNL27098.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27089.1	QNL27089.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27080.1	QNL27080.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27071.1	QNL27071.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27062.1	QNL27062.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27053.1	QNL27053.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27044.1	QNL27044.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27035.1	QNL27035.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27026.1	QNL27026.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27017.1	QNL27017.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL27008.1	QNL27008.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26999.1	QNL26999.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26990.1	QNL26990.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26981.1	QNL26981.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26972.1	QNL26972.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26963.1	QNL26963.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26954.1	QNL26954.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26945.1	QNL26945.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26936.1	QNL26936.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26927.1	QNL26927.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26918.1	QNL26918.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26909.1	QNL26909.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26900.1	QNL26900.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26891.1	QNL26891.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26882.1	QNL26882.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26873.1	QNL26873.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26864.1	QNL26864.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26855.1	QNL26855.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26846.1	QNL26846.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26837.1	QNL26837.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26828.1	QNL26828.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26819.1	QNL26819.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26810.1	QNL26810.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26801.1	QNL26801.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26792.1	QNL26792.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26783.1	QNL26783.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26774.1	QNL26774.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26765.1	QNL26765.1 VP24, partial [Zaire ebolavirus]	221	False	30	P	N	R	V	Q	A	PNRV	EBOV
+QNL26756.1	QNL26756.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26747.1	QNL26747.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26738.1	QNL26738.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26729.1	QNL26729.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26720.1	QNL26720.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26711.1	QNL26711.1 VP24 [Zaire ebolavirus]	251	True	0	X	N	R	V	Q	A	XNRV	EBOV
+QNL26702.1	QNL26702.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26693.1	QNL26693.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26684.1	QNL26684.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26675.1	QNL26675.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26666.1	QNL26666.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26657.1	QNL26657.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26648.1	QNL26648.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26639.1	QNL26639.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26630.1	QNL26630.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26621.1	QNL26621.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26612.1	QNL26612.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26603.1	QNL26603.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26594.1	QNL26594.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26585.1	QNL26585.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26576.1	QNL26576.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26567.1	QNL26567.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26558.1	QNL26558.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26549.1	QNL26549.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26540.1	QNL26540.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26531.1	QNL26531.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26522.1	QNL26522.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26513.1	QNL26513.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26504.1	QNL26504.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26495.1	QNL26495.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26486.1	QNL26486.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26477.1	QNL26477.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26468.1	QNL26468.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26459.1	QNL26459.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26450.1	QNL26450.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26441.1	QNL26441.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26432.1	QNL26432.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26423.1	QNL26423.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26414.1	QNL26414.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26405.1	QNL26405.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26396.1	QNL26396.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26387.1	QNL26387.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26378.1	QNL26378.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26369.1	QNL26369.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26360.1	QNL26360.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26351.1	QNL26351.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26342.1	QNL26342.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26333.1	QNL26333.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26324.1	QNL26324.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26315.1	QNL26315.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26306.1	QNL26306.1 VP24, partial [Zaire ebolavirus]	212	False	39	P	N	R	V	Q	A	PNRV	EBOV
+QNL26297.1	QNL26297.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26288.1	QNL26288.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26279.1	QNL26279.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26270.1	QNL26270.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26261.1	QNL26261.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26252.1	QNL26252.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+QNL26243.1	QNL26243.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26234.1	QNL26234.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26225.1	QNL26225.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26216.1	QNL26216.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26207.1	QNL26207.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26198.1	QNL26198.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26189.1	QNL26189.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26180.1	QNL26180.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26171.1	QNL26171.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26162.1	QNL26162.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26153.1	QNL26153.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26144.1	QNL26144.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26135.1	QNL26135.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26126.1	QNL26126.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26117.1	QNL26117.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26108.1	QNL26108.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26099.1	QNL26099.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26090.1	QNL26090.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26081.1	QNL26081.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26072.1	QNL26072.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26063.1	QNL26063.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26054.1	QNL26054.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26045.1	QNL26045.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26036.1	QNL26036.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26027.1	QNL26027.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26018.1	QNL26018.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26009.1	QNL26009.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL26000.1	QNL26000.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25991.1	QNL25991.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25982.1	QNL25982.1 VP24, partial [Zaire ebolavirus]	236	False	15	P	N	R	V	Q	A	PNRV	EBOV
+QNL25973.1	QNL25973.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25964.1	QNL25964.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25955.1	QNL25955.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25946.1	QNL25946.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25937.1	QNL25937.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25928.1	QNL25928.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25919.1	QNL25919.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25910.1	QNL25910.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25901.1	QNL25901.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25892.1	QNL25892.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25883.1	QNL25883.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25874.1	QNL25874.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25865.1	QNL25865.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25856.1	QNL25856.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25847.1	QNL25847.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25838.1	QNL25838.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25829.1	QNL25829.1 VP24, partial [Zaire ebolavirus]	248	False	3	P	N	R	V	Q	A	PNRV	EBOV
+QNL25820.1	QNL25820.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25811.1	QNL25811.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25802.1	QNL25802.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25793.1	QNL25793.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25784.1	QNL25784.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25775.1	QNL25775.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25766.1	QNL25766.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25757.1	QNL25757.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25748.1	QNL25748.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25739.1	QNL25739.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25730.1	QNL25730.1 VP24, partial [Zaire ebolavirus]	243	False	8	P	N	R	V	Q	A	PNRV	EBOV
+QNL25721.1	QNL25721.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25712.1	QNL25712.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25703.1	QNL25703.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25694.1	QNL25694.1 VP24, partial [Zaire ebolavirus]	236	False	15	P	N	R	V	Q	X	PNRV	EBOV
+QNL25685.1	QNL25685.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25676.1	QNL25676.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25667.1	QNL25667.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25658.1	QNL25658.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25649.1	QNL25649.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25640.1	QNL25640.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25631.1	QNL25631.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25622.1	QNL25622.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25613.1	QNL25613.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25604.1	QNL25604.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25595.1	QNL25595.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25586.1	QNL25586.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25577.1	QNL25577.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25568.1	QNL25568.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25559.1	QNL25559.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25550.1	QNL25550.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25541.1	QNL25541.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	X	A	PNRV	EBOV
+QNL25532.1	QNL25532.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25523.1	QNL25523.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25514.1	QNL25514.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25505.1	QNL25505.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25496.1	QNL25496.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25487.1	QNL25487.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25478.1	QNL25478.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25469.1	QNL25469.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25460.1	QNL25460.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25451.1	QNL25451.1 VP24 [Zaire ebolavirus]	251	True	0	P	X	X	X	X	A	PXXX	EBOV
+QNL25442.1	QNL25442.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25433.1	QNL25433.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25424.1	QNL25424.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25415.1	QNL25415.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25406.1	QNL25406.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25397.1	QNL25397.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25388.1	QNL25388.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25379.1	QNL25379.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25370.1	QNL25370.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25361.1	QNL25361.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25352.1	QNL25352.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25343.1	QNL25343.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25334.1	QNL25334.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25325.1	QNL25325.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25316.1	QNL25316.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25307.1	QNL25307.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25298.1	QNL25298.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25289.1	QNL25289.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25280.1	QNL25280.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25271.1	QNL25271.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25262.1	QNL25262.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25253.1	QNL25253.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25244.1	QNL25244.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25235.1	QNL25235.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25226.1	QNL25226.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25217.1	QNL25217.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25208.1	QNL25208.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25199.1	QNL25199.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25190.1	QNL25190.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25181.1	QNL25181.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25172.1	QNL25172.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25163.1	QNL25163.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25154.1	QNL25154.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25145.1	QNL25145.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25136.1	QNL25136.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25127.1	QNL25127.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25118.1	QNL25118.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25109.1	QNL25109.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25100.1	QNL25100.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25091.1	QNL25091.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25082.1	QNL25082.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	X	X	PNRV	EBOV
+QNL25073.1	QNL25073.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25064.1	QNL25064.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25055.1	QNL25055.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25046.1	QNL25046.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25037.1	QNL25037.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25028.1	QNL25028.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25019.1	QNL25019.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25010.1	QNL25010.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL25001.1	QNL25001.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24992.1	QNL24992.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24983.1	QNL24983.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24974.1	QNL24974.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24965.1	QNL24965.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24956.1	QNL24956.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24947.1	QNL24947.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24938.1	QNL24938.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24929.1	QNL24929.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24920.1	QNL24920.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24911.1	QNL24911.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24902.1	QNL24902.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24893.1	QNL24893.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24884.1	QNL24884.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24875.1	QNL24875.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24866.1	QNL24866.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24857.1	QNL24857.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24848.1	QNL24848.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24839.1	QNL24839.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24830.1	QNL24830.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24821.1	QNL24821.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24812.1	QNL24812.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24803.1	QNL24803.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24794.1	QNL24794.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24785.1	QNL24785.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24776.1	QNL24776.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24767.1	QNL24767.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24758.1	QNL24758.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24749.1	QNL24749.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24740.1	QNL24740.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24731.1	QNL24731.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24722.1	QNL24722.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24713.1	QNL24713.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24704.1	QNL24704.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24695.1	QNL24695.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24686.1	QNL24686.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24677.1	QNL24677.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24668.1	QNL24668.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24659.1	QNL24659.1 VP24 [Zaire ebolavirus]	251	True	0	X	N	R	V	Q	A	XNRV	EBOV
+QNL24650.1	QNL24650.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24641.1	QNL24641.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24632.1	QNL24632.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24623.1	QNL24623.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24614.1	QNL24614.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24605.1	QNL24605.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24596.1	QNL24596.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24587.1	QNL24587.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24578.1	QNL24578.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24569.1	QNL24569.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24560.1	QNL24560.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24551.1	QNL24551.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24542.1	QNL24542.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24533.1	QNL24533.1 VP24, partial [Zaire ebolavirus]	214	False	37	P	N	R	V	Q	A	PNRV	EBOV
+QNL24524.1	QNL24524.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24515.1	QNL24515.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24506.1	QNL24506.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	X	PNRV	EBOV
+QNL24497.1	QNL24497.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24488.1	QNL24488.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24479.1	QNL24479.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24470.1	QNL24470.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24461.1	QNL24461.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24452.1	QNL24452.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24443.1	QNL24443.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24434.1	QNL24434.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24425.1	QNL24425.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24416.1	QNL24416.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24407.1	QNL24407.1 VP24, partial [Zaire ebolavirus]	239	False	12	P	N	R	V	Q	A	PNRV	EBOV
+QNL24398.1	QNL24398.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24389.1	QNL24389.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24380.1	QNL24380.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24371.1	QNL24371.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24362.1	QNL24362.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24353.1	QNL24353.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24344.1	QNL24344.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24335.1	QNL24335.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24326.1	QNL24326.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24317.1	QNL24317.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24308.1	QNL24308.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24299.1	QNL24299.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24290.1	QNL24290.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24281.1	QNL24281.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24272.1	QNL24272.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	X	X	Q	A	PNXX	EBOV
+QNL24263.1	QNL24263.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24254.1	QNL24254.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24245.1	QNL24245.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24236.1	QNL24236.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24227.1	QNL24227.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24218.1	QNL24218.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24209.1	QNL24209.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24200.1	QNL24200.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24191.1	QNL24191.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24182.1	QNL24182.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24173.1	QNL24173.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QNL24164.1	QNL24164.1 VP24, partial [Zaire ebolavirus]	192	False	59	P	N	R	V	X	?	PNRV	EBOV
+QNL24155.1	QNL24155.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	X	A	PNRV	EBOV
+QQN67575.1	QQN67575.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AAL25815.1	AAL25815.1 nucleoprotein, partial [Zaire ebolavirus]	588	False	2	E	H	E	I	Q	Q	EHEI	EBOV
+QCH40650.1	QCH40650.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCH40642.1	QCH40642.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QEU56420.1	QEU56420.1 membrane-associated protein VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYP66824.1	AYP66824.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYI50377.1	AYI50377.1 UNVERIFIED: membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AWK96638.1	AWK96638.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AWK96620.1	AWK96620.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AWK96611.1	AWK96611.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AWK96602.1	AWK96602.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AWK96575.1	AWK96575.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51148.1	ATY51148.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51139.1	ATY51139.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51130.1	ATY51130.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51121.1	ATY51121.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51112.1	ATY51112.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51103.1	ATY51103.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ATY51094.1	ATY51094.1 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AKL91125.1	AKL91125.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AKL91116.1	AKL91116.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AKL91107.1	AKL91107.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AKL91098.1	AKL91098.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AKL91089.1	AKL91089.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AKL91080.1	AKL91080.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AWZ62331.1	AWZ62331.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40552.1	QCF40552.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40543.1	QCF40543.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40534.1	QCF40534.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40521.1	QCF40521.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40516.1	QCF40516.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40507.1	QCF40507.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40498.1	QCF40498.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40489.1	QCF40489.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40480.1	QCF40480.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40471.1	QCF40471.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+QCF40460.1	QCF40460.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALT19606.1	ALT19606.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALT19597.1	ALT19597.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALT19589.1	ALT19589.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALT19581.1	ALT19581.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALT19572.1	ALT19572.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALT19564.1	ALT19564.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AVQ09662.1	AVQ09662.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AVQ09653.1	AVQ09653.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AVQ09644.1	AVQ09644.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AVQ09635.1	AVQ09635.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AVQ09626.1	AVQ09626.1 VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57331.1	AZL57331.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57322.1	AZL57322.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57313.1	AZL57313.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57304.1	AZL57304.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57296.1	AZL57296.1 VP24, partial [Zaire ebolavirus]	218	False	33	P	N	R	V	Q	A	PNRV	EBOV
+AZL57286.1	AZL57286.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57277.1	AZL57277.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57268.1	AZL57268.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57259.1	AZL57259.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57250.1	AZL57250.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57241.1	AZL57241.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57229.1	AZL57229.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57223.1	AZL57223.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57214.1	AZL57214.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57205.1	AZL57205.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57196.1	AZL57196.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57183.1	AZL57183.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57178.1	AZL57178.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57166.1	AZL57166.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57160.1	AZL57160.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57151.1	AZL57151.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57142.1	AZL57142.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57133.1	AZL57133.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57124.1	AZL57124.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57115.1	AZL57115.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57106.1	AZL57106.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57097.1	AZL57097.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57088.1	AZL57088.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57079.1	AZL57079.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57070.1	AZL57070.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57061.1	AZL57061.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AZL57052.1	AZL57052.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYW17075.1	AYW17075.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYW17031.1	AYW17031.1 VP24, partial [Zaire ebolavirus]	192	False	59	P	N	R	V	Q	A	PNRV	EBOV
+AYA83788.1	AYA83788.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83779.1	AYA83779.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83770.1	AYA83770.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83761.1	AYA83761.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83752.1	AYA83752.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83743.1	AYA83743.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83734.1	AYA83734.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	373	False	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83727.1	AYA83727.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83718.1	AYA83718.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83709.1	AYA83709.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83700.1	AYA83700.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83691.1	AYA83691.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83682.1	AYA83682.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83673.1	AYA83673.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83664.1	AYA83664.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83655.1	AYA83655.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83646.1	AYA83646.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83630.1	AYA83630.1 UNVERIFIED: VP24 membrane-associated protein, partial [Zaire ebolavirus]	193	False	58	P	N	R	V	Q	?	PNRV	EBOV
+AYA83621.1	AYA83621.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83612.1	AYA83612.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83603.1	AYA83603.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83594.1	AYA83594.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83585.1	AYA83585.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83576.1	AYA83576.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83567.1	AYA83567.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83558.1	AYA83558.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83549.1	AYA83549.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83540.1	AYA83540.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83531.1	AYA83531.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83522.1	AYA83522.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83513.1	AYA83513.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83504.1	AYA83504.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83495.1	AYA83495.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83486.1	AYA83486.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83477.1	AYA83477.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83468.1	AYA83468.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83459.1	AYA83459.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83450.1	AYA83450.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83441.1	AYA83441.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83432.1	AYA83432.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83423.1	AYA83423.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83414.1	AYA83414.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83405.1	AYA83405.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83396.1	AYA83396.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83387.1	AYA83387.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83378.1	AYA83378.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83369.1	AYA83369.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83360.1	AYA83360.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83351.1	AYA83351.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83342.1	AYA83342.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83333.1	AYA83333.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83324.1	AYA83324.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83315.1	AYA83315.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83306.1	AYA83306.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83297.1	AYA83297.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83288.1	AYA83288.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83279.1	AYA83279.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83270.1	AYA83270.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83261.1	AYA83261.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83252.1	AYA83252.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83243.1	AYA83243.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83234.1	AYA83234.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83225.1	AYA83225.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83216.1	AYA83216.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83207.1	AYA83207.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83198.1	AYA83198.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83189.1	AYA83189.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83180.1	AYA83180.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83171.1	AYA83171.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83162.1	AYA83162.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	198	False	53	P	N	R	V	Q	A	PNRV	EBOV
+AYA83153.1	AYA83153.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83144.1	AYA83144.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83135.1	AYA83135.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83126.1	AYA83126.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83117.1	AYA83117.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83108.1	AYA83108.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83099.1	AYA83099.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83090.1	AYA83090.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83081.1	AYA83081.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83072.1	AYA83072.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83063.1	AYA83063.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83054.1	AYA83054.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83045.1	AYA83045.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	198	False	53	P	N	R	V	Q	A	PNRV	EBOV
+AYA83036.1	AYA83036.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83027.1	AYA83027.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83018.1	AYA83018.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA83007.1	AYA83007.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82997.1	AYA82997.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	198	False	53	P	N	R	V	Q	A	PNRV	EBOV
+AYA82989.1	AYA82989.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82980.1	AYA82980.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82971.1	AYA82971.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82962.1	AYA82962.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82953.1	AYA82953.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82944.1	AYA82944.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82935.1	AYA82935.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82926.1	AYA82926.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82917.1	AYA82917.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82908.1	AYA82908.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82899.1	AYA82899.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82890.1	AYA82890.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	308	False	0	P	N	R	V	Q	X	PNRV	EBOV
+AYA82881.1	AYA82881.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82872.1	AYA82872.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82863.1	AYA82863.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82855.1	AYA82855.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82846.1	AYA82846.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82837.1	AYA82837.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	335	False	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82828.1	AYA82828.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82819.1	AYA82819.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82810.1	AYA82810.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82801.1	AYA82801.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82792.1	AYA82792.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82783.1	AYA82783.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82774.1	AYA82774.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82765.1	AYA82765.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82756.1	AYA82756.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82747.1	AYA82747.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82738.1	AYA82738.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82729.1	AYA82729.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82720.1	AYA82720.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82711.1	AYA82711.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82702.1	AYA82702.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82693.1	AYA82693.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82684.1	AYA82684.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82675.1	AYA82675.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82666.1	AYA82666.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82657.1	AYA82657.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	285	False	0	P	N	R	V	Q	X	PNRV	EBOV
+AYA82645.1	AYA82645.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82628.1	AYA82628.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82619.1	AYA82619.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82610.1	AYA82610.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82601.1	AYA82601.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82592.1	AYA82592.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82583.1	AYA82583.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82574.1	AYA82574.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82565.1	AYA82565.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82556.1	AYA82556.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82547.1	AYA82547.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82538.1	AYA82538.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82529.1	AYA82529.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82521.1	AYA82521.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82512.1	AYA82512.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82503.1	AYA82503.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	373	False	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82494.1	AYA82494.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82485.1	AYA82485.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82476.1	AYA82476.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82467.1	AYA82467.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82459.1	AYA82459.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	379	False	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82450.1	AYA82450.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82441.1	AYA82441.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82432.1	AYA82432.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82423.1	AYA82423.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82414.1	AYA82414.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82405.1	AYA82405.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82397.1	AYA82397.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	198	False	53	P	N	R	V	Q	A	PNRV	EBOV
+AYA82389.1	AYA82389.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82380.1	AYA82380.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82371.1	AYA82371.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82362.1	AYA82362.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82353.1	AYA82353.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82344.1	AYA82344.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82335.1	AYA82335.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82326.1	AYA82326.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82317.1	AYA82317.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82308.1	AYA82308.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82299.1	AYA82299.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82283.1	AYA82283.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82274.1	AYA82274.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82265.1	AYA82265.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	198	False	53	P	N	R	V	Q	A	PNRV	EBOV
+AYA82256.1	AYA82256.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82247.1	AYA82247.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82238.1	AYA82238.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82229.1	AYA82229.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82220.1	AYA82220.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82211.1	AYA82211.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82202.1	AYA82202.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82185.1	AYA82185.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82176.1	AYA82176.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82167.1	AYA82167.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82158.1	AYA82158.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82149.1	AYA82149.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82140.1	AYA82140.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82131.1	AYA82131.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82123.1	AYA82123.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82114.1	AYA82114.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82098.1	AYA82098.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82089.1	AYA82089.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82081.1	AYA82081.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82075.1	AYA82075.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82066.1	AYA82066.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82057.1	AYA82057.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82048.1	AYA82048.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82039.1	AYA82039.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82030.1	AYA82030.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82021.1	AYA82021.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82012.1	AYA82012.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA82003.1	AYA82003.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81994.1	AYA81994.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81985.1	AYA81985.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81976.1	AYA81976.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81945.1	AYA81945.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81936.1	AYA81936.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81927.1	AYA81927.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81918.1	AYA81918.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81909.1	AYA81909.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81900.1	AYA81900.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81891.1	AYA81891.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81882.1	AYA81882.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AYA81873.1	AYA81873.1 UNVERIFIED: VP24 membrane-associated protein [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+AHC70244.1	AHC70244.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34567.1	ALX34567.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34558.1	ALX34558.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34553.1	ALX34553.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34547.1	ALX34547.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34541.1	ALX34541.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34533.1	ALX34533.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34525.1	ALX34525.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34517.1	ALX34517.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34508.1	ALX34508.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34500.1	ALX34500.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34492.1	ALX34492.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34486.1	ALX34486.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34477.1	ALX34477.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34471.1	ALX34471.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34463.1	ALX34463.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34455.1	ALX34455.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34449.1	ALX34449.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34443.1	ALX34443.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34438.1	ALX34438.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34432.1	ALX34432.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34428.1	ALX34428.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34422.1	ALX34422.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34417.1	ALX34417.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34411.1	ALX34411.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34405.1	ALX34405.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34399.1	ALX34399.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34392.1	ALX34392.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34386.1	ALX34386.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34377.1	ALX34377.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34371.1	ALX34371.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34366.1	ALX34366.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34360.1	ALX34360.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34351.1	ALX34351.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34345.1	ALX34345.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34340.1	ALX34340.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34335.1	ALX34335.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34327.1	ALX34327.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34321.1	ALX34321.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34315.1	ALX34315.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34309.1	ALX34309.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34304.1	ALX34304.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34298.1	ALX34298.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34292.1	ALX34292.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34286.1	ALX34286.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34280.1	ALX34280.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34274.1	ALX34274.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34268.1	ALX34268.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34263.1	ALX34263.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34258.1	ALX34258.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34250.1	ALX34250.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34242.1	ALX34242.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34236.1	ALX34236.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34230.1	ALX34230.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34224.1	ALX34224.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34218.1	ALX34218.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34210.1	ALX34210.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34204.1	ALX34204.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34198.1	ALX34198.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34192.1	ALX34192.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34186.1	ALX34186.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34181.1	ALX34181.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34175.1	ALX34175.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34167.1	ALX34167.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34161.1	ALX34161.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34155.1	ALX34155.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34147.1	ALX34147.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34139.1	ALX34139.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34131.1	ALX34131.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34125.1	ALX34125.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34119.1	ALX34119.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34113.1	ALX34113.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34105.1	ALX34105.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34099.1	ALX34099.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34094.1	ALX34094.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34085.1	ALX34085.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34079.1	ALX34079.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34073.1	ALX34073.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34065.1	ALX34065.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34056.1	ALX34056.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34050.1	ALX34050.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34044.1	ALX34044.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34035.1	ALX34035.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34029.1	ALX34029.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34021.1	ALX34021.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34017.1	ALX34017.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34012.1	ALX34012.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34006.1	ALX34006.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX34000.1	ALX34000.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33992.1	ALX33992.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33985.1	ALX33985.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33977.1	ALX33977.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33971.1	ALX33971.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33963.1	ALX33963.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33957.1	ALX33957.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33951.1	ALX33951.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33943.1	ALX33943.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33937.1	ALX33937.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33931.1	ALX33931.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33923.1	ALX33923.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33917.1	ALX33917.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33911.1	ALX33911.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33905.1	ALX33905.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33898.1	ALX33898.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33892.1	ALX33892.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33886.1	ALX33886.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33880.1	ALX33880.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33872.1	ALX33872.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33864.1	ALX33864.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33858.1	ALX33858.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33852.1	ALX33852.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33846.1	ALX33846.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33841.1	ALX33841.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33836.1	ALX33836.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33830.1	ALX33830.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33824.1	ALX33824.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33818.1	ALX33818.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33812.1	ALX33812.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33806.1	ALX33806.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33800.1	ALX33800.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33794.1	ALX33794.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33788.1	ALX33788.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33782.1	ALX33782.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33774.1	ALX33774.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33767.1	ALX33767.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33761.1	ALX33761.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33755.1	ALX33755.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33749.1	ALX33749.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33743.1	ALX33743.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33735.1	ALX33735.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33729.1	ALX33729.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33721.1	ALX33721.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33715.1	ALX33715.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33709.1	ALX33709.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33704.1	ALX33704.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33696.1	ALX33696.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33690.1	ALX33690.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33684.1	ALX33684.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33679.1	ALX33679.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33674.1	ALX33674.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33668.1	ALX33668.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33659.1	ALX33659.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33653.1	ALX33653.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33647.1	ALX33647.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33639.1	ALX33639.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33633.1	ALX33633.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33625.1	ALX33625.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33619.1	ALX33619.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33613.1	ALX33613.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33605.1	ALX33605.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33599.1	ALX33599.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33593.1	ALX33593.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33587.1	ALX33587.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33582.1	ALX33582.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33576.1	ALX33576.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33570.1	ALX33570.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33564.1	ALX33564.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33558.1	ALX33558.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33552.1	ALX33552.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33544.1	ALX33544.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33539.1	ALX33539.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33533.1	ALX33533.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33527.1	ALX33527.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+ALX33519.1	ALX33519.1 VP24 [Zaire ebolavirus]	251	True	0	P	N	R	V	Q	A	PNRV	EBOV
+sp|Q5XX02.1|VP24_EBOSU	sp|Q5XX02.1|VP24_EBOSU RecName: Full=Membrane-associated protein VP24; AltName: Full=Reston VP24; Short=rVP24	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07214.1	WEY07214.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07205.1	WEY07205.1 membrane-associated protein, partial [Sudan ebolavirus]	249	False	2	Q	N	R	V	P	V	QNRV	SUDV
+WEY07196.1	WEY07196.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07187.1	WEY07187.1 membrane-associated protein, partial [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07178.1	WEY07178.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07169.1	WEY07169.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07160.1	WEY07160.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07151.1	WEY07151.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07142.1	WEY07142.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07133.1	WEY07133.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07124.1	WEY07124.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07115.1	WEY07115.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07106.1	WEY07106.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07097.1	WEY07097.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07088.1	WEY07088.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07079.1	WEY07079.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07070.1	WEY07070.1 membrane-associated protein, partial [Sudan ebolavirus]	248	False	3	Q	N	R	X	X	V	QNRX	SUDV
+WEY07061.1	WEY07061.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07052.1	WEY07052.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07043.1	WEY07043.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07034.1	WEY07034.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07025.1	WEY07025.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07016.1	WEY07016.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY07007.1	WEY07007.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06998.1	WEY06998.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06989.1	WEY06989.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06980.1	WEY06980.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06971.1	WEY06971.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06962.1	WEY06962.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06953.1	WEY06953.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06944.1	WEY06944.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06935.1	WEY06935.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06926.1	WEY06926.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06917.1	WEY06917.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06908.1	WEY06908.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06899.1	WEY06899.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06890.1	WEY06890.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06881.1	WEY06881.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06872.1	WEY06872.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06863.1	WEY06863.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06854.1	WEY06854.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06845.1	WEY06845.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06836.1	WEY06836.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06827.1	WEY06827.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06818.1	WEY06818.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06809.1	WEY06809.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06800.1	WEY06800.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06791.1	WEY06791.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06782.1	WEY06782.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06773.1	WEY06773.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06764.1	WEY06764.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06755.1	WEY06755.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06746.1	WEY06746.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06737.1	WEY06737.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06728.1	WEY06728.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06719.1	WEY06719.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06710.1	WEY06710.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06701.1	WEY06701.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06692.1	WEY06692.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06683.1	WEY06683.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06674.1	WEY06674.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06665.1	WEY06665.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06656.1	WEY06656.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06647.1	WEY06647.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06638.1	WEY06638.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06629.1	WEY06629.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06620.1	WEY06620.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06611.1	WEY06611.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06602.1	WEY06602.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06593.1	WEY06593.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06584.1	WEY06584.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06575.1	WEY06575.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06566.1	WEY06566.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06557.1	WEY06557.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06548.1	WEY06548.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06539.1	WEY06539.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06530.1	WEY06530.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06521.1	WEY06521.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06512.1	WEY06512.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06503.1	WEY06503.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06494.1	WEY06494.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06485.1	WEY06485.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06476.1	WEY06476.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06467.1	WEY06467.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06458.1	WEY06458.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06449.1	WEY06449.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06440.1	WEY06440.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06431.1	WEY06431.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06422.1	WEY06422.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06413.1	WEY06413.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06404.1	WEY06404.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06395.1	WEY06395.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06386.1	WEY06386.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06377.1	WEY06377.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06368.1	WEY06368.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06359.1	WEY06359.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06350.1	WEY06350.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06341.1	WEY06341.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06332.1	WEY06332.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06323.1	WEY06323.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06314.1	WEY06314.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06305.1	WEY06305.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06296.1	WEY06296.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06287.1	WEY06287.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06278.1	WEY06278.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06269.1	WEY06269.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06260.1	WEY06260.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06251.1	WEY06251.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06242.1	WEY06242.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06233.1	WEY06233.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06224.1	WEY06224.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06215.1	WEY06215.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06206.1	WEY06206.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06197.1	WEY06197.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06188.1	WEY06188.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06179.1	WEY06179.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06170.1	WEY06170.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06161.1	WEY06161.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06152.1	WEY06152.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+WEY06143.1	WEY06143.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+pdb|3VNF|A	pdb|3VNF|A Chain A, Membrane-associated protein VP24	216	False	35	Q	N	R	V	P	V	QNRV	SUDV
+pdb|3VNE|A	pdb|3VNE|A Chain A, Membrane-associated protein VP24	224	False	27	Q	N	R	V	P	V	QNRV	SUDV
+QYU59287.1	QYU59287.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+QYU59278.1	QYU59278.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+QYU59269.1	QYU59269.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+QYU59260.1	QYU59260.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+QDC12562.1	QDC12562.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AWK96647.1	AWK96647.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AWK96593.1	AWK96593.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AWK96584.1	AWK96584.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+YP_138526.1	YP_138526.1 membrane-associated protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+APT69616.1	APT69616.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+APT69556.1	APT69556.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+ALL26378.1	ALL26378.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+ALH21231.1	ALH21231.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+ALT19783.1	ALT19783.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AKB09540.1	AKB09540.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AGL73448.1	AGL73448.1 viral protein 24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AGL73441.1	AGL73441.1 viral protein 24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AGL73434.1	AGL73434.1 viral protein 24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AGL73427.1	AGL73427.1 viral protein 24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AGL50930.1	AGL50930.1 VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AGB56681.1	AGB56681.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AFP28228.1	AFP28228.1 membrane-associated protein [Sudan ebolavirus - Nakisamata]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AAU43889.1	AAU43889.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+ACR33193.1	ACR33193.1 membrane-associated protein VP24 [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+ABY75327.1	ABY75327.1 minor matrix protein [Sudan ebolavirus]	251	True	0	Q	N	R	V	P	V	QNRV	SUDV
+AWK96629.1	AWK96629.1 membrane-associated protein [Tai Forest ebolavirus]	251	True	0	P	Q	Q	A	K	V	PQQA	TAFV
+YP_003815430.1	YP_003815430.1 membrane-associated protein [Tai Forest ebolavirus]	251	True	0	P	Q	Q	A	K	V	PQQA	TAFV
+ALT19765.1	ALT19765.1 membrane-associated protein VP24 [Tai Forest ebolavirus]	251	True	0	P	Q	Q	A	K	V	PQQA	TAFV
+ACI28635.1	ACI28635.1 VP24 [Tai Forest ebolavirus]	251	True	0	P	Q	Q	A	K	V	PQQA	TAFV
+sp|Q77DB4.1|VP24_EBORR	sp|Q77DB4.1|VP24_EBORR RecName: Full=Membrane-associated protein VP24; AltName: Full=Reston VP24; Short=rVP24	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+sp|Q91DD5.1|VP24_EBORE	sp|Q91DD5.1|VP24_EBORE RecName: Full=Membrane-associated protein VP24; AltName: Full=Reston VP24; Short=rVP24	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+pdb|4D9O|B	pdb|4D9O|B Chain B, Membrane-associated protein VP24	236	False	20	P	N	S	V	S	V	PNSV	RESTV
+pdb|4D9O|A	pdb|4D9O|A Chain A, Membrane-associated protein VP24	236	False	20	P	N	S	V	S	V	PNSV	RESTV
+QNF60338.1	QNF60338.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+AYP10282.1	AYP10282.1 UNVERIFIED: membrane-associated protein [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+NP_690586.1	NP_690586.1 membrane-associated protein [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ASU06447.1	ASU06447.1 membrane associated protein VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ASU06438.1	ASU06438.1 membrane associated protein VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+APA16575.1	APA16575.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80366.1	ARU80366.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80358.1	ARU80358.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80350.1	ARU80350.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80342.1	ARU80342.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80334.1	ARU80334.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80326.1	ARU80326.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80318.1	ARU80318.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80310.1	ARU80310.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ARU80302.1	ARU80302.1 VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+AGC02895.1	AGC02895.1 membrane-associated protein VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+AGC02887.1	AGC02887.1 membrane-associated protein VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+AAN04453.1	AAN04453.1 membrane-associated protein VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+AAV48580.1	AAV48580.1 membrane-associated protein VP24 [Reston ebolavirus]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ACT22805.1	ACT22805.1 membrane-associated protein VP24 [Reston ebolavirus - Reston]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ACT22797.1	ACT22797.1 membrane-associated protein VP24 [Reston ebolavirus - Reston]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+ACT22790.1	ACT22790.1 membrane-associated protein VP24 [Reston ebolavirus - Reston]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+BAB69009.1	BAB69009.1 VP24 [Reston ebolavirus - Reston]	251	True	0	P	N	S	V	S	V	PNSV	RESTV
+UKB36431.1	UKB36431.1 viral protein 24 [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+WBH05263.1	WBH05263.1 membrane-associated protein [Bombali virus]	251	True	0	P	N	R	V	N	V	PNRV	BOMV
+URC21829.1	URC21829.1 virus protein 24 [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+URC21821.1	URC21821.1 virus protein 24 [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+QOU08493.1	QOU08493.1 membrane-associated protein [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+QOU08484.1	QOU08484.1 membrane-associated protein [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+QAT98510.1	QAT98510.1 VP24 [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+ASJ82205.1	ASJ82205.1 VP24 [Bombali virus]	251	True	0	P	N	R	V	N	V	PNRV	BOMV
+ASJ82199.1	ASJ82199.1 VP24 [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+YP_009513281.1	YP_009513281.1 membrane-associated protein [Bombali virus]	251	True	0	P	N	S	V	N	V	PNSV	BOMV
+sp|P27588.3|NCAP_MABVM	sp|P27588.3|NCAP_MABVM RecName: Full=Nucleoprotein; AltName: Full=Nucleocapsid protein; Short=Protein N	695	False	9	D	L	K	V	A	V	DLKV	MARV
+sp|Q1PDC5.1|VP24_MABVR	sp|Q1PDC5.1|VP24_MABVR RecName: Full=Membrane-associated protein VP24; AltName: Full=Marburg VP24; Short=mVP24	253	False	2	P	H	L	L	T	V	PHLL	MARV
+sp|Q1PD62.1|VP24_MABVA	sp|Q1PD62.1|VP24_MABVA RecName: Full=Membrane-associated protein VP24; AltName: Full=Marburg VP24; Short=mVP24	253	False	2	P	H	L	L	T	V	PHLL	MARV
+sp|Q6UY64.1|VP24_MABVO	sp|Q6UY64.1|VP24_MABVO RecName: Full=Membrane-associated protein VP24; AltName: Full=Marburg VP24; Short=mVP24	253	False	0	P	H	L	L	T	V	PHLL	MARV
+sp|P35256.2|VP24_MABVM	sp|P35256.2|VP24_MABVM RecName: Full=Membrane-associated protein VP24; AltName: Full=Marburg VP24; Short=mVP24	253	False	0	P	H	L	L	T	V	PHLL	MARV
+sp|P41326.1|VP30_MABVP	sp|P41326.1|VP30_MABVP RecName: Full=Transcriptional activator VP30; AltName: Full=Minor nucleoprotein VP30	281	False	20	P	F	D	C	T	F	PFDC	MARV
+sp|P41325.1|VP24_MABVP	sp|P41325.1|VP24_MABVP RecName: Full=Membrane-associated protein VP24; AltName: Full=Marburg VP24; Short=mVP24	253	False	0	P	H	L	L	T	V	PHLL	MARV
+YDL38395.1	YDL38395.1 matrix protein VP24, partial [Orthomarburgvirus marburgense]	252	False	1	P	H	L	L	T	V	PHLL	MARV
+YDL38388.1	YDL38388.1 matrix protein VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XYO53972.1	XYO53972.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XYO53965.1	XYO53965.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XYO53958.1	XYO53958.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XYO53951.1	XYO53951.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XYO53944.1	XYO53944.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+YAJ22202.1	YAJ22202.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+YAJ22195.1	YAJ22195.1 VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+YP_001531158.1	YP_001531158.1 VP24 [Marburg virus - Musoke, Kenya, 1980]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59076.1	XJQ59076.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59069.1	XJQ59069.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59062.1	XJQ59062.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59055.1	XJQ59055.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59048.1	XJQ59048.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59041.1	XJQ59041.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59034.1	XJQ59034.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59027.1	XJQ59027.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59020.1	XJQ59020.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59013.1	XJQ59013.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ59006.1	XJQ59006.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58999.1	XJQ58999.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58992.1	XJQ58992.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58985.1	XJQ58985.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58978.1	XJQ58978.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58971.1	XJQ58971.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58964.1	XJQ58964.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+XJQ58957.1	XJQ58957.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+pdb|4OR8|B	pdb|4OR8|B Chain B, Membrane-associated protein VP24	267	False	0	P	H	L	L	T	V	PHLL	MARV
+pdb|4OR8|A	pdb|4OR8|A Chain A, Membrane-associated protein VP24	267	False	0	P	H	L	L	T	V	PHLL	MARV
+ABA87129.1	ABA87129.1 VP24 [Marburg virus - Musoke, Kenya, 1980]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+WKR37934.1	WKR37934.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+WKR37927.1	WKR37927.1 matrix protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+WJN65219.1	WJN65219.1 membrane-associated protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ULP54990.1	ULP54990.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+UFZ14322.1	UFZ14322.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QYC62010.1	QYC62010.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+QPJ58066.1	QPJ58066.1 VP24, partial [Orthomarburgvirus marburgense]	127	False	124	P	?	?	?	?	?	P???	MARV
+QIC36357.1	QIC36357.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QIC36350.1	QIC36350.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QGX74994.1	QGX74994.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QGX74987.1	QGX74987.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QGX74980.1	QGX74980.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QGX74973.1	QGX74973.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QDH12852.1	QDH12852.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QBB20451.1	QBB20451.1 VP24 membrane-associated protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+QBB20444.1	QBB20444.1 VP24 membrane-associated protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AYA01130.1	AYA01130.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+YP_009055227.1	YP_009055227.1 membrane-associated protein [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AWO14199.1	AWO14199.1 VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AJY53716.1	AJY53716.1 VP24 membrane-associated protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AMZ00486.1	AMZ00486.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AMZ00483.1	AMZ00483.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+APT69539.1	APT69539.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+APQ46234.1	APQ46234.1 VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+APQ46226.1	APQ46226.1 VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ALS54756.1	ALS54756.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AKI84285.1	AKI84285.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AKB09574.1	AKB09574.1 membrane-associated protein VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AJD39287.1	AJD39287.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AJD39280.1	AJD39280.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AJD39273.1	AJD39273.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31372.1	AFV31372.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31365.1	AFV31365.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AFV31358.1	AFV31358.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31351.1	AFV31351.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31344.1	AFV31344.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31337.1	AFV31337.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31330.1	AFV31330.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31323.1	AFV31323.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31316.1	AFV31316.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31309.1	AFV31309.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31302.1	AFV31302.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31295.1	AFV31295.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31288.1	AFV31288.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31281.1	AFV31281.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31274.1	AFV31274.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31267.1	AFV31267.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31260.1	AFV31260.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31253.1	AFV31253.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31246.1	AFV31246.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31239.1	AFV31239.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31232.1	AFV31232.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31225.1	AFV31225.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31218.1	AFV31218.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31211.1	AFV31211.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31204.1	AFV31204.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31197.1	AFV31197.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31190.1	AFV31190.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31183.1	AFV31183.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31176.1	AFV31176.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31169.1	AFV31169.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31162.1	AFV31162.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31155.1	AFV31155.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31148.1	AFV31148.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AFV31142.1	AFV31142.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AIL25248.1	AIL25248.1 VP24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AEW11939.1	AEW11939.1 virion protein 24 [Lake Victoria marburgvirus - Leiden]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AGL73420.1	AGL73420.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AGL73413.1	AGL73413.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+CAA78119.1	CAA78119.1 vp24 [Marburg virus - Musoke, Kenya, 1980]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ADM73000.1	ADM73000.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ADM72993.1	ADM72993.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ADM72986.1	ADM72986.1 VP24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ACT79245.1	ACT79245.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ACT79238.1	ACT79238.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ACT79231.1	ACT79231.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ACT79224.1	ACT79224.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ACT79217.1	ACT79217.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ACT79210.1	ACT79210.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ACT79203.1	ACT79203.1 viral protein 24 [Orthomarburgvirus marburgense]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ACD13021.1	ACD13021.1 virion protein 24 [Ravn virus - Ravn, Kenya, 1987]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27066.1	ABE27066.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27059.1	ABE27059.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27052.1	ABE27052.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27045.1	ABE27045.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27038.1	ABE27038.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27031.1	ABE27031.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27024.1	ABE27024.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27017.1	ABE27017.1 VP24 [Lake Victoria marburgvirus - Angola2005]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ACD13014.1	ACD13014.1 virion protein 24 [Ravn virus - Ravn, Kenya, 1987]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ACD13007.1	ACD13007.1 virion protein 24 [Ravn virus - Ravn, Kenya, 1987]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+AAR85465.1	AAR85465.1 VP24 protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AAR85458.1	AAR85458.1 VP24 protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+AAQ55260.1	AAQ55260.1 VP24 protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ABS17560.1	ABS17560.1 virion protein 24 [Lake Victoria marburgvirus - Ci67]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ABS17553.1	ABS17553.1 virion protein 24 [Ravn virus - Ravn, Kenya, 1987]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+CAA82541.1	CAA82541.1 VP24 protein [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ABE27094.1	ABE27094.1 VP24 [Lake Victoria marburgvirus - DRC1999]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+ABE27087.1	ABE27087.1 VP24 [Lake Victoria marburgvirus - DRC1999]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ABE27080.1	ABE27080.1 VP24 [Lake Victoria marburgvirus - DRC1999]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+ABE27073.1	ABE27073.1 VP24 [Ravn virus - Ravn, Kenya, 1987]	253	False	2	P	H	L	L	T	V	PHLL	MARV
+prf||2110212G	prf||2110212G RNA-dependent RNA polymerase	2331	False	0	P	N	N	M	N	A	PNNM	MARV
+prf||2110212F	prf||2110212F VP24 protein	253	False	0	P	H	L	L	T	V	PHLL	MARV
+prf||2110212E	prf||2110212E VP30 protein	281	False	20	P	F	D	C	T	F	PFDC	MARV
+prf||2110212D	prf||2110212D glycoprotein	681	False	3	P	N	A	L	Q	T	PNAL	MARV
+prf||2110212C	prf||2110212C VP40 protein	303	False	23	P	?	R	L	T	A	P?RL	MARV
+prf||2110212B	prf||2110212B VP35 protein	329	False	7	P	D	L	P	Q	C	PDLP	MARV
+prf||2110212A	prf||2110212A nucleoprotein	695	False	9	D	L	K	V	A	V	DLKV	MARV
+CAA45747.1	CAA45747.1 vp6 [Orthomarburgvirus marburgense]	253	False	0	P	H	L	L	T	V	PHLL	MARV
+WJL97494.1	WJL97494.1 VP24 [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV
+WCB27563.1	WCB27563.1 membrane associated protein [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV
+UKS50419.1	UKS50419.1 VP24 [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV
+UKR35333.1	UKR35333.1 VP24 [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV
+UKR35324.1	UKR35324.1 VP24 [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV
+YP_004928142.1	YP_004928142.1 membrane-associated protein [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV
+AER23678.1	AER23678.1 VP24 [Cuevavirus lloviuense]	250	False	1	P	N	R	A	K	V	PNRA	LLOV

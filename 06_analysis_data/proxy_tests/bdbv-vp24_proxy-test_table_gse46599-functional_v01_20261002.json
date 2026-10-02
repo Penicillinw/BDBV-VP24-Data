@@ -1,0 +1,43 @@
+{
+ "n_units": 11,
+ "n_restricted": 5,
+ "n_permissive": 4,
+ "note": "n is small; LOO AUC is reported so fitted forms must beat fixed forms out of sample",
+ "single_baseline_ISG": {
+  "auc_all": 0.667,
+  "loo_auc": 0.667
+ },
+ "single_fold_induction": {
+  "auc_all": 0.767,
+  "loo_auc": 0.767
+ },
+ "single_post_IFN_level": {
+  "auc_all": 0.833,
+  "loo_auc": 0.833
+ },
+ "equal_weight_baseline_only": {
+  "auc_all": 0.667,
+  "loo_auc": 0.667
+ },
+ "equal_weight_fold_only": {
+  "auc_all": 0.767,
+  "loo_auc": 0.767
+ },
+ "equal_weight_postlevel_only": {
+  "auc_all": 0.833,
+  "loo_auc": 0.833
+ },
+ "naive_average_of_all_three": {
+  "auc_all": 0.9,
+  "loo_auc": 0.9
+ },
+ "fitted_logistic": {
+  "auc_all": 0.933,
+  "loo_auc": 0.767,
+  "coefficients_z_scaled": [
+   0.333,
+   0.818,
+   0.849
+  ]
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "source": "analysis/g6e_gse46599_20260926/g6e_results.json",
+ "units": [
+  "PMA-U937",
+  "primary-CD4+-T-cells",
+  "U937",
+  "primary-macrophages",
+  "CEM-SS",
+  "HT1080",
+  "CEM",
+  "U87-MG",
+  "PMA-THP-1",
+  "Jurkat",
+  "THP-1"
+ ],
+ "groups": {
+  "resistant": [
+   "primary-CD4+-T-cells",
+   "primary-macrophages",
+   "U87-MG",
+   "PMA-THP-1",
+   "THP-1"
+  ],
+  "partially resistant": [
+   "PMA-U937",
+   "HT1080"
+  ],
+  "permissive": [
+   "U937",
+   "CEM-SS",
+   "CEM",
+   "Jurkat"
+  ]
+ },
+ "rules": {
+  "R1_degeneracy": "spearman>=0.80 and slope>=0.80 and R2>=0.60; sd(fold)/sd(base)<0.50",
+  "R2_flat_profile": "max AUC - min AUC <= 0.10 over theta grid",
+  "R3_ranking_stability": "AUC(induced) >= max(AUC(baseline), AUC(fold)) in every module x rule",
+  "R4_family_wise": "max-statistic exact permutation p over the theta grid < 0.05",
+  "R5_power": "exact p grid = k/N for N = C(n, 5)"
+ },
+ "permutation_space": {
+  "A_partials_excluded": {
+   "n_pos": 5,
+   "n_neg": 4,
+   "n_assignments": 126,
+   "min_achievable_p": 0.00794,
+   "max_headcount_for_p_below_0.05": 6
+  },
+  "B_partials_as_permissive": {
+   "n_pos": 5,
+   "n_neg": 6,
+   "n_assignments": 462,
+   "min_achievable_p": 0.00216,
+   "max_headcount_for_p_below_0.05": 23
+  }
+ },
+ "degeneracy": {
+  "ISG_17gene": {
+   "spearman_baseline_vs_induced_n11": 0.9182,
+   "ols_slope_induced_on_baseline_n11": 0.7747,
+   "ols_r2_n11": 0.7524,
+   "sd_fold_over_sd_baseline_n11": 0.4982,
+   "fold_range_log2_n11": [
+    2.972,
+    4.422
+   ],
+   "R1_degenerate": false
+  },
+  "priming_ISG15_MX1": {
+   "spearman_baseline_vs_induced_n11": 0.6455,
+   "ols_slope_induced_on_baseline_n11": 0.6417,
+   "ols_r2_n11": 0.306,
+   "sd_fold_over_sd_baseline_n11": 1.0305,
+   "fold_range_log2_n11": [
+    2.258,
+    5.802
+   ],
+   "R1_degenerate": false
+  },
+  "typeI_receptor": {
+   "spearman_baseline_vs_induced_n11": 0.9182,
+   "ols_slope_induced_on_baseline_n11": 0.9386,
+   "ols_r2_n11": 0.8959,
+   "sd_fold_over_sd_baseline_n11": 0.3258,
+   "fold_range_log2_n11": [
+    -0.344,
+    0.237
+   ],
+   "R1_degenerate": true
+  },
+  "typeIII_receptor": {
+   "spearman_baseline_vs_induced_n11": 0.9091,
+   "ols_slope_induced_on_baseline_n11": 1.0487,
+   "ols_r2_n11": 0.967,
+   "sd_fold_over_sd_baseline_n11": 0.1997,
+   "fold_range_log2_n11": [
+    -0.125,
+    0.345
+   ],
+   "R1_degenerate": true
+  },
+  "receptor_4gene": {
+   "spearman_baseline_vs_induced_n11": 0.9182,
+   "ols_slope_induced_on_baseline_n11": 0.9838,
+   "ols_r2_n11": 0.9405,
+   "sd_fold_over_sd_baseline_n11": 0.248,
+   "fold_range_log2_n11": [
+    -0.234,
+    0.291
+   ],
+   "R1_degenerate": true
+  },
+  "housekeeping_negcontrol": {
+   "spearman_baseline_vs_induced_n11": 0.9818,
+   "ols_slope_induced_on_baseline_n11": 1.5815,
+   "ols_r2_n11": 0.867,
+   "sd_fold_over_sd_baseline_n11": 0.8496,
+   "fold_range_log2_n11": [
+    -0.563,
+    0.011
+   ],
+   "R1_degenerate": true
+  }
+ },
+ "grid": {
+  "ISG_17gene": {
+   "A_partials_excluded": {
+    "auc_baseline": 0.8,
+    "auc_fold": 0.55,
+    "auc_induced": 0.9,
+    "theta_at_max_deg": 25,
+    "auc_at_max": 0.9,
+    "auc_span_over_grid": 0.1,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.0317,
+    "p_familywise_maxstat": 0.0556,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": true
+   },
+   "B_partials_as_permissive": {
+    "auc_baseline": 0.7,
+    "auc_fold": 0.6333,
+    "auc_induced": 0.8333,
+    "theta_at_max_deg": 28,
+    "auc_at_max": 0.8333,
+    "auc_span_over_grid": 0.1333,
+    "R2_flat_profile": false,
+    "p_pointwise_at_max": 0.0411,
+    "p_familywise_maxstat": 0.0628,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": true
+   }
+  },
+  "priming_ISG15_MX1": {
+   "A_partials_excluded": {
+    "auc_baseline": 0.8,
+    "auc_fold": 0.4,
+    "auc_induced": 0.65,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.8,
+    "auc_span_over_grid": 0.15,
+    "R2_flat_profile": false,
+    "p_pointwise_at_max": 0.0952,
+    "p_familywise_maxstat": 0.1587,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   },
+   "B_partials_as_permissive": {
+    "auc_baseline": 0.7667,
+    "auc_fold": 0.4333,
+    "auc_induced": 0.7,
+    "theta_at_max_deg": 4,
+    "auc_at_max": 0.8,
+    "auc_span_over_grid": 0.1,
+    "R2_flat_profile": false,
+    "p_pointwise_at_max": 0.0628,
+    "p_familywise_maxstat": 0.1234,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   }
+  },
+  "typeI_receptor": {
+   "A_partials_excluded": {
+    "auc_baseline": 0.7,
+    "auc_fold": 0.1,
+    "auc_induced": 0.6,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.7,
+    "auc_span_over_grid": 0.1,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.2063,
+    "p_familywise_maxstat": 0.2698,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   },
+   "B_partials_as_permissive": {
+    "auc_baseline": 0.7,
+    "auc_fold": 0.1333,
+    "auc_induced": 0.6,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.7,
+    "auc_span_over_grid": 0.1,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.1645,
+    "p_familywise_maxstat": 0.2165,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   }
+  },
+  "typeIII_receptor": {
+   "A_partials_excluded": {
+    "auc_baseline": 0.8,
+    "auc_fold": 0.4,
+    "auc_induced": 0.8,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.8,
+    "auc_span_over_grid": 0.05,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.0952,
+    "p_familywise_maxstat": 0.119,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": true
+   },
+   "B_partials_as_permissive": {
+    "auc_baseline": 0.8333,
+    "auc_fold": 0.3333,
+    "auc_induced": 0.7667,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.8333,
+    "auc_span_over_grid": 0.0667,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.0411,
+    "p_familywise_maxstat": 0.0606,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   }
+  },
+  "receptor_4gene": {
+   "A_partials_excluded": {
+    "auc_baseline": 0.8,
+    "auc_fold": 0.3,
+    "auc_induced": 0.7,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.8,
+    "auc_span_over_grid": 0.1,
+    "R2_flat_profile": false,
+    "p_pointwise_at_max": 0.0952,
+    "p_familywise_maxstat": 0.119,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   },
+   "B_partials_as_permissive": {
+    "auc_baseline": 0.8,
+    "auc_fold": 0.2667,
+    "auc_induced": 0.7,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.8,
+    "auc_span_over_grid": 0.1,
+    "R2_flat_profile": false,
+    "p_pointwise_at_max": 0.0628,
+    "p_familywise_maxstat": 0.0887,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": false
+   }
+  },
+  "housekeeping_negcontrol": {
+   "A_partials_excluded": {
+    "auc_baseline": 0.2,
+    "auc_fold": 0.0,
+    "auc_induced": 0.2,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.2,
+    "auc_span_over_grid": 0.0,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.9444,
+    "p_familywise_maxstat": 0.9524,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": true
+   },
+   "B_partials_as_permissive": {
+    "auc_baseline": 0.2667,
+    "auc_fold": 0.1667,
+    "auc_induced": 0.2667,
+    "theta_at_max_deg": 0,
+    "auc_at_max": 0.2667,
+    "auc_span_over_grid": 0.0,
+    "R2_flat_profile": true,
+    "p_pointwise_at_max": 0.9113,
+    "p_familywise_maxstat": 0.9221,
+    "R4_significant_family_wise": false,
+    "induced_ge_both_rivals": true
+   }
+  }
+ },
+ "ordinal_all_units": {
+  "ISG_17gene": {
+   "spearman_baseline_vs_grade": 0.4119,
+   "spearman_fold_vs_grade": 0.1079,
+   "spearman_induced_vs_grade": 0.6081
+  },
+  "priming_ISG15_MX1": {
+   "spearman_baseline_vs_grade": 0.5689,
+   "spearman_fold_vs_grade": -0.1864,
+   "spearman_induced_vs_grade": 0.2942
+  },
+  "typeI_receptor": {
+   "spearman_baseline_vs_grade": 0.2942,
+   "spearman_fold_vs_grade": -0.5836,
+   "spearman_induced_vs_grade": 0.1618
+  },
+  "typeIII_receptor": {
+   "spearman_baseline_vs_grade": 0.4904,
+   "spearman_fold_vs_grade": -0.1128,
+   "spearman_induced_vs_grade": 0.4512
+  },
+  "receptor_4gene": {
+   "spearman_baseline_vs_grade": 0.4561,
+   "spearman_fold_vs_grade": -0.2991,
+   "spearman_induced_vs_grade": 0.3237
+  },
+  "housekeeping_negcontrol": {
+   "spearman_baseline_vs_grade": -0.4463,
+   "spearman_fold_vs_grade": -0.6964,
+   "spearman_induced_vs_grade": -0.4463
+  }
+ },
+ "R3_verdict": {
+  "n_cells_tested": 12,
+  "n_violations": 7,
+  "violations": [
+   "priming_ISG15_MX1/A_partials_excluded",
+   "priming_ISG15_MX1/B_partials_as_permissive",
+   "typeI_receptor/A_partials_excluded",
+   "typeI_receptor/B_partials_as_permissive",
+   "typeIII_receptor/B_partials_as_permissive",
+   "receptor_4gene/A_partials_excluded",
+   "receptor_4gene/B_partials_as_permissive"
+  ],
+  "supported": false
+ }
+}

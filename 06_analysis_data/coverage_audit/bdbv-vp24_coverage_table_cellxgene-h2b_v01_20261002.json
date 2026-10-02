@@ -1,0 +1,351 @@
+{
+ "rule": "hierarchy-aware (is_a + part_of ancestry), floor 50 cells",
+ "per_atlas": [
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "n_matched": 24,
+   "rho": 0.745
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "n_matched": 7,
+   "rho": 0.679
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "n_matched": 4,
+   "rho": 0.4
+  },
+  {
+   "atlas": "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad",
+   "n_matched": 0,
+   "rho": null
+  },
+  {
+   "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "n_matched": 1,
+   "rho": null
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "n_matched": 2,
+   "rho": null
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "n_matched": 3,
+   "rho": 0.5
+  }
+ ],
+ "pooled": {
+  "n": 38,
+  "rho": 0.568,
+  "p_permutation": 0.0005
+ },
+ "pairs": [
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "retinal ganglion cells",
+   "reference_delta": -1.291,
+   "atlas_delta_z": 0.337,
+   "atlas_labels": "retinal ganglion cell",
+   "n_cells": 2433
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "cardiomyocytes",
+   "reference_delta": -1.055,
+   "atlas_delta_z": -1.205,
+   "atlas_labels": "ventricular cardiac muscle cell",
+   "n_cells": 3007
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "erythrocyte progenitors",
+   "reference_delta": -1.037,
+   "atlas_delta_z": -1.106,
+   "atlas_labels": "erythroid progenitor cell",
+   "n_cells": 12049
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "retinal pigment epithelial cells",
+   "reference_delta": -1.025,
+   "atlas_delta_z": -1.031,
+   "atlas_labels": "retinal pigment epithelial cell",
+   "n_cells": 1704
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "megakaryocyte-erythroid progenitors",
+   "reference_delta": -0.918,
+   "atlas_delta_z": -1.106,
+   "atlas_labels": "erythroid progenitor cell",
+   "n_cells": 12049
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "sertoli cells",
+   "reference_delta": -0.677,
+   "atlas_delta_z": -0.27,
+   "atlas_labels": "Sertoli cell",
+   "n_cells": 1192
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "reference_cell_type": "sertoli cells",
+   "reference_delta": -0.677,
+   "atlas_delta_z": 0.607,
+   "atlas_labels": "Sertoli cell",
+   "n_cells": 6726
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "proximal tubule cells",
+   "reference_delta": -0.655,
+   "atlas_delta_z": -1.319,
+   "atlas_labels": "epithelial cell of proximal tubule",
+   "n_cells": 2023
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "hematopoietic stem cells",
+   "reference_delta": -0.652,
+   "atlas_delta_z": -0.005,
+   "atlas_labels": "cord blood hematopoietic stem cell",
+   "n_cells": 9056
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "smooth muscle cells",
+   "reference_delta": -0.372,
+   "atlas_delta_z": -0.058,
+   "atlas_labels": "smooth muscle cell",
+   "n_cells": 22077
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "smooth muscle cells",
+   "reference_delta": -0.372,
+   "atlas_delta_z": -1.759,
+   "atlas_labels": "smooth muscle cell",
+   "n_cells": 572
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "reference_cell_type": "smooth muscle cells",
+   "reference_delta": -0.372,
+   "atlas_delta_z": -1.351,
+   "atlas_labels": "smooth muscle cell",
+   "n_cells": 105
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "oligodendrocytes",
+   "reference_delta": -0.232,
+   "atlas_delta_z": -0.497,
+   "atlas_labels": "oligodendrocyte",
+   "n_cells": 7771
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "neutrophil progenitors",
+   "reference_delta": -0.111,
+   "atlas_delta_z": -0.1,
+   "atlas_labels": "neutrophil",
+   "n_cells": 18545
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "mast cells",
+   "reference_delta": -0.104,
+   "atlas_delta_z": 0.413,
+   "atlas_labels": "mast cell",
+   "n_cells": 1658
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "mast cells",
+   "reference_delta": -0.104,
+   "atlas_delta_z": -0.979,
+   "atlas_labels": "mast cell",
+   "n_cells": 249
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "alveolar cells type 2",
+   "reference_delta": -0.068,
+   "atlas_delta_z": 0.411,
+   "atlas_labels": "pulmonary alveolar type 2 cell",
+   "n_cells": 7403
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "astrocytes",
+   "reference_delta": -0.018,
+   "atlas_delta_z": 0.202,
+   "atlas_labels": "astrocyte",
+   "n_cells": 3349
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "reference_cell_type": "astrocytes",
+   "reference_delta": -0.018,
+   "atlas_delta_z": 1.147,
+   "atlas_labels": "astrocyte",
+   "n_cells": 574
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "mesothelial cells",
+   "reference_delta": 0.028,
+   "atlas_delta_z": 0.326,
+   "atlas_labels": "Sertoli cell | mesothelial cell",
+   "n_cells": 3855
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "reference_cell_type": "mesothelial cells",
+   "reference_delta": 0.028,
+   "atlas_delta_z": 0.607,
+   "atlas_labels": "Sertoli cell",
+   "n_cells": 6726
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "fibroblasts",
+   "reference_delta": 0.104,
+   "atlas_delta_z": 0.536,
+   "atlas_labels": "fibroblast",
+   "n_cells": 53467
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "fibroblasts",
+   "reference_delta": 0.104,
+   "atlas_delta_z": -1.65,
+   "atlas_labels": "fibroblast",
+   "n_cells": 2541
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "gastric chief cells",
+   "reference_delta": 0.193,
+   "atlas_delta_z": -0.734,
+   "atlas_labels": "peptic cell",
+   "n_cells": 4973
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "t-cells",
+   "reference_delta": 0.525,
+   "atlas_delta_z": 1.302,
+   "atlas_labels": "T cell",
+   "n_cells": 27547
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "t-cells",
+   "reference_delta": 0.525,
+   "atlas_delta_z": 0.662,
+   "atlas_labels": "T cell | cytotoxic T cell | mature NK T cell",
+   "n_cells": 7072
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "goblet cells",
+   "reference_delta": 0.634,
+   "atlas_delta_z": 0.669,
+   "atlas_labels": "goblet cell",
+   "n_cells": 7191
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "vascular endothelial cells",
+   "reference_delta": 0.725,
+   "atlas_delta_z": 1.063,
+   "atlas_labels": "endothelial cell",
+   "n_cells": 33863
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "vascular endothelial cells",
+   "reference_delta": 0.725,
+   "atlas_delta_z": 0.748,
+   "atlas_labels": "endothelial cell",
+   "n_cells": 634
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "reference_cell_type": "vascular endothelial cells",
+   "reference_delta": 0.725,
+   "atlas_delta_z": 0.899,
+   "atlas_labels": "endothelial cell",
+   "n_cells": 414
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "b-cells",
+   "reference_delta": 0.778,
+   "atlas_delta_z": 1.618,
+   "atlas_labels": "B cell",
+   "n_cells": 7036
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "b-cells",
+   "reference_delta": 0.778,
+   "atlas_delta_z": -0.355,
+   "atlas_labels": "B cell",
+   "n_cells": 585
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "macrophages",
+   "reference_delta": 0.948,
+   "atlas_delta_z": 1.683,
+   "atlas_labels": "M2 macrophage | macrophage",
+   "n_cells": 38708
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "monocytes",
+   "reference_delta": 1.002,
+   "atlas_delta_z": 1.466,
+   "atlas_labels": "monocyte",
+   "n_cells": 19248
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "reference_cell_type": "urothelial cells",
+   "reference_delta": 1.131,
+   "atlas_delta_z": 0.057,
+   "atlas_labels": "basal cell of urothelium | intermediate cell of urothelium | umbrella cell of urothelium | urothelial cell",
+   "n_cells": 14848
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "neutrophils",
+   "reference_delta": 1.2,
+   "atlas_delta_z": -0.1,
+   "atlas_labels": "neutrophil",
+   "n_cells": 18545
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "enterocytes",
+   "reference_delta": 1.284,
+   "atlas_delta_z": 0.276,
+   "atlas_labels": "enterocyte",
+   "n_cells": 36440
+  },
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "reference_cell_type": "plasma cells",
+   "reference_delta": 1.371,
+   "atlas_delta_z": 0.955,
+   "atlas_labels": "plasma cell",
+   "n_cells": 27737
+  }
+ ]
+}

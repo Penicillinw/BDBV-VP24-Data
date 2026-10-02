@@ -1,0 +1,130 @@
+{
+ "n_sample_blocks": 44,
+ "n_incomplete_blocks": 0,
+ "incomplete_gsms": [],
+ "n_metadata_columns": 44,
+ "n_matrix_columns": 44,
+ "column_set_equality": true,
+ "only_in_metadata": [],
+ "only_in_matrix": [],
+ "arms": {
+  "6 hour IFN alpha | batch 20200820": [
+   "A1",
+   "A2",
+   "A3",
+   "A4"
+  ],
+  "24 hour IFN alpha | batch 20200820": [
+   "A5",
+   "A6",
+   "A7",
+   "A8"
+  ],
+  "6 hour IFN beta | batch 20200722": [
+   "B1",
+   "B2",
+   "B3",
+   "B4"
+  ],
+  "24 hour IFN beta | batch 20200722": [
+   "B5",
+   "B6",
+   "B7",
+   "B8"
+  ],
+  "6 hour IFN gamma | batch 20200722": [
+   "G1",
+   "G2"
+  ],
+  "24 hour IFN gamma | batch 20200722": [
+   "G5",
+   "G6",
+   "G7"
+  ],
+  "6 hour IFN lambda | batch 20200820": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "24 hour IFN lambda | batch 20200820": [
+   "M5",
+   "M6",
+   "M7",
+   "M8"
+  ],
+  "no treatment | batch 20200722": [
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8"
+  ],
+  "no treatment | batch 20200820": [
+   "K1",
+   "K2",
+   "K3",
+   "K4",
+   "K5",
+   "K6",
+   "K7",
+   "K8"
+  ]
+ },
+ "letter_prefix_sizes": {
+  "A": 8,
+  "B": 8,
+  "G": 5,
+  "K": 8,
+  "M": 8,
+  "N": 7
+ },
+ "matrix_column_order": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "B1",
+  "B2",
+  "B3",
+  "B4",
+  "B5",
+  "B6",
+  "B7",
+  "B8",
+  "G1",
+  "G2",
+  "G5",
+  "G6",
+  "G7",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "K5",
+  "K6",
+  "K7",
+  "K8",
+  "M1",
+  "M2",
+  "M3",
+  "M4",
+  "M5",
+  "M6",
+  "M7",
+  "M8",
+  "N2",
+  "N3",
+  "N4",
+  "N5",
+  "N6",
+  "N7",
+  "N8"
+ ]
+}

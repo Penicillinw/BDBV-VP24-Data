@@ -1,0 +1,8 @@
+level	feature	n	estimate	p_value	r2
+within_tissue_fe	S_AT_lectin	343	-0.0137	0.89551	0.3368
+within_tissue_fe	S_AT_broad	343	-0.0998	0.4131	0.3382
+within_tissue_fe	S_EM_all	343	-0.0318	0.7707	0.337
+within_tissue_fe	S_EM_protease	343	0.059	0.70642	0.3371
+within_tissue_fe	S_RE_interferon	343	0.0268	0.80309	0.3369
+within_tissue_fe	S_ISG_control	343	-0.0882	0.39626	0.3383
+within_tissue_fe	S_MONO_marker	343	-0.0165	0.89946	0.3368

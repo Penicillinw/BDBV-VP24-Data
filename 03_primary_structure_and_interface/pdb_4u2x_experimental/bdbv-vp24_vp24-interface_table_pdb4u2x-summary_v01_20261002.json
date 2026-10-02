@@ -1,0 +1,61 @@
+{
+ "pdb": "4U2X",
+ "structure_chain": "A (EBOV VP24)",
+ "structure_length": 216,
+ "placement_offset": 15,
+ "placement_identity": 1.0,
+ "n_interface_residues": 29,
+ "n_in_all_three_copies": 26,
+ "bdbv_differing_interface_residues": [
+  {
+   "ebov_full_pos": 184,
+   "EBOV": "Q",
+   "BDBV": "R",
+   "SUDV": "P",
+   "TAFV": "K",
+   "RESTV": "S",
+   "n_contact_atoms": 78,
+   "in_all_copies": true
+  },
+  {
+   "ebov_full_pos": 140,
+   "EBOV": "R",
+   "BDBV": "H",
+   "SUDV": "R",
+   "TAFV": "Q",
+   "RESTV": "S",
+   "n_contact_atoms": 39,
+   "in_all_copies": true
+  },
+  {
+   "ebov_full_pos": 135,
+   "EBOV": "N",
+   "BDBV": "Q",
+   "SUDV": "N",
+   "TAFV": "Q",
+   "RESTV": "N",
+   "n_contact_atoms": 20,
+   "in_all_copies": true
+  },
+  {
+   "ebov_full_pos": 141,
+   "EBOV": "V",
+   "BDBV": "A",
+   "SUDV": "V",
+   "TAFV": "A",
+   "RESTV": "V",
+   "n_contact_atoms": 5,
+   "in_all_copies": true
+  },
+  {
+   "ebov_full_pos": 217,
+   "EBOV": "A",
+   "BDBV": "V",
+   "SUDV": "V",
+   "TAFV": "V",
+   "RESTV": "V",
+   "n_contact_atoms": 3,
+   "in_all_copies": false
+  }
+ ]
+}

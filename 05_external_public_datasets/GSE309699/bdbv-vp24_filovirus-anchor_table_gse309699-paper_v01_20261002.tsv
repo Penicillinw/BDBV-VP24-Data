@@ -1,0 +1,46 @@
+idx	tags	greek_letters_present	sentence
+1		γ	IFN-γ is the most structurally divergent from the other two classes of IFN and binds a different heterodimeric receptor comprised of interferon-gamma receptors 1 and 2 (IFNGR1/2) to elicit STAT1-dependent production of ISGs [ 35 ].
+2		λ	IFN-λ is the least studied member of the IFN family.
+3	dose;inhibit	βγλ	We also show that IFN-β, IFN-γ, and IFN-λ elicit dose-dependent inhibition of EBOV replication in keratinocytes.
+4	ng/mL	βγ	In one study, 100 ng/mL of IFN-β, 100 ng/mL of IFN-γ, or medium only was added to wells.
+5	ng/mL	αλ	In a second study, 2.47 ng/mL IFN-α, 18.8 ng/mL IFN-λ, or medium only was added.
+6		αβγλ	In each separate experiment, we compared individual interferon treatments to the untreated control that was initially included with each RNA isolation (none compared with IFN-β and IFN-γ and none1 compared with IFN-α and IFN-λ).
+7	significant	β	Visualization of these data via volcano plot analysis showed that rVSV/EBOV GP infection elicited robust expression of IFN-β and multiple well-established ISGs such as CXCL10, MX1, and OAS2 ( Figure 2 A and Figure S2 ), as well as a significant decrease in expression of TLR7 RNA.
+8	inhibit	βγλ	Exogenous Treatment with IFN-β, IFN-γ, and IFN-λ Inhibits EBOV Replication in Human Keratinocytes Both type I and type II IFNs have been demonstrated to inhibit EBOV replication in a variety of cell types, including macrophages, Huh7 cells, 769-P cells, and Vero cells [ 31 , 72 , 73 ].
+9	dose;6 h;significant	βγλ	Treatment for 6 h with IFN-β, IFN-γ, or IFN-λ caused significant dose-dependent decreases in EBOVΔVP30 infection ( Figure 3 A).
+10	6 h;significant;similar;inhibit	βγλ	Both IFN-β and IFN-γ were similarly inhibitory at 6 h, while IFN-λ was significantly less inhibitory.
+11	dose;24 h;similar;inhibit	βλ	Dose-dependent decreases in EBOVΔVP30 infection were also observed for all three IFNs when treatment was extended to 24 h ( Figure 3 B), with IFN-β and IFN-λ both conferring similar levels of inhibition.
+12	24 h;significant;inhibit	βγ	Notably, IFN-β was significantly more inhibitory than IFN-γ during a 24 h treatment.
+13	6 h;24 h;significant;enhanc;inhibit	βλ	Treatment for 24 h significantly enhanced the inhibition conferred by IFN-β and IFN-λ ( Figure 3 C,E), indicating an increase in EBOV-inhibitory ISG expression between 6 h and 24 h.
+14	6 h;24 h;similar;inhibit	γ	The inhibition conferred by IFN-γ was similar between 6 h and 24 h ( Figure 3 D), providing evidence that expression of IFN-γ-elicited, EBOV-inhibitory ISGs had already occurred by 6 h.
+15	inhibit	γ	At this time point, the ability of IFN-γ to inhibit rVSV/EBOV GP compared to type I IFN was reduced in these cells ( Figure S5D ), highlighting that immortalized keratinocytes may be weakly responsive to IFN-γ in the context of EBOV GP-mediated infection.
+16	inhibit	βγ	However, rVSV/EBOV GP was strongly inhibited by IFN-β and IFN-γ in primary keratinocytes ( Figure S5E ), suggesting that this donor may be particularly sensitive to IFN treatment, or that immortalization dampens IFN responses that inhibit rVSV/EBOV GP replication.
+17	ng/mL	αβγλ	In the first set of studies, cells were treated with 100 ng/mL of IFN-β or IFN-γ, and, in a separate experiment, cells were treated with IFN-λ (18.8 ng/mL) or IFN-α (2.47 ng/mL).
+18		β	In a heatmap analysis, we aligned the top 100 genes upregulated by IFN-β and compared these findings to the expression changes induced by other IFN treatments ( Figure 4 B).
+19		αβγλ	Several of the most robust hits for IFN-β were also upregulated by IFN-α and IFN-λ, whereas the pattern of altered expression differed in the IFN-γ-treated cells.
+20	similar	βγλ	We observed that similar CMPK2 expression was induced in both NHSK-1 and NHSK-1-VP30 cells treated with IFN-β, IFN-γ, or IFN-λ ( Figure S6A–C ).
+21	significant;similar	αλ	IFN-α and IFN-λ, however, significantly overlapped in the PCA, which was expected, given the similarities between type I and type III IFN signaling [ 36 ].
+22	inhibit	αβγλ	In total, these analyses confirm that NHSK-1 cells exhibit robust and somewhat overlapping ISG responses to IFN-α, IFN-β, IFN-γ, and IFN-λ and identify several ISGs with potential EBOV-inhibitory capabilities. 3.5.
+23	6 h;24 h;enhanc;inhibit	βλ	Given that 24 h treatment with IFN-β and IFN-λ enhanced inhibition of EBOVΔVP30 infection over 6 h treatment ( Figure 3 ), DEGs uniquely expressed between 6 h and 24 h of treatment may directly or indirectly inhibit EBOV infection.
+24	24 h;significant	βγλ	Three genes with the greatest differential upregulation following 24 h of IFN-β and IFN-λ treatment were the common ISGs IFI27, C1R, and BST2, whereas the most significantly upregulated genes by IFN-γ were distinct and were primarily genes involved in stimulating antigen presentation (CD74, HLA-B, HLA-DRB1 and HLA-DRA).
+25		β	IFN-β was the most upregulated gene, which would promulgate innate immune responses.
+26		αβλ	We found that IFN-β elicited the strongest response with the greatest number of DEGs, while a subset of these was stimulated by IFN-α and IFN-λ.
+27		βγ	DEGs upregulated by IFN-β and IFN-γ overlapped to a lesser extent, which is consistent with IFN-γ-elicited responses being driven by STAT1 homodimers [ 33 ].
+28	ng/mL	γ	For example, prior studies from our lab have showed that 0.2 ng/mL of murine IFN-γ caused a four-fold decrease in percent infection of murine peritoneal macrophages [ 31 ].
+29	inhibit	β	In another study, IFN-β caused over 50% inhibition of EBOV infection in Vero E6 cells, Huh7 cells, and human monocyte-derived macrophages at low concentrations relative to those used in our study [ 72 ].
+30	significant;inhibit	βγλ	Even so, IFN-β, IFN-γ, and IFN-λ all significantly inhibit EBOV infection in keratinocytes, and our parallel transcriptomic studies allowed us to generate a focused array of candidate ISGs ( Figure 4 ) that may contribute to IFN-mediated inhibition of EBOV in keratinocytes.
+31	6 h;24 h;inhibit	γ	In contrast, the inhibition mediated by IFN-γ was equivalent at 6 h and 24 h, suggesting that the IFN-γ-elicited ISGs driving EBOV inhibition are expressed by 6 h.
+32	24 h	βγ	Further, at 24 h, IFN-γ was less effective at blocking EBOVΔVP30 infection than IFN-β.
+33	6 h;inhibit	γ	It is possible that this is due to more limited IFN-γ receptor expression on keratinocytes; however, our data showing that virus inhibition by type I and II IFNs is equivalent at 6 h suggest that this is likely not the case ( Figure 3 A).
+34	enhanc	αγ	While IFN-γ alone was not efficacious against HBV, IFN-γ pretreatment followed by IFN-α enhanced immune responses and was associated with increased viral clearance [ 89 ].
+35		αλ	Prophylactic delivery of adenovirus-vectored porcine IFN-α, but not IFN-λ3, one day prior to EBOV challenge strongly reduced viral loads and protected animals against disease [ 93 ].
+36	significant;enhanc	β	IFN-β was also therapeutically efficacious when treatment of EBOV- or Marburg virus-infected rhesus macaques occurred within 18 hpi, significantly enhancing survival [ 94 ].
+37	24 h;similar	γ	Similarly, IFN-γ treatment of mice up to 24 h after mouse-adapted EBOV challenge reduced viral loads and prevented mortality [ 31 ].
+38		β	Finally, during the West African epidemic, nine EVD patients treated with IFN-β appeared to have more rapid virus clearance and faster resolution of the disease compared to an untreated retrospective cohort [ 30 ].
+39	inhibit	βγλ	Supplementary Materials The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/v17121577/s1 , Figure S1: EBOVΔVP30 Infection Gating Strategy; Figure S2: rVSV/EBOV elicits antiviral responses in human keratinocytes; Figure S3: EBOVΔVP30 does not elicit antiviral responses in human keratinocytes; Figure S4: Timing of antiviral responses elicited by rVSV/EBOV and EBOVΔVP30; Figure S5: Treatment with IFN-β, IFN-γ, and IFN-λ inhibits rVSV/EBOV replication in human keratinocytes and EBOVΔVP30 in multiple NHSK-1-VP30 clones; Figure S6: Interferons elicit comparable ISG expression in NHSK-1 and NHSK-1-VP30 cells; Figure S7: Interferons elicit a range of overlapping and unique pathways in human keratinocytes; Table S1: IFN-β-stimulated DEGs unique to 6- or 24-h treatment; Table S2: IFN-γ-stimulated DEGs unique to 6- or 24-hour treatment; Table S3: IFN-λ-stimulated DEGs unique to 6- or 24-h treatment.
+40	inhibit	βγλ	Figure 3 Treatment with IFN-β, IFN-γ, or IFN-λ inhibits EBOV∆VP30 replication in human keratinocytes.
+41	6 h	βγλ	( A ) EBOV∆VP30 infection of cells pre-treated for 6 h with IFN-β, IFN-γ, or IFN-λ evaluated by flow cytometry and compared to infection of non-treated cells (dotted line).
+42	24 h	γ	( B ) EBOV∆VP30 infection of cells pre-treated for 24 h (open squares) with IFN-γ evaluated by flow cytometry and compared to infection of non-treated cells (dotted line).
+43	ng/mL	αβγλ	NHSK-1 cells were treated with 100 ng/mL of IFN-β or IFN-γ, 18.8 ng/mL of IFN-λ, or 2.47 ng/mL of IFN-α.
+44		βγλ	( B ) Heatmap analysis of highest upregulated genes in IFN-β-treated cells compared to IFN-γ- and IFN-λ-treated cells.
+45	ng/mL	βγλ	NHSK-1 cells were treated with 100 ng/mL of IFN-β or IFN-γ or 18.8 ng/mL of IFN-λ.

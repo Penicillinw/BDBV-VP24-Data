@@ -1,0 +1,12 @@
+source	provenance	readout	condition	value	unit	note
+Elliff2025_Fig3A	figure image, PMC12737376, panel A	EBOVdVP30 infection	no IFN	2.0e5	AUC %infection	baseline reference
+Elliff2025_Fig3A	figure image	EBOVdVP30 infection	IFN-beta 6 h	4.5e4	AUC %infection	most restrictive
+Elliff2025_Fig3A	figure image	EBOVdVP30 infection	IFN-gamma 6 h	9.5e4	AUC %infection	intermediate
+Elliff2025_Fig3A	figure image	EBOVdVP30 infection	IFN-lambda 6 h	1.15e5	AUC %infection	least restrictive
+Elliff2025_Fig3B	figure image, panel B	EBOVdVP30 infection	no IFN	2.05e5	AUC %infection	baseline reference
+Elliff2025_Fig3B	figure image	EBOVdVP30 infection	IFN-beta 24 h	5.5e4	AUC %infection	most restrictive
+Elliff2025_Fig3B	figure image	EBOVdVP30 infection	IFN-gamma 24 h	9.5e4	AUC %infection	intermediate
+Elliff2025_Fig3B	figure image	EBOVdVP30 infection	IFN-lambda 24 h	1.05e5	AUC %infection	least restrictive
+Elliff2025_Fig3C	figure image, panel C	EBOVdVP30 infection	IFN-beta 6 h vs 24 h	significant, 24 h lower	AUC %infection	paper reports ***, 24 h enhanced inhibition
+Elliff2025_Fig3D	figure image, panel D	EBOVdVP30 infection	IFN-gamma 6 h vs 24 h	not significant	AUC %infection	paper reports ns
+Elliff2025_Fig3E	figure image, panel E	EBOVdVP30 infection	IFN-lambda 6 h vs 24 h	significant, 24 h lower	AUC %infection	paper reports **, 24 h enhanced inhibition

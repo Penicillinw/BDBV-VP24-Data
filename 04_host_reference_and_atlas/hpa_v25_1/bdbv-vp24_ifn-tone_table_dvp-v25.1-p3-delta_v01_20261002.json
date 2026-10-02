@@ -1,0 +1,35 @@
+{
+  "primary": {
+    "n_pairs": 9,
+    "spearman": 0.9833333333333332,
+    "null_mean": 0.0016616666666666663,
+    "null_p95": 0.6,
+    "perm_p": 9.999000099990002e-05,
+    "verdict": "ALIGNED",
+    "min_detectable_rho": 0.8156704279054255,
+    "n_perm": 10000,
+    "seed": 20260927
+  },
+  "sens_a": {
+    "n_pairs": 15,
+    "spearman": 0.9642857142857143,
+    "null_mean": -0.0002899999999999998,
+    "null_p95": 0.4357142857142857,
+    "perm_p": 9.999000099990002e-05,
+    "verdict": "ALIGNED",
+    "min_detectable_rho": 0.6688990105951951,
+    "n_perm": 10000,
+    "seed": 20260927
+  },
+  "sensitivity": {
+    "n_pairs": 19,
+    "spearman": 0.9491228070175437,
+    "null_mean": -0.0003998245614035088,
+    "null_p95": 0.38771929824561396,
+    "perm_p": 9.999000099990002e-05,
+    "verdict": "ALIGNED",
+    "min_detectable_rho": 0.6046192671197302,
+    "n_perm": 10000,
+    "seed": 20260927
+  }
+}

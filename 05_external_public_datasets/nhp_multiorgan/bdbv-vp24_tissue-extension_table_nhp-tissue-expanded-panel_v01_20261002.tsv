@@ -1,0 +1,8 @@
+gene	in_human_atlas	in_macaque_data	evidence
+CCZ1	False	False	PMID 37880247 (Nat Commun 2023) essential lysosomal trafficking regulator for Marburg and Ebola virus
+CCZ1B	False	False	paralog of CCZ1
+SLC39A9	True	True	PMID 39173055 (PLoS Pathog 2024) crucial entry factor
+PIK3C3	True	True	PMID 39173055 (PLoS Pathog 2024) crucial entry factor
+GNPTAB	True	True	PMID 30655525 (Nat Commun 2019) genome-wide CRISPR screen
+VPS29	True	True	PMID 35229640 (mBio 2022) opposing effects on endocytic entry
+TMEM106B	True	True	ACE2-independent entry receptor family (2023)

@@ -1,0 +1,73 @@
+{
+  "query": "Bundibugyo virus[Organism] AND VP24[All Fields]",
+  "esearch_count": "32",
+  "records_parsed": 32,
+  "full_length_records": 31,
+  "partial_records": 1,
+  "partial_accessions": [
+    "QNC49636"
+  ],
+  "full_length_collection_years": [
+    "2007",
+    "2012"
+  ],
+  "full_length_collection_dates": [
+    "01-Oct-2007",
+    "09-Sep-2012",
+    "14-Nov-2007",
+    "20-Aug-2012",
+    "2007",
+    "2012",
+    "21-Sep-2012",
+    "Aug-2012",
+    "Nov-2007"
+  ],
+  "distinct_isolates": [
+    "",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-201200004",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120037",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120074-1",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120115-1",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120120-1",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120130",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120135",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120138",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120143",
+    "Bundibugyo\n                     virus/H.sapiens-tc/COD/2012/Isiro-20120143-3",
+    "Bundibugyo\n                     virus/H.sapiens-tc/UGA/2007/Butalya-811250",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-201200120-1",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-20120022-1",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-20120074-1",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-20120109-2",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-20120115-1",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-20120116-3",
+    "Bundibugyo\n                     virus/H.sapiens-wt/COD/2012/Isiro-20120130",
+    "Bundibugyo virus/H.\n                     sapiens-tc/UGA/2007/Bundibugyo-200706291",
+    "EboBund-112 2012",
+    "EboBund-120 2012",
+    "EboBund-122 2012",
+    "EboBund-14 2012",
+    "Ebola\n                     virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291",
+    "Ebola\n                     virus/H.sapiens-tc/Uganda/2007/Bundibugyo-R4386L",
+    "Ebolavirus H.sapiens-tc/2007"
+  ],
+  "ebov_reference": "NC_002549.1",
+  "ebov_vp24_length": 251,
+  "ebov_positions_reported": [
+    83,
+    135,
+    140,
+    141,
+    184,
+    217
+  ],
+  "four_position_motif_counts": {
+    "SQHA": 31
+  },
+  "motif_definition": "positions 83/135/140/141 in EBOV VP24 numbering",
+  "all_full_length_are_SQHA": true,
+  "n_sub_vs_EBOV_unaligned_range": [
+    35,
+    36
+  ]
+}

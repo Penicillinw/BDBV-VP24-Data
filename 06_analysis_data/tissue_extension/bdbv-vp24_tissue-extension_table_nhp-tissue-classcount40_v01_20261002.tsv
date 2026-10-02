@@ -1,0 +1,14 @@
+quantity	formal_42	sensitivity_40
+n classes	42	40
+n marker genes	5338	5163
+R^2 (composition -> ISG_core)	0.559	0.577
+anchor A1 top-1 hits	6	6
+anchor A1 pass	True	True
+anchor A2 rho (immune vs marker index)	0.405	0.262
+anchor A2 pass	False	False
+all anchors pass	False	False
+primary rho (delta_weighted vs E_adj)	-0.524	-0.5
+primary p_perm	0.1938	0.215
+pipeline reproduction rho	-0.333	-0.333
+pipeline reproduction ok	True	True
+verdict	不可判定：去卷积未通过锚点（A1/A2 至少一条未过）	不可判定：去卷积未通过锚点（A1/A2 至少一条未过）

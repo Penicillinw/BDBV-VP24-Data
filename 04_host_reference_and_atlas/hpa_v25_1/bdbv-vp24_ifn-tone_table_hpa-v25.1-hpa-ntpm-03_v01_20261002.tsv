@@ -1,0 +1,9 @@
+symbol	role	matched_cell_type	matched_nCPM	matched_percentile	top_cell_type	top_nCPM	n_cell_types
+CD209	macrophage route	macrophages	2.7	100.0	macrophages	2.7	154
+CLEC10A	macrophage route	macrophages	124.5	99.4	cdc	662.6	154
+CLEC4M	sinusoidal route	vascular endothelial cells	12.3	98.7	granulosa cells	26.8	154
+CLEC4G	sinusoidal route	vascular endothelial cells	0.3	96.8	brain excitatory neurons	10.4	154
+HAVCR1	TIM-1 arm	proximal tubule cells	70.5	100.0	proximal tubule cells	70.5	154
+NPC1	shared receptor	macrophages	122.9	76.6	alveolar cells type 2	534.3	154
+CTSB	priming protease	kupffer cells	1672.7	100.0	kupffer cells	1672.7	154
+CTSL	priming protease	kupffer cells	406.9	96.1	syncytiotrophoblasts	1915.0	154

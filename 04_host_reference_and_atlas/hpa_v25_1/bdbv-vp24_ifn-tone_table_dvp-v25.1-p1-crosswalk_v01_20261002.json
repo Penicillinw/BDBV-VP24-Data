@@ -1,0 +1,82 @@
+{
+  "delta_cell_types": 154,
+  "dvp_groups_24": [
+    "alveolar cell types",
+    "astrocytes and neuropil",
+    "b-cells",
+    "capillaries",
+    "cardiomyocytes",
+    "collecting ducts",
+    "distal tubules",
+    "fallopian tube cells",
+    "glomeruli",
+    "granulosa cells",
+    "hepatocytes",
+    "keratinocytes",
+    "large ducts",
+    "macrophages",
+    "microglia and neuropil",
+    "neurons",
+    "neutrophils",
+    "oocytes",
+    "pancreas epithelial cells",
+    "pancreatic islets",
+    "proximal tubules",
+    "skeletal myofibers",
+    "smooth muscle cells",
+    "t-cells"
+  ],
+  "dvp_cell_types_27": [
+    "alveolar cells type 1",
+    "alveolar cells type 2",
+    "astrocytes and neuropil",
+    "b-cells",
+    "capillaries",
+    "cardiomyocytes",
+    "cd4 t-cells",
+    "cd8 t-cells",
+    "ciliated cells",
+    "collecting ducts",
+    "distal tubules",
+    "glomeruli",
+    "granulosa cells",
+    "hepatocytes",
+    "keratinocytes",
+    "large ducts",
+    "macrophages",
+    "microglia and neuropil",
+    "neurons",
+    "neutrophils",
+    "oocytes",
+    "pancreas epithelial cells",
+    "pancreatic islets",
+    "proximal tubules",
+    "secretory cells",
+    "skeletal myofibers",
+    "smooth muscle cells"
+  ],
+  "n_primary": 9,
+  "n_sens_a": 15,
+  "n_sensitivity": 19,
+  "families": {
+    "alveolar cell types": [
+      "alveolar cells type 1",
+      "alveolar cells type 2"
+    ],
+    "collecting ducts": [
+      "renal collecting duct intercalated cells",
+      "renal collecting duct principal cells"
+    ],
+    "keratinocytes": [
+      "basal keratinocytes",
+      "suprabasal keratinocytes"
+    ],
+    "neurons": [
+      "brain excitatory neurons",
+      "brain inhibitory neurons",
+      "other brain neurons"
+    ]
+  },
+  "n_existing_usable": 21,
+  "n_disagreements": 8
+}

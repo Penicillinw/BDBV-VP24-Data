@@ -1,0 +1,373 @@
+{
+ "dataset": "GSE327707",
+ "note": "all checks pre-specified in the script docstring",
+ "primary_pooled_spearman_raw": -0.914,
+ "leave_one_donor_out": {
+  "Donor 464": -0.96,
+  "Donor 467": -0.94,
+  "Donor 470": -0.92,
+  "Donor 474": -0.92,
+  "Donor 477": -0.98,
+  "Donor 479": -0.96
+ },
+ "partial_spearman_controlling_baseline_housekeeping": -0.915,
+ "disjoint_gene_halves": {
+  "rho_baseline_7genes_vs_response_other_7": -0.856,
+  "rho_baseline_other_7_vs_response_7": -0.855
+ },
+ "baseline_vs_post_ifn_level": {
+  "spearman_baseline_vs_post_level": 0.375,
+  "spread_by_cell_type": {
+   "Whole PBMC": {
+    "baseline_sd": 1.808,
+    "post_ifn_sd": 0.448,
+    "baseline_range": 4.809,
+    "post_ifn_range": 1.313
+   },
+   "CD14": {
+    "baseline_sd": 1.858,
+    "post_ifn_sd": 0.277,
+    "baseline_range": 4.707,
+    "post_ifn_range": 0.779
+   },
+   "CD4": {
+    "baseline_sd": 1.398,
+    "post_ifn_sd": 0.214,
+    "baseline_range": 3.826,
+    "post_ifn_range": 0.525
+   },
+   "CD8": {
+    "baseline_sd": 1.568,
+    "post_ifn_sd": 0.153,
+    "baseline_range": 4.047,
+    "post_ifn_range": 0.435
+   },
+   "B cell": {
+    "baseline_sd": 1.232,
+    "post_ifn_sd": 0.126,
+    "baseline_range": 3.653,
+    "post_ifn_range": 0.339
+   }
+  }
+ },
+ "per_donor_profile": {
+  "Donor 464": {
+   "per_cell_type": {
+    "Whole PBMC": {
+     "isg_induction_ifna": 5.042,
+     "isg_induction_lps": 1.993,
+     "nfkb_induction_lps": 3.842,
+     "nfkb_induction_cytostim": 2.528,
+     "act_induction_cytostim": 1.35
+    },
+    "CD14": {
+     "isg_induction_ifna": 4.032,
+     "isg_induction_lps": 1.322,
+     "nfkb_induction_lps": 2.748,
+     "nfkb_induction_cytostim": 1.909,
+     "act_induction_cytostim": 1.21
+    },
+    "CD4": {
+     "isg_induction_ifna": 4.781,
+     "isg_induction_lps": 2.036,
+     "nfkb_induction_lps": 1.262,
+     "nfkb_induction_cytostim": 2.564,
+     "act_induction_cytostim": 2.352
+    },
+    "CD8": {
+     "isg_induction_ifna": 4.64,
+     "isg_induction_lps": 1.974,
+     "nfkb_induction_lps": 1.112,
+     "nfkb_induction_cytostim": -0.678,
+     "act_induction_cytostim": 3.085
+    },
+    "B cell": {
+     "isg_induction_ifna": 3.055,
+     "isg_induction_lps": 0.258,
+     "nfkb_induction_lps": 0.519,
+     "nfkb_induction_cytostim": 1.603,
+     "act_induction_cytostim": 0.677
+    }
+   },
+   "mean_over_cell_types": {
+    "isg_induction_ifna": 4.31,
+    "isg_induction_lps": 1.517,
+    "nfkb_induction_lps": 1.897,
+    "nfkb_induction_cytostim": 1.585,
+    "act_induction_cytostim": 1.735
+   }
+  },
+  "Donor 467": {
+   "per_cell_type": {
+    "Whole PBMC": {
+     "isg_induction_ifna": 3.775,
+     "isg_induction_lps": 0.597,
+     "nfkb_induction_lps": 3.247,
+     "nfkb_induction_cytostim": 1.964,
+     "act_induction_cytostim": 2.712
+    },
+    "CD14": {
+     "isg_induction_ifna": 1.681,
+     "isg_induction_lps": -1.25,
+     "nfkb_induction_lps": 2.359,
+     "nfkb_induction_cytostim": 1.473,
+     "act_induction_cytostim": 1.902
+    },
+    "CD4": {
+     "isg_induction_ifna": 3.974,
+     "isg_induction_lps": 0.933,
+     "nfkb_induction_lps": 1.222,
+     "nfkb_induction_cytostim": 0.972,
+     "act_induction_cytostim": 2.573
+    },
+    "CD8": {
+     "isg_induction_ifna": 4.025,
+     "isg_induction_lps": 0.726,
+     "nfkb_induction_lps": 1.726,
+     "nfkb_induction_cytostim": 0.766,
+     "act_induction_cytostim": 2.382
+    },
+    "B cell": {
+     "isg_induction_ifna": 2.964,
+     "isg_induction_lps": 0.083,
+     "nfkb_induction_lps": 1.023,
+     "nfkb_induction_cytostim": 1.256,
+     "act_induction_cytostim": 0.98
+    }
+   },
+   "mean_over_cell_types": {
+    "isg_induction_ifna": 3.284,
+    "isg_induction_lps": 0.218,
+    "nfkb_induction_lps": 1.915,
+    "nfkb_induction_cytostim": 1.286,
+    "act_induction_cytostim": 2.11
+   }
+  },
+  "Donor 470": {
+   "per_cell_type": {
+    "Whole PBMC": {
+     "isg_induction_ifna": 2.946,
+     "isg_induction_lps": 0.969,
+     "nfkb_induction_lps": 2.464,
+     "nfkb_induction_cytostim": 1.568,
+     "act_induction_cytostim": 4.015
+    },
+    "CD14": {
+     "isg_induction_ifna": 3.046,
+     "isg_induction_lps": 0.746,
+     "nfkb_induction_lps": 3.909,
+     "nfkb_induction_cytostim": 2.62,
+     "act_induction_cytostim": 3.301
+    },
+    "CD4": {
+     "isg_induction_ifna": 3.249,
+     "isg_induction_lps": 1.66,
+     "nfkb_induction_lps": 1.192,
+     "nfkb_induction_cytostim": 0.791,
+     "act_induction_cytostim": 2.84
+    },
+    "CD8": {
+     "isg_induction_ifna": 3.501,
+     "isg_induction_lps": 1.395,
+     "nfkb_induction_lps": 1.659,
+     "nfkb_induction_cytostim": 0.898,
+     "act_induction_cytostim": 4.513
+    },
+    "B cell": {
+     "isg_induction_ifna": 2.574,
+     "isg_induction_lps": 0.904,
+     "nfkb_induction_lps": 0.697,
+     "nfkb_induction_cytostim": 1.048,
+     "act_induction_cytostim": 1.931
+    }
+   },
+   "mean_over_cell_types": {
+    "isg_induction_ifna": 3.063,
+    "isg_induction_lps": 1.135,
+    "nfkb_induction_lps": 1.984,
+    "nfkb_induction_cytostim": 1.385,
+    "act_induction_cytostim": 3.32
+   }
+  },
+  "Donor 474": {
+   "per_cell_type": {
+    "Whole PBMC": {
+     "isg_induction_ifna": 0.667,
+     "isg_induction_lps": -2.32,
+     "nfkb_induction_lps": 3.848,
+     "nfkb_induction_cytostim": 0.089,
+     "act_induction_cytostim": 3.863
+    },
+    "CD14": {
+     "isg_induction_ifna": 0.981,
+     "isg_induction_lps": -2.786,
+     "nfkb_induction_lps": 4.543,
+     "nfkb_induction_cytostim": 2.293,
+     "act_induction_cytostim": 4.514
+    },
+    "CD4": {
+     "isg_induction_ifna": 1.428,
+     "isg_induction_lps": -0.934,
+     "nfkb_induction_lps": 1.416,
+     "nfkb_induction_cytostim": 0.303,
+     "act_induction_cytostim": 4.256
+    },
+    "CD8": {
+     "isg_induction_ifna": 0.768,
+     "isg_induction_lps": -1.257,
+     "nfkb_induction_lps": 2.115,
+     "nfkb_induction_cytostim": 0.616,
+     "act_induction_cytostim": 4.204
+    },
+    "B cell": {
+     "isg_induction_ifna": 0.899,
+     "isg_induction_lps": -1.075,
+     "nfkb_induction_lps": 1.33,
+     "nfkb_induction_cytostim": 0.751,
+     "act_induction_cytostim": 2.487
+    }
+   },
+   "mean_over_cell_types": {
+    "isg_induction_ifna": 0.949,
+    "isg_induction_lps": -1.674,
+    "nfkb_induction_lps": 2.65,
+    "nfkb_induction_cytostim": 0.81,
+    "act_induction_cytostim": 3.865
+   }
+  },
+  "Donor 477": {
+   "per_cell_type": {
+    "Whole PBMC": {
+     "isg_induction_ifna": 4.109,
+     "isg_induction_lps": 2.41,
+     "nfkb_induction_lps": 3.888,
+     "nfkb_induction_cytostim": 1.37,
+     "act_induction_cytostim": 2.403
+    },
+    "CD14": {
+     "isg_induction_ifna": 5.159,
+     "isg_induction_lps": 2.96,
+     "nfkb_induction_lps": 2.556,
+     "nfkb_induction_cytostim": 0.535,
+     "act_induction_cytostim": 2.526
+    },
+    "CD4": {
+     "isg_induction_ifna": 4.594,
+     "isg_induction_lps": 2.281,
+     "nfkb_induction_lps": 1.168,
+     "nfkb_induction_cytostim": 0.155,
+     "act_induction_cytostim": 3.335
+    },
+    "CD8": {
+     "isg_induction_ifna": 4.676,
+     "isg_induction_lps": 1.809,
+     "nfkb_induction_lps": 2.512,
+     "nfkb_induction_cytostim": 1.091,
+     "act_induction_cytostim": 4.089
+    },
+    "B cell": {
+     "isg_induction_ifna": 4.568,
+     "isg_induction_lps": 2.105,
+     "nfkb_induction_lps": 0.291,
+     "nfkb_induction_cytostim": 0.694,
+     "act_induction_cytostim": 1.178
+    }
+   },
+   "mean_over_cell_types": {
+    "isg_induction_ifna": 4.621,
+    "isg_induction_lps": 2.313,
+    "nfkb_induction_lps": 2.083,
+    "nfkb_induction_cytostim": 0.769,
+    "act_induction_cytostim": 2.706
+   }
+  },
+  "Donor 479": {
+   "per_cell_type": {
+    "Whole PBMC": {
+     "isg_induction_ifna": 4.385,
+     "isg_induction_lps": 0.816,
+     "nfkb_induction_lps": 4.18,
+     "nfkb_induction_cytostim": 1.019,
+     "act_induction_cytostim": 4.674
+    },
+    "CD14": {
+     "isg_induction_ifna": 5.082,
+     "isg_induction_lps": 0.449,
+     "nfkb_induction_lps": 2.301,
+     "nfkb_induction_cytostim": 1.103,
+     "act_induction_cytostim": 0.722
+    },
+    "CD4": {
+     "isg_induction_ifna": 4.644,
+     "isg_induction_lps": 1.179,
+     "nfkb_induction_lps": 0.572,
+     "nfkb_induction_cytostim": 0.361,
+     "act_induction_cytostim": 3.856
+    },
+    "CD8": {
+     "isg_induction_ifna": 4.371,
+     "isg_induction_lps": 0.948,
+     "nfkb_induction_lps": 1.133,
+     "nfkb_induction_cytostim": 0.27,
+     "act_induction_cytostim": 4.879
+    },
+    "B cell": {
+     "isg_induction_ifna": 3.58,
+     "isg_induction_lps": 0.695,
+     "nfkb_induction_lps": 0.591,
+     "nfkb_induction_cytostim": 0.814,
+     "act_induction_cytostim": 0.415
+    }
+   },
+   "mean_over_cell_types": {
+    "isg_induction_ifna": 4.412,
+    "isg_induction_lps": 0.817,
+    "nfkb_induction_lps": 1.755,
+    "nfkb_induction_cytostim": 0.713,
+    "act_induction_cytostim": 2.909
+   }
+  }
+ },
+ "housekeeping_baseline_by_donor": {
+  "Whole PBMC": {
+   "Donor 464": 7.734,
+   "Donor 467": 7.679,
+   "Donor 470": 6.937,
+   "Donor 474": 8.072,
+   "Donor 477": 7.383,
+   "Donor 479": 7.507
+  },
+  "CD14": {
+   "Donor 464": 8.079,
+   "Donor 467": 7.569,
+   "Donor 470": 7.755,
+   "Donor 474": 7.3,
+   "Donor 477": 7.379,
+   "Donor 479": 7.365
+  },
+  "CD4": {
+   "Donor 464": 7.499,
+   "Donor 467": 7.273,
+   "Donor 470": 7.912,
+   "Donor 474": 7.497,
+   "Donor 477": 7.666,
+   "Donor 479": 7.944
+  },
+  "CD8": {
+   "Donor 464": 7.006,
+   "Donor 467": 6.875,
+   "Donor 470": 7.847,
+   "Donor 474": 7.804,
+   "Donor 477": 7.329,
+   "Donor 479": 7.012
+  },
+  "B cell": {
+   "Donor 464": 6.923,
+   "Donor 467": 7.026,
+   "Donor 470": 7.841,
+   "Donor 474": 8.14,
+   "Donor 477": 6.967,
+   "Donor 479": 7.793
+  }
+ }
+}

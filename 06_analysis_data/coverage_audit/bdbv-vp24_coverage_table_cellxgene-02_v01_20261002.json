@@ -1,0 +1,12 @@
+{
+ "n_collections": 395,
+ "n_target_datasets": 292,
+ "per_target": {
+  "urothelium": 32,
+  "rpe": 69,
+  "photoreceptor": 69,
+  "sertoli": 9,
+  "choroid_plexus": 175,
+  "spleen": 33
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "status": "POST-HOC (not pre-registered); cannot change the frozen quadrant verdict",
+ "source": "data/hpa/rna_single_cell_type.tsv",
+ "n_cell_types": 154,
+ "n_genes_in_table": 20151,
+ "rho_obs_delta_kpna": -0.2699409382521337,
+ "rho_depth_vs_delta": 0.10120158595903933,
+ "rho_depth_vs_kpna_axis": 0.24527397303822457,
+ "partial_rho_delta_kpna_given_depth": -0.3056197137522143,
+ "null_random_3gene_axes": {
+  "n": 2000,
+  "seed": 20260926,
+  "median_abs_rho": 0.17275755344543892,
+  "p95_abs_rho": 0.4622013028085135,
+  "p99_abs_rho": 0.5409119659594044,
+  "percentile_of_observed_abs_rho": 72.0
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "rows": [
+  {
+   "cell": "primary-macrophages",
+   "kind": "primary",
+   "n_base": 3,
+   "n_ifn": 3,
+   "baseline": 9.723,
+   "ifn": 13.123,
+   "induction": 3.4,
+   "phenotype": 1.0
+  },
+  {
+   "cell": "U87-MG",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.358,
+   "ifn": 11.408,
+   "induction": 4.05,
+   "phenotype": 1.0
+  },
+  {
+   "cell": "PMA-THP-1",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 8.926,
+   "ifn": 12.99,
+   "induction": 4.064,
+   "phenotype": 1.0
+  },
+  {
+   "cell": "THP-1",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.941,
+   "ifn": 12.143,
+   "induction": 4.202,
+   "phenotype": 1.0
+  },
+  {
+   "cell": "primary-CD4+-T-cells",
+   "kind": "primary",
+   "n_base": 3,
+   "n_ifn": 3,
+   "baseline": 8.779,
+   "ifn": 12.081,
+   "induction": 3.302,
+   "phenotype": 0.75
+  },
+  {
+   "cell": "PMA-U937",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 9.52,
+   "ifn": 12.301,
+   "induction": 2.781,
+   "phenotype": 0.5
+  },
+  {
+   "cell": "HT1080",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.496,
+   "ifn": 11.074,
+   "induction": 3.577,
+   "phenotype": 0.5
+  },
+  {
+   "cell": "U937",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 8.341,
+   "ifn": 11.495,
+   "induction": 3.153,
+   "phenotype": 0.0
+  },
+  {
+   "cell": "CEM-SS",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.376,
+   "ifn": 10.699,
+   "induction": 3.323,
+   "phenotype": 0.0
+  },
+  {
+   "cell": "CEM",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.535,
+   "ifn": 11.17,
+   "induction": 3.634,
+   "phenotype": 0.0
+  },
+  {
+   "cell": "Jurkat",
+   "kind": "immortalized",
+   "n_base": 2,
+   "n_ifn": 2,
+   "baseline": 7.83,
+   "ifn": 11.845,
+   "induction": 4.015,
+   "phenotype": 0.0
+  }
+ ],
+ "results": {
+  "baseline_level": {
+   "spearman_vs_phenotype": 0.315,
+   "auc_restricted_vs_permissive": 0.75,
+   "exact_permutation_p": 0.1496,
+   "mean_restricted": 8.545,
+   "mean_permissive": 7.771
+  },
+  "fold_induction": {
+   "spearman_vs_phenotype": 0.464,
+   "auc_restricted_vs_permissive": 0.75,
+   "exact_permutation_p": 0.1496,
+   "mean_restricted": 3.804,
+   "mean_permissive": 3.531
+  },
+  "post_IFN_level": {
+   "spearman_vs_phenotype": 0.617,
+   "auc_restricted_vs_permissive": 0.9,
+   "exact_permutation_p": 0.0394,
+   "mean_restricted": 12.349,
+   "mean_permissive": 11.302
+  },
+  "n_units": 11,
+  "n_immortalized_only": 9,
+  "immortalized_only_baseline": {
+   "spearman_vs_phenotype": 0.107,
+   "auc_restricted_vs_permissive": 0.583
+  },
+  "immortalized_only_induction": {
+   "spearman_vs_phenotype": 0.615,
+   "auc_restricted_vs_permissive": 1.0
+  },
+  "immortalized_only_ifn": {
+   "spearman_vs_phenotype": 0.49,
+   "auc_restricted_vs_permissive": 0.833
+  }
+ },
+ "phenotype_source": "GSE46599 !Series_summary (Goujon & Malim)"
+}

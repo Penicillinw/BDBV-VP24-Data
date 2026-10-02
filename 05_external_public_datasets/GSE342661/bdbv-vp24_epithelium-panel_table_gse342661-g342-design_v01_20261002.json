@@ -1,0 +1,30 @@
+{
+  "n_matrix_columns": 180,
+  "n_bound": 180,
+  "n_unmatched": 0,
+  "unmatched": [],
+  "treatments": [
+    "Ctrl",
+    "IFNB1",
+    "IFNL1",
+    "IFNL2",
+    "IFNL3",
+    "IFNL4"
+  ],
+  "times": [
+    "24h",
+    "6h",
+    "72h"
+  ],
+  "routes": [
+    "apical-basal",
+    "apical-only"
+  ],
+  "grid_cells": 36,
+  "n_per_grid_cell_counts": {
+    "5": 36
+  },
+  "complete_grid": true,
+  "duplicate_gsm": 0,
+  "duplicate_column": 0
+}

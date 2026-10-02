@@ -1,0 +1,350 @@
+{
+ "reference": "NC_014373.1",
+ "n_targets": 36,
+ "unresolved": [
+  {
+   "strain": "OZ491537.1",
+   "motif": "VP35_202",
+   "reason": "AMBIGUOUS_REGION(n=97)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "VP35_203",
+   "reason": "AMBIGUOUS_REGION(n=97)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "VP35_204",
+   "reason": "AMBIGUOUS_REGION(n=97)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "VP35_205",
+   "reason": "AMBIGUOUS_REGION(n=97)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "VP35_206",
+   "reason": "AMBIGUOUS_REGION(n=97)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "GP_148",
+   "reason": "AMBIGUOUS_REGION(n=374)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "GP_79",
+   "reason": "AMBIGUOUS_REGION(n=374)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "GP_141",
+   "reason": "AMBIGUOUS_REGION(n=374)"
+  },
+  {
+   "strain": "OZ491537.1",
+   "motif": "GP_142",
+   "reason": "AMBIGUOUS_REGION(n=374)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP35_202",
+   "reason": "AMBIGUOUS_REGION(n=96)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP35_203",
+   "reason": "AMBIGUOUS_REGION(n=96)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP35_204",
+   "reason": "AMBIGUOUS_REGION(n=96)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP35_205",
+   "reason": "AMBIGUOUS_REGION(n=96)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP35_206",
+   "reason": "AMBIGUOUS_REGION(n=96)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_221",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_224",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_225",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_270",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_274",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_275",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP40_279",
+   "reason": "AMBIGUOUS_REGION(n=259)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP24_135",
+   "reason": "AMBIGUOUS_REGION(n=95)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP24_83",
+   "reason": "AMBIGUOUS_REGION(n=95)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP24_140",
+   "reason": "AMBIGUOUS_REGION(n=95)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP24_141",
+   "reason": "AMBIGUOUS_REGION(n=95)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP24_184",
+   "reason": "AMBIGUOUS_REGION(n=95)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "VP24_217",
+   "reason": "AMBIGUOUS_REGION(n=95)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "GP_148",
+   "reason": "AMBIGUOUS_REGION(n=170)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "GP_79",
+   "reason": "AMBIGUOUS_REGION(n=170)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "GP_141",
+   "reason": "AMBIGUOUS_REGION(n=170)"
+  },
+  {
+   "strain": "OZ532046.1",
+   "motif": "GP_142",
+   "reason": "AMBIGUOUS_REGION(n=170)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP35_202",
+   "reason": "AMBIGUOUS_REGION(n=396)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP35_203",
+   "reason": "AMBIGUOUS_REGION(n=396)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP35_204",
+   "reason": "AMBIGUOUS_REGION(n=396)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP35_205",
+   "reason": "AMBIGUOUS_REGION(n=396)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP35_206",
+   "reason": "AMBIGUOUS_REGION(n=396)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP24_135",
+   "reason": "AMBIGUOUS_REGION(n=126)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP24_83",
+   "reason": "AMBIGUOUS_REGION(n=126)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP24_140",
+   "reason": "AMBIGUOUS_REGION(n=126)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP24_141",
+   "reason": "AMBIGUOUS_REGION(n=126)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP24_184",
+   "reason": "AMBIGUOUS_REGION(n=126)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "VP24_217",
+   "reason": "AMBIGUOUS_REGION(n=126)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "GP_148",
+   "reason": "AMBIGUOUS_REGION(n=180)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "GP_79",
+   "reason": "AMBIGUOUS_REGION(n=180)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "GP_141",
+   "reason": "AMBIGUOUS_REGION(n=180)"
+  },
+  {
+   "strain": "OZ538124.1",
+   "motif": "GP_142",
+   "reason": "AMBIGUOUS_REGION(n=180)"
+  }
+ ],
+ "reference_residues": {
+  "VP35_202": "R",
+  "VP35_203": "N",
+  "VP35_204": "L",
+  "VP35_205": "D",
+  "VP35_206": "S",
+  "VP40_221": "K",
+  "VP40_224": "K",
+  "VP40_225": "R",
+  "VP40_270": "R",
+  "VP40_274": "K",
+  "VP40_275": "K",
+  "VP40_279": "K",
+  "VP24_135": "Q",
+  "VP24_83": "S",
+  "VP24_140": "H",
+  "VP24_141": "A",
+  "VP24_184": "R",
+  "VP24_217": "V",
+  "GP_148": "P",
+  "GP_79": "V",
+  "GP_141": "V",
+  "GP_142": "S"
+ },
+ "consensus_2026": {
+  "VP35_202": {
+   "R": 33,
+   "UNRESOLVED": 3
+  },
+  "VP35_203": {
+   "N": 33,
+   "UNRESOLVED": 3
+  },
+  "VP35_204": {
+   "L": 33,
+   "UNRESOLVED": 3
+  },
+  "VP35_205": {
+   "D": 33,
+   "UNRESOLVED": 3
+  },
+  "VP35_206": {
+   "S": 33,
+   "UNRESOLVED": 3
+  },
+  "VP40_221": {
+   "K": 35,
+   "UNRESOLVED": 1
+  },
+  "VP40_224": {
+   "K": 35,
+   "UNRESOLVED": 1
+  },
+  "VP40_225": {
+   "R": 35,
+   "UNRESOLVED": 1
+  },
+  "VP40_270": {
+   "R": 35,
+   "UNRESOLVED": 1
+  },
+  "VP40_274": {
+   "K": 35,
+   "UNRESOLVED": 1
+  },
+  "VP40_275": {
+   "K": 35,
+   "UNRESOLVED": 1
+  },
+  "VP40_279": {
+   "K": 35,
+   "UNRESOLVED": 1
+  },
+  "VP24_135": {
+   "Q": 34,
+   "UNRESOLVED": 2
+  },
+  "VP24_83": {
+   "S": 34,
+   "UNRESOLVED": 2
+  },
+  "VP24_140": {
+   "H": 34,
+   "UNRESOLVED": 2
+  },
+  "VP24_141": {
+   "A": 34,
+   "UNRESOLVED": 2
+  },
+  "VP24_184": {
+   "R": 34,
+   "UNRESOLVED": 2
+  },
+  "VP24_217": {
+   "V": 34,
+   "UNRESOLVED": 2
+  },
+  "GP_148": {
+   "P": 33,
+   "UNRESOLVED": 3
+  },
+  "GP_79": {
+   "V": 33,
+   "UNRESOLVED": 3
+  },
+  "GP_141": {
+   "V": 33,
+   "UNRESOLVED": 3
+  },
+  "GP_142": {
+   "S": 33,
+   "UNRESOLVED": 3
+  }
+ }
+}

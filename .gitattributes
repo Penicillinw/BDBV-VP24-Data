@@ -1,0 +1,13 @@
+# This repository is a data deposit: byte-for-byte fidelity matters because
+# every file is covered by a SHA-256 in 00_index_and_metadata/CHECKSUMS.sha256.
+# Disable all end-of-line conversion so a checkout reproduces the exact bytes.
+* -text
+
+# Explicit, for readers: these are text files, but still stored verbatim.
+*.tsv -text
+*.csv -text
+*.json -text
+*.md -text
+*.py -text
+*.fasta -text
+*.pdb -text

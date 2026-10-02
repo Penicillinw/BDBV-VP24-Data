@@ -1,0 +1,25 @@
+dvp_cell_type	dvp_protein_cell_types	in_primary	in_sens_a	in_sensitivity	delta_strict	delta_family	existing_match	existing_kind	disagreement
+alveolar cell types	10	no	no	yes		alveolar cells type 1;alveolar cells type 2			
+astrocytes and neuropil	2	no	yes	yes		astrocytes	astrocytes	normalised	existing-only (astrocytes | normalised)
+b-cells	10	yes	yes	yes	b-cells	b-cells	b-cells	exact	
+capillaries	1	no	no	no				none(best_jaccard=0.00)	
+cardiomyocytes	1	yes	yes	yes	cardiomyocytes	cardiomyocytes	cardiomyocytes	exact	
+collecting ducts	2	no	no	yes		renal collecting duct intercalated cells;renal collecting duct principal cells	renal collecting duct intercalated cells	normalised	existing-only (renal collecting duct intercalated cells | normalised)
+distal tubules	2	no	yes	yes		distal convoluted tubule cells	distal convoluted tubule cells	loose(jaccard=0.50)	
+fallopian tube cells	10	no	yes	yes		fallopian tube ciliated cells			
+glomeruli	1	no	no	no				none(best_jaccard=0.00)	
+granulosa cells	10	yes	yes	yes	granulosa cells	granulosa cells	granulosa cells	exact	
+hepatocytes	1	yes	yes	yes	hepatocytes	hepatocytes	hepatocytes	exact	
+keratinocytes	1	no	no	yes		basal keratinocytes;suprabasal keratinocytes	basal keratinocytes	normalised	existing-only (basal keratinocytes | normalised)
+large ducts	2	no	no	no			pancreatic duct cells	none(best_jaccard=0.25)	
+macrophages	1	yes	yes	yes	macrophages	macrophages	macrophages	exact	
+microglia and neuropil	2	no	yes	yes		microglia	microglia	normalised	existing-only (microglia | normalised)
+neurons	1	no	no	yes		brain excitatory neurons;brain inhibitory neurons;other brain neurons	brain excitatory neurons	normalised	existing-only (brain excitatory neurons | normalised)
+neutrophils	1	yes	yes	yes	neutrophils	neutrophils	neutrophils	exact	
+oocytes	1	yes	yes	yes	oocytes	oocytes	oocytes	exact	
+pancreas epithelial cells	10	no	no	no			ocular epithelial cells	loose(jaccard=0.50)	
+pancreatic islets	1	no	yes	yes		pancreatic islet cells	pancreatic islet cells	normalised	existing-only (pancreatic islet cells | normalised)
+proximal tubules	2	no	yes	yes		proximal tubule cells	proximal tubule cells	normalised	existing-only (proximal tubule cells | normalised)
+skeletal myofibers	1	no	no	no				none(best_jaccard=0.00)	
+smooth muscle cells	10	yes	yes	yes	smooth muscle cells	smooth muscle cells	smooth muscle cells	exact	
+t-cells	10	yes	yes	yes	t-cells	t-cells			primary-only (t-cells) existing=

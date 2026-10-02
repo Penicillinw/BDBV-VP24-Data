@@ -1,0 +1,18 @@
+{
+ "platform": "OpenCL",
+ "mode": "bench",
+ "variants": {
+  "WT": {
+   "minimised_energy_kcal_mol": -8442.0,
+   "void_volume_nm3_within_0.6nm_of_P83_CA": 0.2031,
+   "n_native_contacts": 2371,
+   "bench_ns_per_day": 162.428
+  },
+  "P83S": {
+   "minimised_energy_kcal_mol": -8469.3,
+   "void_volume_nm3_within_0.6nm_of_P83_CA": 0.2031,
+   "n_native_contacts": 2369,
+   "bench_ns_per_day": 157.188
+  }
+ }
+}

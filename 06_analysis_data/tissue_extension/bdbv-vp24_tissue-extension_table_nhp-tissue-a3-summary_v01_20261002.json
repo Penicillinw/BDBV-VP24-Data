@@ -1,0 +1,506 @@
+{
+  "preregistration": "report/A3_预注册_组织构成去卷积_20260926.md",
+  "seed": 20260926,
+  "reference": "data/hpa/rna_single_cell_type.tsv (HPA single-cell nCPM, human, uninfected)",
+  "bulk": "GSE226106 (Normandin 2023, PMID 38169842) macaque EBOV Makona, 8 tissues",
+  "n_classes": 42,
+  "n_marker_genes": 5338,
+  "missing_class_members": [],
+  "anchors": {
+    "A1_top1_hits": 6,
+    "A1_required": 6,
+    "A1_pass": true,
+    "A2_rho_immune": 0.405,
+    "A2_required": 0.5,
+    "A2_pass": false,
+    "all_pass": false
+  },
+  "anchor_A1_table": [
+    {
+      "tissue": "liver",
+      "top1": "hepatocytes",
+      "top1_frac": 0.486,
+      "expected": "hepatocytes",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.283
+    },
+    {
+      "tissue": "kidney",
+      "top1": "kidney_tubule",
+      "top1_frac": 0.376,
+      "expected": "kidney_tubule",
+      "hit": true,
+      "runner_up": "fibroblasts",
+      "runner_up_frac": 0.136
+    },
+    {
+      "tissue": "brain",
+      "top1": "neurons",
+      "top1_frac": 0.226,
+      "expected": "astrocytes;ependymal;microglia;neurons;oligodendrocytes",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.117
+    },
+    {
+      "tissue": "adrenal gland",
+      "top1": "adrenal_medulla",
+      "top1_frac": 0.514,
+      "expected": "adrenal_cortex;adrenal_medulla",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.351
+    },
+    {
+      "tissue": "lymph node",
+      "top1": "b_cells",
+      "top1_frac": 0.387,
+      "expected": "b_cells;innate_lymphoid;nk_cells;plasma_cells;t_cells",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.207
+    },
+    {
+      "tissue": "skin",
+      "top1": "adipocytes",
+      "top1_frac": 0.538,
+      "expected": "fibroblasts;keratinocytes",
+      "hit": false,
+      "runner_up": "fibroblasts",
+      "runner_up_frac": 0.141
+    },
+    {
+      "tissue": "sex organ",
+      "top1": "smooth_muscle",
+      "top1_frac": 0.262,
+      "expected": "epididymal_epithelium;germ_cells;leydig;sertoli",
+      "hit": false,
+      "runner_up": "hepatic_stellate",
+      "runner_up_frac": 0.227
+    },
+    {
+      "tissue": "lung",
+      "top1": "alveolar_epithelium",
+      "top1_frac": 0.344,
+      "expected": "airway_epithelium;alveolar_epithelium",
+      "hit": true,
+      "runner_up": "adrenal_cortex",
+      "runner_up_frac": 0.202
+    }
+  ],
+  "anchor_A2_table": [
+    {
+      "tissue": "adrenal gland",
+      "manual_immune_fraction": 0.0042,
+      "immune_marker_index": -0.626
+    },
+    {
+      "tissue": "brain",
+      "manual_immune_fraction": 0.0035,
+      "immune_marker_index": -1.2612
+    },
+    {
+      "tissue": "kidney",
+      "manual_immune_fraction": 0.0345,
+      "immune_marker_index": -0.7137
+    },
+    {
+      "tissue": "liver",
+      "manual_immune_fraction": 0.0076,
+      "immune_marker_index": -0.0184
+    },
+    {
+      "tissue": "lung",
+      "manual_immune_fraction": 0.038,
+      "immune_marker_index": -0.0766
+    },
+    {
+      "tissue": "lymph node",
+      "manual_immune_fraction": 0.5332,
+      "immune_marker_index": 0.3313
+    },
+    {
+      "tissue": "sex organ",
+      "manual_immune_fraction": 0.0206,
+      "immune_marker_index": -0.3969
+    },
+    {
+      "tissue": "skin",
+      "manual_immune_fraction": 0.0525,
+      "immune_marker_index": -1.0522
+    }
+  ],
+  "anchor_A3_not_a_gate": {
+    "liver": {
+      "rho_vs_depth": -0.349,
+      "p": 0.2021,
+      "n": 15
+    },
+    "kidney": {
+      "rho_vs_depth": -0.501,
+      "p": 0.0206,
+      "n": 21
+    },
+    "brain": {
+      "rho_vs_depth": -0.397,
+      "p": 0.0271,
+      "n": 31
+    },
+    "adrenal gland": {
+      "rho_vs_depth": 0.353,
+      "p": 0.2873,
+      "n": 11
+    },
+    "lymph node": {
+      "rho_vs_depth": -0.037,
+      "p": 0.7701,
+      "n": 64
+    },
+    "skin": {
+      "rho_vs_depth": -0.17,
+      "p": 0.3976,
+      "n": 27
+    },
+    "sex organ": {
+      "rho_vs_depth": -0.091,
+      "p": 0.8153,
+      "n": 9
+    },
+    "lung": {
+      "rho_vs_depth": 0.8,
+      "p": 0.2,
+      "n": 4
+    }
+  },
+  "composition_R2_on_ISG": 0.559,
+  "marker_sensitivity": {
+    "100": {
+      "hepatocytes": 0.922,
+      "cholangiocytes": 0.866,
+      "hepatic_stellate": 0.881,
+      "macrophages": 0.93,
+      "kidney_tubule": 0.466,
+      "podocytes": 0.5,
+      "neurons": 1.0,
+      "astrocytes": 0.756,
+      "oligodendrocytes": 0.756,
+      "microglia": 0.359,
+      "ependymal": 0.831,
+      "adrenal_cortex": 0.881,
+      "adrenal_medulla": 1.0,
+      "t_cells": null,
+      "b_cells": 0.291,
+      "nk_cells": 0.697,
+      "plasma_cells": 0.843,
+      "innate_lymphoid": -0.216,
+      "monocytes": 0.919,
+      "neutrophils": 0.952,
+      "mast_cells": null,
+      "dendritic_cells": 0.786,
+      "lymphatic_endothelial": 0.661,
+      "vascular_endothelial": 0.898,
+      "fibroblasts": 0.905,
+      "smooth_muscle": 0.905,
+      "keratinocytes": 0.781,
+      "melanocytes": 0.783,
+      "alveolar_epithelium": 0.962,
+      "airway_epithelium": 0.643,
+      "germ_cells": null,
+      "sertoli": 0.711,
+      "leydig": null,
+      "peritubular_myoid": 0.615,
+      "granulosa": 0.447,
+      "oocytes": 0.515,
+      "ovarian_stroma": 0.661,
+      "epididymal_epithelium": 0.661,
+      "adipocytes": 0.81,
+      "hematopoietic_progenitors": null,
+      "megakaryocytes_platelets": 0.027,
+      "erythrocytes": 0.93
+    },
+    "200": {
+      "hepatocytes": 1.0,
+      "cholangiocytes": 1.0,
+      "hepatic_stellate": 1.0,
+      "macrophages": 1.0,
+      "kidney_tubule": 1.0,
+      "podocytes": 1.0,
+      "neurons": 1.0,
+      "astrocytes": 1.0,
+      "oligodendrocytes": 1.0,
+      "microglia": 1.0,
+      "ependymal": 1.0,
+      "adrenal_cortex": 1.0,
+      "adrenal_medulla": 1.0,
+      "t_cells": 1.0,
+      "b_cells": 1.0,
+      "nk_cells": 1.0,
+      "plasma_cells": 1.0,
+      "innate_lymphoid": 1.0,
+      "monocytes": 1.0,
+      "neutrophils": 1.0,
+      "mast_cells": 1.0,
+      "dendritic_cells": 1.0,
+      "lymphatic_endothelial": 1.0,
+      "vascular_endothelial": 1.0,
+      "fibroblasts": 1.0,
+      "smooth_muscle": 1.0,
+      "keratinocytes": 1.0,
+      "melanocytes": 1.0,
+      "alveolar_epithelium": 1.0,
+      "airway_epithelium": 1.0,
+      "germ_cells": 1.0,
+      "sertoli": 1.0,
+      "leydig": 1.0,
+      "peritubular_myoid": 1.0,
+      "granulosa": 1.0,
+      "oocytes": 1.0,
+      "ovarian_stroma": 1.0,
+      "epididymal_epithelium": 1.0,
+      "adipocytes": 1.0,
+      "hematopoietic_progenitors": 1.0,
+      "megakaryocytes_platelets": 1.0,
+      "erythrocytes": 1.0
+    },
+    "400": {
+      "hepatocytes": 0.922,
+      "cholangiocytes": 0.962,
+      "hepatic_stellate": 0.976,
+      "macrophages": 0.93,
+      "kidney_tubule": 0.783,
+      "podocytes": 0.75,
+      "neurons": 1.0,
+      "astrocytes": 1.0,
+      "oligodendrocytes": 1.0,
+      "microglia": 0.976,
+      "ependymal": 0.973,
+      "adrenal_cortex": 0.952,
+      "adrenal_medulla": 1.0,
+      "t_cells": null,
+      "b_cells": 0.756,
+      "nk_cells": 0.814,
+      "plasma_cells": 1.0,
+      "innate_lymphoid": 1.0,
+      "monocytes": 0.93,
+      "neutrophils": 0.976,
+      "mast_cells": null,
+      "dendritic_cells": 0.814,
+      "lymphatic_endothelial": 0.343,
+      "vascular_endothelial": 0.826,
+      "fibroblasts": 0.929,
+      "smooth_muscle": 0.929,
+      "keratinocytes": 0.676,
+      "melanocytes": 0.785,
+      "alveolar_epithelium": 0.675,
+      "airway_epithelium": 0.75,
+      "germ_cells": null,
+      "sertoli": 0.755,
+      "leydig": null,
+      "peritubular_myoid": 0.908,
+      "granulosa": null,
+      "oocytes": null,
+      "ovarian_stroma": 1.0,
+      "epididymal_epithelium": 0.894,
+      "adipocytes": 0.976,
+      "hematopoietic_progenitors": null,
+      "megakaryocytes_platelets": 0.878,
+      "erythrocytes": 0.594
+    }
+  },
+  "pipeline_reproduction": {
+    "pair": "reproduction: delta_median_g8 vs E_raw",
+    "kind": "check",
+    "n": 8,
+    "rho": -0.333,
+    "p_perm": 0.4237,
+    "ci_low": -0.918,
+    "ci_high": 0.6,
+    "loo_min": -0.786,
+    "loo_max": -0.071,
+    "rho_depth_residual": 0.0
+  },
+  "reproduction_ok": true,
+  "tissue_table": [
+    {
+      "tissue": "liver",
+      "delta_weighted": -0.0909,
+      "coverage": 1.0,
+      "delta_median_g8": 0.2706,
+      "immune_fraction": 0.0076,
+      "depth_median_infected": 16366.5,
+      "E_raw": 1.0653,
+      "E_adj": -0.0153,
+      "n_infected": 14
+    },
+    {
+      "tissue": "kidney",
+      "delta_weighted": -0.317,
+      "coverage": 1.0,
+      "delta_median_g8": -0.455,
+      "immune_fraction": 0.0345,
+      "depth_median_infected": 19021.0,
+      "E_raw": 0.9543,
+      "E_adj": 0.251,
+      "n_infected": 17
+    },
+    {
+      "tissue": "brain",
+      "delta_weighted": -0.2045,
+      "coverage": 1.0,
+      "delta_median_g8": 0.132,
+      "immune_fraction": 0.0035,
+      "depth_median_infected": 24037.0,
+      "E_raw": 0.1879,
+      "E_adj": 0.2796,
+      "n_infected": 26
+    },
+    {
+      "tissue": "adrenal gland",
+      "delta_weighted": -0.9386,
+      "coverage": 1.0,
+      "delta_median_g8": -0.969,
+      "immune_fraction": 0.0042,
+      "depth_median_infected": 19044.0,
+      "E_raw": 0.7612,
+      "E_adj": 0.3923,
+      "n_infected": 7
+    },
+    {
+      "tissue": "lymph node",
+      "delta_weighted": 0.2112,
+      "coverage": 1.0,
+      "delta_median_g8": 0.2748,
+      "immune_fraction": 0.5332,
+      "depth_median_infected": 22294.0,
+      "E_raw": 0.3614,
+      "E_adj": 0.1856,
+      "n_infected": 54
+    },
+    {
+      "tissue": "skin",
+      "delta_weighted": -0.7695,
+      "coverage": 1.0,
+      "delta_median_g8": 0.0599,
+      "immune_fraction": 0.0525,
+      "depth_median_infected": 17873.0,
+      "E_raw": 0.5473,
+      "E_adj": 0.5126,
+      "n_infected": 21
+    },
+    {
+      "tissue": "sex organ",
+      "delta_weighted": -0.3748,
+      "coverage": 1.0,
+      "delta_median_g8": -0.356,
+      "immune_fraction": 0.0206,
+      "depth_median_infected": 14907.0,
+      "E_raw": 0.3836,
+      "E_adj": -0.0484,
+      "n_infected": 7
+    },
+    {
+      "tissue": "lung",
+      "delta_weighted": -0.1365,
+      "coverage": 1.0,
+      "delta_median_g8": 0.0821,
+      "immune_fraction": 0.038,
+      "depth_median_infected": 14058.0,
+      "E_raw": 0.735,
+      "E_adj": -0.0062,
+      "n_infected": 4
+    }
+  ],
+  "correlations": [
+    {
+      "kind": "primary",
+      "pair": "PRIMARY: delta_weighted vs E_adj",
+      "n": 8,
+      "rho": -0.524,
+      "p_perm": 0.1938,
+      "ci_low": -0.974,
+      "ci_high": 0.392,
+      "loo_min": -0.821,
+      "loo_max": -0.321,
+      "rho_depth_residual": -0.762
+    },
+    {
+      "kind": "check",
+      "pair": "reproduction: delta_median_g8 vs E_raw",
+      "n": 8,
+      "rho": -0.333,
+      "p_perm": 0.4237,
+      "ci_low": -0.918,
+      "ci_high": 0.6,
+      "loo_min": -0.786,
+      "loo_max": -0.071,
+      "rho_depth_residual": 0.0
+    },
+    {
+      "kind": "descriptive",
+      "pair": "descriptive: delta_weighted vs E_raw",
+      "n": 8,
+      "rho": -0.095,
+      "p_perm": 0.8398,
+      "ci_low": -0.842,
+      "ci_high": 0.778,
+      "loo_min": -0.429,
+      "loo_max": 0.25,
+      "rho_depth_residual": -0.024
+    },
+    {
+      "kind": "descriptive",
+      "pair": "descriptive: delta_median_g8 vs E_adj",
+      "n": 8,
+      "rho": -0.31,
+      "p_perm": 0.4555,
+      "ci_low": -0.854,
+      "ci_high": 0.556,
+      "loo_min": -0.607,
+      "loo_max": -0.071,
+      "rho_depth_residual": -0.524
+    },
+    {
+      "kind": "confound",
+      "pair": "confound check: E_raw vs immune_fraction",
+      "n": 8,
+      "rho": -0.095,
+      "p_perm": 0.8308,
+      "ci_low": -1.0,
+      "ci_high": 0.753,
+      "loo_min": -0.643,
+      "loo_max": 0.107,
+      "rho_depth_residual": -0.19
+    },
+    {
+      "kind": "confound",
+      "pair": "confound check: delta_median vs immune_fraction",
+      "n": 8,
+      "rho": 0.262,
+      "p_perm": 0.5407,
+      "ci_low": -0.654,
+      "ci_high": 0.926,
+      "loo_min": -0.107,
+      "loo_max": 0.571,
+      "rho_depth_residual": 0.548
+    },
+    {
+      "kind": "confound",
+      "pair": "confound check: delta_weighted vs immune_fraction",
+      "n": 8,
+      "rho": 0.286,
+      "p_perm": 0.4957,
+      "ci_low": -0.728,
+      "ci_high": 0.924,
+      "loo_min": -0.071,
+      "loo_max": 0.5,
+      "rho_depth_residual": 0.524
+    }
+  ],
+  "verdict": "不可判定：去卷积未通过锚点（A1/A2 至少一条未过）",
+  "limitations": [
+    "human HPA reference vs macaque tissue vs EBOV Makona (not BDBV): cannot test the multiplier",
+    "relative proportions only; NNLS with 42 classes is under-determined (42 executed vs 40 pre-registered; see report/A3_修订记录1_细胞类数_20260926.md)",
+    "frozen Delta values and ranking are not recomputed here (decision D-011)"
+  ]
+}

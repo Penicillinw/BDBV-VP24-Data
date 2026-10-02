@@ -1,0 +1,7 @@
+atlas	reference_cell_type	reference_delta	atlas_delta_z	atlas_labels	n_cells	same_sign
+e6dad530_All_cell_types_of_human_eye.h5ad	cone photoreceptor cells	-1.21	-0.923	retinal cone cell	1777	True
+e6dad530_All_cell_types_of_human_eye.h5ad	müller glia	-0.312	0.485	Mueller cell	5114	False
+e6dad530_All_cell_types_of_human_eye.h5ad	retinal amacrine cells	-0.642	-0.049	amacrine cell	6317	True
+e6dad530_All_cell_types_of_human_eye.h5ad	retinal bipolar cells	-0.744	-0.891	retinal bipolar neuron	16695	True
+e6dad530_All_cell_types_of_human_eye.h5ad	retinal horizontal cells	-0.925	-0.395	retina horizontal cell	1913	True
+e6dad530_All_cell_types_of_human_eye.h5ad	rod photoreceptor cells	-1.0	-1.173	retinal rod cell	62523	True

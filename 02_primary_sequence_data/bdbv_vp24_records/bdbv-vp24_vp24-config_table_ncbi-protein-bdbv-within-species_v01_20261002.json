@@ -1,0 +1,18 @@
+{
+  "n_full_length_records": 31,
+  "n_distinct_sequences": 2,
+  "vp24_length": 251,
+  "n_variable_positions": 1,
+  "variable_positions": [
+    24
+  ],
+  "variable_position_residues": {
+    "24": [
+      "N",
+      "S"
+    ]
+  },
+  "four_positions_are_variable": [],
+  "site_polymorphism_rate": 0.00398,
+  "p_four_named_sites_invariant_if_drawn_at_random": 0.9842
+}

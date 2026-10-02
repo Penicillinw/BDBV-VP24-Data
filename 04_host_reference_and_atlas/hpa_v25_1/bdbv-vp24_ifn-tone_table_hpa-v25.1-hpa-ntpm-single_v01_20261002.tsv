@@ -1,0 +1,169 @@
+gene	symbol	cell_type	nCPM
+ENSG00000090659	CD209	macrophages	2.7
+ENSG00000090659	CD209	kupffer cells	1.0
+ENSG00000090659	CD209	hofbauer cells	0.2
+ENSG00000090659	CD209	proximal tubule cells	0.1
+ENSG00000090659	CD209	adrenal cortex cells	0.0
+ENSG00000090659	CD209	adrenal medulla cells	0.0
+ENSG00000090659	CD209	cholangiocytes	0.0
+ENSG00000090659	CD209	colonocytes	0.0
+ENSG00000090659	CD209	endometrial glandular cells	0.0
+ENSG00000090659	CD209	enterocytes	0.0
+ENSG00000090659	CD209	epididymal principal cells	0.0
+ENSG00000090659	CD209	goblet cells	0.0
+ENSG00000090659	CD209	granulosa cells	0.0
+ENSG00000090659	CD209	hepatocytes	0.0
+ENSG00000090659	CD209	leydig cells	0.0
+ENSG00000090659	CD209	lymphatic endothelial cells	0.0
+ENSG00000090659	CD209	microglia	0.0
+ENSG00000090659	CD209	paneth cells	0.0
+ENSG00000090659	CD209	prostatic glandular cells	0.0
+ENSG00000090659	CD209	sertoli cells	0.0
+ENSG00000090659	CD209	vascular endothelial cells	0.0
+ENSG00000132514	CLEC10A	macrophages	124.5
+ENSG00000132514	CLEC10A	hofbauer cells	10.6
+ENSG00000132514	CLEC10A	kupffer cells	6.1
+ENSG00000132514	CLEC10A	hepatocytes	1.0
+ENSG00000132514	CLEC10A	leydig cells	0.6
+ENSG00000132514	CLEC10A	endometrial glandular cells	0.5
+ENSG00000132514	CLEC10A	lymphatic endothelial cells	0.5
+ENSG00000132514	CLEC10A	vascular endothelial cells	0.3
+ENSG00000132514	CLEC10A	goblet cells	0.2
+ENSG00000132514	CLEC10A	microglia	0.2
+ENSG00000132514	CLEC10A	colonocytes	0.1
+ENSG00000132514	CLEC10A	proximal tubule cells	0.1
+ENSG00000132514	CLEC10A	adrenal cortex cells	0.0
+ENSG00000132514	CLEC10A	adrenal medulla cells	0.0
+ENSG00000132514	CLEC10A	cholangiocytes	0.0
+ENSG00000132514	CLEC10A	enterocytes	0.0
+ENSG00000132514	CLEC10A	epididymal principal cells	0.0
+ENSG00000132514	CLEC10A	granulosa cells	0.0
+ENSG00000132514	CLEC10A	paneth cells	0.0
+ENSG00000132514	CLEC10A	prostatic glandular cells	0.0
+ENSG00000132514	CLEC10A	sertoli cells	0.0
+ENSG00000182566	CLEC4G	kupffer cells	1.0
+ENSG00000182566	CLEC4G	vascular endothelial cells	0.3
+ENSG00000182566	CLEC4G	macrophages	0.2
+ENSG00000182566	CLEC4G	microglia	0.2
+ENSG00000182566	CLEC4G	hofbauer cells	0.1
+ENSG00000182566	CLEC4G	adrenal cortex cells	0.0
+ENSG00000182566	CLEC4G	adrenal medulla cells	0.0
+ENSG00000182566	CLEC4G	cholangiocytes	0.0
+ENSG00000182566	CLEC4G	colonocytes	0.0
+ENSG00000182566	CLEC4G	endometrial glandular cells	0.0
+ENSG00000182566	CLEC4G	enterocytes	0.0
+ENSG00000182566	CLEC4G	epididymal principal cells	0.0
+ENSG00000182566	CLEC4G	goblet cells	0.0
+ENSG00000182566	CLEC4G	granulosa cells	0.0
+ENSG00000182566	CLEC4G	hepatocytes	0.0
+ENSG00000182566	CLEC4G	leydig cells	0.0
+ENSG00000182566	CLEC4G	lymphatic endothelial cells	0.0
+ENSG00000182566	CLEC4G	paneth cells	0.0
+ENSG00000182566	CLEC4G	prostatic glandular cells	0.0
+ENSG00000182566	CLEC4G	proximal tubule cells	0.0
+ENSG00000182566	CLEC4G	sertoli cells	0.0
+ENSG00000104938	CLEC4M	granulosa cells	26.8
+ENSG00000104938	CLEC4M	sertoli cells	12.8
+ENSG00000104938	CLEC4M	vascular endothelial cells	12.3
+ENSG00000104938	CLEC4M	lymphatic endothelial cells	5.9
+ENSG00000104938	CLEC4M	cholangiocytes	3.9
+ENSG00000104938	CLEC4M	kupffer cells	1.0
+ENSG00000104938	CLEC4M	adrenal cortex cells	0.9
+ENSG00000104938	CLEC4M	hofbauer cells	0.7
+ENSG00000104938	CLEC4M	hepatocytes	0.6
+ENSG00000104938	CLEC4M	macrophages	0.3
+ENSG00000104938	CLEC4M	microglia	0.1
+ENSG00000104938	CLEC4M	adrenal medulla cells	0.0
+ENSG00000104938	CLEC4M	colonocytes	0.0
+ENSG00000104938	CLEC4M	endometrial glandular cells	0.0
+ENSG00000104938	CLEC4M	enterocytes	0.0
+ENSG00000104938	CLEC4M	epididymal principal cells	0.0
+ENSG00000104938	CLEC4M	goblet cells	0.0
+ENSG00000104938	CLEC4M	leydig cells	0.0
+ENSG00000104938	CLEC4M	paneth cells	0.0
+ENSG00000104938	CLEC4M	prostatic glandular cells	0.0
+ENSG00000104938	CLEC4M	proximal tubule cells	0.0
+ENSG00000164733	CTSB	kupffer cells	1672.7
+ENSG00000164733	CTSB	hofbauer cells	627.2
+ENSG00000164733	CTSB	macrophages	437.5
+ENSG00000164733	CTSB	microglia	369.8
+ENSG00000164733	CTSB	enterocytes	119.0
+ENSG00000164733	CTSB	epididymal principal cells	105.2
+ENSG00000164733	CTSB	proximal tubule cells	99.0
+ENSG00000164733	CTSB	cholangiocytes	73.9
+ENSG00000164733	CTSB	colonocytes	64.6
+ENSG00000164733	CTSB	paneth cells	61.9
+ENSG00000164733	CTSB	hepatocytes	50.0
+ENSG00000164733	CTSB	goblet cells	38.5
+ENSG00000164733	CTSB	vascular endothelial cells	28.5
+ENSG00000164733	CTSB	granulosa cells	26.8
+ENSG00000164733	CTSB	prostatic glandular cells	25.5
+ENSG00000164733	CTSB	endometrial glandular cells	21.3
+ENSG00000164733	CTSB	lymphatic endothelial cells	20.3
+ENSG00000164733	CTSB	adrenal cortex cells	16.5
+ENSG00000164733	CTSB	leydig cells	13.6
+ENSG00000164733	CTSB	sertoli cells	2.6
+ENSG00000164733	CTSB	adrenal medulla cells	0.0
+ENSG00000135047	CTSL	hofbauer cells	1183.9
+ENSG00000135047	CTSL	kupffer cells	406.9
+ENSG00000135047	CTSL	macrophages	393.1
+ENSG00000135047	CTSL	granulosa cells	157.3
+ENSG00000135047	CTSL	lymphatic endothelial cells	135.8
+ENSG00000135047	CTSL	leydig cells	124.8
+ENSG00000135047	CTSL	hepatocytes	118.2
+ENSG00000135047	CTSL	epididymal principal cells	99.3
+ENSG00000135047	CTSL	vascular endothelial cells	89.8
+ENSG00000135047	CTSL	cholangiocytes	80.2
+ENSG00000135047	CTSL	prostatic glandular cells	53.5
+ENSG00000135047	CTSL	microglia	46.2
+ENSG00000135047	CTSL	endometrial glandular cells	29.5
+ENSG00000135047	CTSL	colonocytes	24.9
+ENSG00000135047	CTSL	adrenal cortex cells	24.8
+ENSG00000135047	CTSL	paneth cells	23.2
+ENSG00000135047	CTSL	goblet cells	15.1
+ENSG00000135047	CTSL	proximal tubule cells	14.6
+ENSG00000135047	CTSL	sertoli cells	11.4
+ENSG00000135047	CTSL	enterocytes	8.9
+ENSG00000135047	CTSL	adrenal medulla cells	0.0
+ENSG00000113249	HAVCR1	proximal tubule cells	70.5
+ENSG00000113249	HAVCR1	colonocytes	11.2
+ENSG00000113249	HAVCR1	macrophages	7.7
+ENSG00000113249	HAVCR1	microglia	7.6
+ENSG00000113249	HAVCR1	hofbauer cells	5.1
+ENSG00000113249	HAVCR1	endometrial glandular cells	4.5
+ENSG00000113249	HAVCR1	goblet cells	0.6
+ENSG00000113249	HAVCR1	lymphatic endothelial cells	0.3
+ENSG00000113249	HAVCR1	epididymal principal cells	0.2
+ENSG00000113249	HAVCR1	hepatocytes	0.1
+ENSG00000113249	HAVCR1	leydig cells	0.1
+ENSG00000113249	HAVCR1	vascular endothelial cells	0.1
+ENSG00000113249	HAVCR1	adrenal cortex cells	0.0
+ENSG00000113249	HAVCR1	adrenal medulla cells	0.0
+ENSG00000113249	HAVCR1	cholangiocytes	0.0
+ENSG00000113249	HAVCR1	enterocytes	0.0
+ENSG00000113249	HAVCR1	granulosa cells	0.0
+ENSG00000113249	HAVCR1	kupffer cells	0.0
+ENSG00000113249	HAVCR1	paneth cells	0.0
+ENSG00000113249	HAVCR1	prostatic glandular cells	0.0
+ENSG00000113249	HAVCR1	sertoli cells	0.0
+ENSG00000141458	NPC1	endometrial glandular cells	507.9
+ENSG00000141458	NPC1	adrenal cortex cells	322.4
+ENSG00000141458	NPC1	epididymal principal cells	269.7
+ENSG00000141458	NPC1	colonocytes	256.8
+ENSG00000141458	NPC1	microglia	174.5
+ENSG00000141458	NPC1	hofbauer cells	139.3
+ENSG00000141458	NPC1	enterocytes	133.8
+ENSG00000141458	NPC1	macrophages	122.9
+ENSG00000141458	NPC1	granulosa cells	84.3
+ENSG00000141458	NPC1	paneth cells	73.5
+ENSG00000141458	NPC1	kupffer cells	68.7
+ENSG00000141458	NPC1	vascular endothelial cells	67.6
+ENSG00000141458	NPC1	proximal tubule cells	65.5
+ENSG00000141458	NPC1	goblet cells	62.6
+ENSG00000141458	NPC1	lymphatic endothelial cells	60.9
+ENSG00000141458	NPC1	cholangiocytes	54.1
+ENSG00000141458	NPC1	leydig cells	44.6
+ENSG00000141458	NPC1	adrenal medulla cells	42.5
+ENSG00000141458	NPC1	sertoli cells	42.0
+ENSG00000141458	NPC1	prostatic glandular cells	36.3
+ENSG00000141458	NPC1	hepatocytes	31.8

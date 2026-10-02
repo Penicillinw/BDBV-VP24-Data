@@ -1,0 +1,3236 @@
+{
+ "started": "2026-09-26T10:50:26",
+ "reference": {
+  "id": "P0C779",
+  "length": 251,
+  "md5": "0ff12584e1efccdb39d65cd6236f8f7b"
+ },
+ "positions": [
+  83,
+  135,
+  140,
+  141
+ ],
+ "bdbv_type": "SQHA",
+ "upstream": "tools/g1_crossdb_census_20260926.py (2026-09-26T01:18:54-01:21:07)",
+ "ena_cap_per_species": {
+  "BDBV": 200,
+  "EBOV": 60,
+  "SUDV": 60,
+  "RESTV": 60,
+  "TAFV": 200,
+  "BOMV": 200
+ },
+ "reused_archived_payloads": true,
+ "uniprot": {
+  "BDBV": {
+   "n_entries": 1,
+   "n_with_all_four_bdbv_type": 1,
+   "residue_distribution": {
+    "83": {
+     "S": 1
+    },
+    "135": {
+     "Q": 1
+    },
+    "140": {
+     "H": 1
+    },
+    "141": {
+     "A": 1
+    }
+   },
+   "calls": [
+    {
+     "id": "tr|B8XCN4|B8XCN4_BDBV",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    }
+   ]
+  },
+  "EBOV": {
+   "n_entries": 27,
+   "n_with_all_four_bdbv_type": 0,
+   "residue_distribution": {
+    "83": {
+     "P": 27
+    },
+    "135": {
+     "N": 27
+    },
+    "140": {
+     "R": 27
+    },
+    "141": {
+     "V": 27
+    }
+   },
+   "calls": [
+    {
+     "id": "tr|A0A075WG23|A0A075WG23_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A089WWJ4|A0A089WWJ4_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A0E3TMH1|A0A0E3TMH1_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A0H3VWQ6|A0A0H3VWQ6_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A0K1NYE7|A0A0K1NYE7_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A0N7E4U5|A0A0N7E4U5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7C6|A0A141M7C6_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7C8|A0A141M7C8_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7D0|A0A141M7D0_9MONO",
+     "length": 207,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7D2|A0A141M7D2_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7D4|A0A141M7D4_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7D9|A0A141M7D9_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7E2|A0A141M7E2_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A141M7E4|A0A141M7E4_9MONO",
+     "length": 239,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A1X9ITK8|A0A1X9ITK8_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A2I4PED6|A0A2I4PED6_9MONO",
+     "length": 246,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A2I4PED8|A0A2I4PED8_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A2I4Q556|A0A2I4Q556_9MONO",
+     "length": 231,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A3G2LMD0|A0A3G2LMD0_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A3S8U0N3|A0A3S8U0N3_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A3S8U0V1|A0A3S8U0V1_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|G8DB44|G8DB44_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|I0DHB3|I0DHB3_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|L7QHU7|L7QHU7_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|L7QHW5|L7QHW5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|L7QI07|L7QI07_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|L7QI16|L7QI16_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "SUDV": {
+   "n_entries": 4,
+   "n_with_all_four_bdbv_type": 0,
+   "residue_distribution": {
+    "83": {
+     "Q": 4
+    },
+    "135": {
+     "N": 4
+    },
+    "140": {
+     "R": 4
+    },
+    "141": {
+     "V": 4
+    }
+   },
+   "calls": [
+    {
+     "id": "tr|A0A0N9QWS5|A0A0N9QWS5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A0S1LHA2|A0A0S1LHA2_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|B0LPM0|B0LPM0_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|R4QUG5|R4QUG5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "RESTV": {
+   "n_entries": 5,
+   "n_with_all_four_bdbv_type": 0,
+   "residue_distribution": {
+    "83": {
+     "P": 5
+    },
+    "135": {
+     "N": 5
+    },
+    "140": {
+     "S": 5
+    },
+    "141": {
+     "V": 5
+    }
+   },
+   "calls": [
+    {
+     "id": "tr|A0A1I9VT59|A0A1I9VT59_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A343J1N9|A0A343J1N9_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A343J1P8|A0A343J1P8_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|L7RE03|L7RE03_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|L7RF04|L7RF04_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "TAFV": {
+   "n_entries": 1,
+   "n_with_all_four_bdbv_type": 0,
+   "residue_distribution": {
+    "83": {
+     "P": 1
+    },
+    "135": {
+     "Q": 1
+    },
+    "140": {
+     "Q": 1
+    },
+    "141": {
+     "A": 1
+    }
+   },
+   "calls": [
+    {
+     "id": "tr|B8XCP3|B8XCP3_TAFV",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "Q",
+      "140": "Q",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "BOMV": {
+   "n_entries": 2,
+   "n_with_all_four_bdbv_type": 0,
+   "residue_distribution": {
+    "83": {
+     "P": 2
+    },
+    "135": {
+     "N": 2
+    },
+    "140": {
+     "S": 1,
+     "R": 1
+    },
+    "141": {
+     "V": 2
+    }
+   },
+   "calls": [
+    {
+     "id": "tr|A0A343EQF5|A0A343EQF5_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "id": "tr|A0A343EQG1|A0A343EQG1_9MONO",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  }
+ },
+ "bvbrc": {
+  "BDBV": {
+   "n_vp24_features": 113,
+   "n_distinct_aa_md5": 4,
+   "n_sequences_screened": 3,
+   "n_sequences_unavailable": 1,
+   "n_with_all_four_bdbv_type": 2,
+   "sequence_source": "NCBI efetch(db=protein) by BV-BRC protein_id",
+   "md5_mismatches": [],
+   "residue_distribution": {
+    "83": {
+     "S": 3
+    },
+    "135": {
+     "Q": 2,
+     "-": 1
+    },
+    "140": {
+     "H": 2,
+     "-": 1
+    },
+    "141": {
+     "A": 2,
+     "-": 1
+    }
+   },
+   "calls": [
+    {
+     "aa_sequence_md5": "6a946f24df3572069001b95cbd145b6e",
+     "protein_id": "YP_003815439.1",
+     "accession": "NC_014373",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "aa_sequence_md5": "6103d7c7fd00a7bbc4b4e092ee75b2cf",
+     "protein_id": "QNC49699.1",
+     "accession": "MT742157",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "aa_sequence_md5": "21e941e25637b2b5acb984f5c6a4b015",
+     "protein_id": "QNC49636.1",
+     "accession": "MT680256",
+     "length": 95,
+     "md5_consistent": true,
+     "positions": {
+      "83": "S",
+      "135": null,
+      "140": null,
+      "141": null
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "EBOV": {
+   "n_vp24_features": 3629,
+   "n_distinct_aa_md5": 69,
+   "n_sequences_screened": 52,
+   "n_sequences_unavailable": 17,
+   "n_with_all_four_bdbv_type": 0,
+   "sequence_source": "NCBI efetch(db=protein) by BV-BRC protein_id",
+   "md5_mismatches": [],
+   "residue_distribution": {
+    "83": {
+     "P": 47,
+     "-": 3,
+     "X": 2
+    },
+    "135": {
+     "N": 50,
+     "-": 1,
+     "X": 1
+    },
+    "140": {
+     "R": 50,
+     "-": 1,
+     "X": 1
+    },
+    "141": {
+     "V": 50,
+     "-": 1,
+     "X": 1
+    }
+   },
+   "calls": [
+    {
+     "aa_sequence_md5": "c8a9960767805572bcaaddbd02b1071f",
+     "protein_id": "WWV93178.1",
+     "accession": "OR084918",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "8f7f7e6098b5989324b40dd6663b2dde",
+     "protein_id": "WDG39720.1",
+     "accession": "OQ348596",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "d436434adfb33ceb6ebb37f16f3643db",
+     "protein_id": "QNL26099.1",
+     "accession": "MT778324",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "1385c255db5075831564750dc65ea03e",
+     "protein_id": "QNL26990.1",
+     "accession": "MT778423",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "0f5bfd5a3c2b490d3d486bbc7da24aeb",
+     "protein_id": "ASV62256.1",
+     "accession": "MF599521",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "160a0e397d5f2045dcf7ea5764858888",
+     "protein_id": "AYA82075.1",
+     "accession": "MH607914",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "85697909637d6632d2daccb032d0ea89",
+     "protein_id": "ALX28336.1",
+     "accession": "KU321203",
+     "length": 239,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "d5243d99eab997d7f3165a6b7d78b9fd",
+     "protein_id": "AQA27621.1",
+     "accession": "KY471125",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "ad2288543cee8d96f5d028f87700c75d",
+     "protein_id": "AJZ74523.1",
+     "accession": "KR006940",
+     "length": 153,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "7f8e9d2e6352e79250a88370eff6d40c",
+     "protein_id": "AKG96275.1",
+     "accession": "KR653305",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "8dea48665bd39f28f3c3e895cffab615",
+     "protein_id": "ALX28322.1",
+     "accession": "KU321196",
+     "length": 96,
+     "md5_consistent": true,
+     "positions": {
+      "83": null,
+      "135": null,
+      "140": null,
+      "141": null
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "e148234f98e6a262fb7eb2fff9a2ed32",
+     "protein_id": "ALX32230.1",
+     "accession": "KU296489",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "877add050cc111bbb681bf21d6315e08",
+     "protein_id": "AJZ74680.1",
+     "accession": "KR006958",
+     "length": 151,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "99da44d22df9e6e1446e0e79d50ca3ad",
+     "protein_id": "AYP10430.1",
+     "accession": "MK044571",
+     "length": 207,
+     "md5_consistent": true,
+     "positions": {
+      "83": "X",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "575f7e1ff84367fe38e5733e2acd251c",
+     "protein_id": "QUJ10595.1",
+     "accession": "MW806649",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "X",
+      "140": "X",
+      "141": "X"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "3cc371834851914f8e9c6519df0b64c3",
+     "protein_id": "APT69719.1",
+     "accession": "KY425657",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "11fc21d826960fb8e34c88dee4def7c9",
+     "protein_id": "AYN74170.1",
+     "accession": "MK007342",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "b28e77add0cec7fa0429d44545c4db90",
+     "protein_id": "ALX28245.1",
+     "accession": "KU321157",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "c1c60ce2a7f72fc21ea1dff39735dee1",
+     "protein_id": "ALG01994.1",
+     "accession": "KT725378",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "edf45a0925aff544b8360a2ba8da6656",
+     "protein_id": "AZL57296.1",
+     "accession": "MK163671",
+     "length": 218,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "d26b7aea1fe78334e9036e1f300e6178",
+     "protein_id": "ALG01697.1",
+     "accession": "KT725345",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "97af741d59a18bb44e18e7f9ac20a3ec",
+     "protein_id": "AKI84204.1",
+     "accession": "KR817241",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "d35bb9029bdfaf8034e958854d16d235",
+     "protein_id": "ALG01049.1",
+     "accession": "KT725273",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "a576f925eaa3fe8233f1652b9bdf7764",
+     "protein_id": "ALG02093.1",
+     "accession": "KT725389",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "662f02ced4a00a4c3fb91bed3b6f4ddd",
+     "protein_id": "AKC36009.1",
+     "accession": "KR105209",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "d14d7bf129ea46ec976d06be99af6427",
+     "protein_id": "QNL28995.1",
+     "accession": "MT778646",
+     "length": 250,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "b5c4d63b6001651eff7f6d7ee437f0f3",
+     "protein_id": "QNL27431.1",
+     "accession": "MT778472",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "915e68c081d5bc9447634fed28c2159e",
+     "protein_id": "QNL26711.1",
+     "accession": "MT778392",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "X",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "0ff12584e1efccdb39d65cd6236f8f7b",
+     "protein_id": "APT69661.1",
+     "accession": "KY425649",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "f1927922638fb88fe288f32f0bb98e07",
+     "protein_id": "AGB56726.1",
+     "accession": "KC242788",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "1348d1a70a17dd5633a2ea533a5ddb8b",
+     "protein_id": "AJZ74689.1",
+     "accession": "KR006959",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "a5083748b3a6c9eaac4b093a3e6ec42c",
+     "protein_id": "QYU59314.1",
+     "accession": "MT583341",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "24cbb9a86a76d5e5fbec7050562ca029",
+     "protein_id": "ALX28238.1",
+     "accession": "KU321153",
+     "length": 225,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "9cfdf4ac260e3b4eb07ba3f85d8f9302",
+     "protein_id": "ALG01976.1",
+     "accession": "KT725376",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "027b03219f60aa76be19925a9ed1769f",
+     "protein_id": "ALX28314.1",
+     "accession": "KU321192",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "793bc8e1e9cae6ed79627635e3506fc7",
+     "protein_id": "AYA83630.1",
+     "accession": "MH608090",
+     "length": 193,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "1f66df02883df01302b4c370fc065449",
+     "protein_id": "AKG95663.1",
+     "accession": "KR653237",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "c89bf33dd5458be34239bb6d427e5242",
+     "protein_id": "AYA83162.1",
+     "accession": "MH608038",
+     "length": 198,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "d0e173b3868a0c45092b55b8718498d1",
+     "protein_id": "WDG39738.1",
+     "accession": "OQ348598",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "0f2c6e375c43f716fa53630ffb43c8b1",
+     "protein_id": "AJP14942.1",
+     "accession": "KP759705",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "2989c3e2e497ca2b031f8265dd2b4c2a",
+     "protein_id": "APT69683.1",
+     "accession": "KY425653",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "bfe7123266c605953f1b8716c55d0401",
+     "protein_id": "AYP10408.1",
+     "accession": "MK044568",
+     "length": 164,
+     "md5_consistent": true,
+     "positions": {
+      "83": null,
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "8dcc882cc3b86f4921db471792344919",
+     "protein_id": "AYP10414.1",
+     "accession": "MK044569",
+     "length": 149,
+     "md5_consistent": true,
+     "positions": {
+      "83": null,
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "7d9f43c2e21d9b699e4965ab08692b19",
+     "protein_id": "AXP07502.1",
+     "accession": "MH733490",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "99525703604904c91283474c28f7a25a",
+     "protein_id": "QNL28285.1",
+     "accession": "MT778567",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "137877011fa9e8e4d5513b05c355e09b",
+     "protein_id": "QNL26252.1",
+     "accession": "MT778341",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "9340f93638bd36568fbd9fd21830091a",
+     "protein_id": "APT69643.1",
+     "accession": "KY425647",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "04cbd46486802fff3b85e8c0b41fed80",
+     "protein_id": "AJZ74568.1",
+     "accession": "KR006945",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "6c39540a34fa679cecef8d6eb5aac5c4",
+     "protein_id": "ALG01643.1",
+     "accession": "KT725339",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "e8ab8a5fa9b268aa51410ee13edfbb9e",
+     "protein_id": "AKC36567.1",
+     "accession": "KR105271",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "fd4e00cc7fd9650d8327af426058fbc4",
+     "protein_id": "ALX28166.1",
+     "accession": "KU321117",
+     "length": 175,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "ac3db2180cdbafef6d81369eca5dded3",
+     "protein_id": "QNL27818.1",
+     "accession": "MT778515",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "SUDV": {
+   "n_vp24_features": 388,
+   "n_distinct_aa_md5": 5,
+   "n_sequences_screened": 3,
+   "n_sequences_unavailable": 2,
+   "n_with_all_four_bdbv_type": 0,
+   "sequence_source": "NCBI efetch(db=protein) by BV-BRC protein_id",
+   "md5_mismatches": [],
+   "residue_distribution": {
+    "83": {
+     "Q": 3
+    },
+    "135": {
+     "N": 3
+    },
+    "140": {
+     "R": 3
+    },
+    "141": {
+     "V": 3
+    }
+   },
+   "calls": [
+    {
+     "aa_sequence_md5": "ab98df87ce1c5f5e65c733e90228f503",
+     "protein_id": "AWK96584.1",
+     "accession": "MH121162",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "2db9de7506b69a999d0aba2c93184595",
+     "protein_id": "YP_138526.1",
+     "accession": "NC_006432",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "22445b7a69099906109c8cf1b1fd9f0c",
+     "protein_id": "ALH21231.1",
+     "accession": "KT750754",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "RESTV": {
+   "n_vp24_features": 80,
+   "n_distinct_aa_md5": 6,
+   "n_sequences_screened": 5,
+   "n_sequences_unavailable": 1,
+   "n_with_all_four_bdbv_type": 0,
+   "sequence_source": "NCBI efetch(db=protein) by BV-BRC protein_id",
+   "md5_mismatches": [],
+   "residue_distribution": {
+    "83": {
+     "P": 5
+    },
+    "135": {
+     "N": 5
+    },
+    "140": {
+     "S": 5
+    },
+    "141": {
+     "V": 5
+    }
+   },
+   "calls": [
+    {
+     "aa_sequence_md5": "51539de4cf6556eb55ece4bb33a65c6e",
+     "protein_id": "QNF60338.1",
+     "accession": "MT796851",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "f42fb69017e4d2298dc5bb6836e145d0",
+     "protein_id": "NP_690586.1",
+     "accession": "NC_004161",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "164b06034e29f66924acd9917f94e729",
+     "protein_id": "ARU80342.1",
+     "accession": "KY798009",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "e92a84ba6da7a680e83e964278a941b4",
+     "protein_id": "ASU06447.1",
+     "accession": "MF540571",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "aa_sequence_md5": "ad38dcce6250e1bf5268823e158f2fe6",
+     "protein_id": "ASU06438.1",
+     "accession": "MF540570",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "TAFV": {
+   "n_vp24_features": 33,
+   "n_distinct_aa_md5": 2,
+   "n_sequences_screened": 1,
+   "n_sequences_unavailable": 1,
+   "n_with_all_four_bdbv_type": 0,
+   "sequence_source": "NCBI efetch(db=protein) by BV-BRC protein_id",
+   "md5_mismatches": [],
+   "residue_distribution": {
+    "83": {
+     "P": 1
+    },
+    "135": {
+     "Q": 1
+    },
+    "140": {
+     "Q": 1
+    },
+    "141": {
+     "A": 1
+    }
+   },
+   "calls": [
+    {
+     "aa_sequence_md5": "06d2b6d630dc9c0b45a387a4f4cab31f",
+     "protein_id": "YP_003815430.1",
+     "accession": "NC_014372",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "Q",
+      "140": "Q",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "BOMV": {
+   "n_vp24_features": 40,
+   "n_distinct_aa_md5": 3,
+   "n_sequences_screened": 1,
+   "n_sequences_unavailable": 2,
+   "n_with_all_four_bdbv_type": 0,
+   "sequence_source": "NCBI efetch(db=protein) by BV-BRC protein_id",
+   "md5_mismatches": [],
+   "residue_distribution": {
+    "83": {
+     "P": 1
+    },
+    "135": {
+     "N": 1
+    },
+    "140": {
+     "S": 1
+    },
+    "141": {
+     "V": 1
+    }
+   },
+   "calls": [
+    {
+     "aa_sequence_md5": "b48586538d9b98e794a201e9ee33c65b",
+     "protein_id": "YP_009513281.1",
+     "accession": "NC_039345",
+     "length": 251,
+     "md5_consistent": true,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  }
+ },
+ "ena": {
+  "BDBV": {
+   "n_ena_records_total": 57,
+   "n_sampled": 57,
+   "n_vp24_cds_called": 9,
+   "n_with_all_four_bdbv_type": 9,
+   "complete_genomes_first": true,
+   "embm_fetch_failures": [],
+   "calls": [
+    {
+     "accession": "FJ217161",
+     "description": "Bundibugyo ebolavirus, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "KC545393",
+     "description": "Bundibugyo ebolavirus isolate EboBund-112 2012, complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "KC545394",
+     "description": "Bundibugyo ebolavirus isolate EboBund-120 2012, complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "KC545395",
+     "description": "Bundibugyo ebolavirus isolate EboBund-122 2012, complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "KC545396",
+     "description": "Bundibugyo ebolavirus isolate EboBund-14 2012, complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "KR063673",
+     "description": "Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/UGA/2007/Butalya-811250, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "KU182911",
+     "description": "Bundibugyo virus isolate Bundibugyo virus/H. sapiens-tc/UGA/2007/Bundibugyo-200706291, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "MT583343",
+     "description": "Bundibugyo ebolavirus culture BEI<USA>:NR_51691, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    },
+    {
+     "accession": "MT583344",
+     "description": "Bundibugyo ebolavirus culture BEI<USA>:NR_51692, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "S",
+      "135": "Q",
+      "140": "H",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": true
+    }
+   ]
+  },
+  "EBOV": {
+   "n_ena_records_total": 3680,
+   "n_sampled": 60,
+   "n_vp24_cds_called": 53,
+   "n_with_all_four_bdbv_type": 0,
+   "complete_genomes_first": true,
+   "embm_fetch_failures": [],
+   "calls": [
+    {
+     "accession": "AF272001",
+     "description": "Zaire Ebola virus strain Mayinga, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "AF499101",
+     "description": "Zaire Ebola virus strain Mayinga, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "AY142960",
+     "description": "Zaire Ebola virus strain Mayinga subtype Zaire, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "AY354458",
+     "description": "Zaire ebolavirus strain Zaire 1995, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "EU224440",
+     "description": "Zaire ebolavirus strain Mayinga, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "JQ352763",
+     "description": "Zaire ebolavirus strain Kikwit, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242784",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/9 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242785",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/0 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242786",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/1 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242787",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/23 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242788",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/43 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242789",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/4 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242790",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/5 Luebo, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242791",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1977/Bonduni, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242792",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/1994/Gabon, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242793",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/1996/1Eko, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242794",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/1996/2Nza, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242795",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/1996/1Mbie, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242796",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1995/13625 Kikwit, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242797",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/1996/1Oba, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242798",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/1996/1Ikot, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242799",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1995/13709 Kikwit, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242800",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/GAB/2002/Ilembe, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242801",
+     "description": "Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1976/deRoover, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KF113529",
+     "description": "UNVERIFIED: Zaire ebolavirus isolate Kelle 2 NP protein (NP), VP35 protein (VP35), VP40 protein (VP40), GP protein (GP), VP30 protein (VP30), and VP24 protein (VP24) genes, complete cds and L protein-like (L) gene, complete sequence.",
+     "gene": "VP24",
+     "product": "VP24 protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KF827427",
+     "description": "Mutant Zaire ebolavirus, complete sequence.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KJ660346",
+     "description": "Zaire ebolavirus isolate H.sapiens-wt/GIN/2014/Makona-Kissidougou-C15, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KJ660347",
+     "description": "Zaire ebolavirus isolate H.sapiens-wt/GIN/2014/Makona-Gueckedou-C07, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KJ660348",
+     "description": "Zaire ebolavirus isolate H.sapiens-wt/GIN/2014/Makona-Gueckedou-C05, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034549",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM095B, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034550",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM095, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034551",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM096, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034552",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM098, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034553",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3670.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034554",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3676.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034555",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3676.2, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034556",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3677.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034557",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3677.2, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034558",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3679.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034559",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3680.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034560",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3682.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034561",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3683.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034562",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3686.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM034563",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-G3687.1, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233035",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM104, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233036",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM106, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233037",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM110, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233038",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM111, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233039",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM112, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233040",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM113, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233041",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM115, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233042",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM119, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KM233043",
+     "description": "Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/SLE/2014/Makona-EM120, complete genome.",
+     "gene": "VP24",
+     "product": "VP24 membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "SUDV": {
+   "n_ena_records_total": 164,
+   "n_sampled": 60,
+   "n_vp24_cds_called": 19,
+   "n_with_all_four_bdbv_type": 0,
+   "complete_genomes_first": true,
+   "embm_fetch_failures": [],
+   "calls": [
+    {
+     "accession": "AY729654",
+     "description": "Sudan ebolavirus strain Gulu, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "EU338380",
+     "description": "Sudan ebolavirus isolate EBOV-S-2004 from Sudan, complete genome.",
+     "gene": "VP24",
+     "product": "minor matrix protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "FJ968794",
+     "description": "Sudan ebolavirus strain Boniface, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC242783",
+     "description": "Sudan ebolavirus isolate SUDV/H.sapiens-tc/SSD/1979/Maleo, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KC589025",
+     "description": "Sudan ebolavirus isolate EboSud-639, complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KR063670",
+     "description": "Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/UGA/2000/Gulu-808892, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KT750754",
+     "description": "Sudan ebolavirus isolate Boniface, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KT878488",
+     "description": "Sudan ebolavirus isolate Sudan virus/C.porcellus-lab/SSD/1976/Nzara-Boneface, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KU182912",
+     "description": "Sudan ebolavirus isolate Sudan virus/H. sapiens-tc/SDN/2000/Gulu-200011676, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MH121162",
+     "description": "Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Sudan/1976/Boniface-R4142L, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MH121163",
+     "description": "Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Uganda/2000/Gulu-200011676, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MH121169",
+     "description": "Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Sudan/2004/Yambio-HCM/SAV/017, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MK952150",
+     "description": "Sudan ebolavirus isolate Ebola virus/H.sapiens-wt/SSD/1976/Maridi-BNI/DT, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MT583345",
+     "description": "Sudan ebolavirus culture BEI<USA>:NR_51693, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MT583346",
+     "description": "Sudan ebolavirus culture BEI<USA>:NR_51694, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MT583347",
+     "description": "Sudan ebolavirus culture BEI<USA>:NR_51695, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MT583348",
+     "description": "Sudan ebolavirus culture BEI<USA>:NR_51696, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY425631",
+     "description": "Sudan ebolavirus isolate IRF0207, partial genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY425644",
+     "description": "Sudan ebolavirus isolate IRF0154, partial genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "Q",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "RESTV": {
+   "n_ena_records_total": 61,
+   "n_sampled": 60,
+   "n_vp24_cds_called": 18,
+   "n_with_all_four_bdbv_type": 0,
+   "complete_genomes_first": true,
+   "embm_fetch_failures": [],
+   "calls": [
+    {
+     "accession": "AF522874",
+     "description": "Reston Ebola virus strain Pennsylvania, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "AY769362",
+     "description": "Reston ebolavirus strain Pennsylvania, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "JX477165",
+     "description": "Reston ebolavirus isolate RESTV/Sus-wt/PHL/2009/09A Farm A, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "JX477166",
+     "description": "Reston ebolavirus isolate RESTV/M.fascicularis-tc/PHL-USA/1996/Ferlite, Philippines/Alice, TX, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY008770",
+     "description": "Reston ebolavirus strain Reston virus/M.fascicularis-tc/USA/1989/Philippines89-AZ-1435, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798004",
+     "description": "Reston ebolavirus isolate USA_PA_1989_(813159), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798005",
+     "description": "Reston ebolavirus isolate USA_VA_1989_(811952), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798006",
+     "description": "Reston ebolavirus isolate USA_VA_1989_(813168), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798007",
+     "description": "Reston ebolavirus isolate ITA_1992_(806679), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798008",
+     "description": "Reston ebolavirus isolate PHL_1992_(806676), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798009",
+     "description": "Reston ebolavirus isolate USA_TX_1996_(807334), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798010",
+     "description": "Reston ebolavirus isolate PHL_A_2008_(811411), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798011",
+     "description": "Reston ebolavirus isolate PHL_A_2008_(811412), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KY798012",
+     "description": "Reston ebolavirus isolate PHL_A_2009_(813161), complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MF540570",
+     "description": "Reston ebolavirus isolate DrpZ52BF, complete genome.",
+     "gene": "VP24",
+     "product": "membrane associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MF540571",
+     "description": "Reston ebolavirus isolate DrpZ210BG, complete genome.",
+     "gene": "VP24",
+     "product": "membrane associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MT796851",
+     "description": "Reston ebolavirus isolate R08, complete genome.",
+     "gene": "",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MK088530",
+     "description": "UNVERIFIED: Reston ebolavirus isolate Ebola virus/M.fascicularis/USA/1989/Reston-H28-R4387L, partial genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "TAFV": {
+   "n_ena_records_total": 9,
+   "n_sampled": 9,
+   "n_vp24_cds_called": 3,
+   "n_with_all_four_bdbv_type": 0,
+   "complete_genomes_first": true,
+   "embm_fetch_failures": [],
+   "calls": [
+    {
+     "accession": "FJ217162",
+     "description": "Cote d'Ivoire ebolavirus, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "Q",
+      "140": "Q",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "KU182910",
+     "description": "Tai Forest ebolavirus isolate Tai Forest virus/H. sapiens-tc/CIV/1994/Tai Forest-CDC807212, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "Q",
+      "140": "Q",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MH121167",
+     "description": "Tai Forest ebolavirus isolate Ebola virus/H.sapiens-tc/Cote d'Ivoire/1994/Tai Forest-R4371, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "Q",
+      "140": "Q",
+      "141": "A"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  },
+  "BOMV": {
+   "n_ena_records_total": 12,
+   "n_sampled": 12,
+   "n_vp24_cds_called": 6,
+   "n_with_all_four_bdbv_type": 0,
+   "complete_genomes_first": true,
+   "embm_fetch_failures": [],
+   "calls": [
+    {
+     "accession": "MF319185",
+     "description": "Bombali ebolavirus isolate Bombali virus/M.condylurus-wt/SLE/2016/Northern Province-PREDICT_SLAB000156, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MF319186",
+     "description": "Bombali ebolavirus isolate Bombali virus/C.pumilus-wt/SLE/2016/Northern Province-PREDICT_SLAB000047, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MK340750",
+     "description": "Bombali ebolavirus isolate B241, complete genome.",
+     "gene": "VP24",
+     "product": "VP24",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MW056492",
+     "description": "Bombali ebolavirus isolate X030, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "MW056493",
+     "description": "Bombali ebolavirus isolate Z153, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "S",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    },
+    {
+     "accession": "ON871047",
+     "description": "Mutant Bombali ebolavirus Bombali virus FLI/Huh-7-rec/GER/2021/42BB.AJ.3, complete genome.",
+     "gene": "VP24",
+     "product": "membrane-associated protein",
+     "length": 251,
+     "positions": {
+      "83": "P",
+      "135": "N",
+      "140": "R",
+      "141": "V"
+     },
+     "bdbv_type_at_all_four": false
+    }
+   ]
+  }
+ },
+ "finished": "2026-09-26T10:53:28"
+}

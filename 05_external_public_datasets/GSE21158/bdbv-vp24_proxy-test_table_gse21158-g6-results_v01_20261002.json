@@ -1,0 +1,155 @@
+{
+ "dataset": "GSE21158",
+ "design": "10 human cancer cell lines; 24 h control medium, 4 h and 24 h IFN-alpha-2a (100 U/ml); triplicates; Illumina GPL6098",
+ "note": "the 4 h time point has no matched 4 h control, so the primary comparison uses 24 h IFN versus 24 h control",
+ "modules_frozen": {
+  "ISG_module": [
+   "ISG15",
+   "MX1",
+   "MX2",
+   "OAS1",
+   "IFIT1",
+   "IFIT2",
+   "IFIT3",
+   "BST2",
+   "RSAD2",
+   "USP18",
+   "STAT1",
+   "IRF7",
+   "IFI27",
+   "IFI6"
+  ],
+  "receptor_module": [
+   "IFNAR1",
+   "IFNAR2",
+   "IFNLR1",
+   "IL10RB"
+  ],
+  "housekeeping_control": [
+   "ACTB",
+   "GAPDH",
+   "TBP",
+   "RPL13A",
+   "PPIA",
+   "HPRT1"
+  ]
+ },
+ "lineage_map": {
+  "ME15": "melanocyte lineage (melanoma)",
+  "D10": "melanocyte lineage (melanoma)",
+  "JUSO": "melanocyte lineage (melanoma)",
+  "LS174T": "colorectal epithelium",
+  "HCT116": "colorectal epithelium",
+  "AsPC1": "pancreatic epithelium",
+  "MIAPACA": "pancreatic epithelium",
+  "PANC1": "pancreatic epithelium",
+  "A549": "lung epithelium",
+  "Calu6": "lung epithelium"
+ },
+ "tests": {
+  "ISG_module_baseline_vs_ISG_module_induction": {
+   "n_cell_lines": 10,
+   "spearman": -0.6,
+   "permutation_p": 0.0737,
+   "values_baseline": [
+    7.997,
+    7.529,
+    8.36,
+    7.51,
+    7.494,
+    7.629,
+    7.612,
+    7.769,
+    8.249,
+    8.009
+   ],
+   "values_induction": [
+    0.011,
+    1.09,
+    0.013,
+    0.657,
+    1.082,
+    0.028,
+    1.207,
+    1.288,
+    0.023,
+    0.044
+   ]
+  },
+  "receptor_module_baseline_vs_ISG_module_induction": {
+   "n_cell_lines": 10,
+   "spearman": -0.127,
+   "permutation_p": 0.7291,
+   "values_baseline": [
+    7.831,
+    7.737,
+    7.809,
+    7.722,
+    7.754,
+    7.909,
+    7.914,
+    7.868,
+    7.924,
+    7.762
+   ],
+   "values_induction": [
+    0.011,
+    1.09,
+    0.013,
+    0.657,
+    1.082,
+    0.028,
+    1.207,
+    1.288,
+    0.023,
+    0.044
+   ]
+  },
+  "housekeeping_control_baseline_vs_ISG_module_induction": {
+   "n_cell_lines": 10,
+   "spearman": -0.03,
+   "permutation_p": 0.9431,
+   "values_baseline": [
+    10.412,
+    10.399,
+    10.431,
+    10.445,
+    10.333,
+    10.335,
+    10.304,
+    10.627,
+    10.376,
+    10.523
+   ],
+   "values_induction": [
+    0.011,
+    1.09,
+    0.013,
+    0.657,
+    1.082,
+    0.028,
+    1.207,
+    1.288,
+    0.023,
+    0.044
+   ]
+  },
+  "ISG_module_baseline_vs_ISG_module_IFN24_level": {
+   "n_cell_lines": 10,
+   "spearman": -0.236,
+   "permutation_p": 0.5145
+  }
+ },
+ "cell_lines": [
+  "A549",
+  "AsPC1",
+  "Calu6",
+  "D10",
+  "HCT116",
+  "JUSO",
+  "ME15",
+  "MIAPACA",
+  "PANC1",
+  "ls174-t"
+ ]
+}

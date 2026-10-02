@@ -1,0 +1,51 @@
+# ---- editor / OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.Rhistory
+.RData
+
+# ---- local paths and logs ----
+*.log
+*.tmp
+*.bak
+_local/
+
+# ---- regenerated / working layers (must never be committed) ----
+_tmp/
+_scratch/
+_cache/
+
+# ---- large binaries we deliberately do not redistribute ----
+# (third-party raw data stay behind their accessions; see 05_external_public_datasets/INDEX.tsv)
+*.h5
+*.h5ad
+*.rds
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.bgz
+*.bam
+*.cram
+*.fastq
+*.fq
+*.sra
+
+# ---- rendered figures and manuscript artefacts (out of scope by design) ----
+*.tif
+*.tiff
+*.eps
+*.psd
+*.ai

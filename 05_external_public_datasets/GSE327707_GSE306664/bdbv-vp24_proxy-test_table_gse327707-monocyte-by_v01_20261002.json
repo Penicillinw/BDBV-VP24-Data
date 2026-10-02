@@ -1,0 +1,90 @@
+{
+ "Monocyte": {
+  "IFNa": {
+   "n_donors": 5,
+   "spearman_rank": -1.0,
+   "exact_two_sided_p": 0.0167
+  },
+  "IFNb": {
+   "n_donors": 5,
+   "spearman_rank": -1.0,
+   "exact_two_sided_p": 0.0167
+  },
+  "IFNg": {
+   "n_donors": 5,
+   "spearman_rank": -0.7,
+   "exact_two_sided_p": 0.2333
+  },
+  "IFN-L1": {
+   "n_donors": 5,
+   "spearman_rank": -0.5,
+   "exact_two_sided_p": 0.45
+  }
+ },
+ "Bcell": {
+  "IFNa": {
+   "n_donors": 5,
+   "spearman_rank": 0.0,
+   "exact_two_sided_p": 1.0
+  },
+  "IFNb": {
+   "n_donors": 5,
+   "spearman_rank": 0.3,
+   "exact_two_sided_p": 0.6833
+  },
+  "IFNg": {
+   "n_donors": 5,
+   "spearman_rank": 0.5,
+   "exact_two_sided_p": 0.45
+  },
+  "IFN-L1": {
+   "n_donors": 5,
+   "spearman_rank": -0.1,
+   "exact_two_sided_p": 0.95
+  }
+ },
+ "NK": {
+  "IFNa": {
+   "n_donors": 5,
+   "spearman_rank": 0.6,
+   "exact_two_sided_p": 0.35
+  },
+  "IFNb": {
+   "n_donors": 5,
+   "spearman_rank": 0.5,
+   "exact_two_sided_p": 0.45
+  },
+  "IFNg": {
+   "n_donors": 5,
+   "spearman_rank": 0.5,
+   "exact_two_sided_p": 0.45
+  },
+  "IFN-L1": {
+   "n_donors": 5,
+   "spearman_rank": 0.3,
+   "exact_two_sided_p": 0.6833
+  }
+ },
+ "Tcell": {
+  "IFNa": {
+   "n_donors": 5,
+   "spearman_rank": 0.2,
+   "exact_two_sided_p": 0.7833
+  },
+  "IFNb": {
+   "n_donors": 5,
+   "spearman_rank": 0.1,
+   "exact_two_sided_p": 0.95
+  },
+  "IFNg": {
+   "n_donors": 5,
+   "spearman_rank": -0.8,
+   "exact_two_sided_p": 0.1333
+  },
+  "IFN-L1": {
+   "n_donors": 5,
+   "spearman_rank": -0.3,
+   "exact_two_sided_p": 0.6833
+  }
+ }
+}

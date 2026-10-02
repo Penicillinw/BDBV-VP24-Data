@@ -1,0 +1,13 @@
+gene	group	ensembl_gene_id	tissues_assayed	tissues_protein_detected	tissues_protein_undetected	fraction_undetected	median_mrna_tpm_detected
+IFNAR1	score_typeI	ENSG00000142166	29	13	16	0.551724	16.43
+IFNAR2	score_typeI	ENSG00000159110	29	10	19	0.655172	18.555
+IFNLR1	score_typeIII		0	0	0		
+IL10RB	score_typeIII	ENSG00000243646	29	24	5	0.172414	22.51
+ISG15	score_priming	ENSG00000187608	29	29	0	0	8.6
+MX1	score_priming	ENSG00000157601	29	29	0	0	17.71
+KPNA1	second_axis	ENSG00000114030	29	29	0	0	14.4
+KPNA5	second_axis	ENSG00000196911	29	5	24	0.827586	6.93
+KPNA6	second_axis	ENSG00000025800	29	29	0	0	10.41
+STAT1	cargo	ENSG00000115415	29	29	0	0	33.33
+STAT2	cargo	ENSG00000170581	29	29	0	0	13.82
+IRF9	cargo	ENSG00000213928	29	29	0	0	26.28

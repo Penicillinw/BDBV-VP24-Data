@@ -1,0 +1,131 @@
+{
+  "role": "class-count sensitivity for the A3 registration gap (40 pre-registered vs 42 executed)",
+  "formal_run": "analysis/a3_deconvolution_20260926/a3_summary.json",
+  "dropped_classes": [
+    "megakaryocytes_platelets",
+    "erythrocytes"
+  ],
+  "checks": {
+    "R1_reproduction_ok": true,
+    "R2_A1_hits_equal": true,
+    "R3_A2_same_pass_and_small_drift": false,
+    "R4_primary_same_sign_small_drift": true,
+    "R5_verdict_identical": true,
+    "judgement_preserving": false
+  },
+  "drift": {
+    "A2_rho_abs_drift": 0.143,
+    "primary_rho_abs_drift": 0.024,
+    "A1_top1_by_tissue": {
+      "formal_42": {
+        "liver": "hepatocytes",
+        "kidney": "kidney_tubule",
+        "brain": "neurons",
+        "adrenal gland": "adrenal_medulla",
+        "lymph node": "b_cells",
+        "skin": "adipocytes",
+        "sex organ": "smooth_muscle",
+        "lung": "alveolar_epithelium"
+      },
+      "sensitivity_40": {
+        "liver": "hepatocytes",
+        "kidney": "kidney_tubule",
+        "brain": "neurons",
+        "adrenal gland": "adrenal_medulla",
+        "lymph node": "b_cells",
+        "skin": "adipocytes",
+        "sex organ": "smooth_muscle",
+        "lung": "alveolar_epithelium"
+      }
+    },
+    "A2_immune_fraction_by_tissue": {
+      "formal_42": {
+        "adrenal gland": 0.0042,
+        "brain": 0.0035,
+        "kidney": 0.0345,
+        "liver": 0.0076,
+        "lung": 0.038,
+        "lymph node": 0.5332,
+        "sex organ": 0.0206,
+        "skin": 0.0525
+      },
+      "sensitivity_40": {
+        "adrenal gland": 0.0041,
+        "brain": 0.0053,
+        "kidney": 0.0403,
+        "liver": 0.0071,
+        "lung": 0.0367,
+        "lymph node": 0.5269,
+        "sex organ": 0.0315,
+        "skin": 0.0507
+      }
+    }
+  },
+  "comparison_table": [
+    {
+      "quantity": "n classes",
+      "formal_42": "42",
+      "sensitivity_40": "40"
+    },
+    {
+      "quantity": "n marker genes",
+      "formal_42": "5338",
+      "sensitivity_40": "5163"
+    },
+    {
+      "quantity": "R^2 (composition -> ISG_core)",
+      "formal_42": "0.559",
+      "sensitivity_40": "0.577"
+    },
+    {
+      "quantity": "anchor A1 top-1 hits",
+      "formal_42": "6",
+      "sensitivity_40": "6"
+    },
+    {
+      "quantity": "anchor A1 pass",
+      "formal_42": "True",
+      "sensitivity_40": "True"
+    },
+    {
+      "quantity": "anchor A2 rho (immune vs marker index)",
+      "formal_42": "0.405",
+      "sensitivity_40": "0.262"
+    },
+    {
+      "quantity": "anchor A2 pass",
+      "formal_42": "False",
+      "sensitivity_40": "False"
+    },
+    {
+      "quantity": "all anchors pass",
+      "formal_42": "False",
+      "sensitivity_40": "False"
+    },
+    {
+      "quantity": "primary rho (delta_weighted vs E_adj)",
+      "formal_42": "-0.524",
+      "sensitivity_40": "-0.5"
+    },
+    {
+      "quantity": "primary p_perm",
+      "formal_42": "0.1938",
+      "sensitivity_40": "0.215"
+    },
+    {
+      "quantity": "pipeline reproduction rho",
+      "formal_42": "-0.333",
+      "sensitivity_40": "-0.333"
+    },
+    {
+      "quantity": "pipeline reproduction ok",
+      "formal_42": "True",
+      "sensitivity_40": "True"
+    },
+    {
+      "quantity": "verdict",
+      "formal_42": "不可判定：去卷积未通过锚点（A1/A2 至少一条未过）",
+      "sensitivity_40": "不可判定：去卷积未通过锚点（A1/A2 至少一条未过）"
+    }
+  ]
+}

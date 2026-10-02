@@ -1,0 +1,32 @@
+accession	outbreak_year	collection_date	geo_loc_name	isolate	host	length	pos83	pos135	pos140	pos141	pos184	pos217	four_position_config
+ACI28626.1	2007	Nov-2007	Uganda		Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AKB09567.1	2007	01-Oct-2007	Uganda	Bundibugyo virus/H.sapiens-tc/UGA/2007/Butalya-811250	Homo sapiens; sex: M; age: 52Y	251	S	Q	H	A	R	V	SQHA
+ALT19774.1	2007	14-Nov-2007	Uganda	Bundibugyo virus/H. sapiens-tc/UGA/2007/Bundibugyo-200706291	Homo sapiens; male; 52 years	251	S	Q	H	A	R	V	SQHA
+AYI50311.1	2007	2007	Uganda	Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-R4386L	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AYI50320.1	2007	2007	Uganda: Bundibugyo	Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AYI50386.1	2007	2007	Uganda: Bundibugyo	Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+QYU59242.1	2007	2007	Uganda	Ebolavirus H.sapiens-tc/2007	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+QYU59251.1	2007	2007	Uganda	Ebolavirus H.sapiens-tc/2007	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+YP_003815439.1	2007	Nov-2007	Uganda	Bundibugyo virus/H.sapiens-tc/UGA/2007/Butalya-811250	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AGL73455.1	2012	2012	Democratic Republic of the Congo	EboBund-112 2012	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AGL73462.1	2012	2012	Democratic Republic of the Congo	EboBund-120 2012	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AGL73469.1	2012	2012	Democratic Republic of the Congo	EboBund-122 2012	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+AGL73476.1	2012	2012	Democratic Republic of the Congo	EboBund-14 2012	Homo sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49537.1	2012	20-Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120022-1	H. sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49546.1	2012	21-Sep-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120143-3	Cell culture (grivet kidney epithelial Vero)	251	S	Q	H	A	R	V	SQHA
+QNC49555.1	2012	21-Sep-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120143	Cell culture (grivet kidney epithelial Vero)	251	S	Q	H	A	R	V	SQHA
+QNC49564.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-201200004	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49573.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120037	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49582.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120074-1	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49591.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120115-1	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49600.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120120-1	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49609.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120130	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49618.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120135	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49627.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120138	grivet (Chlorocebus aethiops) kidney epithelial Vero cells	251	S	Q	H	A	R	V	SQHA
+QNC49645.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120109-2	H. sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49654.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120074-1	H. sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49663.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120115-1	H. sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49672.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120116-3	H. sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49681.1	2012	Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120130	H. sapiens	251	S	Q	H	A	R	V	SQHA
+QNC49690.1	2012	20-Aug-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120022-1	grivet (Chlorocebus aethiops) kidney epithelial Vero cell culture	251	S	Q	H	A	R	V	SQHA
+QNC49699.1	2012	09-Sep-2012	Democratic Republic of the Congo: Isiro	Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-201200120-1	Homo sapiens	251	S	Q	H	A	R	V	SQHA

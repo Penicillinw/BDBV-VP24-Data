@@ -1,0 +1,624 @@
+{
+ "floor": 50,
+ "reference_conventions": {
+  "rank_correlation_between_the_two": 0.9934,
+  "b5b_used": "rebuilt_from_wide",
+  "manuscript_delta_is": "tabulated_delta_restriction"
+ },
+ "n_reference_types": 154,
+ "n_low_end_members": 41,
+ "low_end_names_unresolved": [],
+ "atlases": {
+  "total": 26,
+  "cached_19": 19,
+  "new_7": 7
+ },
+ "atlas_label_universe": {
+  "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad": 44,
+  "3e524d45_Human_adult_ureter.h5ad": 13,
+  "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad": 6,
+  "7b75b2c4_Photoreceptor_cells_of_the_human_fovea_and_perip.h5ad": 2,
+  "8e5978bd_Adult_bladder_urothelial_subset.h5ad": 3,
+  "HBCA_microglia.h5ad": 2,
+  "HBCA_vascular.h5ad": 3,
+  "HLiCA_cholangiocyte.h5ad": 3,
+  "HLiCA_endothelial.h5ad": 8,
+  "HLiCA_hepatocyte.h5ad": 4,
+  "HLiCA_myeloid.h5ad": 11,
+  "Krasnow_lung_10X.h5ad": 40,
+  "TS_Vasculature_cellxgene_source.h5ad": 20,
+  "TS_bone_marrow.h5ad": 20,
+  "TS_kidney.h5ad": 8,
+  "TS_large_intestine.h5ad": 22,
+  "TS_muscle.h5ad": 23,
+  "TS_prostate.h5ad": 12,
+  "TS_skin.h5ad": 16,
+  "TS_small_intestine.h5ad": 29,
+  "TS_testis.h5ad": 8,
+  "TS_uterus.h5ad": 16,
+  "cfa755c1_Supercluster__Choroid_plexus.h5ad": 1,
+  "e6dad530_All_cell_types_of_human_eye.h5ad": 11,
+  "gut_APC_lamina_propria.h5ad": 1,
+  "synovium_RA.h5ad": 15
+ },
+ "leave_one_atlas_out_A": [
+  {
+   "atlas_dropped": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "n": 177,
+   "rho": 0.4933
+  },
+  {
+   "atlas_dropped": "3e524d45_Human_adult_ureter.h5ad",
+   "n": 191,
+   "rho": 0.5012
+  },
+  {
+   "atlas_dropped": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "n": 194,
+   "rho": 0.51
+  },
+  {
+   "atlas_dropped": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "n": 197,
+   "rho": 0.5038
+  },
+  {
+   "atlas_dropped": "HBCA_microglia.h5ad",
+   "n": 196,
+   "rho": 0.5083
+  },
+  {
+   "atlas_dropped": "HBCA_vascular.h5ad",
+   "n": 194,
+   "rho": 0.492
+  },
+  {
+   "atlas_dropped": "HLiCA_cholangiocyte.h5ad",
+   "n": 197,
+   "rho": 0.5018
+  },
+  {
+   "atlas_dropped": "HLiCA_endothelial.h5ad",
+   "n": 196,
+   "rho": 0.5026
+  },
+  {
+   "atlas_dropped": "HLiCA_hepatocyte.h5ad",
+   "n": 197,
+   "rho": 0.5026
+  },
+  {
+   "atlas_dropped": "HLiCA_myeloid.h5ad",
+   "n": 192,
+   "rho": 0.5328
+  },
+  {
+   "atlas_dropped": "Krasnow_lung_10X.h5ad",
+   "n": 178,
+   "rho": 0.4785
+  },
+  {
+   "atlas_dropped": "TS_Vasculature_cellxgene_source.h5ad",
+   "n": 182,
+   "rho": 0.5099
+  },
+  {
+   "atlas_dropped": "TS_bone_marrow.h5ad",
+   "n": 184,
+   "rho": 0.4848
+  },
+  {
+   "atlas_dropped": "TS_kidney.h5ad",
+   "n": 191,
+   "rho": 0.5062
+  },
+  {
+   "atlas_dropped": "TS_large_intestine.h5ad",
+   "n": 186,
+   "rho": 0.5121
+  },
+  {
+   "atlas_dropped": "TS_muscle.h5ad",
+   "n": 185,
+   "rho": 0.4997
+  },
+  {
+   "atlas_dropped": "TS_prostate.h5ad",
+   "n": 189,
+   "rho": 0.4961
+  },
+  {
+   "atlas_dropped": "TS_skin.h5ad",
+   "n": 185,
+   "rho": 0.4902
+  },
+  {
+   "atlas_dropped": "TS_small_intestine.h5ad",
+   "n": 181,
+   "rho": 0.5277
+  },
+  {
+   "atlas_dropped": "TS_testis.h5ad",
+   "n": 192,
+   "rho": 0.4957
+  },
+  {
+   "atlas_dropped": "TS_uterus.h5ad",
+   "n": 185,
+   "rho": 0.5149
+  },
+  {
+   "atlas_dropped": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "n": 196,
+   "rho": 0.5015
+  },
+  {
+   "atlas_dropped": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "n": 197,
+   "rho": 0.4968
+  },
+  {
+   "atlas_dropped": "synovium_RA.h5ad",
+   "n": 192,
+   "rho": 0.5068
+  }
+ ],
+ "per_atlas_A": [
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "n": 21,
+   "rho": 0.6803
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "n": 7,
+   "rho": 0.6429
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "n": 4,
+   "rho": 0.6325
+  },
+  {
+   "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "HBCA_microglia.h5ad",
+   "n": 2,
+   "rho": 1.0
+  },
+  {
+   "atlas": "HBCA_vascular.h5ad",
+   "n": 4,
+   "rho": 0.9487
+  },
+  {
+   "atlas": "HLiCA_cholangiocyte.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "HLiCA_endothelial.h5ad",
+   "n": 2,
+   "rho": 1.0
+  },
+  {
+   "atlas": "HLiCA_hepatocyte.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "HLiCA_myeloid.h5ad",
+   "n": 6,
+   "rho": 0.0
+  },
+  {
+   "atlas": "Krasnow_lung_10X.h5ad",
+   "n": 20,
+   "rho": 0.7672
+  },
+  {
+   "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+   "n": 16,
+   "rho": 0.3652
+  },
+  {
+   "atlas": "TS_bone_marrow.h5ad",
+   "n": 14,
+   "rho": 0.6946
+  },
+  {
+   "atlas": "TS_kidney.h5ad",
+   "n": 7,
+   "rho": -0.3784
+  },
+  {
+   "atlas": "TS_large_intestine.h5ad",
+   "n": 12,
+   "rho": 0.3427
+  },
+  {
+   "atlas": "TS_muscle.h5ad",
+   "n": 13,
+   "rho": 0.595
+  },
+  {
+   "atlas": "TS_prostate.h5ad",
+   "n": 9,
+   "rho": 0.6527
+  },
+  {
+   "atlas": "TS_skin.h5ad",
+   "n": 13,
+   "rho": 0.6639
+  },
+  {
+   "atlas": "TS_small_intestine.h5ad",
+   "n": 17,
+   "rho": 0.2994
+  },
+  {
+   "atlas": "TS_testis.h5ad",
+   "n": 6,
+   "rho": 0.971
+  },
+  {
+   "atlas": "TS_uterus.h5ad",
+   "n": 13,
+   "rho": 0.3609
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "n": 2,
+   "rho": null
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "synovium_RA.h5ad",
+   "n": 6,
+   "rho": 0.4638
+  }
+ ],
+ "leave_one_atlas_out_B": [
+  {
+   "atlas_dropped": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "n": 180,
+   "rho": 0.4761
+  },
+  {
+   "atlas_dropped": "3e524d45_Human_adult_ureter.h5ad",
+   "n": 197,
+   "rho": 0.4951
+  },
+  {
+   "atlas_dropped": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "n": 200,
+   "rho": 0.5032
+  },
+  {
+   "atlas_dropped": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "n": 203,
+   "rho": 0.4974
+  },
+  {
+   "atlas_dropped": "HBCA_microglia.h5ad",
+   "n": 202,
+   "rho": 0.502
+  },
+  {
+   "atlas_dropped": "HBCA_vascular.h5ad",
+   "n": 200,
+   "rho": 0.4862
+  },
+  {
+   "atlas_dropped": "HLiCA_cholangiocyte.h5ad",
+   "n": 203,
+   "rho": 0.4959
+  },
+  {
+   "atlas_dropped": "HLiCA_endothelial.h5ad",
+   "n": 202,
+   "rho": 0.4969
+  },
+  {
+   "atlas_dropped": "HLiCA_hepatocyte.h5ad",
+   "n": 203,
+   "rho": 0.4965
+  },
+  {
+   "atlas_dropped": "HLiCA_myeloid.h5ad",
+   "n": 198,
+   "rho": 0.5249
+  },
+  {
+   "atlas_dropped": "Krasnow_lung_10X.h5ad",
+   "n": 183,
+   "rho": 0.4736
+  },
+  {
+   "atlas_dropped": "TS_Vasculature_cellxgene_source.h5ad",
+   "n": 188,
+   "rho": 0.5036
+  },
+  {
+   "atlas_dropped": "TS_bone_marrow.h5ad",
+   "n": 190,
+   "rho": 0.4791
+  },
+  {
+   "atlas_dropped": "TS_kidney.h5ad",
+   "n": 197,
+   "rho": 0.4996
+  },
+  {
+   "atlas_dropped": "TS_large_intestine.h5ad",
+   "n": 192,
+   "rho": 0.5053
+  },
+  {
+   "atlas_dropped": "TS_muscle.h5ad",
+   "n": 191,
+   "rho": 0.4922
+  },
+  {
+   "atlas_dropped": "TS_prostate.h5ad",
+   "n": 195,
+   "rho": 0.4893
+  },
+  {
+   "atlas_dropped": "TS_skin.h5ad",
+   "n": 191,
+   "rho": 0.4842
+  },
+  {
+   "atlas_dropped": "TS_small_intestine.h5ad",
+   "n": 187,
+   "rho": 0.5204
+  },
+  {
+   "atlas_dropped": "TS_testis.h5ad",
+   "n": 198,
+   "rho": 0.489
+  },
+  {
+   "atlas_dropped": "TS_uterus.h5ad",
+   "n": 191,
+   "rho": 0.5073
+  },
+  {
+   "atlas_dropped": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "n": 202,
+   "rho": 0.4955
+  },
+  {
+   "atlas_dropped": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "n": 201,
+   "rho": 0.5056
+  },
+  {
+   "atlas_dropped": "synovium_RA.h5ad",
+   "n": 198,
+   "rho": 0.5012
+  }
+ ],
+ "per_atlas_B": [
+  {
+   "atlas": "2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad",
+   "n": 24,
+   "rho": 0.7395
+  },
+  {
+   "atlas": "3e524d45_Human_adult_ureter.h5ad",
+   "n": 7,
+   "rho": 0.6429
+  },
+  {
+   "atlas": "43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad",
+   "n": 4,
+   "rho": 0.6325
+  },
+  {
+   "atlas": "8e5978bd_Adult_bladder_urothelial_subset.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "HBCA_microglia.h5ad",
+   "n": 2,
+   "rho": 1.0
+  },
+  {
+   "atlas": "HBCA_vascular.h5ad",
+   "n": 4,
+   "rho": 0.9487
+  },
+  {
+   "atlas": "HLiCA_cholangiocyte.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "HLiCA_endothelial.h5ad",
+   "n": 2,
+   "rho": 1.0
+  },
+  {
+   "atlas": "HLiCA_hepatocyte.h5ad",
+   "n": 1,
+   "rho": null
+  },
+  {
+   "atlas": "HLiCA_myeloid.h5ad",
+   "n": 6,
+   "rho": 0.0
+  },
+  {
+   "atlas": "Krasnow_lung_10X.h5ad",
+   "n": 21,
+   "rho": 0.7732
+  },
+  {
+   "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+   "n": 16,
+   "rho": 0.3652
+  },
+  {
+   "atlas": "TS_bone_marrow.h5ad",
+   "n": 14,
+   "rho": 0.6946
+  },
+  {
+   "atlas": "TS_kidney.h5ad",
+   "n": 7,
+   "rho": -0.3784
+  },
+  {
+   "atlas": "TS_large_intestine.h5ad",
+   "n": 12,
+   "rho": 0.3427
+  },
+  {
+   "atlas": "TS_muscle.h5ad",
+   "n": 13,
+   "rho": 0.595
+  },
+  {
+   "atlas": "TS_prostate.h5ad",
+   "n": 9,
+   "rho": 0.6527
+  },
+  {
+   "atlas": "TS_skin.h5ad",
+   "n": 13,
+   "rho": 0.6639
+  },
+  {
+   "atlas": "TS_small_intestine.h5ad",
+   "n": 17,
+   "rho": 0.2994
+  },
+  {
+   "atlas": "TS_testis.h5ad",
+   "n": 6,
+   "rho": 0.971
+  },
+  {
+   "atlas": "TS_uterus.h5ad",
+   "n": 13,
+   "rho": 0.3609
+  },
+  {
+   "atlas": "cfa755c1_Supercluster__Choroid_plexus.h5ad",
+   "n": 2,
+   "rho": null
+  },
+  {
+   "atlas": "e6dad530_All_cell_types_of_human_eye.h5ad",
+   "n": 3,
+   "rho": 0.5
+  },
+  {
+   "atlas": "synovium_RA.h5ad",
+   "n": 6,
+   "rho": 0.4638
+  }
+ ],
+ "self_checks": {
+  "S1_b5b_19_atlases_A": {
+   "expected": {
+    "n": 162,
+    "rho": 0.5191
+   },
+   "note": "b5b used the wide-rebuilt Delta as x, this run's primary x is the tabulated one, so the rho is expected to differ",
+   "observed_tabulated": {
+    "n": 162,
+    "rho": 0.4901
+   },
+   "observed_wide_rebuilt": {
+    "n": 162,
+    "rho": 0.5191
+   },
+   "pass_wide_rebuilt": true
+  },
+  "S2_h2b_7_atlases_B": {
+   "expected": {
+    "n": 38,
+    "rho": 0.568
+   },
+   "note": "h2b pooled each pair as the unweighted mean of its member labels' z values and dropped atlases with fewer than three matched reference types, so both n and rho are expected to differ under the frozen b5b pooling rule used here",
+   "observed": {
+    "n": 41,
+    "rho": 0.563
+   },
+   "pass": false
+  },
+  "S1_fieldwise_vs_b5b": {
+   "shared_rows": 162,
+   "max_abs_diff": 0.0,
+   "frozen_rows": 162,
+   "key_fields": "atlas + hpa_cell_type"
+  },
+  "S2_fieldwise_vs_h2b": {
+   "shared_rows": 38,
+   "max_abs_diff": 0.598265,
+   "frozen_rows": 38,
+   "key_fields": "atlas + reference_cell_type"
+  }
+ },
+ "headline": {
+  "A_19": {
+   "convention": "A",
+   "set": "19_atlases",
+   "x_convention": "tabulated_delta_restriction",
+   "n": 162,
+   "rho": 0.4901,
+   "p_t_approx": 0.0,
+   "min_detectable_rho_power80": 0.219,
+   "achieved_power_at_observed": 1.0,
+   "p_perm": 0.0002,
+   "p_perm_n": 4000
+  },
+  "A_26": {
+   "convention": "A",
+   "set": "26_atlases",
+   "x_convention": "tabulated_delta_restriction",
+   "n": 198,
+   "rho": 0.5029,
+   "p_t_approx": 0.0,
+   "min_detectable_rho_power80": 0.198,
+   "achieved_power_at_observed": 1.0,
+   "p_perm": 0.0002,
+   "p_perm_n": 4000
+  },
+  "B_07": {
+   "convention": "B",
+   "set": "07_new_atlases",
+   "x_convention": "tabulated_delta_restriction",
+   "n": 41,
+   "rho": 0.563,
+   "p_t_approx": 0.0001,
+   "min_detectable_rho_power80": 0.426,
+   "achieved_power_at_observed": 0.975,
+   "p_perm": 0.0002,
+   "p_perm_n": 20000
+  },
+  "B_26": {
+   "convention": "B",
+   "set": "26_atlases",
+   "x_convention": "tabulated_delta_restriction",
+   "n": 204,
+   "rho": 0.4967,
+   "p_t_approx": 0.0,
+   "min_detectable_rho_power80": 0.195,
+   "achieved_power_at_observed": 1.0,
+   "p_perm": 0.0002,
+   "p_perm_n": 4000
+  }
+ }
+}

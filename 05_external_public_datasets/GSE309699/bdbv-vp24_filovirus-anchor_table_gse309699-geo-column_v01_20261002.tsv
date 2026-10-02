@@ -1,0 +1,45 @@
+column	letter	digit	gsm	treatment	batch	library_name	title
+A1	A	1	GSM9277573	6 hour IFN alpha	20200820	Interferon alpha 6h treatment 1	NHSK-1 Cells, 6 hour IFN alpha treatment replicate 1
+A2	A	2	GSM9277574	6 hour IFN alpha	20200820	Interferon alpha 6h treatment 2	NHSK-1 Cells, 6 hour IFN alpha treatment replicate 2
+A3	A	3	GSM9277575	6 hour IFN alpha	20200820	Interferon alpha 6h treatment 3	NHSK-1 Cells, 6 hour IFN alpha treatment replicate 3
+A4	A	4	GSM9277576	6 hour IFN alpha	20200820	Interferon alpha 6h treatment 4	NHSK-1 Cells, 6 hour IFN alpha treatment replicate 4
+A5	A	5	GSM9277577	24 hour IFN alpha	20200820	Interferon alpha 24h treatment 1	NHSK-1 Cells, 24 hour IFN alpha treatment replicate 1
+A6	A	6	GSM9277578	24 hour IFN alpha	20200820	Interferon alpha 24h treatment 2	NHSK-1 Cells, 24 hour IFN alpha treatment replicate 2
+A7	A	7	GSM9277579	24 hour IFN alpha	20200820	Interferon alpha 24h treatment 3	NHSK-1 Cells, 24 hour IFN alpha treatment replicate 3
+A8	A	8	GSM9277580	24 hour IFN alpha	20200820	Interferon alpha 24h treatment 4	NHSK-1 Cells, 24 hour IFN alpha treatment replicate 4
+B1	B	1	GSM9277581	6 hour IFN beta	20200722	Interferon beta 6h treatment 1	NHSK-1 Cells, 6 hour IFN beta treatment replicate 1
+B2	B	2	GSM9277582	6 hour IFN beta	20200722	Interferon beta 6h treatment 2	NHSK-1 Cells, 6 hour IFN beta treatment replicate 2
+B3	B	3	GSM9277583	6 hour IFN beta	20200722	Interferon beta 6h treatment 3	NHSK-1 Cells, 6 hour IFN beta treatment replicate 3
+B4	B	4	GSM9277584	6 hour IFN beta	20200722	Interferon beta 6h treatment 4	NHSK-1 Cells, 6 hour IFN beta treatment replicate 4
+B5	B	5	GSM9277585	24 hour IFN beta	20200722	Interferon beta 24h treatment 1	NHSK-1 Cells, 24 hour IFN beta treatment replicate 1
+B6	B	6	GSM9277586	24 hour IFN beta	20200722	Interferon beta 24h treatment 2	NHSK-1 Cells, 24 hour IFN beta treatment replicate 2
+B7	B	7	GSM9277587	24 hour IFN beta	20200722	Interferon beta 24h treatment 3	NHSK-1 Cells, 24 hour IFN beta treatment replicate 3
+B8	B	8	GSM9277588	24 hour IFN beta	20200722	Interferon beta 24h treatment 4	NHSK-1 Cells, 24 hour IFN beta treatment replicate 4
+G1	G	1	GSM9277589	6 hour IFN gamma	20200722	Interferon gamma 6h treatment 1	NHSK-1 Cells, 6 hour IFN gamma treatment replicate 1
+G2	G	2	GSM9277590	6 hour IFN gamma	20200722	Interferon gamma 6h treatment 2	NHSK-1 Cells, 6 hour IFN gamma treatment replicate 2
+G5	G	5	GSM9277591	24 hour IFN gamma	20200722	Interferon gamma 24h treatment 1	NHSK-1 Cells, 24 hour IFN gamma treatment replicate 1
+G6	G	6	GSM9277592	24 hour IFN gamma	20200722	Interferon gamma 24h treatment 2	NHSK-1 Cells, 24 hour IFN gamma treatment replicate 2
+G7	G	7	GSM9277593	24 hour IFN gamma	20200722	Interferon gamma 24h treatment 3	NHSK-1 Cells, 24 hour IFN gamma treatment replicate 3
+K1	K	1	GSM9277609	no treatment	20200820	Baseline untreated exp2 1	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 1
+K2	K	2	GSM9277610	no treatment	20200820	Baseline untreated exp2 2	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 2
+K3	K	3	GSM9277611	no treatment	20200820	Baseline untreated exp2 3	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 3
+K4	K	4	GSM9277612	no treatment	20200820	Baseline untreated exp2 4	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 4
+K5	K	5	GSM9277613	no treatment	20200820	Baseline untreated exp2 5	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 5
+K6	K	6	GSM9277614	no treatment	20200820	Baseline untreated exp2 6	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 6
+K7	K	7	GSM9277615	no treatment	20200820	Baseline untreated exp2 7	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 7
+K8	K	8	GSM9277616	no treatment	20200820	Baseline untreated exp2 8	NHSK-1 Cells, no IFN treatment, experiment 2, replicate 8
+M1	M	1	GSM9277594	6 hour IFN lambda	20200820	Interferon lambda 6h treatment 1	NHSK-1 Cells, 6 hour IFN lambda treatment replicate 1
+M2	M	2	GSM9277595	6 hour IFN lambda	20200820	Interferon lambda 6h treatment 2	NHSK-1 Cells, 6 hour IFN lambda treatment replicate 2
+M3	M	3	GSM9277596	6 hour IFN lambda	20200820	Interferon lambda 6h treatment 3	NHSK-1 Cells, 6 hour IFN lambda treatment replicate 3
+M4	M	4	GSM9277597	6 hour IFN lambda	20200820	Interferon lambda 6h treatment 4	NHSK-1 Cells, 6 hour IFN lambda treatment replicate 4
+M5	M	5	GSM9277598	24 hour IFN lambda	20200820	Interferon lambda 24h treatment 1	NHSK-1 Cells, 24 hour IFN lambda treatment replicate 1
+M6	M	6	GSM9277599	24 hour IFN lambda	20200820	Interferon lambda 24h treatment 2	NHSK-1 Cells, 24 hour IFN lambda treatment replicate 2
+M7	M	7	GSM9277600	24 hour IFN lambda	20200820	Interferon lambda 24h treatment 3	NHSK-1 Cells, 24 hour IFN lambda treatment replicate 3
+M8	M	8	GSM9277601	24 hour IFN lambda	20200820	Interferon lambda 24h treatment 4	NHSK-1 Cells, 24 hour IFN lambda treatment replicate 4
+N2	N	2	GSM9277602	no treatment	20200722	Baseline untreated exp1 2	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 2
+N3	N	3	GSM9277603	no treatment	20200722	Baseline untreated exp1 3	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 3
+N4	N	4	GSM9277604	no treatment	20200722	Baseline untreated exp1 4	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 4
+N5	N	5	GSM9277605	no treatment	20200722	Baseline untreated exp1 5	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 5
+N6	N	6	GSM9277606	no treatment	20200722	Baseline untreated exp1 6	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 6
+N7	N	7	GSM9277607	no treatment	20200722	Baseline untreated exp1 7	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 7
+N8	N	8	GSM9277608	no treatment	20200722	Baseline untreated exp1 8	NHSK-1 Cells, no IFN treatment, experiment 1, replicate 8

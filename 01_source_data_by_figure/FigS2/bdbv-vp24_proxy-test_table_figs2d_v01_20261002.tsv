@@ -1,0 +1,36 @@
+panel	dataset	requirement	satisfied	requirements_met_of_7
+FigS2d	114905	BDBV	1	4
+FigS2d	114905	EBOV	1	4
+FigS2d	114905	Same host cell type	1	4
+FigS2d	114905	Host transcriptome	0	4
+FigS2d	114905	IFN readout	0	4
+FigS2d	114905	>= 2 replicates	0	4
+FigS2d	114905	Publicly released	1	4
+FigS2d	309699	BDBV	0	5
+FigS2d	309699	EBOV	1	5
+FigS2d	309699	Same host cell type	0	5
+FigS2d	309699	Host transcriptome	1	5
+FigS2d	309699	IFN readout	1	5
+FigS2d	309699	>= 2 replicates	1	5
+FigS2d	309699	Publicly released	1	5
+FigS2d	226106	BDBV	0	5
+FigS2d	226106	EBOV	1	5
+FigS2d	226106	Same host cell type	0	5
+FigS2d	226106	Host transcriptome	1	5
+FigS2d	226106	IFN readout	1	5
+FigS2d	226106	>= 2 replicates	1	5
+FigS2d	226106	Publicly released	1	5
+FigS2d	46599	BDBV	0	4
+FigS2d	46599	EBOV	0	4
+FigS2d	46599	Same host cell type	0	4
+FigS2d	46599	Host transcriptome	1	4
+FigS2d	46599	IFN readout	1	4
+FigS2d	46599	>= 2 replicates	1	4
+FigS2d	46599	Publicly released	1	4
+FigS2d	342661	BDBV	0	3
+FigS2d	342661	EBOV	0	3
+FigS2d	342661	Same host cell type	0	3
+FigS2d	342661	Host transcriptome	1	3
+FigS2d	342661	IFN readout	1	3
+FigS2d	342661	>= 2 replicates	1	3
+FigS2d	342661	Publicly released	0	3

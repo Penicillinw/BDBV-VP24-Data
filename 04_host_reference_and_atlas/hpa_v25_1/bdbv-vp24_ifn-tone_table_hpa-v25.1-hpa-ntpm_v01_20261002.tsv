@@ -1,0 +1,7 @@
+compartment	max_attachment_nCPM	attachment_genes_above_1_nCPM	receptor_NPC1_nCPM	cell_types
+interface macrophage	124.5	3	174.5	4
+sinusoidal endothelium	12.3	1	67.6	2
+hepatocyte / cholangiocyte	3.9	1	54.1	2
+intestinal epithelium	11.2	1	256.8	4
+genital tract	26.8	2	507.9	6
+adrenal	0.9	0	322.4	2

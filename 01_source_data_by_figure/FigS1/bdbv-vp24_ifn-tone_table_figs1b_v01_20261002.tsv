@@ -1,0 +1,12 @@
+panel	cell_type	kind	ISG_baseline_log2	ISG_induction_log2
+FigS1b	PMA-U937	immortalized	9.65	2.9719
+FigS1b	U937	immortalized	8.2991	3.523
+FigS1b	CEM-SS	immortalized	7.3968	3.6421
+FigS1b	HT1080	immortalized	7.5592	3.6646
+FigS1b	CEM	immortalized	7.6083	3.9083
+FigS1b	U87-MG	immortalized	7.4846	4.2738
+FigS1b	PMA-THP-1	immortalized	9.1582	4.2906
+FigS1b	Jurkat	immortalized	7.8817	4.3277
+FigS1b	THP-1	immortalized	8.0927	4.4217
+FigS1b	primary-CD4+-T-cells	primary	9.0198	3.4559
+FigS1b	primary-macrophages	primary	9.9666	3.5669

@@ -1,0 +1,20 @@
+gene	cell_type	nTPM	source
+CD209	Kupffer cells	1.0	single_cell
+CD209	Macrophages	2.7	single_cell
+CD209	central nervous system macrophage	1.6	brain
+CD209	classical monocyte	1.4	immune
+CD209	intermediate monocyte	1.4	immune
+CLEC4M	Cholangiocytes	3.9	single_cell
+CLEC4M	Lymphatic endothelial cells	5.9	single_cell
+CLEC4M	Vascular endothelial cells	12.3	single_cell
+HAVCR1	central nervous system macrophage	9.9	brain
+NPC1	Alveolar cells type 2	534.3	single_cell
+CTSB	Kupffer cells	1672.7	single_cell
+CTSB	Macrophages	437.5	single_cell
+CTSB	monocytes	390.0	single_cell
+CTSB	central nervous system macrophage	499.5	brain
+CTSB	classical monocyte	610.5	immune
+CTSB	intermediate monocyte	467.6	immune
+CTSB	non-classical monocyte	309.1	immune
+CTSL	intermediate monocyte	128.2	immune
+CTSL	non-classical monocyte	196.2	immune

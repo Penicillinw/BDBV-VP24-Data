@@ -1,0 +1,221 @@
+{
+  "preregistration": "report/T4_G8_预注册_组织IFN环境与Δ对照_20260926.md",
+  "seed": 20260926,
+  "resource": "GSE226106 (Normandin et al. 2023, PMID 38169842)",
+  "gene_annotation": {
+    "source": "row names recovered from the study's 01-data/se.qc.rds (rdata parser); see analysis/t4_g8_tissue_ifn_env_20260926/ANNOTATION_FIX.md",
+    "warning": "github/gene_conversion.csv is a biomaRt write.csv output and must NOT be used as a row-id map; all pre-2026-09-26 gene-level results on this matrix (W14 module scores, W17 panels) used a mismatched mapping.",
+    "n_rows": 35405
+  },
+  "annotation_audit": [
+    {
+      "gene": "ALB",
+      "tissue": "liver",
+      "value": 3.739,
+      "expect": "+"
+    },
+    {
+      "gene": "GFAP",
+      "tissue": "brain",
+      "value": 3.141,
+      "expect": "+"
+    },
+    {
+      "gene": "ISG15",
+      "tissue": "infection-induction",
+      "value": 1.96,
+      "expect": "+"
+    },
+    {
+      "gene": "MX1",
+      "tissue": "infection-induction",
+      "value": 1.91,
+      "expect": "+"
+    },
+    {
+      "gene": "GAPDH",
+      "tissue": "infection-induction",
+      "value": 0.624,
+      "expect": "0"
+    }
+  ],
+  "limitations": [
+    "macaque not human",
+    "EBOV (Makona) not BDBV -> cannot test the multiplier, only the tissue-level proxy",
+    "bulk tissue average, not cell-type resolution",
+    "sampling day is not orthogonal to animal course"
+  ],
+  "not_examined": [
+    "blood samples excluded from the primary tissue ranking (reported separately)"
+  ],
+  "tissues_in_primary_test": [
+    "liver",
+    "kidney",
+    "brain",
+    "adrenal gland",
+    "lymph node",
+    "skin",
+    "sex organ",
+    "lung"
+  ],
+  "n_tissues": 8,
+  "correlations": [
+    {
+      "outcome": "E_raw",
+      "n": 8,
+      "rho": -0.333,
+      "p_perm": 0.4299,
+      "ci_low": -0.918,
+      "ci_high": 0.615,
+      "loo_min": -0.7857142857142859,
+      "loo_max": -0.07142857142857144,
+      "loo_n_negative": 8
+    },
+    {
+      "outcome": "E_dayadj",
+      "n": 8,
+      "rho": -0.214,
+      "p_perm": 0.6127,
+      "ci_low": -0.923,
+      "ci_high": 0.747,
+      "loo_min": -0.6071428571428572,
+      "loo_max": 0.10714285714285716,
+      "loo_n_negative": 7
+    },
+    {
+      "outcome": "E_late",
+      "n": 8,
+      "rho": -0.357,
+      "p_perm": 0.3895,
+      "ci_low": -0.973,
+      "ci_high": 0.595,
+      "loo_min": -0.8214285714285715,
+      "loo_max": -0.10714285714285716,
+      "loo_n_negative": 8
+    },
+    {
+      "outcome": "E_within_animal",
+      "n": 8,
+      "rho": -0.619,
+      "p_perm": 0.1112,
+      "ci_low": -0.948,
+      "ci_high": 0.139,
+      "loo_min": -0.7142857142857144,
+      "loo_max": -0.5,
+      "loo_n_negative": 8
+    },
+    {
+      "outcome": "E_induced",
+      "n": 6,
+      "rho": -0.2,
+      "p_perm": 0.7163,
+      "ci_low": -1.0,
+      "ci_high": 0.8,
+      "loo_min": -0.49999999999999994,
+      "loo_max": 0.09999999999999999,
+      "loo_n_negative": 4
+    },
+    {
+      "outcome": "E_induced_broad",
+      "n": 6,
+      "rho": -0.371,
+      "p_perm": 0.5029,
+      "ci_low": -0.939,
+      "ci_high": 0.8,
+      "loo_min": -0.6,
+      "loo_max": -0.09999999999999999,
+      "loo_n_negative": 6
+    }
+  ],
+  "depth_control": [
+    {
+      "score": "E_raw",
+      "rho_vs_depth": -0.429,
+      "p": 0.2894,
+      "n": 8
+    },
+    {
+      "score": "E_late",
+      "rho_vs_depth": -0.548,
+      "p": 0.16,
+      "n": 8
+    },
+    {
+      "score": "E_induced",
+      "rho_vs_depth": -0.314,
+      "p": 0.5441,
+      "n": 6
+    }
+  ],
+  "depth_residual": [
+    {
+      "outcome": "E_raw",
+      "n": 8,
+      "rho_depth_residual": 0.0,
+      "p_spearman": 1.0
+    },
+    {
+      "outcome": "E_dayadj",
+      "n": 8,
+      "rho_depth_residual": -0.048,
+      "p_spearman": 0.9108
+    },
+    {
+      "outcome": "E_late",
+      "n": 8,
+      "rho_depth_residual": -0.19,
+      "p_spearman": 0.6514
+    },
+    {
+      "outcome": "E_within_animal",
+      "n": 8,
+      "rho_depth_residual": -0.595,
+      "p_spearman": 0.1195
+    },
+    {
+      "outcome": "E_induced",
+      "n": 6,
+      "rho_depth_residual": 0.086,
+      "p_spearman": 0.8717
+    },
+    {
+      "outcome": "E_induced_broad",
+      "n": 6,
+      "rho_depth_residual": -0.314,
+      "p_spearman": 0.5441
+    }
+  ],
+  "conflict_tissues_vs_E_raw": [
+    "kidney",
+    "brain",
+    "adrenal gland",
+    "lymph node"
+  ],
+  "concordant_tissues_vs_E_raw": [
+    "liver",
+    "sex organ"
+  ],
+  "primary": {
+    "outcome": "E_raw",
+    "n": 8,
+    "rho": -0.333,
+    "p_perm": 0.4299,
+    "ci_low": -0.918,
+    "ci_high": 0.615,
+    "loo_min": -0.7857142857142859,
+    "loo_max": -0.07142857142857144,
+    "loo_n_negative": 8
+  },
+  "induced": {
+    "outcome": "E_induced",
+    "n": 6,
+    "rho": -0.2,
+    "p_perm": 0.7163,
+    "ci_low": -1.0,
+    "ci_high": 0.8,
+    "loo_min": -0.49999999999999994,
+    "loo_max": 0.09999999999999999,
+    "loo_n_negative": 4
+  },
+  "verdict": "冲突：Δ 排序与感染组织 IFN 环境排序方向不一致"
+}

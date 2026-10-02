@@ -1,0 +1,16 @@
+panel	quantity	virus	day	value	log10_value_plus_1
+FigS2c	viral_mrna_total_reads	EBOV	1	30012.0	4.477309408231503
+FigS2c	viral_mrna_total_reads	EBOV	2	518797.0	5.714998293181822
+FigS2c	viral_mrna_total_reads	EBOV	3	559072.0	5.747468518847557
+FigS2c	viral_mrna_total_reads	RESTV	1	2262.0	3.3546845539547285
+FigS2c	viral_mrna_total_reads	RESTV	2	74504.0	4.872185419050904
+FigS2c	viral_mrna_total_reads	RESTV	3	202939.0	5.307367656038532
+FigS2c	viral_mrna_total_reads	BDBV	1	2344.0	3.370142847051102
+FigS2c	viral_mrna_total_reads	BDBV	2	42497.0	4.628368492182033
+FigS2c	viral_mrna_total_reads	BDBV	3	188428.0	5.275147743312218
+FigS2c	viral_mrna_total_reads	SUDV	1	1149.0	3.060697840353612
+FigS2c	viral_mrna_total_reads	SUDV	2	21105.0	4.324405933803543
+FigS2c	viral_mrna_total_reads	SUDV	3	234027.0	5.369267821162345
+FigS2c	bdbv_over_ebov_ratio	BDBV/EBOV	1	0.0781020924963348	
+FigS2c	bdbv_over_ebov_ratio	BDBV/EBOV	2	0.08191450605921005	
+FigS2c	bdbv_over_ebov_ratio	BDBV/EBOV	3	0.337037090034915	

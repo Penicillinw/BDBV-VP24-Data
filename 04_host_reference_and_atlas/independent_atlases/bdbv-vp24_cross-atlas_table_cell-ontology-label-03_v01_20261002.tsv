@@ -1,0 +1,153 @@
+compartment	root_cl_id	root_cl_label	atlas	represented	total_cells	n_labels	n_labels_ge_50_cells	terms
+urothelial	CL:0000731	urothelial cell	HBCA_microglia.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	HBCA_vascular.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	HLiCA_endothelial.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	HLiCA_myeloid.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	Krasnow_lung_10X.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_bone_marrow.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_kidney.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_large_intestine.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_muscle.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_prostate.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_skin.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_small_intestine.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_testis.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	TS_uterus.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+urothelial	CL:0000731	urothelial cell	synovium_RA.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	HBCA_microglia.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	HBCA_vascular.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	HLiCA_endothelial.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	HLiCA_hepatocyte.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	HLiCA_myeloid.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	Krasnow_lung_10X.h5ad	yes	7219	6	5	CL:0002063(pulmonary alveolar type 2 cell,3814);CL:1000271(lung multiciliated epithelial cell,1321);CL:0002062(pulmonary alveolar type 1 cell,972);CL:0000158(club cell,931);CL:1000143(lung goblet cell,159);CL:0017000(pulmonary ionocyte,22)
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_bone_marrow.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_kidney.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_large_intestine.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_muscle.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_prostate.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_skin.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_small_intestine.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_testis.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	TS_uterus.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	gut_APC_lamina_propria.h5ad	no	0	0	0	
+airway / lower respiratory epithelium	CL:0002632	epithelial cell of lower respiratory tract	synovium_RA.h5ad	no	0	0	0	
+myeloid	CL:0000763	myeloid cell	HBCA_microglia.h5ad	yes	91838	2	2	CL:0000129(microglial cell,88494);CL:0000878(central nervous system macrophage,3344)
+myeloid	CL:0000763	myeloid cell	HBCA_vascular.h5ad	no	0	0	0	
+myeloid	CL:0000763	myeloid cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+myeloid	CL:0000763	myeloid cell	HLiCA_endothelial.h5ad	no	0	0	0	
+myeloid	CL:0000763	myeloid cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+myeloid	CL:0000763	myeloid cell	HLiCA_myeloid.h5ad	yes	51700	7	7	CL:0000860(classical monocyte,23980);CL:0000091(Kupffer cell,12469);CL:0000875(non-classical monocyte,5459);CL:0000576(monocyte,4640);CL:0000096(mature neutrophil,2906);CL:4047053(TREM2-positive macrophage,1686);CL:4047060(BAG3-positive monocyte,560)
+myeloid	CL:0000763	myeloid cell	Krasnow_lung_10X.h5ad	yes	20575	10	9	CL:0000583(alveolar macrophage,14734);CL:0000860(classical monocyte,2077);CL:0000766(myeloid leukocyte,1902);CL:0000875(non-classical monocyte,804);CL:0002399(CD1c-positive myeloid dendritic cell,266);CL:0000235(macrophage,226);CL:0000576(monocyte,207);CL:0002393(intermediate monocyte,188)
+myeloid	CL:0000763	myeloid cell	TS_Vasculature_cellxgene_source.h5ad	yes	9902	10	6	CL:0000235(macrophage,7518);CL:0000775(neutrophil,1440);CL:0000576(monocyte,427);CL:0000767(basophil,244);CL:0000097(mast cell,159);CL:0000232(erythrocyte,83);CL:0002393(intermediate monocyte,13);CL:0000860(classical monocyte,12)
+myeloid	CL:0000763	myeloid cell	TS_bone_marrow.h5ad	yes	13773	11	10	CL:0000775(neutrophil,8677);CL:0000576(monocyte,2040);CL:0000038(erythroid progenitor cell,971);CL:0000094(granulocyte,635);CL:0000232(erythrocyte,453);CL:0000235(macrophage,358);CL:0000860(classical monocyte,231);CL:0002393(intermediate monocyte,224)
+myeloid	CL:0000763	myeloid cell	TS_kidney.h5ad	yes	444	5	2	CL:0000235(macrophage,339);CL:0000576(monocyte,54);CL:0000875(non-classical monocyte,27);CL:0000775(neutrophil,22);CL:0002393(intermediate monocyte,2)
+myeloid	CL:0000763	myeloid cell	TS_large_intestine.h5ad	yes	1190	6	4	CL:0000097(mast cell,393);CL:0000766(myeloid leukocyte,354);CL:0009038(colon macrophage,328);CL:0000576(monocyte,66);CL:0000782(myeloid dendritic cell,40);CL:0000775(neutrophil,9)
+myeloid	CL:0000763	myeloid cell	TS_muscle.h5ad	yes	3245	10	5	CL:0000235(macrophage,2729);CL:0000775(neutrophil,174);CL:0000232(erythrocyte,124);CL:0000094(granulocyte,94);CL:0000097(mast cell,66);CL:0000576(monocyte,32);CL:0000767(basophil,11);CL:0000782(myeloid dendritic cell,9)
+myeloid	CL:0000763	myeloid cell	TS_prostate.h5ad	yes	1448	4	3	CL:0000235(macrophage,1022);CL:0000775(neutrophil,261);CL:0000232(erythrocyte,139);CL:0000097(mast cell,26)
+myeloid	CL:0000763	myeloid cell	TS_skin.h5ad	yes	5809	7	5	CL:0000235(macrophage,3321);CL:0000097(mast cell,2001);CL:0000775(neutrophil,290);CL:0000782(myeloid dendritic cell,108);CL:0000453(Langerhans cell,76);CL:0000767(basophil,8);CL:0000232(erythrocyte,5)
+myeloid	CL:0000763	myeloid cell	TS_small_intestine.h5ad	yes	782	5	4	CL:0000235(macrophage,366);CL:0000097(mast cell,250);CL:0000576(monocyte,78);CL:0000775(neutrophil,77);CL:0000782(myeloid dendritic cell,11)
+myeloid	CL:0000763	myeloid cell	TS_testis.h5ad	yes	57	4	1	CL:0000864(tissue-resident macrophage,54);CL:0000097(mast cell,1);CL:0000235(macrophage,1);CL:0000576(monocyte,1)
+myeloid	CL:0000763	myeloid cell	TS_uterus.h5ad	yes	1126	7	3	CL:0000235(macrophage,929);CL:0000775(neutrophil,103);CL:0000097(mast cell,65);CL:0000576(monocyte,21);CL:0002393(intermediate monocyte,5);CL:0000782(myeloid dendritic cell,2);CL:0000094(granulocyte,1)
+myeloid	CL:0000763	myeloid cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+myeloid	CL:0000763	myeloid cell	synovium_RA.h5ad	yes	23609	3	3	CL:0000860(classical monocyte,15391);CL:0000782(myeloid dendritic cell,6047);CL:0000875(non-classical monocyte,2171)
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	HBCA_microglia.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	HBCA_vascular.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	HLiCA_endothelial.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	HLiCA_myeloid.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	Krasnow_lung_10X.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_bone_marrow.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_kidney.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_large_intestine.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_muscle.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_prostate.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_skin.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_small_intestine.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_testis.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	TS_uterus.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+retinal pigment epithelium	CL:0002586	retinal pigment epithelial cell	synovium_RA.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	HBCA_microglia.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	HBCA_vascular.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	HLiCA_endothelial.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	HLiCA_myeloid.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	Krasnow_lung_10X.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_bone_marrow.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_kidney.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_large_intestine.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_muscle.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_prostate.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_skin.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_small_intestine.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_testis.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	TS_uterus.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+photoreceptors	CL:0000210	photoreceptor cell	synovium_RA.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	HBCA_microglia.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	HBCA_vascular.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	HLiCA_endothelial.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	HLiCA_myeloid.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	Krasnow_lung_10X.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_bone_marrow.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_kidney.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_large_intestine.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_muscle.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_prostate.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_skin.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_small_intestine.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_testis.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	TS_uterus.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+Sertoli	CL:0000216	Sertoli cell	synovium_RA.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	HBCA_microglia.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	HBCA_vascular.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	HLiCA_endothelial.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	HLiCA_myeloid.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	Krasnow_lung_10X.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_bone_marrow.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_kidney.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_large_intestine.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_muscle.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_prostate.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_skin.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_small_intestine.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	TS_testis.h5ad	yes	10	1	0	CL:0000178(Leydig cell,10)
+Leydig	CL:0000178	Leydig cell	TS_uterus.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+Leydig	CL:0000178	Leydig cell	synovium_RA.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	HBCA_microglia.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	HBCA_vascular.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	HLiCA_cholangiocyte.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	HLiCA_endothelial.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	HLiCA_hepatocyte.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	HLiCA_myeloid.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	Krasnow_lung_10X.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_Vasculature_cellxgene_source.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_bone_marrow.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_kidney.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_large_intestine.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_muscle.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_prostate.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_skin.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_small_intestine.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_testis.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	TS_uterus.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	gut_APC_lamina_propria.h5ad	no	0	0	0	
+choroid plexus	CL:0000706	choroid plexus epithelial cell	synovium_RA.h5ad	no	0	0	0	

@@ -1,0 +1,694 @@
+{
+ "part_a_hpa_perturbations": {
+  "n_cell_types": 154,
+  "variants": {
+   "drop_IFNAR1": {
+    "spearman_vs_frozen": 0.966,
+    "max_rank_shift": 40,
+    "n_cells_shift_gt_20": 13,
+    "largest_shifts": [
+     [
+      "oligodendrocyte progenitor cells",
+      40
+     ],
+     [
+      "astrocytes",
+      39
+     ],
+     [
+      "choroid plexus epithelial cells",
+      38
+     ],
+     [
+      "brain excitatory neurons",
+      34
+     ],
+     [
+      "oligodendrocytes",
+      31
+     ],
+     [
+      "syncytiotrophoblasts",
+      27
+     ],
+     [
+      "conjunctival goblet cells",
+      26
+     ],
+     [
+      "undifferentiated spermatogonia",
+      26
+     ]
+    ]
+   },
+   "drop_IFNAR2": {
+    "spearman_vs_frozen": 0.955,
+    "max_rank_shift": 43,
+    "n_cells_shift_gt_20": 20,
+    "largest_shifts": [
+     [
+      "ependymal cells",
+      43
+     ],
+     [
+      "brain inhibitory neurons",
+      42
+     ],
+     [
+      "other brain neurons",
+      37
+     ],
+     [
+      "brain excitatory neurons",
+      36
+     ],
+     [
+      "oligodendrocyte progenitor cells",
+      34
+     ],
+     [
+      "astrocytes",
+      31
+     ],
+     [
+      "nk-cells",
+      31
+     ],
+     [
+      "papillary tip epithelial cells",
+      31
+     ]
+    ]
+   },
+   "drop_IFNLR1": {
+    "spearman_vs_frozen": 0.937,
+    "max_rank_shift": 55,
+    "n_cells_shift_gt_20": 23,
+    "largest_shifts": [
+     [
+      "syncytiotrophoblasts",
+      55
+     ],
+     [
+      "cytotrophoblasts",
+      49
+     ],
+     [
+      "monocyte progenitors",
+      47
+     ],
+     [
+      "neutrophil progenitors",
+      47
+     ],
+     [
+      "oligodendrocyte progenitor cells",
+      45
+     ],
+     [
+      "oligodendrocytes",
+      39
+     ],
+     [
+      "ocular epithelial cells",
+      35
+     ],
+     [
+      "hepatocytes",
+      32
+     ]
+    ]
+   },
+   "drop_IL10RB": {
+    "spearman_vs_frozen": 0.93,
+    "max_rank_shift": 54,
+    "n_cells_shift_gt_20": 28,
+    "largest_shifts": [
+     [
+      "thyrotrophs",
+      54
+     ],
+     [
+      "decidual stromal cells",
+      47
+     ],
+     [
+      "syncytiotrophoblasts",
+      44
+     ],
+     [
+      "somatotrophs",
+      41
+     ],
+     [
+      "kupffer cells",
+      37
+     ],
+     [
+      "nk-cells",
+      36
+     ],
+     [
+      "basal keratinocytes",
+      35
+     ],
+     [
+      "suprabasal keratinocytes",
+      34
+     ]
+    ]
+   },
+   "drop_ISG15": {
+    "spearman_vs_frozen": 0.942,
+    "max_rank_shift": 48,
+    "n_cells_shift_gt_20": 25,
+    "largest_shifts": [
+     [
+      "decidual stromal cells",
+      48
+     ],
+     [
+      "tuft cells",
+      45
+     ],
+     [
+      "choroid plexus epithelial cells",
+      43
+     ],
+     [
+      "gonadotrophs",
+      41
+     ],
+     [
+      "suprabasal keratinocytes",
+      39
+     ],
+     [
+      "pituicytes/fscs",
+      35
+     ],
+     [
+      "thyrotrophs",
+      31
+     ],
+     [
+      "salivary myoepithelial cells",
+      30
+     ]
+    ]
+   },
+   "drop_MX1": {
+    "spearman_vs_frozen": 0.958,
+    "max_rank_shift": 50,
+    "n_cells_shift_gt_20": 16,
+    "largest_shifts": [
+     [
+      "tuft cells",
+      50
+     ],
+     [
+      "megakaryocytes",
+      36
+     ],
+     [
+      "microglia",
+      35
+     ],
+     [
+      "ependymal cells",
+      31
+     ],
+     [
+      "mast cells",
+      31
+     ],
+     [
+      "suprabasal keratinocytes",
+      30
+     ],
+     [
+      "vascular smooth muscle cells",
+      30
+     ],
+     [
+      "syncytiotrophoblasts",
+      27
+     ]
+    ]
+   },
+   "extended_ISG": {
+    "spearman_vs_frozen": 0.943,
+    "max_rank_shift": 49,
+    "n_cells_shift_gt_20": 23,
+    "largest_shifts": [
+     [
+      "neutrophil progenitors",
+      49
+     ],
+     [
+      "leydig cells",
+      43
+     ],
+     [
+      "lacrimal acinar cells",
+      42
+     ],
+     [
+      "pancreatic islet cells",
+      41
+     ],
+     [
+      "pancreatic acinar cells",
+      39
+     ],
+     [
+      "peritubular myoid cells",
+      38
+     ],
+     [
+      "melanocytes",
+      36
+     ],
+     [
+      "monocyte progenitors",
+      35
+     ]
+    ]
+   },
+   "no_log": {
+    "spearman_vs_frozen": 0.925,
+    "max_rank_shift": 53,
+    "n_cells_shift_gt_20": 36,
+    "largest_shifts": [
+     [
+      "vascular smooth muscle cells",
+      53
+     ],
+     [
+      "breast myoepithelial cells",
+      49
+     ],
+     [
+      "ependymal cells",
+      49
+     ],
+     [
+      "thyrotrophs",
+      43
+     ],
+     [
+      "parietal cells",
+      40
+     ],
+     [
+      "decidual stromal cells",
+      39
+     ],
+     [
+      "respiratory ionocytes",
+      39
+     ],
+     [
+      "enteric transient amplifying cells",
+      38
+     ]
+    ]
+   },
+   "rank_mean": {
+    "spearman_vs_frozen": 0.984,
+    "max_rank_shift": 26,
+    "n_cells_shift_gt_20": 2,
+    "largest_shifts": [
+     [
+      "choroid plexus epithelial cells",
+      26
+     ],
+     [
+      "cytotrophoblasts",
+      24
+     ],
+     [
+      "colonocytes",
+      20
+     ],
+     [
+      "syncytiotrophoblasts",
+      20
+     ],
+     [
+      "oligodendrocytes",
+      19
+     ],
+     [
+      "tuft cells",
+      18
+     ],
+     [
+      "differentiating spermatogonia",
+      17
+     ],
+     [
+      "goblet cells",
+      16
+     ]
+    ]
+   },
+   "pc1": {
+    "spearman_vs_frozen": 0.982,
+    "max_rank_shift": 30,
+    "n_cells_shift_gt_20": 5,
+    "largest_shifts": [
+     [
+      "monocyte progenitors",
+      30
+     ],
+     [
+      "oligodendrocyte progenitor cells",
+      25
+     ],
+     [
+      "neutrophil progenitors",
+      23
+     ],
+     [
+      "breast lactating cells",
+      22
+     ],
+     [
+      "fibroblasts",
+      22
+     ],
+     [
+      "vascular smooth muscle cells",
+      19
+     ],
+     [
+      "ependymal cells",
+      18
+     ],
+     [
+      "epididymal efferent duct ciliated cells",
+      18
+     ]
+    ]
+   }
+  },
+  "most_divergent_variant": "no_log",
+  "top15_frozen": [
+   "extravillous trophoblasts",
+   "enterocytes",
+   "pdcs",
+   "esophageal apical cells",
+   "plasma cells",
+   "urothelial cells",
+   "hofbauer cells",
+   "epididymal efferent duct ciliated cells",
+   "macrophages",
+   "monocytes",
+   "kupffer cells",
+   "neutrophils",
+   "epididymal basal cells",
+   "colonocytes",
+   "b-cells"
+  ],
+  "top15_under_most_divergent_variant": [
+   "extravillous trophoblasts",
+   "enterocytes",
+   "hofbauer cells",
+   "neutrophils",
+   "esophageal apical cells",
+   "pdcs",
+   "gastric progenitor cells",
+   "epididymal efferent duct ciliated cells",
+   "plasma cells",
+   "urothelial cells",
+   "colonocytes",
+   "monocytes",
+   "vascular endothelial cells",
+   "kupffer cells",
+   "decidual stromal cells"
+  ],
+  "top15_overlap": 12
+ },
+ "part_b_independent_atlas": {
+  "n_matched_pairs": 28,
+  "spearman_absolute_cpm": 0.042,
+  "n_standardised_pairs": 26,
+  "spearman_within_dataset_standardised": 0.256,
+  "per_atlas_spearman": {
+   "Krasnow_lung_10X.h5ad": {
+    "n_pairs": 5,
+    "spearman": 0.3
+   },
+   "TS_Vasculature_cellxgene_source.h5ad": {
+    "n_pairs": 5,
+    "spearman": 0.3
+   },
+   "TS_bone_marrow.h5ad": {
+    "n_pairs": 7,
+    "spearman": 0.126
+   },
+   "TS_small_intestine.h5ad": {
+    "n_pairs": 4,
+    "spearman": 0.258
+   }
+  },
+  "pairs": [
+   {
+    "hpa_cell_type": "enterocytes",
+    "atlas": "TS_small_intestine.h5ad",
+    "atlas_label": "enterocyte of epithelium proper of duodenum",
+    "n_cells": 13495,
+    "hpa_delta_log10": 1.7654,
+    "atlas_delta_log10": 0.9821
+   },
+   {
+    "hpa_cell_type": "enterocytes",
+    "atlas": "TS_small_intestine.h5ad",
+    "atlas_label": "enterocyte of epithelium proper of ileum",
+    "n_cells": 6477,
+    "hpa_delta_log10": 1.7654,
+    "atlas_delta_log10": 0.8956
+   },
+   {
+    "hpa_cell_type": "enterocytes",
+    "atlas": "TS_small_intestine.h5ad",
+    "atlas_label": "enterocyte of epithelium proper of small intestine",
+    "n_cells": 1415,
+    "hpa_delta_log10": 1.7654,
+    "atlas_delta_log10": 0.0527
+   },
+   {
+    "hpa_cell_type": "colonocytes",
+    "atlas": "TS_large_intestine.h5ad",
+    "atlas_label": "enterocyte of epithelium of large intestine",
+    "n_cells": 4567,
+    "hpa_delta_log10": 1.476,
+    "atlas_delta_log10": 0.1143
+   },
+   {
+    "hpa_cell_type": "goblet cells",
+    "atlas": "TS_small_intestine.h5ad",
+    "atlas_label": "small intestine goblet cell",
+    "n_cells": 2044,
+    "hpa_delta_log10": 1.433,
+    "atlas_delta_log10": 0.513
+   },
+   {
+    "hpa_cell_type": "hepatocytes",
+    "atlas": "HLiCA_hepatocyte.h5ad",
+    "atlas_label": "hepatocyte",
+    "n_cells": 103519,
+    "hpa_delta_log10": 1.308,
+    "atlas_delta_log10": 1.1336
+   },
+   {
+    "hpa_cell_type": "microglia",
+    "atlas": "HBCA_microglia.h5ad",
+    "atlas_label": "microglial cell",
+    "n_cells": 88494,
+    "hpa_delta_log10": 1.4119,
+    "atlas_delta_log10": 1.4555
+   },
+   {
+    "hpa_cell_type": "macrophages",
+    "atlas": "Krasnow_lung_10X.h5ad",
+    "atlas_label": "alveolar macrophage",
+    "n_cells": 14734,
+    "hpa_delta_log10": 1.5284,
+    "atlas_delta_log10": 1.2024
+   },
+   {
+    "hpa_cell_type": "macrophages",
+    "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+    "atlas_label": "macrophage",
+    "n_cells": 7518,
+    "hpa_delta_log10": 1.5284,
+    "atlas_delta_log10": 0.625
+   },
+   {
+    "hpa_cell_type": "monocytes",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "monocyte",
+    "n_cells": 2040,
+    "hpa_delta_log10": 1.5205,
+    "atlas_delta_log10": 0.3697
+   },
+   {
+    "hpa_cell_type": "monocytes",
+    "atlas": "Krasnow_lung_10X.h5ad",
+    "atlas_label": "classical monocyte",
+    "n_cells": 2077,
+    "hpa_delta_log10": 1.5205,
+    "atlas_delta_log10": 1.6056
+   },
+   {
+    "hpa_cell_type": "neutrophils",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "neutrophil",
+    "n_cells": 8677,
+    "hpa_delta_log10": 1.5025,
+    "atlas_delta_log10": 0.7716
+   },
+   {
+    "hpa_cell_type": "vascular endothelial cells",
+    "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+    "atlas_label": "endothelial cell",
+    "n_cells": 2686,
+    "hpa_delta_log10": 1.4299,
+    "atlas_delta_log10": 0.3511
+   },
+   {
+    "hpa_cell_type": "vascular endothelial cells",
+    "atlas": "Krasnow_lung_10X.h5ad",
+    "atlas_label": "capillary endothelial cell",
+    "n_cells": 7391,
+    "hpa_delta_log10": 1.4299,
+    "atlas_delta_log10": 1.8194
+   },
+   {
+    "hpa_cell_type": "fibroblasts",
+    "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+    "atlas_label": "fibroblast",
+    "n_cells": 12698,
+    "hpa_delta_log10": 1.132,
+    "atlas_delta_log10": 0.3001
+   },
+   {
+    "hpa_cell_type": "fibroblasts",
+    "atlas": "Krasnow_lung_10X.h5ad",
+    "atlas_label": "fibroblast",
+    "n_cells": 1951,
+    "hpa_delta_log10": 1.132,
+    "atlas_delta_log10": 1.3872
+   },
+   {
+    "hpa_cell_type": "vascular smooth muscle cells",
+    "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+    "atlas_label": "smooth muscle cell",
+    "n_cells": 8587,
+    "hpa_delta_log10": 1.0708,
+    "atlas_delta_log10": 0.4847
+   },
+   {
+    "hpa_cell_type": "pericytes",
+    "atlas": "TS_Vasculature_cellxgene_source.h5ad",
+    "atlas_label": "pericyte",
+    "n_cells": 1771,
+    "hpa_delta_log10": 1.2337,
+    "atlas_delta_log10": 0.2141
+   },
+   {
+    "hpa_cell_type": "t-cells",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "CD4-positive, alpha-beta T cell",
+    "n_cells": 3173,
+    "hpa_delta_log10": 1.3869,
+    "atlas_delta_log10": 0.2157
+   },
+   {
+    "hpa_cell_type": "t-cells",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "CD8-positive, alpha-beta T cell",
+    "n_cells": 2636,
+    "hpa_delta_log10": 1.3869,
+    "atlas_delta_log10": 0.2723
+   },
+   {
+    "hpa_cell_type": "b-cells",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "B cell",
+    "n_cells": 1819,
+    "hpa_delta_log10": 1.4685,
+    "atlas_delta_log10": 0.377
+   },
+   {
+    "hpa_cell_type": "plasma cells",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "plasma cell",
+    "n_cells": 1448,
+    "hpa_delta_log10": 1.7008,
+    "atlas_delta_log10": 0.068
+   },
+   {
+    "hpa_cell_type": "nk-cells",
+    "atlas": "TS_bone_marrow.h5ad",
+    "atlas_label": "natural killer cell",
+    "n_cells": 1099,
+    "hpa_delta_log10": 1.2538,
+    "atlas_delta_log10": 0.1268
+   },
+   {
+    "hpa_cell_type": "alveolar cells type 2",
+    "atlas": "Krasnow_lung_10X.h5ad",
+    "atlas_label": "pulmonary alveolar type 2 cell",
+    "n_cells": 3814,
+    "hpa_delta_log10": 1.0708,
+    "atlas_delta_log10": 0.9189
+   },
+   {
+    "hpa_cell_type": "peritubular myoid cells",
+    "atlas": "TS_testis.h5ad",
+    "atlas_label": "peritubular myoid cell",
+    "n_cells": 67,
+    "hpa_delta_log10": 1.0839,
+    "atlas_delta_log10": 0.9765
+   },
+   {
+    "hpa_cell_type": "late spermatids",
+    "atlas": "TS_testis.h5ad",
+    "atlas_label": "spermatid",
+    "n_cells": 4009,
+    "hpa_delta_log10": 0.8278,
+    "atlas_delta_log10": 0.3548
+   },
+   {
+    "hpa_cell_type": "late primary spermatocytes",
+    "atlas": "TS_testis.h5ad",
+    "atlas_label": "spermatocyte",
+    "n_cells": 3070,
+    "hpa_delta_log10": 0.5017,
+    "atlas_delta_log10": 0.3074
+   },
+   {
+    "hpa_cell_type": "proximal tubule cells",
+    "atlas": "TS_kidney.h5ad",
+    "atlas_label": "kidney epithelial cell",
+    "n_cells": 9278,
+    "hpa_delta_log10": 0.7996,
+    "atlas_delta_log10": 0.4654
+   }
+  ],
+  "atlases_used": [
+   "HBCA_microglia.h5ad",
+   "HLiCA_hepatocyte.h5ad",
+   "Krasnow_lung_10X.h5ad",
+   "TS_Vasculature_cellxgene_source.h5ad",
+   "TS_bone_marrow.h5ad",
+   "TS_kidney.h5ad",
+   "TS_large_intestine.h5ad",
+   "TS_small_intestine.h5ad",
+   "TS_testis.h5ad"
+  ]
+ }
+}

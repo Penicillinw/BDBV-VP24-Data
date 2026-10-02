@@ -1,0 +1,13 @@
+{
+ "C1_term_metadata_identical": true,
+ "C2_term_id_set_identical": true,
+ "C1_label_index_identical": true,
+ "C1_synonym_index_identical": true,
+ "C3_isa_values_not_a_term_id_naive": 1782,
+ "C3_isa_values_not_a_term_id_cleaned": 462,
+ "C3_values_repaired_by_stripping_qualifier": 1320,
+ "C4_terms_with_changed_ancestor_closure": 4302,
+ "C4_ancestor_pairs_gained": 30822,
+ "C4_ancestor_pairs_lost": 5581,
+ "C5_mapping_columns_affected": "NO - cl_id / mapping_route / evidence read only CURATED, the exact-label index and the synonym index, none of which uses onto.ancestors(); both indices are identical between the two parsers."
+}

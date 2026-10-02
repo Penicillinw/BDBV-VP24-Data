@@ -1,0 +1,22 @@
+panel	gene	n_nonempty_matched_24	n_nonempty_all_24	n_nonempty_27celltype	protein_testable	rho_protein_vs_matched_ncpm	rho_protein_vs_delta	verdict
+primary	IFNAR1	0	1	1	no			NOT-TESTABLE (coverage)
+primary	IFNAR2	0	0	0	no			NOT-TESTABLE (coverage)
+primary	IFNLR1	0	0	0	no			NOT-TESTABLE (coverage)
+primary	IL10RB	5	7	8	yes	-0.2000	-0.6000	TESTED
+primary	ISG15	6	17	20	yes	-0.3714	0.2571	TESTED
+primary	MX1	8	20	23	yes	0.7619	0.1905	TESTED
+primary	KPNA5	3	12	14	no			NOT-TESTABLE (coverage)
+sens_a	IFNAR1	0	1	1	no			NOT-TESTABLE (coverage)
+sens_a	IFNAR2	0	0	0	no			NOT-TESTABLE (coverage)
+sens_a	IFNLR1	0	0	0	no			NOT-TESTABLE (coverage)
+sens_a	IL10RB	5	7	8	yes	-0.2000	-0.6000	TESTED
+sens_a	ISG15	11	17	20	yes	0.5636	0.5455	TESTED
+sens_a	MX1	14	20	23	yes	0.7319	0.5077	TESTED
+sens_a	KPNA5	8	12	14	yes	0.3333	0.0714	TESTED
+sensitivity	IFNAR1	1	1	1	no			NOT-TESTABLE (coverage)
+sensitivity	IFNAR2	0	0	0	no			NOT-TESTABLE (coverage)
+sensitivity	IFNLR1	0	0	0	no			NOT-TESTABLE (coverage)
+sensitivity	IL10RB	6	7	8	yes	-0.2571	-0.5429	TESTED
+sensitivity	ISG15	13	17	20	yes	0.5989	0.5934	TESTED
+sensitivity	MX1	17	20	23	yes	0.7149	0.4314	TESTED
+sensitivity	KPNA5	10	12	14	yes	0.5515	0.2606	TESTED

@@ -1,0 +1,39 @@
+atlas	reference_cell_type	reference_delta	atlas_delta_z	atlas_labels	n_cells
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	alveolar cells type 2	-0.068	0.411	pulmonary alveolar type 2 cell	7403
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	astrocytes	-0.018	0.202	astrocyte	3349
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	b-cells	0.778	1.618	B cell	7036
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	cardiomyocytes	-1.055	-1.205	ventricular cardiac muscle cell	3007
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	enterocytes	1.284	0.276	enterocyte	36440
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	erythrocyte progenitors	-1.037	-1.106	erythroid progenitor cell	12049
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	fibroblasts	0.104	0.536	fibroblast	53467
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	gastric chief cells	0.193	-0.734	peptic cell	4973
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	goblet cells	0.634	0.669	goblet cell	7191
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	hematopoietic stem cells	-0.652	-0.005	cord blood hematopoietic stem cell	9056
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	macrophages	0.948	1.683	M2 macrophage | macrophage	38708
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	mast cells	-0.104	0.413	mast cell	1658
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	megakaryocyte-erythroid progenitors	-0.918	-1.106	erythroid progenitor cell	12049
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	mesothelial cells	0.028	0.326	Sertoli cell | mesothelial cell	3855
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	monocytes	1.002	1.466	monocyte	19248
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	neutrophil progenitors	-0.111	-0.1	neutrophil	18545
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	neutrophils	1.2	-0.1	neutrophil	18545
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	oligodendrocytes	-0.232	-0.497	oligodendrocyte	7771
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	plasma cells	1.371	0.955	plasma cell	27737
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	proximal tubule cells	-0.655	-1.319	epithelial cell of proximal tubule	2023
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	sertoli cells	-0.677	-0.27	Sertoli cell	1192
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	smooth muscle cells	-0.372	-0.058	smooth muscle cell	22077
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	t-cells	0.525	1.302	T cell	27547
+2adb1f8a_Construction_of_a_human_cell_landscape_at_single.h5ad	vascular endothelial cells	0.725	1.063	endothelial cell	33863
+3e524d45_Human_adult_ureter.h5ad	b-cells	0.778	-0.355	B cell	585
+3e524d45_Human_adult_ureter.h5ad	fibroblasts	0.104	-1.65	fibroblast	2541
+3e524d45_Human_adult_ureter.h5ad	mast cells	-0.104	-0.979	mast cell	249
+3e524d45_Human_adult_ureter.h5ad	smooth muscle cells	-0.372	-1.759	smooth muscle cell	572
+3e524d45_Human_adult_ureter.h5ad	t-cells	0.525	0.662	T cell | cytotoxic T cell | mature NK T cell	7072
+3e524d45_Human_adult_ureter.h5ad	urothelial cells	1.131	0.057	basal cell of urothelium | intermediate cell of urothelium | umbrella cell of urothelium | urothelial cell	14848
+3e524d45_Human_adult_ureter.h5ad	vascular endothelial cells	0.725	0.748	endothelial cell	634
+43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad	mesothelial cells	0.028	0.607	Sertoli cell	6726
+43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad	sertoli cells	-0.677	0.607	Sertoli cell	6726
+43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad	smooth muscle cells	-0.372	-1.351	smooth muscle cell	105
+43dc52cb_Human_embryonic_male_gonadal_tissue.h5ad	vascular endothelial cells	0.725	0.899	endothelial cell	414
+e6dad530_All_cell_types_of_human_eye.h5ad	astrocytes	-0.018	1.147	astrocyte	574
+e6dad530_All_cell_types_of_human_eye.h5ad	retinal ganglion cells	-1.291	0.337	retinal ganglion cell	2433
+e6dad530_All_cell_types_of_human_eye.h5ad	retinal pigment epithelial cells	-1.025	-1.031	retinal pigment epithelial cell	1704

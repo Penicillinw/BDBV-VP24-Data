@@ -1,0 +1,13 @@
+panel	arm	n_pairs	spearman	null_mean	null_p95	perm_p	verdict
+primary	Delta	9	0.9833	0.0017	0.6000	0.00010	ALIGNED
+primary	IFN_I_capacity	9	0.4667				diag
+primary	IFN_III_capacity	9	0.7833				diag
+primary	ISG_priming	9	0.3667				diag
+sens_a	Delta	15	0.9643	-0.0003	0.4357	0.00010	ALIGNED
+sens_a	IFN_I_capacity	15	0.6643				diag
+sens_a	IFN_III_capacity	15	0.7179				diag
+sens_a	ISG_priming	15	0.5214				diag
+sensitivity	Delta	19	0.9491	-0.0004	0.3877	0.00010	ALIGNED
+sensitivity	IFN_I_capacity	19	0.6649				diag
+sensitivity	IFN_III_capacity	19	0.5737				diag
+sensitivity	ISG_priming	19	0.5368				diag

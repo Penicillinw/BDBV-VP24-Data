@@ -1,0 +1,9 @@
+pair	n	rho	p_perm	ci_low	ci_high	loo_min	loo_max
+PRIMARY-equivalent (inst2): delta_weighted_inst2 vs E_adj_inst2	8	0.19	0.6559	-0.676	0.923	-0.071	0.571
+marker: delta_median_g8 vs E_adj_marker	8	-0.333	0.4237	-0.918	0.6	-0.786	-0.071
+marker: delta_weighted_inst2 vs E_adj_marker	8	-0.19	0.6665	-0.918	0.744	-0.571	0.143
+inst2 composition: delta_median_g8 vs E_adj_inst2	8	0.333	0.4271	-0.448	0.852	0.143	0.5
+PRIMARY-equivalent (inst3): delta_weighted_inst3 vs E_adj_inst3	8	-0.167	0.7071	-0.797	0.747	-0.393	0.107
+inst3 composition: delta_median_g8 vs E_adj_inst3	8	0.048	0.9394	-0.848	0.842	-0.286	0.357
+confound: E_raw vs immune_cpm_share	8	0.167	0.7083	-0.772	0.947	-0.25	0.5
+confound: delta_median_g8 vs immune_cpm_share	8	0.452	0.2677	-0.557	1.0	0.179	0.75
