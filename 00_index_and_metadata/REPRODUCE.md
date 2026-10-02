@@ -82,17 +82,29 @@ To run them from this repository:
 ## 5. Known issues carried in the record
 
 Five discrepancies between figure captions and the underlying tables were found while assembling
-this package. They are recorded rather than silently reconciled, and the full assembly report is
-deposited alongside this file as
-`01_source_data_by_figure/_shared/bdbv-vp24_metadata_doc_shared-w1-source-data-report_v01_20261002.md`.
+this package, and were **recomputed and resolved** in manuscript v15. The full assembly report is
+deposited as
+`01_source_data_by_figure/_shared/bdbv-vp24_metadata_doc_shared-w1-source-data-report_v01_20261002.md`
+and the adjudication with replacement wording as
+`01_source_data_by_figure/_shared/bdbv-vp24_metadata_doc_x-caption-decisions_v01_20261002.md`.
+Every change is summarised in `CORRECTIONS.md`.
 
-| # | discrepancy | where it is now recorded |
-|---|---|---|
-| 1 | Fig. 1b caption distance for P83 to the second VP24 copy (55.0 Å) could not be reproduced under any definition tried; nearest-atom 22.90 Å, CA–CA 80.17 Å | Fig1b panel note (marked "partial") + report §inconsistencies |
-| 2 | Fig. 1b contact count differs between products: 6 contacts ≤ 3.6 Å in the figure versus 7 contacts ≤ 4.0 Å in the render script | assembly report |
-| 3 | Fig. 3 caption quadrant numbering (I/III) does not match the frozen ledger labels (Q1/Q4) | assembly report |
-| 4 | Fig. S2b p = 0.06 is a rounding of 0.0584 | FigS2b panel note |
-| 5 | Fig. S2a's 0.50–0.77 AUC span pools the two negative-group definitions | FigS2a panel note |
+| # | discrepancy | resolution | evidence in this deposit |
+|---|---|---|---|
+| 1 | Fig. 1b caption distance for P83 to the second VP24 copy (55.0 Å) could not be reproduced under any of 66 definitions tried | clause deleted from the caption | `03_…/bdbv_vp24_model/…x1-p83-distance-sweep…tsv` |
+| 2 | Fig. 1b contact count: 6 contacts ≤ 3.6 Å in the panel versus 7 contacts ≤ 4.0 Å in a superseded render input | caption now states the exact criterion and attribution; the panel's 6 contacts are confirmed | `03_…/pdb_4u2x_experimental/…x2-contacts-authoritative…tsv` |
+| 3 | Fig. 3 caption quadrant numerals (I/III) did not match the frozen ledger labels (Q1/Q4) | caption now names the quadrants by definition | `01_source_data_by_figure/Fig3/…fig3a…tsv` |
+| 4 | Fig. S2b p = 0.06 is a rounding of 0.0584 | caption now gives p = 0.058 | `01_source_data_by_figure/FigS2/…figs2b…tsv` |
+| 5 | Fig. S2a's 0.50–0.77 span pools the two negative-group definitions | caption now says the span is taken over both | `01_source_data_by_figure/FigS2/…figs2a…tsv` |
 
-Items 1, 4 and 5 are additionally recorded in the per-panel notes; items 2 and 3 are recorded in the
-assembly report because they concern the figure rendering and caption rather than the panel table.
+One further correction was made: the Fig. S2d matrix cell for GSE342661 "Publicly released" was
+refuted by its voucher and changed 0 → 1, so that dataset meets 4/7 rather than 3/7. The figure was
+redrawn and the caption updated accordingly.
+
+### Quantities that cannot be recomputed
+
+41 values reported in the pilot-MD `openmm_results.json` (local RMSD, native-contact fraction,
+minimised energy, void volume) cannot be recomputed from this deposit, because the workspace holds
+only minimised coordinates and no trajectories. They are marked `not_recomputable` in
+`03_primary_structure_and_interface/md_pilot/…x4-md-recomputed-metrics…tsv`. The manuscript reports
+the pilot qualitatively and draws no number from it, so no published value depends on them.

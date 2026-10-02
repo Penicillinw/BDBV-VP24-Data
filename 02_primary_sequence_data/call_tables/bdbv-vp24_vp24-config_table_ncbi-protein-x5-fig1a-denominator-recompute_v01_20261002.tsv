@@ -1,0 +1,8 @@
+species	retrieved	excluded_fragment	assessed	uncalled_at_some_position	called_all_four	note
+BDBV	32	1	31	0	31	
+EBOV	3302	31	3271	18	3253	
+SUDV	147	0	147	1	146	
+TAFV	4	0	4	0	4	
+RESTV	27	0	27	0	27	
+BOMV	10	0	10	0	10	
+TOTAL	3522	32	3490	19	3471	non-Bundibugyo called_all_four = 3440

@@ -7,4 +7,4 @@ GSE309699	19	91707	0	GEO; normal human keratinocytes, IFN pre-treatment then EBO
 GSE327707_GSE306664	10	19513163	38	GEO; GSE327707 (6 donors x 5 sorted populations, +/- IFN-alpha, 48 h) and GSE306664 (5 donors x 4 populations, four IFN classes, 21 h, single cell)
 GSE342661	17	230280	2	GEO; primary human nasal epithelial ALI cultures, IFN-beta1 and IFN-lambda1-4, 6/24/72 h
 GSE46599	2	27293	0	GEO; 9 immortalised lines + primary macrophages + primary CD4 T cells, +/- type-I IFN, 24 h
-nhp_multiorgan	24	2321954	0	Cell Genomics 2023; rhesus macaque natural-history series, 21 animals across 17 tissues
+nhp_multiorgan	24	2321954	0	GSE226106 / Normandin et al. 2023 (Cell Genomics); rhesus macaque natural-history series, 21 animals across 17 tissues

@@ -9,8 +9,9 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 
 - **Manuscript**: *Bundibugyo virus carries a genus-exclusive four-position VP24 configuration that orders cell-type interferon restriction*
 - **Author**: Wenhao Huang, Nanning No.3 High School, Nanning, Guangxi, China
-- **Repository version**: 1.0.0 (2026-10-02)
-- **Contents**: 419 data files, ~33 MB
+- **Repository version**: 1.1.0 (2026-10-02)
+- **Aligned to**: manuscript **v15**
+- **Contents**: 505 data files, ~49 MB
 
 ## What this repository contains
 
@@ -26,18 +27,28 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 | 07 | `07_analysis_code_and_environment/` | the analysis scripts that generate the tables, and the environment/seed record |
 | 08 | `08_out_of_scope_and_superseded/` | ledger of everything deliberately **not** included, with the reason |
 
+> **Corrections.** Building this deposit surfaced five caption-versus-data disagreements and one
+> figure cell contradicted by its own voucher. All were recomputed from source and fixed in the
+> manuscript (v15) and in the tables here. Every change, with its evidence file, is listed in
+> `00_index_and_metadata/CORRECTIONS.md` — including the one quantity that could not be recomputed
+> and is therefore marked as such rather than estimated.
+
 ## What this repository deliberately does not contain
 
 - **Rendered figures** (`.png`, `.pdf`, `.tiff`, `.svg`, `.eps`) and the scripts that draw them.
 - **Figure captions**, manuscript and supplementary DOCX/PDF files, and the DOCX assembly scripts.
 - **Third-party raw data.** Data from NCBI, UniProt, RCSB PDB, Human Protein Atlas, CELLxGENE
   Discover and NCBI GEO are **not redistributed**. They are identified by accession, retrieval
-  date and checksum in `00_index_and_metadata/LINK_ONLY_RAW.tsv` (508 registered files) and can be
+  date and checksum in `00_index_and_metadata/LINK_ONLY_RAW.tsv` (552 registered files) and can be
   re-downloaded from the original sources. See `00_index_and_metadata/LICENSE_AND_ACCESS.md`.
 - Analysis assets unrelated to this manuscript (structural-prediction campaigns, molecular docking,
   VP30/VP35/VP40/GP analyses, FoldX/APBS/NMA calculations, binding-free-energy and interface
   scoring). They are logged in `08_out_of_scope_and_superseded/` (1,792 entries) with the reason
   for exclusion.
+
+Three groups that the first pass had left out were brought back in, because the reported numbers
+cannot be recomputed without them: the pilot-MD minimised coordinates, the protein-layer derived
+tables, and the Fig. 1a denominator provenance. See `CORRECTIONS.md` §6.
 
 The inclusion rule applied throughout was: *delete the file — can the plotted numbers still be
 recomputed?* If yes, it is a rendering artefact and stays out; if no, it is data and stays in.

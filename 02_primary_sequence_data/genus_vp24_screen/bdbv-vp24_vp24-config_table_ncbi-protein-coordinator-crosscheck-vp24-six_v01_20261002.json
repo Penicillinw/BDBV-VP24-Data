@@ -1,0 +1,316 @@
+{
+  "ebov_reference": "NC_002549.1",
+  "ebov_vp24_length": 251,
+  "per_species_cap": 120,
+  "per_species_cap_overrides": {
+    "EBOV": 10000,
+    "SUDV": 10000,
+    "BDBV": 10000
+  },
+  "positions": [
+    83,
+    135,
+    140,
+    141,
+    184,
+    217
+  ],
+  "four_position_motif_definition": "83/135/140/141 in EBOV VP24 numbering",
+  "species": {
+    "BDBV": {
+      "esearch_hits": 32,
+      "records_returned": 32,
+      "sequences_assessed": 31,
+      "n_full_length_251": 31,
+      "n_partial_skipped": 1,
+      "n_excluded_non_vp24_chain": 0,
+      "excluded_non_vp24_examples": [],
+      "four_position_motif_counts": {
+        "SQHA": 31
+      },
+      "non_canonical_motif_examples": {},
+      "per_position_residue_counts": {
+        "83": {
+          "S": 31
+        },
+        "135": {
+          "Q": 31
+        },
+        "140": {
+          "H": 31
+        },
+        "141": {
+          "A": 31
+        },
+        "184": {
+          "R": 31
+        },
+        "217": {
+          "V": 31
+        }
+      },
+      "carries_SQHA": true
+    },
+    "EBOV": {
+      "esearch_hits": 3308,
+      "records_returned": 3302,
+      "sequences_assessed": 3271,
+      "n_full_length_251": 3128,
+      "n_partial_skipped": 31,
+      "n_excluded_non_vp24_chain": 6,
+      "excluded_non_vp24_examples": [
+        "pdb|8Y9J|B",
+        "pdb|8Y9J|A",
+        "AAL25815.1",
+        "BAX08104.1",
+        "AAL25818.1",
+        "AAL25816.1"
+      ],
+      "four_position_motif_counts": {
+        "PNRV": 3253,
+        "PXXX": 7,
+        "XNRV": 6,
+        "XXXX": 2,
+        "PNXX": 2,
+        "PXRV": 1
+      },
+      "non_canonical_motif_examples": {
+        "PNRV": [
+          "pdb|8Y9J|D",
+          "pdb|8Y9J|C",
+          "WWV93304.1",
+          "WWV93295.1",
+          "WWV93286.1",
+          "WWV93277.1"
+        ],
+        "PXXX": [
+          "WWV92809.1",
+          "QYR85446.1",
+          "QUJ10595.1",
+          "QTZ17676.1",
+          "QNL28429.1",
+          "QNL27305.1"
+        ],
+        "XXXX": [
+          "QYR86634.1",
+          "AYP10376.1"
+        ],
+        "XNRV": [
+          "QYR86121.1",
+          "QUJ10614.1",
+          "QNL28743.1",
+          "QNL26711.1",
+          "QNL24659.1",
+          "AYP10430.1"
+        ],
+        "PXRV": [
+          "QNL28321.1"
+        ],
+        "PNXX": [
+          "QNL27737.1",
+          "QNL24272.1"
+        ]
+      },
+      "per_position_residue_counts": {
+        "83": {
+          "P": 3263,
+          "X": 8
+        },
+        "135": {
+          "N": 3261,
+          "X": 10
+        },
+        "140": {
+          "R": 3260,
+          "X": 11
+        },
+        "141": {
+          "V": 3260,
+          "X": 11
+        },
+        "184": {
+          "Q": 3256,
+          "X": 15
+        },
+        "217": {
+          "A": 3250,
+          "X": 17,
+          "-": 4
+        }
+      },
+      "carries_SQHA": false
+    },
+    "SUDV": {
+      "esearch_hits": 148,
+      "records_returned": 147,
+      "sequences_assessed": 147,
+      "n_full_length_251": 143,
+      "n_partial_skipped": 0,
+      "n_excluded_non_vp24_chain": 1,
+      "excluded_non_vp24_examples": [
+        "ABY75327.1"
+      ],
+      "four_position_motif_counts": {
+        "QNRV": 146,
+        "QNRX": 1
+      },
+      "non_canonical_motif_examples": {
+        "QNRV": [
+          "sp|Q5XX02.1|VP24_EBOSU",
+          "WEY07214.1",
+          "WEY07205.1",
+          "WEY07196.1",
+          "WEY07187.1",
+          "WEY07178.1"
+        ],
+        "QNRX": [
+          "WEY07070.1"
+        ]
+      },
+      "per_position_residue_counts": {
+        "83": {
+          "Q": 147
+        },
+        "135": {
+          "N": 147
+        },
+        "140": {
+          "R": 147
+        },
+        "141": {
+          "V": 146,
+          "X": 1
+        },
+        "184": {
+          "P": 146,
+          "X": 1
+        },
+        "217": {
+          "V": 147
+        }
+      },
+      "carries_SQHA": false
+    },
+    "TAFV": {
+      "esearch_hits": 4,
+      "records_returned": 4,
+      "sequences_assessed": 4,
+      "n_full_length_251": 4,
+      "n_partial_skipped": 0,
+      "n_excluded_non_vp24_chain": 0,
+      "excluded_non_vp24_examples": [],
+      "four_position_motif_counts": {
+        "PQQA": 4
+      },
+      "non_canonical_motif_examples": {},
+      "per_position_residue_counts": {
+        "83": {
+          "P": 4
+        },
+        "135": {
+          "Q": 4
+        },
+        "140": {
+          "Q": 4
+        },
+        "141": {
+          "A": 4
+        },
+        "184": {
+          "K": 4
+        },
+        "217": {
+          "V": 4
+        }
+      },
+      "carries_SQHA": false
+    },
+    "RESTV": {
+      "esearch_hits": 27,
+      "records_returned": 27,
+      "sequences_assessed": 27,
+      "n_full_length_251": 25,
+      "n_partial_skipped": 0,
+      "n_excluded_non_vp24_chain": 0,
+      "excluded_non_vp24_examples": [],
+      "four_position_motif_counts": {
+        "PNSV": 27
+      },
+      "non_canonical_motif_examples": {},
+      "per_position_residue_counts": {
+        "83": {
+          "P": 27
+        },
+        "135": {
+          "N": 27
+        },
+        "140": {
+          "S": 27
+        },
+        "141": {
+          "V": 27
+        },
+        "184": {
+          "S": 27
+        },
+        "217": {
+          "V": 27
+        }
+      },
+      "carries_SQHA": false
+    },
+    "BOMV": {
+      "esearch_hits": 10,
+      "records_returned": 10,
+      "sequences_assessed": 10,
+      "n_full_length_251": 10,
+      "n_partial_skipped": 0,
+      "n_excluded_non_vp24_chain": 0,
+      "excluded_non_vp24_examples": [],
+      "four_position_motif_counts": {
+        "PNSV": 8,
+        "PNRV": 2
+      },
+      "non_canonical_motif_examples": {
+        "PNSV": [
+          "UKB36431.1",
+          "URC21829.1",
+          "URC21821.1",
+          "QOU08493.1",
+          "QOU08484.1",
+          "QAT98510.1"
+        ],
+        "PNRV": [
+          "WBH05263.1",
+          "ASJ82205.1"
+        ]
+      },
+      "per_position_residue_counts": {
+        "83": {
+          "P": 10
+        },
+        "135": {
+          "N": 10
+        },
+        "140": {
+          "S": 8,
+          "R": 2
+        },
+        "141": {
+          "V": 10
+        },
+        "184": {
+          "N": 10
+        },
+        "217": {
+          "V": 10
+        }
+      },
+      "carries_SQHA": false
+    }
+  },
+  "species_with_SQHA": [
+    "BDBV"
+  ],
+  "claim_bdbv_exclusive_supported": true
+}

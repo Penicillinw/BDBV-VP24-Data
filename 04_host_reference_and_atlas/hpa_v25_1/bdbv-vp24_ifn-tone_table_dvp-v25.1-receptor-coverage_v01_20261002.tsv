@@ -1,0 +1,26 @@
+resource	gene	layer	detected_of_n	value_locator	verdict
+HPA-DVP (MS, cell types)	IFNLR1	protein	0 of 27 cell types	raw/hpa_dvp/dvp_cell_type.tsv.zip[0 non-empty Intensity rows]	not detected in any of 27 cell types
+HPA proteinatlas.tsv (IHC + plasma MS)	IFNLR1	annotation/plasma	-	raw/hpa/hpa_focal_summary.tsv[Protein cell type distribution / Blood concentration MS]	IHC cell-type call: Not detected; plasma MS: 
+Wang 2019 (paired, 29 tissues)	IFNLR1	protein	0 of 29 tissues (absent from protein table)	analysis/b4_mrna_protein_paired_20260926/tables/b4_detectability.tsv	tissue level -> resolution mismatch
+Goncalves 2022 (949 cell lines)	IFNLR1	protein (DIA)	no column in the matrix at all (0 hits for the symbol in the workbook)	no column for this symbol in sheet 'Full protein matrix'	cell lines -> resolution + material mismatch
+Nusinow 2020 CCLE	IFNLR1	protein (TMT)	0 of 424 sample columns	no non-empty value; gene_symbol match = 'IFNLR1'	cell lines -> resolution + material mismatch
+HPA-DVP (MS, cell types)	IFNAR1	protein	1 of 27 cell types	raw/hpa_dvp/dvp_cell_type.tsv.zip[1 non-empty Intensity rows]	quantified
+HPA proteinatlas.tsv (IHC + plasma MS)	IFNAR1	annotation/plasma	-	raw/hpa/hpa_focal_summary.tsv[Protein cell type distribution / Blood concentration MS]	IHC cell-type call: Detected in single; plasma MS: 190000
+Wang 2019 (paired, 29 tissues)	IFNAR1	protein	13 of 29	analysis/b4_mrna_protein_paired_20260926/tables/b4_detectability.tsv	tissue level -> resolution mismatch
+Goncalves 2022 (949 cell lines)	IFNAR1	protein (DIA)	no column in the matrix at all (0 hits for the symbol in the workbook)	no column for this symbol in sheet 'Full protein matrix'	cell lines -> resolution + material mismatch
+Nusinow 2020 CCLE	IFNAR1	protein (TMT)	250 of 424 sample columns	<local-path> [gene_symbol column 1, 424 sample columns]	cell lines -> resolution + material mismatch
+HPA-DVP (MS, cell types)	IFNAR2	protein	0 of 27 cell types	raw/hpa_dvp/dvp_cell_type.tsv.zip[0 non-empty Intensity rows]	not detected in any of 27 cell types
+HPA proteinatlas.tsv (IHC + plasma MS)	IFNAR2	annotation/plasma	-	raw/hpa/hpa_focal_summary.tsv[Protein cell type distribution / Blood concentration MS]	IHC cell-type call: Not detected; plasma MS: 700000
+Wang 2019 (paired, 29 tissues)	IFNAR2	protein	10 of 29	analysis/b4_mrna_protein_paired_20260926/tables/b4_detectability.tsv	tissue level -> resolution mismatch
+Goncalves 2022 (949 cell lines)	IFNAR2	protein (DIA)	no column in the matrix at all (0 hits for the symbol in the workbook)	no column for this symbol in sheet 'Full protein matrix'	cell lines -> resolution + material mismatch
+Nusinow 2020 CCLE	IFNAR2	protein (TMT)	196 of 424 sample columns	<local-path> [gene_symbol column 1, 424 sample columns]	cell lines -> resolution + material mismatch
+HPA-DVP (MS, cell types)	IL10RB	protein	8 of 27 cell types	raw/hpa_dvp/dvp_cell_type.tsv.zip[8 non-empty Intensity rows]	quantified
+HPA proteinatlas.tsv (IHC + plasma MS)	IL10RB	annotation/plasma	-	raw/hpa/hpa_focal_summary.tsv[Protein cell type distribution / Blood concentration MS]	IHC cell-type call: Detected in some; plasma MS: 170000
+Wang 2019 (paired, 29 tissues)	IL10RB	protein	24 of 29	analysis/b4_mrna_protein_paired_20260926/tables/b4_detectability.tsv	tissue level -> resolution mismatch
+Goncalves 2022 (949 cell lines)	IL10RB	protein (DIA)	no column in the matrix at all (0 hits for the symbol in the workbook)	no column for this symbol in sheet 'Full protein matrix'	cell lines -> resolution + material mismatch
+Nusinow 2020 CCLE	IL10RB	protein (TMT)	304 of 424 sample columns	<local-path> [gene_symbol column 1, 424 sample columns]	cell lines -> resolution + material mismatch
+HPA-DVP (MS, cell types)	KPNA5	protein	14 of 27 cell types	raw/hpa_dvp/dvp_cell_type.tsv.zip[14 non-empty Intensity rows]	quantified
+HPA proteinatlas.tsv (IHC + plasma MS)	KPNA5	annotation/plasma	-	raw/hpa/hpa_focal_summary.tsv[Protein cell type distribution / Blood concentration MS]	IHC cell-type call: Detected in many; plasma MS: 
+Wang 2019 (paired, 29 tissues)	KPNA5	protein	5 of 29	analysis/b4_mrna_protein_paired_20260926/tables/b4_detectability.tsv	tissue level -> resolution mismatch
+Goncalves 2022 (949 cell lines)	KPNA5	protein (DIA)	no column in the matrix at all (0 hits for the symbol in the workbook)	no column for this symbol in sheet 'Full protein matrix'	cell lines -> resolution + material mismatch
+Nusinow 2020 CCLE	KPNA5	protein (TMT)	115 of 424 sample columns	<local-path> [gene_symbol column 1, 424 sample columns]	cell lines -> resolution + material mismatch

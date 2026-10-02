@@ -1,0 +1,136 @@
+focal_gene	cell_type	detected_rows	total_rows	n_samples
+IFNAR1	alveolar cells type 1	0	5	5
+IFNAR1	alveolar cells type 2	0	5	5
+IFNAR1	astrocytes and neuropil	0	5	5
+IFNAR1	b-cells	0	5	5
+IFNAR1	capillaries	0	5	5
+IFNAR1	cardiomyocytes	0	5	5
+IFNAR1	cd4 t-cells	0	5	5
+IFNAR1	cd8 t-cells	0	5	5
+IFNAR1	ciliated cells	0	5	5
+IFNAR1	collecting ducts	3	5	5
+IFNAR1	distal tubules	0	5	5
+IFNAR1	glomeruli	0	4	4
+IFNAR1	granulosa cells	0	2	2
+IFNAR1	hepatocytes	0	5	5
+IFNAR1	keratinocytes	0	5	5
+IFNAR1	large ducts	0	5	5
+IFNAR1	macrophages	0	5	5
+IFNAR1	microglia and neuropil	0	5	5
+IFNAR1	neurons	0	5	5
+IFNAR1	neutrophils	0	5	5
+IFNAR1	oocytes	0	2	2
+IFNAR1	pancreas epithelial cells	0	5	5
+IFNAR1	pancreatic islets	0	5	5
+IFNAR1	proximal tubules	0	5	5
+IFNAR1	secretory cells	0	5	5
+IFNAR1	skeletal myofibers	0	5	5
+IFNAR1	smooth muscle cells	0	5	5
+IFNAR2	alveolar cells type 1	0	5	5
+IFNAR2	alveolar cells type 2	0	5	5
+IFNAR2	astrocytes and neuropil	0	5	5
+IFNAR2	b-cells	0	5	5
+IFNAR2	capillaries	0	5	5
+IFNAR2	cardiomyocytes	0	5	5
+IFNAR2	cd4 t-cells	0	5	5
+IFNAR2	cd8 t-cells	0	5	5
+IFNAR2	ciliated cells	0	5	5
+IFNAR2	collecting ducts	0	5	5
+IFNAR2	distal tubules	0	5	5
+IFNAR2	glomeruli	0	4	4
+IFNAR2	granulosa cells	0	2	2
+IFNAR2	hepatocytes	0	5	5
+IFNAR2	keratinocytes	0	5	5
+IFNAR2	large ducts	0	5	5
+IFNAR2	macrophages	2	5	5
+IFNAR2	microglia and neuropil	0	5	5
+IFNAR2	neurons	0	5	5
+IFNAR2	neutrophils	0	5	5
+IFNAR2	oocytes	0	2	2
+IFNAR2	pancreas epithelial cells	0	5	5
+IFNAR2	pancreatic islets	0	5	5
+IFNAR2	proximal tubules	0	5	5
+IFNAR2	secretory cells	0	5	5
+IFNAR2	skeletal myofibers	0	5	5
+IFNAR2	smooth muscle cells	0	5	5
+IFNLR1	alveolar cells type 1	0	5	5
+IFNLR1	alveolar cells type 2	0	5	5
+IFNLR1	astrocytes and neuropil	0	5	5
+IFNLR1	b-cells	0	5	5
+IFNLR1	capillaries	0	5	5
+IFNLR1	cardiomyocytes	0	5	5
+IFNLR1	cd4 t-cells	0	5	5
+IFNLR1	cd8 t-cells	0	5	5
+IFNLR1	ciliated cells	0	5	5
+IFNLR1	collecting ducts	0	5	5
+IFNLR1	distal tubules	0	5	5
+IFNLR1	glomeruli	0	4	4
+IFNLR1	granulosa cells	0	2	2
+IFNLR1	hepatocytes	0	5	5
+IFNLR1	keratinocytes	0	5	5
+IFNLR1	large ducts	0	5	5
+IFNLR1	macrophages	0	5	5
+IFNLR1	microglia and neuropil	0	5	5
+IFNLR1	neurons	0	5	5
+IFNLR1	neutrophils	0	5	5
+IFNLR1	oocytes	0	2	2
+IFNLR1	pancreas epithelial cells	0	5	5
+IFNLR1	pancreatic islets	0	5	5
+IFNLR1	proximal tubules	0	5	5
+IFNLR1	secretory cells	0	5	5
+IFNLR1	skeletal myofibers	0	5	5
+IFNLR1	smooth muscle cells	0	5	5
+IL10RB	alveolar cells type 1	0	5	5
+IL10RB	alveolar cells type 2	0	5	5
+IL10RB	astrocytes and neuropil	0	5	5
+IL10RB	b-cells	3	5	5
+IL10RB	capillaries	0	5	5
+IL10RB	cardiomyocytes	0	5	5
+IL10RB	cd4 t-cells	3	5	5
+IL10RB	cd8 t-cells	3	5	5
+IL10RB	ciliated cells	0	5	5
+IL10RB	collecting ducts	4	5	5
+IL10RB	distal tubules	0	5	5
+IL10RB	glomeruli	1	4	4
+IL10RB	granulosa cells	2	2	2
+IL10RB	hepatocytes	0	5	5
+IL10RB	keratinocytes	0	5	5
+IL10RB	large ducts	5	5	5
+IL10RB	macrophages	5	5	5
+IL10RB	microglia and neuropil	0	5	5
+IL10RB	neurons	0	5	5
+IL10RB	neutrophils	1	5	5
+IL10RB	oocytes	2	2	2
+IL10RB	pancreas epithelial cells	0	5	5
+IL10RB	pancreatic islets	0	5	5
+IL10RB	proximal tubules	0	5	5
+IL10RB	secretory cells	2	5	5
+IL10RB	skeletal myofibers	0	5	5
+IL10RB	smooth muscle cells	0	5	5
+KPNA5	alveolar cells type 1	0	5	5
+KPNA5	alveolar cells type 2	0	5	5
+KPNA5	astrocytes and neuropil	5	5	5
+KPNA5	b-cells	0	5	5
+KPNA5	capillaries	5	5	5
+KPNA5	cardiomyocytes	0	5	5
+KPNA5	cd4 t-cells	5	5	5
+KPNA5	cd8 t-cells	3	5	5
+KPNA5	ciliated cells	5	5	5
+KPNA5	collecting ducts	5	5	5
+KPNA5	distal tubules	5	5	5
+KPNA5	glomeruli	0	4	4
+KPNA5	granulosa cells	2	2	2
+KPNA5	hepatocytes	0	5	5
+KPNA5	keratinocytes	0	5	5
+KPNA5	large ducts	2	5	5
+KPNA5	macrophages	0	5	5
+KPNA5	microglia and neuropil	5	5	5
+KPNA5	neurons	5	5	5
+KPNA5	neutrophils	0	5	5
+KPNA5	oocytes	2	2	2
+KPNA5	pancreas epithelial cells	0	5	5
+KPNA5	pancreatic islets	5	5	5
+KPNA5	proximal tubules	0	5	5
+KPNA5	secretory cells	3	5	5
+KPNA5	skeletal myofibers	5	5	5
+KPNA5	smooth muscle cells	2	5	5

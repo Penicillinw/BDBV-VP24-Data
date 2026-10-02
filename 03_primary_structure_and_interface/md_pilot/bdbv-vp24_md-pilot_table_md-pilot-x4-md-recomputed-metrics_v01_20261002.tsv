@@ -1,0 +1,87 @@
+system	metric	value	basis_structure	note
+BDBV_iface5_plus83	ca_rmsd_77_90_vs_WT_minimised	0.1267	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+BDBV_iface5_plus83	ca_rmsd_77_90_vs_WT_globalfit	0.1619	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+BDBV_iface5_plus83	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+BDBV_iface5_plus83	interface_contacts_lt4.5A_before	49	mutant.pdb chains A-D	openmm_results reports 49
+BDBV_iface5_plus83	interface_contacts_lt4.5A_after	55	minimised.pdb chains A-B	openmm_results reports 55
+BDBV_interface5	ca_rmsd_77_90_vs_WT_minimised	0.1158	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+BDBV_interface5	ca_rmsd_77_90_vs_WT_globalfit	0.1519	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+BDBV_interface5	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+BDBV_interface5	interface_contacts_lt4.5A_before	49	mutant.pdb chains A-D	openmm_results reports 49
+BDBV_interface5	interface_contacts_lt4.5A_after	55	minimised.pdb chains A-B	openmm_results reports 55
+DBG	ca_rmsd_77_90_vs_WT_minimised	0.1753	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+DBG	ca_rmsd_77_90_vs_WT_globalfit	0.1601	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+DBG	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+DBG	interface_contacts_lt4.5A_before	55	mutant.pdb chains A-D	not in openmm_results
+DBG	interface_contacts_lt4.5A_after	54	minimised.pdb chains A-B	not in openmm_results
+EBOV_4x_BDBVres	ca_rmsd_77_90_vs_WT_minimised	0.4023	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+EBOV_4x_BDBVres	ca_rmsd_77_90_vs_WT_globalfit	0.185	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+EBOV_4x_BDBVres	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+EBOV_4x_BDBVres	interface_contacts_lt4.5A_before	52	mutant.pdb chains A-D	openmm_results reports 52
+EBOV_4x_BDBVres	interface_contacts_lt4.5A_after	53	minimised.pdb chains A-B	openmm_results reports 53
+EBOV_N135A	ca_rmsd_77_90_vs_WT_minimised	0.0831	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+EBOV_N135A	ca_rmsd_77_90_vs_WT_globalfit	0.1374	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+EBOV_N135A	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+EBOV_N135A	interface_contacts_lt4.5A_before	55	mutant.pdb chains A-D	openmm_results reports 55
+EBOV_N135A	interface_contacts_lt4.5A_after	52	minimised.pdb chains A-B	openmm_results reports 52
+EBOV_R140A	ca_rmsd_77_90_vs_WT_minimised	0.3396	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+EBOV_R140A	ca_rmsd_77_90_vs_WT_globalfit	0.1652	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+EBOV_R140A	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+EBOV_R140A	interface_contacts_lt4.5A_before	53	mutant.pdb chains A-D	openmm_results reports 53
+EBOV_R140A	interface_contacts_lt4.5A_after	52	minimised.pdb chains A-B	openmm_results reports 52
+RESTV_interface	ca_rmsd_77_90_vs_WT_minimised	0.1806	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+RESTV_interface	ca_rmsd_77_90_vs_WT_globalfit	0.1779	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+RESTV_interface	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+RESTV_interface	interface_contacts_lt4.5A_before	46	mutant.pdb chains A-D	openmm_results reports 46
+RESTV_interface	interface_contacts_lt4.5A_after	49	minimised.pdb chains A-B	openmm_results reports 49
+SUDV_interface	ca_rmsd_77_90_vs_WT_minimised	0.0948	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+SUDV_interface	ca_rmsd_77_90_vs_WT_globalfit	0.2068	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+SUDV_interface	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+SUDV_interface	interface_contacts_lt4.5A_before	46	mutant.pdb chains A-D	openmm_results reports 46
+SUDV_interface	interface_contacts_lt4.5A_after	49	minimised.pdb chains A-B	openmm_results reports 49
+TAFV_interface	ca_rmsd_77_90_vs_WT_A	not_recomputable	-	no minimised.pdb (run failed: ValueError: No template found for residue 114 (GLY).  The se)
+WT	ca_rmsd_77_90_vs_WT_minimised	0.0	minimised.pdb chain A (construct 62-75 = EBOV 77-90)	static single-structure Kabsch RMSD over 77-90
+WT	ca_rmsd_77_90_vs_WT_globalfit	0.0	minimised.pdb chain A, superposed on all shared CA	static; global-fit then RMSD of 77-90
+WT	native_contact_fraction_residuepair	1.0	minimised.pdb vs WT (240 native residue pairs within 0.8 nm, 1.2 nm allowance)	static; the pilot's Q_fraction is trajectory-based
+WT	interface_contacts_lt4.5A_before	55	mutant.pdb chains A-D	openmm_results reports 55
+WT	interface_contacts_lt4.5A_after	53	minimised.pdb chains A-B	openmm_results reports 53
+BDBV_iface5_plus83	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+BDBV_iface5_plus83	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+BDBV_iface5_plus83	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+BDBV_iface5_plus83	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+BDBV_interface5	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+BDBV_interface5	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+BDBV_interface5	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+BDBV_interface5	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+DBG	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+DBG	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+DBG	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+DBG	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+EBOV_4x_BDBVres	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+EBOV_4x_BDBVres	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+EBOV_4x_BDBVres	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+EBOV_4x_BDBVres	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+EBOV_N135A	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+EBOV_N135A	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+EBOV_N135A	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+EBOV_N135A	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+EBOV_R140A	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+EBOV_R140A	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+EBOV_R140A	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+EBOV_R140A	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+RESTV_interface	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+RESTV_interface	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+RESTV_interface	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+RESTV_interface	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+SUDV_interface	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+SUDV_interface	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+SUDV_interface	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+SUDV_interface	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+TAFV_interface	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+TAFV_interface	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+TAFV_interface	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+TAFV_interface	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace
+WT	trajectory_local_rmsd_nm	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+WT	trajectory_Q_fraction	not_recomputable	-	requires pilot 1 ns trajectories; only static coordinates are deposited in this workspace
+WT	minimised_energy_kcal_mol	not_recomputable	-	requires OpenMM force field; only static coordinates are deposited in this workspace
+WT	void_volume_nm3_within_0.6nm_of_P83_CA	not_recomputable	-	requires trajectory frame; only static coordinates are deposited in this workspace

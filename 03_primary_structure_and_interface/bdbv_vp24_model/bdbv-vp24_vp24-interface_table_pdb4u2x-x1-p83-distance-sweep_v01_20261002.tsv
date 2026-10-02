@@ -1,0 +1,67 @@
+structure	pair	metric	value_A	note
+4U2X(EBOV VP24)	A-B	min_heavy_atom	5.317	P83 any heavy atom to partner any heavy atom
+4U2X(EBOV VP24)	A-B	ca_to_partner_centroid	38.578	P83 CA to partner heavy-atom centroid
+4U2X(EBOV VP24)	A-B	ca_to_nearest_partner_atom	7.684	P83 CA to nearest partner heavy atom
+4U2X(EBOV VP24)	A-B	residue_centroid_pair	24.77	P83 centroid to B83 centroid
+4U2X(EBOV VP24)	A-B	ca_ca	24.257	P83 CA to B83 CA
+4U2X(EBOV VP24)	A-B	bb_N	23.074	P83 N to B83 N
+4U2X(EBOV VP24)	A-B	bb_C	27.19	P83 C to B83 C
+4U2X(EBOV VP24)	A-B	bb_O	28.271	P83 O to B83 O
+4U2X(EBOV VP24)	A-B	bb_CB	24.155	P83 CB to B83 CB
+4U2X(EBOV VP24)	A-B	chain_centroid_pair	48.548	centroid(chain A) to centroid(chain B)
+4U2X(EBOV VP24)	A-B	p83ca_to_own_chain_centroid	21.908	P83 CA to own-chain centroid
+4U2X(EBOV VP24)	A-C	min_heavy_atom	7.125	P83 any heavy atom to partner any heavy atom
+4U2X(EBOV VP24)	A-C	ca_to_partner_centroid	34.889	P83 CA to partner heavy-atom centroid
+4U2X(EBOV VP24)	A-C	ca_to_nearest_partner_atom	7.651	P83 CA to nearest partner heavy atom
+4U2X(EBOV VP24)	A-C	residue_centroid_pair	14.641	P83 centroid to C83 centroid
+4U2X(EBOV VP24)	A-C	ca_ca	15.441	P83 CA to C83 CA
+4U2X(EBOV VP24)	A-C	bb_N	15.16	P83 N to C83 N
+4U2X(EBOV VP24)	A-C	bb_C	16.871	P83 C to C83 C
+4U2X(EBOV VP24)	A-C	bb_O	17.821	P83 O to C83 O
+4U2X(EBOV VP24)	A-C	bb_CB	13.052	P83 CB to C83 CB
+4U2X(EBOV VP24)	A-C	chain_centroid_pair	56.616	centroid(chain A) to centroid(chain C)
+4U2X(EBOV VP24)	A-C	p83ca_to_own_chain_centroid	21.908	P83 CA to own-chain centroid
+4U2X(EBOV VP24)	B-C	min_heavy_atom	15.107	P83 any heavy atom to partner any heavy atom
+4U2X(EBOV VP24)	B-C	ca_to_partner_centroid	37.437	P83 CA to partner heavy-atom centroid
+4U2X(EBOV VP24)	B-C	ca_to_nearest_partner_atom	16.002	P83 CA to nearest partner heavy atom
+4U2X(EBOV VP24)	B-C	residue_centroid_pair	31.795	P83 centroid to C83 centroid
+4U2X(EBOV VP24)	B-C	ca_ca	31.578	P83 CA to C83 CA
+4U2X(EBOV VP24)	B-C	bb_N	30.223	P83 N to C83 N
+4U2X(EBOV VP24)	B-C	bb_C	33.544	P83 C to C83 C
+4U2X(EBOV VP24)	B-C	bb_O	34.642	P83 O to C83 O
+4U2X(EBOV VP24)	B-C	bb_CB	31.783	P83 CB to C83 CB
+4U2X(EBOV VP24)	B-C	chain_centroid_pair	45.776	centroid(chain B) to centroid(chain C)
+4U2X(EBOV VP24)	B-C	p83ca_to_own_chain_centroid	21.734	P83 CA to own-chain centroid
+4U2X(EBOV VP24)	A-D	min_heavy_atom	11.358	P83 to nearest KPNA5 heavy atom
+4U2X(EBOV VP24)	A-E	min_heavy_atom	34.035	P83 to nearest KPNA5 heavy atom
+4U2X(EBOV VP24)	A-F	min_heavy_atom	14.885	P83 to nearest KPNA5 heavy atom
+4U2X(EBOV VP24)	B-E-per-copy-p83	copy_p83_to_nearest_partner_atom	11.372	P83 of copy B to nearest atom of KPNA5 chain E
+4U2X(EBOV VP24)	C-F-per-copy-p83	copy_p83_to_nearest_partner_atom	11.141	P83 of copy C to nearest atom of KPNA5 chain F
+4U2X(EBOV VP24)	B-D-per-copy-p83	copy_p83_to_nearest_partner_atom	33.65	P83 of copy B to nearest atom of KPNA5 chain D
+4U2X(EBOV VP24)	C-D-per-copy-p83	copy_p83_to_nearest_partner_atom	15.266	P83 of copy C to nearest atom of KPNA5 chain D
+4U2X(EBOV VP24)	C-E-per-copy-p83	copy_p83_to_nearest_partner_atom	38.429	P83 of copy C to nearest atom of KPNA5 chain E
+4U2X(EBOV VP24)	A-B	p83_to_nearest_B_atom	5.317	P83 to nearest atom of literal chain B
+4U2X(EBOV VP24)	B-B	p83_to_nearest_B_atom	0.0	P83 to nearest atom of literal chain B
+4U2X(EBOV VP24)	C-B	p83_to_nearest_B_atom	11.939	P83 to nearest atom of literal chain B
+model(vp24_kpna_complex)	A-B	min_heavy_atom	22.902	P83 any heavy atom to partner any heavy atom
+model(vp24_kpna_complex)	A-B	ca_to_partner_centroid	57.825	P83 CA to partner heavy-atom centroid
+model(vp24_kpna_complex)	A-B	ca_to_nearest_partner_atom	24.715	P83 CA to nearest partner heavy atom
+model(vp24_kpna_complex)	A-B	residue_centroid_pair	80.505	P83 centroid to B83 centroid
+model(vp24_kpna_complex)	A-B	ca_ca	80.169	P83 CA to B83 CA
+model(vp24_kpna_complex)	A-B	bb_N	79.92	P83 N to B83 N
+model(vp24_kpna_complex)	A-B	bb_C	78.302	P83 C to B83 C
+model(vp24_kpna_complex)	A-B	bb_O	77.664	P83 O to B83 O
+model(vp24_kpna_complex)	A-B	bb_CB	83.042	P83 CB to B83 CB
+model(vp24_kpna_complex)	A-B	chain_centroid_pair	36.196	centroid(chain A) to centroid(chain B)
+model(vp24_kpna_complex)	A-B	p83ca_to_own_chain_centroid	22.829	P83 CA to own-chain centroid
+model(vp24_kpna_complex)	A-Z	min_heavy_atom	11.661	P83 to nearest KPNA5(Z) heavy atom
+model(vp24_kpna_complex)	B-Z-per-copy-p83	copy_p83_to_nearest_partner_atom	54.983	P83 of the SECOND VP24 copy (chain B) to nearest KPNA5(Z) atom - the traceable source of the caption's '55.0'
+model(vp24_kpna_complex)	A-B	p83_to_nearest_B_atom	22.902	P83 to nearest atom of literal chain B (second VP24 copy)
+tmpl_kpna5	V	numbering_offset_check		construct = EBOV numbering minus offset 15 (188/216 residues match 4U2X chain A); EBOV 83 -> construct 68 = SER
+tmpl_kpna5	V-p83(c68)	min_heavy_atom_to_partner	11.622	BDBV position 83 (construct residue 68, SER) to nearest partner heavy atom
+tmpl_kpna5	V-p83(c68)	p83_to_partner_centroid	30.49	BDBV 83 centroid to partner heavy-atom centroid
+tmpl_kpna5	V	second_vp24_copy		file contains one VP24 chain (V) only - no second copy to measure
+tmpl_kpna1	V	numbering_offset_check		construct = EBOV numbering minus offset 15 (188/216 residues match 4U2X chain A); EBOV 83 -> construct 68 = SER
+tmpl_kpna1	V-p83(c68)	min_heavy_atom_to_partner	12.946	BDBV position 83 (construct residue 68, SER) to nearest partner heavy atom
+tmpl_kpna1	V-p83(c68)	p83_to_partner_centroid	26.888	BDBV 83 centroid to partner heavy-atom centroid
+tmpl_kpna1	V	second_vp24_copy		file contains one VP24 chain (V) only - no second copy to measure

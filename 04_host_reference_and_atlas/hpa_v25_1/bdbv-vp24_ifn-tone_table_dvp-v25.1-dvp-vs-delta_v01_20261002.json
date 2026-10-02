@@ -1,0 +1,9 @@
+{
+  "delta_cell_types": 154,
+  "dvp_cell_types": 27,
+  "exact_match": 10,
+  "normalised_match": 11,
+  "matched_total": 21,
+  "unmatched_strict": 6,
+  "delta_source": "analysis\\t4_ifn_landscape_20260925\\hpa_ifn_landscape_wide.tsv"
+}

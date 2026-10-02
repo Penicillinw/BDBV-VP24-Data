@@ -1,0 +1,27 @@
+{
+  "file": "raw/hpa_dvp/dvp_cell_type.tsv.zip",
+  "columns": [
+    "Gene",
+    "Gene name",
+    "Cell type",
+    "Intensity"
+  ],
+  "n_genes": 19297,
+  "n_cell_types": 27,
+  "n_rows": 521019,
+  "genes_with_any_detection": 13494,
+  "median_cell_types_detected_per_gene": 13.0,
+  "max_cell_types_detected": 54,
+  "sample_file": {
+    "file": "raw/hpa_dvp/dvp_sample_data.tsv.zip",
+    "columns": [
+      "Gene",
+      "Gene name",
+      "Sample name",
+      "Cell type",
+      "Replicate",
+      "Intensity"
+    ],
+    "rows": 2470016
+  }
+}

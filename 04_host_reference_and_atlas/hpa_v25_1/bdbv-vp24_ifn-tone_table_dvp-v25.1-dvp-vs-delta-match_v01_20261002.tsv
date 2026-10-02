@@ -1,0 +1,28 @@
+dvp_cell_type	delta_match	match_kind
+alveolar cells type 1	alveolar cells type 1	exact
+alveolar cells type 2	alveolar cells type 2	exact
+astrocytes and neuropil	astrocytes	normalised
+b-cells	b-cells	exact
+capillaries		none(best_jaccard=0.00)
+cardiomyocytes	cardiomyocytes	exact
+cd4 t-cells	t-cells	normalised
+cd8 t-cells	t-cells	normalised
+ciliated cells	endometrial ciliated cells	normalised
+collecting ducts	renal collecting duct intercalated cells	normalised
+distal tubules	distal convoluted tubule cells	loose(jaccard=0.50)
+glomeruli		none(best_jaccard=0.00)
+granulosa cells	granulosa cells	exact
+hepatocytes	hepatocytes	exact
+keratinocytes	basal keratinocytes	normalised
+large ducts	pancreatic duct cells	none(best_jaccard=0.25)
+macrophages	macrophages	exact
+microglia and neuropil	microglia	normalised
+neurons	brain excitatory neurons	normalised
+neutrophils	neutrophils	exact
+oocytes	oocytes	exact
+pancreas epithelial cells	ocular epithelial cells	loose(jaccard=0.50)
+pancreatic islets	pancreatic islet cells	normalised
+proximal tubules	proximal tubule cells	normalised
+secretory cells	breast secretory cells	normalised
+skeletal myofibers		none(best_jaccard=0.00)
+smooth muscle cells	smooth muscle cells	exact

@@ -1,0 +1,16 @@
+resource	gene	matrix	cell_lines_measured	detected	detection_rate	median	iqr	locator
+Goncalves2022(949 lines)	IFNLR1	Full protein matrix	0	0	0.000			no column for this symbol in sheet 'Full protein matrix'
+Goncalves2022(949 lines)	IFNAR1	Full protein matrix	0	0	0.000			no column for this symbol in sheet 'Full protein matrix'
+Goncalves2022(949 lines)	IFNAR2	Full protein matrix	0	0	0.000			no column for this symbol in sheet 'Full protein matrix'
+Goncalves2022(949 lines)	IL10RB	Full protein matrix	0	0	0.000			no column for this symbol in sheet 'Full protein matrix'
+Goncalves2022(949 lines)	KPNA5	Full protein matrix	0	0	0.000			no column for this symbol in sheet 'Full protein matrix'
+Goncalves2022(949 lines)	IFNLR1	Prot matrix excl single-peptide	0	0	0.000			no column for this symbol in sheet 'Prot matrix excl single-peptide'
+Goncalves2022(949 lines)	IFNAR1	Prot matrix excl single-peptide	0	0	0.000			no column for this symbol in sheet 'Prot matrix excl single-peptide'
+Goncalves2022(949 lines)	IFNAR2	Prot matrix excl single-peptide	0	0	0.000			no column for this symbol in sheet 'Prot matrix excl single-peptide'
+Goncalves2022(949 lines)	IL10RB	Prot matrix excl single-peptide	0	0	0.000			no column for this symbol in sheet 'Prot matrix excl single-peptide'
+Goncalves2022(949 lines)	KPNA5	Prot matrix excl single-peptide	0	0	0.000			no column for this symbol in sheet 'Prot matrix excl single-peptide'
+Nusinow2020(CCLE)	IFNLR1	protein_quant_current_normalized	424	0	0.000			no non-empty value; gene_symbol match = 'IFNLR1'
+Nusinow2020(CCLE)	IFNAR1	protein_quant_current_normalized	424	250	0.590	0.000	-0.322-0.498	<local-path> [gene_symbol column 1, 424 sample columns]
+Nusinow2020(CCLE)	IFNAR2	protein_quant_current_normalized	424	196	0.462	0.000	-0.322-0.487	<local-path> [gene_symbol column 1, 424 sample columns]
+Nusinow2020(CCLE)	IL10RB	protein_quant_current_normalized	424	304	0.717	0.066	-0.390-0.629	<local-path> [gene_symbol column 1, 424 sample columns]
+Nusinow2020(CCLE)	KPNA5	protein_quant_current_normalized	424	115	0.271	0.000	-0.253-0.534	<local-path> [gene_symbol column 1, 424 sample columns]

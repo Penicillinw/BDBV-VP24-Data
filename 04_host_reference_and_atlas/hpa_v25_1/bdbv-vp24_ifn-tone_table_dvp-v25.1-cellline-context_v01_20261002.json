@@ -1,0 +1,47 @@
+{
+  "date_note": "2026-09-26",
+  "g1": {
+    "Full protein matrix": {
+      "file": "analysis\\b4_mrna_protein_paired_20260926\\raw\\epmc\\goncalves2022\\mmc3.xlsx",
+      "sheet": "Full protein matrix",
+      "n_cell_lines": 949,
+      "n_protein_columns": "see header",
+      "gene_columns": {
+        "IFNLR1": [],
+        "IFNAR1": [],
+        "IFNAR2": [],
+        "IL10RB": [],
+        "KPNA5": []
+      }
+    },
+    "Prot matrix excl single-peptide": {
+      "file": "analysis\\b4_mrna_protein_paired_20260926\\raw\\epmc\\goncalves2022\\mmc3.xlsx",
+      "sheet": "Prot matrix excl single-peptide",
+      "n_cell_lines": 949,
+      "n_protein_columns": "see header",
+      "gene_columns": {
+        "IFNLR1": [],
+        "IFNAR1": [],
+        "IFNAR2": [],
+        "IL10RB": [],
+        "KPNA5": []
+      }
+    }
+  },
+  "g2": {
+    "file": "<local-path>",
+    "bytes": 30916232,
+    "sha256_16": "b72a9ff39b123c80",
+    "header[:6]": [
+      "Protein_Id",
+      "Gene_Symbol",
+      "Description",
+      "Group_ID",
+      "Uniprot",
+      "Uniprot_Acc"
+    ],
+    "n_data_rows": 12755,
+    "gene_col_index": 1,
+    "url": "http<local-path>"
+  }
+}

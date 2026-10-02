@@ -1,0 +1,6 @@
+focal_gene	ensembl	cell_types_present	n_detected	n_total	detected_cell_types_and_intensity	group_level_detected_of_n	group_detected_and_matched_nCPM
+IFNLR1	ENSG00000185436	27	0	27	NONE	0/24	NONE
+IFNAR1	ENSG00000142166	27	1	27	collecting ducts: 1948.4	1/24	collecting ducts: 1948.4(nCPM 55.2)
+IFNAR2	ENSG00000159110	27	0	27	NONE	0/24	NONE
+IL10RB	ENSG00000243646	27	8	27	b-cells: 16366.6;cd4 t-cells: 15026.9;cd8 t-cells: 93562.5;collecting ducts: 34108.1;granulosa cells: 430843.8;large ducts: 15288.3;macrophages: 18651.0;oocytes: 374826.4	7/24	granulosa cells: 430843.8(nCPM 5.7);oocytes: 374826.4(nCPM 0.0);t-cells: 93562.5(nCPM 3.9);collecting ducts: 34108.1(nCPM 3.7);macrophages: 18651.0(nCPM 8.5);b-cells: 16366.6(nCPM 5.2)
+KPNA5	ENSG00000196911	27	14	27	astrocytes and neuropil: 1245.7;capillaries: 5469433.7;cd4 t-cells: 2365799.2;cd8 t-cells: 241.0;ciliated cells: 221.4;collecting ducts: 165.5;distal tubules: 324.6;granulosa cells: 344.3;microglia and neuropil: 1043.8;neurons: 70273.6;oocytes: 1972.7;pancreatic islets: 8018.0;secretory cells: 4426.6;skeletal myofibers: 38398.4	12/24	capillaries: 5469433.7(nCPM 458.6);t-cells: 2365799.2(nCPM 97.4);neurons: 70273.6(nCPM 76.2);skeletal myofibers: 38398.4(nCPM 70.8);pancreatic islets: 8018.0(nCPM 63.2);fallopian tube cells: 4426.6(nCPM 59.3)

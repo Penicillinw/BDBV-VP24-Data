@@ -1,0 +1,54 @@
+query_or_url	library	date	hits	returned_ids_or_status	rationale
+paired proteome transcriptome atlas human tissues coverage	Europe PMC REST	2026-09-26	1233	cached	the exact query the earlier audit left untriaged (1,233 hits)
+proteogenomic atlas human tissues	Europe PMC REST	2026-09-26	976	cached	tissue proteogenomics: quantitative but tissue-level
+cell-type resolved proteome human	Europe PMC REST	2026-09-26	27793	cached	the only shape that could satisfy C2
+mass spectrometry human primary cell types proteome	Europe PMC REST	2026-09-26	42303	cached	primary (non-immortalised) cells profiled by MS
+single-cell proteomics human atlas	Europe PMC REST	2026-09-26	20192	cached	SCoPE2 / nPOP class: cell-level protein, shallow depth
+IFNLR1 protein detection mass spectrometry	Europe PMC REST	2026-09-26	71	cached	gene-specific: is IFNLR1 protein measurable at all?
+interferon receptor protein abundance mass spectrometry human cells	Europe PMC REST	2026-09-26	11726	cached	gene-family-specific
+human immune cell type proteome quantification	Europe PMC REST	2026-09-26	32386	cached	blood/immune cell types: closest primary-cell, cell-type-resolved proteome
+CPTAC proteogenomic pan-cancer protein abundance matrix	Europe PMC REST	2026-09-26	163	cached	tumour tissue quantitative proteomics
+CODEX PhenoCycler panel human tissue interferon receptor	Europe PMC REST	2026-09-26	66	cached	antibody-panel route to C1+C2
+HuBMAP protein single-cell imaging human tissue	Europe PMC REST	2026-09-26	255	cached	consortium-level single-cell protein panels
+proteome atlas human cell types Tabula	Europe PMC REST	2026-09-26	168	cached	cross-check against atlas families
+IFNAR1 AND (CODEX OR "PhenoCycler" OR "imaging mass cytometry")	Europe PMC REST	2026-09-26	39	http_200	does any antibody imaging panel carry the type I receptor?
+IFNLR1 AND ("multiplexed ion beam" OR "cyclic immunofluorescence" OR "antibody panel")	Europe PMC REST	2026-09-26	7	http_200	type III receptor in antibody panels
+IFNAR2 AND ("protein abundance" OR proteomics) AND ("cell type" OR cell-type)	Europe PMC REST	2026-09-26	607	http_200	gene-specific hunt inside cell-type-resolved protein resources
+http<local-path>	HTTP probe	2026-09-26	502	0 bytes	paxdb downloads page
+http<local-path>	HTTP probe	2026-09-26	404	162 bytes	paxdb sample pattern (expected 404)
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	proteomicsdb home
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	proteomicsdb api root
+http<local-path>	HTTP probe	2026-09-26	404	3537 bytes	proteomicsdb legacy rest root
+htt<local-path>	HTTP probe	2026-09-26	200	10893 bytes	human proteome map home
+http<local-path>	HTTP probe	2026-09-26	ERROR	0 bytes	hpm downloads | ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+http<local-path>	HTTP probe	2026-09-26	200	923 bytes	opencell home
+http<local-path>	HTTP probe	2026-09-26	200	25154 bytes	proteomehd home
+http<local-path>	HTTP probe	2026-09-26	200	25154 bytes	proteomehd home (no www)
+http<local-path>	HTTP probe	2026-09-26	ERROR	0 bytes	procan home | SSLError: HTTPSConnectionPool(host='procan.org.au', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerific
+http<local-path>	HTTP probe	2026-09-26	ERROR	0 bytes	procan data page | SSLError: HTTPSConnectionPool(host='www.procan.org.au', port=443): Max retries exceeded with url: /data (Caused by SSLError(SSLCer
+http<local-path>	HTTP probe	2026-09-26	200	5179 bytes	depmap all data
+http<local-path>	HTTP probe	2026-09-26	200	5175 bytes	depmap download api
+http<local-path>	HTTP probe	2026-09-26	200	23031 bytes	Nusinow 2020 CCLE deposit (Gygi lab)
+http<local-path>	HTTP probe	2026-09-26	200	303517 bytes	MassIVE datasets (Nusinow search entry)
+http<local-path>	HTTP probe	2026-09-26	200	56105 bytes	CPTAC proteomic data commons
+http<local-path>	HTTP probe	2026-09-26	200	1384 bytes	europepmc sample query
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	1036 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	26383 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	32357 bytes	
+htt<local-path>	HTTP probe	2026-09-26	200	30105 bytes	
+http<local-path>	HTTP probe	2026-09-26	200	545664 bytes	
+http<local-path>	HTTP probe	2026-09-26	502	0 bytes	
+htt<local-path>	HTTP probe	2026-09-26	502	0 bytes	
+http<local-path>	HTTP download	2026-09-26	200	193191 bytes	heart_multiomic_2025
+http<local-path>	HTTP download	2026-09-26	200	269226 bytes	NicheProt_2026
+http<local-path>	HTTP download	2026-09-26	200	143023 bytes	gel_3D_singlecell_2026
+http<local-path>	HTTP download	2026-09-26	200	166251 bytes	ascites_HGSOC_2026
+http<local-path>	HTTP download	2026-09-26	200	106288 bytes	skin_tumour_scp_2026
+http<local-path>	HTTP download	2026-09-26	200	111722 bytes	brain_EV_celltype_2026
+http<local-path>	HTTP download	2026-09-26	500	153 bytes	celltype_proteomic_atlas_body_2026
