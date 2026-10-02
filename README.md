@@ -10,7 +10,7 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 - **Manuscript**: *Bundibugyo virus carries a genus-exclusive four-position VP24 configuration that orders cell-type interferon restriction*
 - **Author**: Wenhao Huang, Nanning No.3 High School, Nanning, Guangxi, China
 - **Repository version**: 1.1.0 (2026-10-02)
-- **Aligned to**: manuscript **v15**
+- **Aligned to**: manuscript **v16** (the v15→v16 change is figure-citation formatting only; no data changed)
 - **Contents**: 506 standardised data files (523 files in the repository), ~49 MB
 
 ## What this repository contains
