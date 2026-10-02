@@ -32,7 +32,7 @@ It is intended to serve as the core pillar of the manuscript's Data availability
 - **Figure captions**, manuscript and supplementary DOCX/PDF files, and the DOCX assembly scripts.
 - **Third-party raw data.** Data from NCBI, UniProt, RCSB PDB, Human Protein Atlas, CELLxGENE
   Discover and NCBI GEO are **not redistributed**. They are identified by accession, retrieval
-  date and checksum in `00_index_and_metadata/LINK_ONLY_RAW.tsv` (509 registered files) and can be
+  date and checksum in `00_index_and_metadata/LINK_ONLY_RAW.tsv` (508 registered files) and can be
   re-downloaded from the original sources. See `00_index_and_metadata/LICENSE_AND_ACCESS.md`.
 - Analysis assets unrelated to this manuscript (structural-prediction campaigns, molecular docking,
   VP30/VP35/VP40/GP analyses, FoldX/APBS/NMA calculations, binding-free-energy and interface
@@ -61,8 +61,11 @@ recomputed?* If yes, it is a rendering artefact and stays out; if no, it is data
 | Fig. S4a–d | `01_source_data_by_figure/FigS4/bdbv-vp24_epithelium-panel_table_figs4{a,b,c,d}_v01_20261002.tsv` |
 
 Each panel table has a companion `.md` note recording where the values came from and how they were
-checked against the manuscript. A machine-readable version of the same map is in
-`01_source_data_by_figure/_shared/bdbv-vp24_metadata_table_shared-figure-source-map_v01_20261002.tsv`.
+checked against the manuscript. Two files in `01_source_data_by_figure/_shared/` complete the set:
+
+- `bdbv-vp24_metadata_table_shared-figure-source-map_v01_20261002.tsv` — machine-readable panel → file map.
+- `bdbv-vp24_metadata_doc_shared-w1-source-data-report_v01_20261002.md` — the full assembly report,
+  including the five caption-versus-table discrepancies that were found and left unreconciled.
 
 ## Data sources
 

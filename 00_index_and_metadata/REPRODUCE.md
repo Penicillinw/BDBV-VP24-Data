@@ -63,9 +63,10 @@ To run them from this repository:
 | nasal epithelium | `..._epithelium-panel_code_g6f-gse342661-probe...py` |
 | coverage audit | `..._coverage_code_compartment-census...py`, `..._b6-compartment-coverage...py` |
 
-4. **Before running any script publicly**, remove local absolute paths: the deposited copies
-   contain the original `ROOT` constant (for example `ROOT = r"G:\..."`). Point it at your own
-   checkout, or wrap the call in a small runner that sets `ROOT` from an environment variable.
+4. **Before running any script**, point `ROOT` at your own checkout: the deposited scripts retain
+   their original `ROOT` constant (a local absolute path) so that the code reads as it was run.
+   Replace that constant, or wrap the call in a small runner that sets `ROOT` from an environment
+   variable. All other delivered files have local absolute paths masked to `<local-path>`.
 
 ## 4. What can and cannot be reproduced from this repository alone
 
@@ -81,6 +82,17 @@ To run them from this repository:
 ## 5. Known issues carried in the record
 
 Five discrepancies between figure captions and the underlying tables were found while assembling
-this package and are recorded in the per-panel notes rather than silently reconciled. They are
-listed in the accompanying assembly report; the most substantive is the Fig. 1b caption distance
-for P83 to the second VP24 copy, which could not be reproduced under any distance definition tried.
+this package. They are recorded rather than silently reconciled, and the full assembly report is
+deposited alongside this file as
+`01_source_data_by_figure/_shared/bdbv-vp24_metadata_doc_shared-w1-source-data-report_v01_20261002.md`.
+
+| # | discrepancy | where it is now recorded |
+|---|---|---|
+| 1 | Fig. 1b caption distance for P83 to the second VP24 copy (55.0 Å) could not be reproduced under any definition tried; nearest-atom 22.90 Å, CA–CA 80.17 Å | Fig1b panel note (marked "partial") + report §inconsistencies |
+| 2 | Fig. 1b contact count differs between products: 6 contacts ≤ 3.6 Å in the figure versus 7 contacts ≤ 4.0 Å in the render script | assembly report |
+| 3 | Fig. 3 caption quadrant numbering (I/III) does not match the frozen ledger labels (Q1/Q4) | assembly report |
+| 4 | Fig. S2b p = 0.06 is a rounding of 0.0584 | FigS2b panel note |
+| 5 | Fig. S2a's 0.50–0.77 AUC span pools the two negative-group definitions | FigS2a panel note |
+
+Items 1, 4 and 5 are additionally recorded in the per-panel notes; items 2 and 3 are recorded in the
+assembly report because they concern the figure rendering and caption rather than the panel table.

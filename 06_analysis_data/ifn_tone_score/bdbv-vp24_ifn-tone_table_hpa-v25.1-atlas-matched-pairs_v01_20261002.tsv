@@ -1,27 +1,29 @@
-hpa_cell_type	atlas	atlas_label	n_cells	hpa_delta_log10	atlas_delta_log10	hpa_delta_z	atlas_delta_z
-enterocytes	TS_small_intestine.h5ad	enterocyte of epithelium proper of duodenum	13495	1.7654	0.9821	2.2392	1.2081
-enterocytes	TS_small_intestine.h5ad	enterocyte of epithelium proper of ileum	6477	1.7654	0.8956	2.2392	0.9513
-enterocytes	TS_small_intestine.h5ad	enterocyte of epithelium proper of small intestine	1415	1.7654	0.0527	2.2392	-1.5534
-colonocytes	TS_large_intestine.h5ad	enterocyte of epithelium of large intestine	4567	1.476	0.1143	1.2652	-1.376
-goblet cells	TS_small_intestine.h5ad	small intestine goblet cell	2044	1.433	0.513	1.1203	-0.1858
-macrophages	Krasnow_lung_10X.h5ad	alveolar macrophage	14734	1.5284	1.2024	1.4414	-0.7327
-macrophages	TS_Vasculature_cellxgene_source.h5ad	macrophage	7518	1.5284	0.625	1.4414	0.2504
-monocytes	TS_bone_marrow.h5ad	monocyte	2040	1.5205	0.3697	1.4149	-0.328
-monocytes	Krasnow_lung_10X.h5ad	classical monocyte	2077	1.5205	1.6056	1.4149	0.9019
-neutrophils	TS_bone_marrow.h5ad	neutrophil	8677	1.5025	0.7716	1.3543	0.6741
-vascular endothelial cells	TS_Vasculature_cellxgene_source.h5ad	endothelial cell	2686	1.4299	0.3511	1.1098	-0.5754
-vascular endothelial cells	Krasnow_lung_10X.h5ad	capillary endothelial cell	7391	1.4299	1.8194	1.1098	1.7684
-fibroblasts	TS_Vasculature_cellxgene_source.h5ad	fibroblast	12698	1.132	0.3001	0.107	-0.7293
-fibroblasts	Krasnow_lung_10X.h5ad	fibroblast	1951	1.132	1.3872	0.107	0.0166
-vascular smooth muscle cells	TS_Vasculature_cellxgene_source.h5ad	smooth muscle cell	8587	1.0708	0.4847	-0.0989	-0.1727
-pericytes	TS_Vasculature_cellxgene_source.h5ad	pericyte	1771	1.2337	0.2141	0.4494	-0.9884
-t-cells	TS_bone_marrow.h5ad	CD4-positive, alpha-beta T cell	3173	1.3869	0.2157	0.9652	-0.7119
-t-cells	TS_bone_marrow.h5ad	CD8-positive, alpha-beta T cell	2636	1.3869	0.2723	0.9652	-0.5708
-b-cells	TS_bone_marrow.h5ad	B cell	1819	1.4685	0.377	1.2397	-0.3096
-plasma cells	TS_bone_marrow.h5ad	plasma cell	1448	1.7008	0.068	2.0219	-1.0801
-nk-cells	TS_bone_marrow.h5ad	natural killer cell	1099	1.2538	0.1268	0.5172	-0.9335
-alveolar cells type 2	Krasnow_lung_10X.h5ad	pulmonary alveolar type 2 cell	3814	1.0708	0.9189	-0.0989	-1.8815
-peritubular myoid cells	TS_testis.h5ad	peritubular myoid cell	67	1.0839	0.9765	-0.0547	0.4058
-late spermatids	TS_testis.h5ad	spermatid	4009	0.8278	0.3548	-0.917	-1.3731
-late primary spermatocytes	TS_testis.h5ad	spermatocyte	3070	0.5017	0.3074	-2.0145	-1.5087
-proximal tubule cells	TS_kidney.h5ad	kidney epithelial cell	9278	0.7996	0.4654	-1.0119	-0.0978
+hpa_cell_type	atlas	atlas_label	n_cells	hpa_delta_log10	atlas_delta_log10
+enterocytes	TS_small_intestine.h5ad	enterocyte of epithelium proper of duodenum	13495	1.7654	0.9821
+enterocytes	TS_small_intestine.h5ad	enterocyte of epithelium proper of ileum	6477	1.7654	0.8956
+enterocytes	TS_small_intestine.h5ad	enterocyte of epithelium proper of small intestine	1415	1.7654	0.0527
+colonocytes	TS_large_intestine.h5ad	enterocyte of epithelium of large intestine	4567	1.476	0.1143
+goblet cells	TS_small_intestine.h5ad	small intestine goblet cell	2044	1.433	0.513
+hepatocytes	HLiCA_hepatocyte.h5ad	hepatocyte	103519	1.308	1.1336
+microglia	HBCA_microglia.h5ad	microglial cell	88494	1.4119	1.4555
+macrophages	Krasnow_lung_10X.h5ad	alveolar macrophage	14734	1.5284	1.2024
+macrophages	TS_Vasculature_cellxgene_source.h5ad	macrophage	7518	1.5284	0.625
+monocytes	TS_bone_marrow.h5ad	monocyte	2040	1.5205	0.3697
+monocytes	Krasnow_lung_10X.h5ad	classical monocyte	2077	1.5205	1.6056
+neutrophils	TS_bone_marrow.h5ad	neutrophil	8677	1.5025	0.7716
+vascular endothelial cells	TS_Vasculature_cellxgene_source.h5ad	endothelial cell	2686	1.4299	0.3511
+vascular endothelial cells	Krasnow_lung_10X.h5ad	capillary endothelial cell	7391	1.4299	1.8194
+fibroblasts	TS_Vasculature_cellxgene_source.h5ad	fibroblast	12698	1.132	0.3001
+fibroblasts	Krasnow_lung_10X.h5ad	fibroblast	1951	1.132	1.3872
+vascular smooth muscle cells	TS_Vasculature_cellxgene_source.h5ad	smooth muscle cell	8587	1.0708	0.4847
+pericytes	TS_Vasculature_cellxgene_source.h5ad	pericyte	1771	1.2337	0.2141
+t-cells	TS_bone_marrow.h5ad	CD4-positive, alpha-beta T cell	3173	1.3869	0.2157
+t-cells	TS_bone_marrow.h5ad	CD8-positive, alpha-beta T cell	2636	1.3869	0.2723
+b-cells	TS_bone_marrow.h5ad	B cell	1819	1.4685	0.377
+plasma cells	TS_bone_marrow.h5ad	plasma cell	1448	1.7008	0.068
+nk-cells	TS_bone_marrow.h5ad	natural killer cell	1099	1.2538	0.1268
+alveolar cells type 2	Krasnow_lung_10X.h5ad	pulmonary alveolar type 2 cell	3814	1.0708	0.9189
+peritubular myoid cells	TS_testis.h5ad	peritubular myoid cell	67	1.0839	0.9765
+late spermatids	TS_testis.h5ad	spermatid	4009	0.8278	0.3548
+late primary spermatocytes	TS_testis.h5ad	spermatocyte	3070	0.5017	0.3074
+proximal tubule cells	TS_kidney.h5ad	kidney epithelial cell	9278	0.7996	0.4654

@@ -1,0 +1,53 @@
+{
+  "file": "<local-path>",
+  "n_columns_including_id": 181,
+  "first_header_cell": "",
+  "n_sample_columns": 180,
+  "n_data_rows": 62754,
+  "first_row_id": "\"ENSG00000000003.16\"",
+  "first_row_id_column_name": "",
+  "first_sample_labels": [
+    "\"24hL4-1ab-LFK13013_L4.genes.results\"",
+    "\"24hL4-2ab-LFK12995_L4.genes.results\"",
+    "\"24hL3-1a-LFK12940_L3.genes.results\"",
+    "\"24hL3-2ab-LFK12994_L4.genes.results\"",
+    "\"24hL3-3a-LFK12958_L3.genes.results\"",
+    "\"24hB1-4a-LFK13032_L4.genes.results\""
+  ],
+  "last_sample_labels": [
+    "\"6hL2-1ab-LFK13005_L4.genes.results\"",
+    "\"6hL2-1a-LFK12933_L3.genes.results\"",
+    "\"72hC-2ab-LFK13003_L4.genes.results\"",
+    "\"72hB1-4a-LFK13038_L4.genes.results\"",
+    "\"72hC-4ab-LFK13057_L1.genes.results\"",
+    "\"72hC-3a-LFK12967_L3.genes.results\""
+  ],
+  "n_titles_matched": 0,
+  "n_titles_unmatched": 180,
+  "unmatched_titles": [
+    "\"24hL4-1ab-LFK13013_L4.genes.results\"",
+    "\"24hL4-2ab-LFK12995_L4.genes.results\"",
+    "\"24hL3-1a-LFK12940_L3.genes.results\"",
+    "\"24hL3-2ab-LFK12994_L4.genes.results\"",
+    "\"24hL3-3a-LFK12958_L3.genes.results\"",
+    "\"24hB1-4a-LFK13032_L4.genes.results\"",
+    "\"24hL2-2a-LFK6966_L1.genes.results\"",
+    "\"6hL3-3a-LFK12952_L3.genes.results\"",
+    "\"72hB1-5a-LFK13074_L1.genes.results\"",
+    "\"24hB1-2a-LFK6969_L1.genes.results\"",
+    "\"72hL1-3ab-LFK12980_L3.genes.results\"",
+    "\"24hC-4a-LFK13033_L4.genes.results\"",
+    "\"24hC-3ab-LFK12979_L3.genes.results\"",
+    "\"24hC-1a-LFK12943_L3.genes.results\"",
+    "\"6hB1-2ab-LFK12990_L3.genes.results\"",
+    "\"24hB1-3a-LFK12960_L3.genes.results\"",
+    "\"6hL2-5ab-LFK13077_L1.genes.results\"",
+    "\"24hL2-5a-LFK13065_L1.genes.results\"",
+    "\"24hB1-3ab-LFK12978_L3.genes.results\"",
+    "\"24hL3-4a-LFK13030_L4.genes.results\""
+  ],
+  "design_grid": {},
+  "distinct_times": [],
+  "distinct_treatments": [],
+  "distinct_routes": []
+}

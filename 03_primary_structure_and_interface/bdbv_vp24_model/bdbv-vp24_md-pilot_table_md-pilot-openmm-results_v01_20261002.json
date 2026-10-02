@@ -1,0 +1,160 @@
+{
+ "structure": "4U2X chains A (EBOV VP24) + D (human KPNA5)",
+ "method": "amber14-all + GBn2 implicit solvent, 1.0 nm cutoff; 300-step minimisation; single-point E_complex - E_A - E_D",
+ "design_note": "all queries are point mutations inside ONE experimental structure; no cross-structure comparison",
+ "controls": {
+  "EBOV_N135A": "published attenuating mutant",
+  "EBOV_R140A": "published attenuating mutant",
+  "EBOV_4x_BDBVres": "published mutant that lost IFN-lambda1, IFN-beta and ISG15 inhibition (PMID 37243162)"
+ },
+ "published_ordering_to_reproduce": "eVP24 ~= rVP24 > bVP24",
+ "results": {
+  "WT": {
+   "n_mutations": 0,
+   "mutations": [],
+   "E_complex": -15299.3,
+   "E_chainA": -8527.0,
+   "E_chainD": -6679.5,
+   "interaction_kcal_mol": -92.71,
+   "contacts_lt4.5A_before": 55,
+   "contacts_lt4.5A_after": 53,
+   "seconds": 68.6,
+   "ddG_vs_WT": 0.0,
+   "d_contacts_vs_WT": 0
+  },
+  "EBOV_N135A": {
+   "n_mutations": 1,
+   "mutations": [
+    "AN135A"
+   ],
+   "E_complex": -15116.4,
+   "E_chainA": -8386.3,
+   "E_chainD": -6634.6,
+   "interaction_kcal_mol": -95.45,
+   "contacts_lt4.5A_before": 55,
+   "contacts_lt4.5A_after": 52,
+   "seconds": 50.7,
+   "ddG_vs_WT": -2.74,
+   "d_contacts_vs_WT": -1
+  },
+  "EBOV_R140A": {
+   "n_mutations": 1,
+   "mutations": [
+    "AR140A"
+   ],
+   "E_complex": -14932.3,
+   "E_chainA": -8215.0,
+   "E_chainD": -6632.4,
+   "interaction_kcal_mol": -84.89,
+   "contacts_lt4.5A_before": 53,
+   "contacts_lt4.5A_after": 52,
+   "seconds": 46.3,
+   "ddG_vs_WT": 7.82,
+   "d_contacts_vs_WT": -1
+  },
+  "EBOV_4x_BDBVres": {
+   "n_mutations": 4,
+   "mutations": [
+    "AP83S",
+    "AN135Q",
+    "AR140H",
+    "AV141A"
+   ],
+   "E_complex": -14949.5,
+   "E_chainA": -8221.7,
+   "E_chainD": -6637.6,
+   "interaction_kcal_mol": -90.26,
+   "contacts_lt4.5A_before": 52,
+   "contacts_lt4.5A_after": 53,
+   "seconds": 48.8,
+   "ddG_vs_WT": 2.45,
+   "d_contacts_vs_WT": 0
+  },
+  "BDBV_interface5": {
+   "n_mutations": 5,
+   "mutations": [
+    "AN135Q",
+    "AR140H",
+    "AV141A",
+    "AQ184R",
+    "AA217V"
+   ],
+   "E_complex": -15151.1,
+   "E_chainA": -8411.6,
+   "E_chainD": -6640.6,
+   "interaction_kcal_mol": -98.92,
+   "contacts_lt4.5A_before": 49,
+   "contacts_lt4.5A_after": 55,
+   "seconds": 64.8,
+   "ddG_vs_WT": -6.21,
+   "d_contacts_vs_WT": 2
+  },
+  "BDBV_iface5_plus83": {
+   "n_mutations": 6,
+   "mutations": [
+    "AP83S",
+    "AN135Q",
+    "AR140H",
+    "AV141A",
+    "AQ184R",
+    "AA217V"
+   ],
+   "E_complex": -15198.9,
+   "E_chainA": -8447.0,
+   "E_chainD": -6649.4,
+   "interaction_kcal_mol": -102.56,
+   "contacts_lt4.5A_before": 49,
+   "contacts_lt4.5A_after": 55,
+   "seconds": 67.8,
+   "ddG_vs_WT": -9.85,
+   "d_contacts_vs_WT": 2
+  },
+  "RESTV_interface": {
+   "n_mutations": 9,
+   "mutations": [
+    "AN130T",
+    "AT131S",
+    "AM136L",
+    "AQ139R",
+    "AR140S",
+    "AQ184S",
+    "AN185T",
+    "AL201V",
+    "AA217V"
+   ],
+   "E_complex": -14949.8,
+   "E_chainA": -8240.1,
+   "E_chainD": -6629.2,
+   "interaction_kcal_mol": -80.48,
+   "contacts_lt4.5A_before": 46,
+   "contacts_lt4.5A_after": 49,
+   "seconds": 49.3,
+   "ddG_vs_WT": 12.23,
+   "d_contacts_vs_WT": -4
+  },
+  "SUDV_interface": {
+   "n_mutations": 7,
+   "mutations": [
+    "AN130S",
+    "AQ184P",
+    "AN185S",
+    "AH186Y",
+    "AL201V",
+    "AN210D",
+    "AA217V"
+   ],
+   "E_complex": -14774.8,
+   "E_chainA": -8130.9,
+   "E_chainD": -6547.5,
+   "interaction_kcal_mol": -96.47,
+   "contacts_lt4.5A_before": 46,
+   "contacts_lt4.5A_after": 49,
+   "seconds": 61.2,
+   "ddG_vs_WT": -3.76,
+   "d_contacts_vs_WT": -4
+  }
+ },
+ "errors": {
+  "TAFV_interface": "ValueError: No template found for residue 114 (GLY).  The set of heavy atoms matches ALA, but the residue is missing 2 H atoms.  You may be able to add them with Modeller.addHydrogens().  For more information, see http<local-path>"
+ }
+}

@@ -26,13 +26,14 @@
 | `package_path` | path inside this repository |
 | `original_path` | path in the author's project tree, before standardisation |
 | `category_l1` / `category_l2` | one of the nine top-level categories / its subfolder |
-| `role` | `raw`, `derived`, `code`, `doc` or `meta` |
+| `role` | the file's layer: `table` (242), `code` (146), `doc` (24), `calls` (6), `meta` (1) |
 | `topic` | manuscript topic the file belongs to (`vp24-config`, `ifn-tone`, `importin-axis`, `cross-atlas`, `proxy-test`, `filovirus-anchor`, `tissue-extension`, `epithelium-panel`, `spleen`, `coverage`, `md-pilot`, `metadata`) |
 | `unit` | the dataset, figure panel or entity the file is about |
 | `size_bytes` | file size |
 | `sha256` | SHA-256 of the delivered file |
 
-Related files: `NAME_MAP.tsv` (original → delivered name), `CHECKSUMS.sha256` (every file),
+Related files: `NAME_MAP.tsv` (original → delivered name), `CHECKSUMS.sha256` (SHA-256 for every
+tracked file except itself),
 `LINK_ONLY_RAW.tsv` (third-party raw files that are registered but not redistributed).
 
 ## 3. `01_source_data_by_figure/`
