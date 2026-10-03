@@ -126,7 +126,7 @@ original terms; see `00_index_and_metadata/LICENSE_AND_ACCESS.md`.
 
 ## How to cite
 
-Please cite the manuscript and this repository. Machine-readable metadata is in `CITATION.cff`.
+Please cite the manuscript and this repository. The archived snapshot is available at https://doi.org/10.5281/zenodo.23125404, and machine-readable metadata is in CITATION.cff.
 
 ## Contact
 
